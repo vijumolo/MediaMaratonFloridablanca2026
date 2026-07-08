@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Media Maratón de Floridablanca 2026 | Resultados Oficiales</title>
+    <meta name="description" content="Consulta los resultados oficiales y descarga los diplomas de participación de la Media Maratón de Floridablanca (MMF) 2026. Buscador por nombre y placa.">
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800;900&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <!-- FontAwesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Main Style Sheet -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- App Container -->
+    <div class="app-container">
+        
+        <!-- Header / Hero Section -->
+        <header class="hero-section">
+            <div class="hero-overlay"></div>
+            <div class="hero-content">
+                <div class="logo-badge">MMF 2026</div>
+                <h1>Media Maratón de <br><span class="accent-text">Floridablanca</span></h1>
+                <p class="subtitle">Portal Oficial de Resultados y Diplomas • Santander, Colombia</p>
+                <div class="event-meta">
+                    <span><i class="fa-solid fa-calendar-days"></i> 5 de Julio, 2026</span>
+                    <span><i class="fa-solid fa-location-dot"></i> Floridablanca</span>
+                    <span><i class="fa-solid fa-person-running"></i> 1,597 Finalistas</span>
+                </div>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            
+            <!-- CORS / Server Warning Alert (Visible when running via file://) -->
+            <div id="cors-warning" class="alert-box warning-alert hidden">
+                <div class="alert-icon"><i class="fa-solid fa-triangle-exclamation"></i></div>
+                <div class="alert-text">
+                    <strong>¡Atención!</strong> Para poder descargar los diplomas individuales, es necesario ejecutar la app usando el archivo <code>run.bat</code> incluido. Si abres este archivo directamente, la descarga de PDFs fallará por políticas de seguridad del navegador.
+                </div>
+            </div>
+
+            <!-- Stats Dashboard Grid -->
+            <section class="dashboard-section">
+                <div class="section-title-wrapper">
+                    <h2><i class="fa-solid fa-chart-simple"></i> Panel de Estadísticas</h2>
+                    <p class="section-subtitle">Métricas generales del evento en tiempo real</p>
+                </div>
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <div class="stat-icon-wrapper lilac-icon">
+                            <i class="fa-solid fa-award"></i>
+                        </div>
+                        <div class="stat-info">
+                            <span class="stat-label">Total Finalistas</span>
+                            <span class="stat-value">1,597</span>
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon-wrapper yellow-icon">
+                            <i class="fa-solid fa-stopwatch"></i>
+                        </div>
+                        <div class="stat-info">
+                            <span class="stat-label">Mejor Tiempo 21K</span>
+                            <span class="stat-value" id="top-21k-time">01:09:29</span>
+                            <span class="stat-subtext" id="top-21k-name">Joseph K. Kiptum</span>
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon-wrapper purple-icon">
+                            <i class="fa-solid fa-bolt"></i>
+                        </div>
+                        <div class="stat-info">
+                            <span class="stat-label">Velocidad Máxima Prom.</span>
+                            <span class="stat-value">18.2 Km/h</span>
+                            <span class="stat-subtext">Categoría Elite 21K</span>
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon-wrapper pink-icon">
+                            <i class="fa-solid fa-route"></i>
+                        </div>
+                        <div class="stat-info">
+                            <span class="stat-label">Categoría Más Concurrida</span>
+                            <span class="stat-value" id="popular-cat">5K Abierta</span>
+                            <span class="stat-subtext" id="popular-cat-count">924 Corredores</span>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Search & Filters Section -->
+            <section class="search-section">
+                <div class="search-panel">
+                    <div class="search-input-wrapper">
+                        <i class="fa-solid fa-magnifying-glass search-icon"></i>
+                        <input type="text" id="search-input" placeholder="Buscar por nombre, apellido o número de placa/dorsal...">
+                        <button id="clear-search" class="clear-button"><i class="fa-solid fa-xmark"></i></button>
+                    </div>
+                    
+                    <div class="filters-row">
+                        <div class="filter-group">
+                            <label for="city-filter"><i class="fa-solid fa-city"></i> Ciudad</label>
+                            <select id="city-filter">
+                                <option value="all">Todas las ciudades</option>
+                            </select>
+                        </div>
+                        <div class="filter-group">
+                            <label for="distance-filter"><i class="fa-solid fa-route"></i> Distancia</label>
+                            <select id="distance-filter">
+                                <option value="all">Todas las distancias</option>
+                                <option value="21K">21 Km</option>
+                                <option value="10K">10 Km</option>
+                                <option value="5K">5 Km</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Category Tabs Navigation -->
+                <div class="category-tabs-container">
+                    <div class="category-tabs" id="category-tabs">
+                        <button class="tab-btn active" data-category="all">Todos</button>
+                        <button class="tab-btn" data-category="21 K ELITE">21K Elite</button>
+                        <button class="tab-btn" data-category="21 K MASTER A">21K Master A</button>
+                        <button class="tab-btn" data-category="21 K MASTER B">21K Master B</button>
+                        <button class="tab-btn" data-category="21 K ABIERTA">21K Abierta</button>
+                        <button class="tab-btn" data-category="10 K ELITE">10K Elite</button>
+                        <button class="tab-btn" data-category="10 K MASTER A">10K Master A</button>
+                        <button class="tab-btn" data-category="10 K MASTER B">10K Master B</button>
+                        <button class="tab-btn" data-category="10 K ABIERTA">10K Abierta</button>
+                        <button class="tab-btn" data-category="5 K MASTER A">5K Master A</button>
+                        <button class="tab-btn" data-category="5 K MASTER B">5K Master B</button>
+                        <button class="tab-btn" data-category="5 K ABIERTA">5K Abierta</button>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Results Section -->
+            <section class="results-table-section">
+                <div class="results-header-summary">
+                    <span id="results-count">Mostrando 1,704 corredores</span>
+                    <span class="refresh-note"><i class="fa-solid fa-circle-check"></i> Clasificación Oficial</span>
+                </div>
+
+                <!-- Responsive Results Container -->
+                <div class="table-responsive">
+                    <table class="results-table">
+                        <thead>
+                            <tr>
+                                <th class="col-pos">Puesto</th>
+                                <th class="col-bib">Placa</th>
+                                <th class="col-name">Corredor</th>
+                                <th class="col-cat">Categoría</th>
+                                <th class="col-city">Ciudad</th>
+                                <th class="col-time">Tiempo</th>
+                                <th class="col-pace text-center">Ritmo</th>
+                                <th class="col-action text-right">Diploma</th>
+                            </tr>
+                        </thead>
+                        <tbody id="results-tbody">
+                            <!-- JS will inject rows here -->
+                        </tbody>
+                    </table>
+                </div>
+
+                <!-- Empty State -->
+                <div id="empty-state" class="empty-state-container hidden">
+                    <i class="fa-regular fa-folder-open empty-icon"></i>
+                    <h3>No se encontraron resultados</h3>
+                    <p>Prueba buscando con otro término o limpiando los filtros actuales.</p>
+                    <button id="reset-filters-btn" class="action-btn primary-btn">Restablecer Búsqueda</button>
+                </div>
+
+                <!-- Pagination -->
+                <div class="pagination-container" id="pagination-container">
+                    <button class="page-nav-btn" id="prev-page"><i class="fa-solid fa-chevron-left"></i> Anterior</button>
+                    <div class="page-numbers" id="page-numbers">
+                        <!-- JS injected page numbers -->
+                    </div>
+                    <button class="page-nav-btn" id="next-page">Siguiente <i class="fa-solid fa-chevron-right"></i></button>
+                </div>
+            </section>
+        </main>
+
+        <!-- Runner Detail Modal -->
+        <div class="modal-overlay id-modal" id="runner-modal">
+            <div class="modal-card">
+                <button class="modal-close-btn" id="close-modal"><i class="fa-solid fa-xmark"></i></button>
+                
+                <div class="modal-header">
+                    <div class="modal-badge" id="modal-bib-badge">Placa 5188</div>
+                    <h3 id="modal-runner-name">Mathyus Sebastián Panqueva Monsalve</h3>
+                    <p id="modal-runner-cat" class="modal-category-text">5 K ABIERTA</p>
+                </div>
+                
+                <div class="modal-body">
+                    <div class="modal-stats-grid">
+                        <div class="m-stat-box">
+                            <span class="m-label">Puesto Categoría</span>
+                            <span class="m-val" id="modal-pos-cat">1.º</span>
+                        </div>
+                        <div class="m-stat-box">
+                            <span class="m-label">Puesto General</span>
+                            <span class="m-val" id="modal-pos-gen">974.º</span>
+                        </div>
+                        <div class="m-stat-box">
+                            <span class="m-label">Tiempo Neto</span>
+                            <span class="m-val highlight-val" id="modal-time">0:17:12</span>
+                        </div>
+                        <div class="m-stat-box">
+                            <span class="m-label">Ritmo de Carrera</span>
+                            <span class="m-val" id="modal-pace">3:26 Min/km</span>
+                        </div>
+                        <div class="m-stat-box">
+                            <span class="m-label">Velocidad Promedio</span>
+                            <span class="m-val" id="modal-speed">17.4 Km/h</span>
+                        </div>
+                        <div class="m-stat-box">
+                            <span class="m-label">Ciudad de Origen</span>
+                            <span class="m-val" id="modal-city">Floridablanca</span>
+                        </div>
+                    </div>
+
+                    <!-- Performance Comparison Bar -->
+                    <div class="performance-comparison">
+                        <div class="comp-label">Diferencia con el ganador de categoría: <strong id="modal-diff">+0:00</strong></div>
+                        <div class="comp-bar-container">
+                            <div class="comp-bar-fill" id="modal-comp-bar" style="width: 100%;"></div>
+                        </div>
+                    </div>
+
+                    <!-- Certificate Box -->
+                    <div class="diploma-action-box">
+                        <div class="diploma-preview-badge">
+                            <i class="fa-solid fa-file-pdf"></i>
+                            <div class="preview-text">
+                                <strong>Diploma de Participación Oficial</strong>
+                                <span id="diploma-page-info">Página 14 del libro de actas</span>
+                            </div>
+                        </div>
+                        
+                        <div class="download-actions">
+                            <button id="download-diploma-btn" class="download-btn">
+                                <span class="btn-text"><i class="fa-solid fa-download"></i> Descargar Diploma PDF</span>
+                                <span class="spinner hidden"><i class="fa-solid fa-circle-notch fa-spin"></i> Procesando...</span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <footer class="app-footer">
+            <p>© 2026 Media Maratón de Floridablanca. Todos los derechos reservados.</p>
+            <p class="credits">Desarrollado para cronometraje oficial y certificación digital.</p>
+        </footer>
+    </div>
+
+    <!-- PDF-Lib library for client-side PDF slicing -->
+    <script src="lib/pdf-lib.min.js"></script>
+    
+    <!-- Unified Runner Data -->
+    <script src="data.js"></script>
+    
+    <!-- Main JS Application Logic -->
+    <script src="app.js"></script>
+</body>
+</html>

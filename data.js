@@ -9,12 +9,12 @@ const RUNNERS_DATA = [
     "dif": "--",
     "vel_prom": "17.4 Km/h",
     "ritmo": "3:26 Min/km",
-    "pdf_page": 1439,
+    "pdf_page": 1449,
     "dorsal": "5188",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Mathyus Sebastián Panqueva Monsalve",
     "tiempo_diploma": "00:17:12",
-    "stats_diploma": "1. /90 1. /1597"
+    "stats_diploma": "1. /88 1. /1621"
   },
   {
     "puesto": 2,
@@ -26,12 +26,12 @@ const RUNNERS_DATA = [
     "dif": "+24",
     "vel_prom": "17.0 Km/h",
     "ritmo": "3:31 Min/km",
-    "pdf_page": 1440,
+    "pdf_page": 1328,
     "dorsal": "5048",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Cristian Eduardo Villamizar Vera",
     "tiempo_diploma": "00:17:36",
-    "stats_diploma": "2. /90 2. /1597"
+    "stats_diploma": "2. /88 2. /1621"
   },
   {
     "puesto": 3,
@@ -39,16 +39,16 @@ const RUNNERS_DATA = [
     "nombre": "Santiago Sepúlveda Manco",
     "categoria": "5 K ABIERTA",
     "ciudad": "Bucaramanga",
-    "tiempo": "0:17:59",
-    "dif": "+47",
+    "tiempo": "0:17:58",
+    "dif": "+46",
     "vel_prom": "16.6 Km/h",
     "ritmo": "3:35 Min/km",
-    "pdf_page": 1441,
+    "pdf_page": 1472,
     "dorsal": "5215",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Santiago Sepúlveda Manco",
-    "tiempo_diploma": "00:17:59",
-    "stats_diploma": "3. /90 3. /1597"
+    "tiempo_diploma": "00:17:58",
+    "stats_diploma": "3. /88 3. /1621"
   },
   {
     "puesto": 4,
@@ -56,16 +56,16 @@ const RUNNERS_DATA = [
     "nombre": "Carlos Arturo Suárez Vargas",
     "categoria": "5 K MASTER A",
     "ciudad": "",
-    "tiempo": "0:18:16",
-    "dif": "+1:04",
+    "tiempo": "0:18:15",
+    "dif": "+1:03",
     "vel_prom": "16.4 Km/h",
     "ritmo": "3:39 Min/km",
-    "pdf_page": 1566,
+    "pdf_page": 1534,
     "dorsal": "5406",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Carlos Arturo Suárez Vargas",
-    "tiempo_diploma": "00:18:16",
-    "stats_diploma": "1. /32 4. /1597"
+    "tiempo_diploma": "00:18:15",
+    "stats_diploma": "1. /32 4. /1621"
   },
   {
     "puesto": 5,
@@ -77,12 +77,12 @@ const RUNNERS_DATA = [
     "dif": "+1:35",
     "vel_prom": "15.9 Km/h",
     "ritmo": "3:45 Min/km",
-    "pdf_page": 1442,
+    "pdf_page": 1502,
     "dorsal": "5252",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Camilo Maldonado Ortega",
     "tiempo_diploma": "00:18:47",
-    "stats_diploma": "4. /90 5. /1597"
+    "stats_diploma": "4. /88 5. /1621"
   },
   {
     "puesto": 6,
@@ -94,12 +94,12 @@ const RUNNERS_DATA = [
     "dif": "+1:41",
     "vel_prom": "15.8 Km/h",
     "ritmo": "3:46 Min/km",
-    "pdf_page": 1443,
+    "pdf_page": 1315,
     "dorsal": "5035",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Carlos Carrillo",
     "tiempo_diploma": "00:18:53",
-    "stats_diploma": "5. /90 6. /1597"
+    "stats_diploma": "5. /88 6. /1621"
   },
   {
     "puesto": 7,
@@ -111,12 +111,12 @@ const RUNNERS_DATA = [
     "dif": "+1:45",
     "vel_prom": "15.8 Km/h",
     "ritmo": "3:47 Min/km",
-    "pdf_page": 1567,
+    "pdf_page": 1547,
     "dorsal": "5420",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Eduardo Martínez Triana",
     "tiempo_diploma": "00:18:57",
-    "stats_diploma": "2. /32 7. /1597"
+    "stats_diploma": "2. /32 7. /1621"
   },
   {
     "puesto": 8,
@@ -128,12 +128,12 @@ const RUNNERS_DATA = [
     "dif": "+2:12",
     "vel_prom": "15.4 Km/h",
     "ritmo": "3:52 Min/km",
-    "pdf_page": 1568,
+    "pdf_page": 1556,
     "dorsal": "5432",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Jose Andres Gomez",
     "tiempo_diploma": "00:19:24",
-    "stats_diploma": "3. /32 8. /1597"
+    "stats_diploma": "3. /32 8. /1621"
   },
   {
     "puesto": 9,
@@ -145,12 +145,12 @@ const RUNNERS_DATA = [
     "dif": "+2:17",
     "vel_prom": "15.3 Km/h",
     "ritmo": "3:53 Min/km",
-    "pdf_page": 1444,
+    "pdf_page": 1453,
     "dorsal": "5192",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Mike Rueda",
     "tiempo_diploma": "00:19:29",
-    "stats_diploma": "6. /90 9. /1597"
+    "stats_diploma": "6. /88 9. /1621"
   },
   {
     "puesto": 10,
@@ -162,12 +162,12 @@ const RUNNERS_DATA = [
     "dif": "+2:38",
     "vel_prom": "15.1 Km/h",
     "ritmo": "3:58 Min/km",
-    "pdf_page": 1569,
+    "pdf_page": 1542,
     "dorsal": "5415",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Deybis Caicedo Tristancho",
     "tiempo_diploma": "00:19:50",
-    "stats_diploma": "4. /32 10. /1597"
+    "stats_diploma": "4. /32 10. /1621"
   },
   {
     "puesto": 11,
@@ -179,12 +179,12 @@ const RUNNERS_DATA = [
     "dif": "+2:47",
     "vel_prom": "15.0 Km/h",
     "ritmo": "3:59 Min/km",
-    "pdf_page": 1445,
+    "pdf_page": 1503,
     "dorsal": "5254",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "JUAN DIEGO PICO CARREÑO",
     "tiempo_diploma": "00:19:59",
-    "stats_diploma": "7. /90 11. /1597"
+    "stats_diploma": "7. /88 11. /1621"
   },
   {
     "puesto": 12,
@@ -196,12 +196,12 @@ const RUNNERS_DATA = [
     "dif": "+3:01",
     "vel_prom": "14.8 Km/h",
     "ritmo": "4:02 Min/km",
-    "pdf_page": 1446,
+    "pdf_page": 1325,
     "dorsal": "5045",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "cristian caceres",
     "tiempo_diploma": "00:20:13",
-    "stats_diploma": "8. /90 12. /1597"
+    "stats_diploma": "8. /88 12. /1621"
   },
   {
     "puesto": 13,
@@ -213,12 +213,12 @@ const RUNNERS_DATA = [
     "dif": "+3:03",
     "vel_prom": "14.8 Km/h",
     "ritmo": "4:03 Min/km",
-    "pdf_page": 1447,
+    "pdf_page": 1526,
     "dorsal": "5288",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Juan Pinzon",
     "tiempo_diploma": "00:20:15",
-    "stats_diploma": "9. /90 13. /1597"
+    "stats_diploma": "9. /88 13. /1621"
   },
   {
     "puesto": 14,
@@ -230,15 +230,32 @@ const RUNNERS_DATA = [
     "dif": "+3:09",
     "vel_prom": "14.7 Km/h",
     "ritmo": "4:04 Min/km",
-    "pdf_page": 1448,
+    "pdf_page": 1386,
     "dorsal": "5114",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Juan Manuel Martinez Arenas",
     "tiempo_diploma": "00:20:21",
-    "stats_diploma": "10. /90 14. /1597"
+    "stats_diploma": "10. /88 14. /1621"
   },
   {
     "puesto": 15,
+    "placa": "5528",
+    "nombre": "Meliton Mantilla pinto",
+    "categoria": "5 K MASTER B",
+    "ciudad": "",
+    "tiempo": "0:20:24",
+    "dif": "+3:12",
+    "vel_prom": "14.6 Km/h",
+    "ritmo": "4:04 Min/km",
+    "pdf_page": 1618,
+    "dorsal": "5528",
+    "categoria_diploma": "5 K MASTER B",
+    "nombre_diploma": "Meliton Mantilla pinto",
+    "tiempo_diploma": "00:20:24",
+    "stats_diploma": "1. /11 15. /1621"
+  },
+  {
+    "puesto": 16,
     "placa": "5059",
     "nombre": "David Gilberto Fernandez Gonzalez",
     "categoria": "5 K ABIERTA",
@@ -247,15 +264,15 @@ const RUNNERS_DATA = [
     "dif": "+3:13",
     "vel_prom": "14.6 Km/h",
     "ritmo": "4:05 Min/km",
-    "pdf_page": 1449,
+    "pdf_page": 1337,
     "dorsal": "5059",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "David Gilberto Fernandez Gonzalez",
     "tiempo_diploma": "00:20:25",
-    "stats_diploma": "11. /90 15. /1597"
+    "stats_diploma": "11. /88 16. /1621"
   },
   {
-    "puesto": 16,
+    "puesto": 17,
     "placa": "5191",
     "nombre": "Miguel Angel Martinez Ardila",
     "categoria": "5 K ABIERTA",
@@ -264,49 +281,15 @@ const RUNNERS_DATA = [
     "dif": "+3:49",
     "vel_prom": "14.2 Km/h",
     "ritmo": "4:12 Min/km",
-    "pdf_page": 1450,
+    "pdf_page": 1452,
     "dorsal": "5191",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Miguel Angel Martinez Ardila",
     "tiempo_diploma": "00:21:01",
-    "stats_diploma": "12. /90 16. /1597"
-  },
-  {
-    "puesto": 17,
-    "placa": "5278",
-    "nombre": "Maiker Jose Noguera Matera",
-    "categoria": "5 K ABIERTA",
-    "ciudad": "",
-    "tiempo": "0:21:02",
-    "dif": "+3:50",
-    "vel_prom": "14.2 Km/h",
-    "ritmo": "4:12 Min/km",
-    "pdf_page": 1451,
-    "dorsal": "5278",
-    "categoria_diploma": "5 K ABIERTA",
-    "nombre_diploma": "Maiker Jose Noguera Matera",
-    "tiempo_diploma": "00:21:02",
-    "stats_diploma": "13. /90 17. /1597"
+    "stats_diploma": "12. /88 17. /1621"
   },
   {
     "puesto": 18,
-    "placa": "5421",
-    "nombre": "Edwin Javier Corzo Rey",
-    "categoria": "5 K MASTER A",
-    "ciudad": "Bucaramanga",
-    "tiempo": "0:21:21",
-    "dif": "+4:09",
-    "vel_prom": "14.0 Km/h",
-    "ritmo": "4:16 Min/km",
-    "pdf_page": 1570,
-    "dorsal": "5421",
-    "categoria_diploma": "5 K MASTER A",
-    "nombre_diploma": "Edwin Javier Corzo Rey",
-    "tiempo_diploma": "00:21:21",
-    "stats_diploma": "5. /32 18. /1597"
-  },
-  {
-    "puesto": 19,
     "placa": "5427",
     "nombre": "J. Fabian Barraza Guerrero",
     "categoria": "5 K MASTER A",
@@ -315,15 +298,15 @@ const RUNNERS_DATA = [
     "dif": "+4:20",
     "vel_prom": "13.9 Km/h",
     "ritmo": "4:18 Min/km",
-    "pdf_page": 1571,
+    "pdf_page": 1552,
     "dorsal": "5427",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "J. Fabian Barraza Guerrero",
     "tiempo_diploma": "00:21:32",
-    "stats_diploma": "6. /32 19. /1597"
+    "stats_diploma": "5. /32 18. /1621"
   },
   {
-    "puesto": 20,
+    "puesto": 19,
     "placa": "5424",
     "nombre": "GERSON ACEROS",
     "categoria": "5 K MASTER A",
@@ -332,12 +315,29 @@ const RUNNERS_DATA = [
     "dif": "+4:58",
     "vel_prom": "13.5 Km/h",
     "ritmo": "4:26 Min/km",
-    "pdf_page": 1572,
+    "pdf_page": 1550,
     "dorsal": "5424",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "GERSON ACEROS",
     "tiempo_diploma": "00:22:10",
-    "stats_diploma": "7. /32 20. /1597"
+    "stats_diploma": "6. /32 19. /1621"
+  },
+  {
+    "puesto": 20,
+    "placa": "5501",
+    "nombre": "Alexander Meneses Jácome",
+    "categoria": "5 K MASTER B",
+    "ciudad": "Floridablanca",
+    "tiempo": "0:22:31",
+    "dif": "+5:19",
+    "vel_prom": "13.3 Km/h",
+    "ritmo": "4:30 Min/km",
+    "pdf_page": 1598,
+    "dorsal": "5501",
+    "categoria_diploma": "5 K MASTER B",
+    "nombre_diploma": "Alexander Meneses Jácome",
+    "tiempo_diploma": "00:22:31",
+    "stats_diploma": "2. /11 20. /1621"
   },
   {
     "puesto": 21,
@@ -349,12 +349,12 @@ const RUNNERS_DATA = [
     "dif": "+5:39",
     "vel_prom": "13.1 Km/h",
     "ritmo": "4:34 Min/km",
-    "pdf_page": 1452,
+    "pdf_page": 1454,
     "dorsal": "5193",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "moises lopez",
     "tiempo_diploma": "00:22:51",
-    "stats_diploma": "14. /90 21. /1597"
+    "stats_diploma": "13. /88 21. /1621"
   },
   {
     "puesto": 22,
@@ -366,12 +366,12 @@ const RUNNERS_DATA = [
     "dif": "+5:41",
     "vel_prom": "13.1 Km/h",
     "ritmo": "4:34 Min/km",
-    "pdf_page": 1573,
+    "pdf_page": 1583,
     "dorsal": "5460",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Ruben Darío Duarte Manrique",
     "tiempo_diploma": "00:22:53",
-    "stats_diploma": "8. /32 22. /1597"
+    "stats_diploma": "7. /32 22. /1621"
   },
   {
     "puesto": 23,
@@ -383,12 +383,12 @@ const RUNNERS_DATA = [
     "dif": "+6:00",
     "vel_prom": "12.9 Km/h",
     "ritmo": "4:38 Min/km",
-    "pdf_page": 1574,
+    "pdf_page": 1582,
     "dorsal": "5459",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Richar Josue Angarita Villamizar",
     "tiempo_diploma": "00:23:12",
-    "stats_diploma": "9. /32 23. /1597"
+    "stats_diploma": "8. /32 23. /1621"
   },
   {
     "puesto": 24,
@@ -400,12 +400,12 @@ const RUNNERS_DATA = [
     "dif": "+6:01",
     "vel_prom": "12.9 Km/h",
     "ritmo": "4:38 Min/km",
-    "pdf_page": 1279,
+    "pdf_page": 1346,
     "dorsal": "5068",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Diana Rocsana Amaya Lipez",
     "tiempo_diploma": "00:23:13",
-    "stats_diploma": "1. /160 24. /1597"
+    "stats_diploma": "1. /156 24. /1621"
   },
   {
     "puesto": 25,
@@ -417,12 +417,12 @@ const RUNNERS_DATA = [
     "dif": "+6:26",
     "vel_prom": "12.6 Km/h",
     "ritmo": "4:43 Min/km",
-    "pdf_page": 1453,
+    "pdf_page": 1363,
     "dorsal": "5088",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Haiber ferney Rojas rodriguez",
     "tiempo_diploma": "00:23:38",
-    "stats_diploma": "15. /90 25. /1597"
+    "stats_diploma": "14. /88 25. /1621"
   },
   {
     "puesto": 26,
@@ -434,12 +434,12 @@ const RUNNERS_DATA = [
     "dif": "+6:30",
     "vel_prom": "12.6 Km/h",
     "ritmo": "4:44 Min/km",
-    "pdf_page": 1454,
+    "pdf_page": 1385,
     "dorsal": "5113",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Juan David Murillo Hernández",
     "tiempo_diploma": "00:23:42",
-    "stats_diploma": "16. /90 26. /1597"
+    "stats_diploma": "15. /88 26. /1621"
   },
   {
     "puesto": 27,
@@ -447,16 +447,16 @@ const RUNNERS_DATA = [
     "nombre": "LINA CASTRO",
     "categoria": "5 K ABIERTA",
     "ciudad": "Bucarmanga",
-    "tiempo": "0:23:59",
-    "dif": "+6:47",
+    "tiempo": "0:23:58",
+    "dif": "+6:46",
     "vel_prom": "12.5 Km/h",
     "ritmo": "4:47 Min/km",
-    "pdf_page": 1280,
+    "pdf_page": 1415,
     "dorsal": "5148",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "LINA CASTRO",
-    "tiempo_diploma": "00:23:59",
-    "stats_diploma": "2. /160 27. /1597"
+    "tiempo_diploma": "00:23:58",
+    "stats_diploma": "2. /156 27. /1621"
   },
   {
     "puesto": 28,
@@ -464,16 +464,16 @@ const RUNNERS_DATA = [
     "nombre": "Valentina Guerrero Peña",
     "categoria": "5 K ABIERTA",
     "ciudad": "Bucaramanga",
-    "tiempo": "0:24:10",
-    "dif": "+6:58",
+    "tiempo": "0:24:09",
+    "dif": "+6:57",
     "vel_prom": "12.4 Km/h",
-    "ritmo": "4:50 Min/km",
-    "pdf_page": 1281,
+    "ritmo": "4:49 Min/km",
+    "pdf_page": 1485,
     "dorsal": "5233",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Valentina Guerrero Peña",
-    "tiempo_diploma": "00:24:10",
-    "stats_diploma": "3. /160 28. /1597"
+    "tiempo_diploma": "00:24:09",
+    "stats_diploma": "3. /156 28. /1621"
   },
   {
     "puesto": 29,
@@ -485,12 +485,12 @@ const RUNNERS_DATA = [
     "dif": "+6:59",
     "vel_prom": "12.3 Km/h",
     "ritmo": "4:50 Min/km",
-    "pdf_page": 1282,
+    "pdf_page": 1478,
     "dorsal": "5225",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "sofia perez forero",
     "tiempo_diploma": "00:24:11",
-    "stats_diploma": "4. /160 29. /1597"
+    "stats_diploma": "4. /156 29. /1621"
   },
   {
     "puesto": 30,
@@ -502,12 +502,12 @@ const RUNNERS_DATA = [
     "dif": "+7:02",
     "vel_prom": "12.3 Km/h",
     "ritmo": "4:50 Min/km",
-    "pdf_page": 1529,
+    "pdf_page": 1537,
     "dorsal": "5409",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Carolina Ochoa",
     "tiempo_diploma": "00:24:14",
-    "stats_diploma": "1. /37 30. /1597"
+    "stats_diploma": "1. /36 30. /1621"
   },
   {
     "puesto": 31,
@@ -515,16 +515,16 @@ const RUNNERS_DATA = [
     "nombre": "Flor Alba Niño Castellanos",
     "categoria": "5 K MASTER A",
     "ciudad": "Bucaramanga",
-    "tiempo": "0:24:31",
-    "dif": "+7:19",
+    "tiempo": "0:24:30",
+    "dif": "+7:18",
     "vel_prom": "12.2 Km/h",
     "ritmo": "4:54 Min/km",
-    "pdf_page": 1530,
+    "pdf_page": 1548,
     "dorsal": "5422",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Flor Alba Niño Castellanos",
-    "tiempo_diploma": "00:24:31",
-    "stats_diploma": "2. /37 31. /1597"
+    "tiempo_diploma": "00:24:30",
+    "stats_diploma": "9. /32 31. /1621"
   },
   {
     "puesto": 32,
@@ -536,15 +536,32 @@ const RUNNERS_DATA = [
     "dif": "+7:29",
     "vel_prom": "12.1 Km/h",
     "ritmo": "4:56 Min/km",
-    "pdf_page": 1575,
+    "pdf_page": 1588,
     "dorsal": "5465",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Tiberio Iván Carreño Carreño",
     "tiempo_diploma": "00:24:41",
-    "stats_diploma": "10. /32 32. /1597"
+    "stats_diploma": "10. /32 32. /1621"
   },
   {
     "puesto": 33,
+    "placa": "5536",
+    "nombre": "Wilson Almeyda Remolina",
+    "categoria": "5 K MASTER B",
+    "ciudad": "",
+    "tiempo": "0:24:43",
+    "dif": "+7:31",
+    "vel_prom": "12.1 Km/h",
+    "ritmo": "4:56 Min/km",
+    "pdf_page": 1624,
+    "dorsal": "5536",
+    "categoria_diploma": "5 K MASTER B",
+    "nombre_diploma": "Wilson Almeyda Remolina",
+    "tiempo_diploma": "00:24:43",
+    "stats_diploma": "3. /11 33. /1621"
+  },
+  {
+    "puesto": 34,
     "placa": "5031",
     "nombre": "Angy Tatiana Rozo vega",
     "categoria": "5 K ABIERTA",
@@ -553,15 +570,15 @@ const RUNNERS_DATA = [
     "dif": "+7:33",
     "vel_prom": "12.1 Km/h",
     "ritmo": "4:57 Min/km",
-    "pdf_page": 1283,
+    "pdf_page": 1311,
     "dorsal": "5031",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Angy Tatiana Rozo vega",
     "tiempo_diploma": "00:24:45",
-    "stats_diploma": "5. /160 33. /1597"
+    "stats_diploma": "5. /156 34. /1621"
   },
   {
-    "puesto": 34,
+    "puesto": 35,
     "placa": "5237",
     "nombre": "Vanessa Carvajal Castro",
     "categoria": "5 K ABIERTA",
@@ -570,15 +587,32 @@ const RUNNERS_DATA = [
     "dif": "+7:37",
     "vel_prom": "12.0 Km/h",
     "ritmo": "4:57 Min/km",
-    "pdf_page": 1284,
+    "pdf_page": 1489,
     "dorsal": "5237",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Vanessa Carvajal Castro",
     "tiempo_diploma": "00:24:49",
-    "stats_diploma": "6. /160 34. /1597"
+    "stats_diploma": "6. /156 35. /1621"
   },
   {
-    "puesto": 35,
+    "puesto": 36,
+    "placa": "5509",
+    "nombre": "Edgar Waldino Mayorga Meléndez",
+    "categoria": "5 K MASTER B",
+    "ciudad": "Giron",
+    "tiempo": "0:25:27",
+    "dif": "+8:15",
+    "vel_prom": "11.7 Km/h",
+    "ritmo": "5:05 Min/km",
+    "pdf_page": 1605,
+    "dorsal": "5509",
+    "categoria_diploma": "5 K MASTER B",
+    "nombre_diploma": "Edgar Waldino Mayorga Meléndez",
+    "tiempo_diploma": "00:25:27",
+    "stats_diploma": "4. /11 36. /1621"
+  },
+  {
+    "puesto": 37,
     "placa": "5046",
     "nombre": "Cristian Amado Ariza",
     "categoria": "5 K ABIERTA",
@@ -587,15 +621,15 @@ const RUNNERS_DATA = [
     "dif": "+8:54",
     "vel_prom": "11.4 Km/h",
     "ritmo": "5:13 Min/km",
-    "pdf_page": 1455,
+    "pdf_page": 1326,
     "dorsal": "5046",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Cristian Amado Ariza",
     "tiempo_diploma": "00:26:06",
-    "stats_diploma": "17. /90 35. /1597"
+    "stats_diploma": "16. /88 37. /1621"
   },
   {
-    "puesto": 36,
+    "puesto": 38,
     "placa": "5118",
     "nombre": "Juan Sebastián Matamoros Navas",
     "categoria": "5 K ABIERTA",
@@ -604,15 +638,15 @@ const RUNNERS_DATA = [
     "dif": "+8:59",
     "vel_prom": "11.4 Km/h",
     "ritmo": "5:14 Min/km",
-    "pdf_page": 1456,
+    "pdf_page": 1390,
     "dorsal": "5118",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Juan Sebastián Matamoros Navas",
     "tiempo_diploma": "00:26:11",
-    "stats_diploma": "18. /90 36. /1597"
+    "stats_diploma": "17. /88 38. /1621"
   },
   {
-    "puesto": 37,
+    "puesto": 39,
     "placa": "5129",
     "nombre": "Keina Gomez",
     "categoria": "5 K ABIERTA",
@@ -621,32 +655,49 @@ const RUNNERS_DATA = [
     "dif": "+9:04",
     "vel_prom": "11.4 Km/h",
     "ritmo": "5:15 Min/km",
-    "pdf_page": 1285,
+    "pdf_page": 1400,
     "dorsal": "5129",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Keina Gomez",
     "tiempo_diploma": "00:26:16",
-    "stats_diploma": "7. /160 37. /1597"
+    "stats_diploma": "7. /156 39. /1621"
   },
   {
-    "puesto": 38,
+    "puesto": 40,
     "placa": "5282",
     "nombre": "Maria Vergara",
     "categoria": "5 K ABIERTA",
     "ciudad": "",
-    "tiempo": "0:26:17",
-    "dif": "+9:05",
+    "tiempo": "0:26:16",
+    "dif": "+9:04",
     "vel_prom": "11.4 Km/h",
     "ritmo": "5:15 Min/km",
-    "pdf_page": 1286,
+    "pdf_page": 1521,
     "dorsal": "5282",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Maria Vergara",
-    "tiempo_diploma": "00:26:17",
-    "stats_diploma": "8. /160 38. /1597"
+    "tiempo_diploma": "00:26:16",
+    "stats_diploma": "8. /156 40. /1621"
   },
   {
-    "puesto": 39,
+    "puesto": 41,
+    "placa": "5514",
+    "nombre": "Fanny Guzmari Güiza Quintero",
+    "categoria": "5 K MASTER B",
+    "ciudad": "",
+    "tiempo": "0:26:23",
+    "dif": "+9:11",
+    "vel_prom": "11.3 Km/h",
+    "ritmo": "5:16 Min/km",
+    "pdf_page": 1609,
+    "dorsal": "5514",
+    "categoria_diploma": "5 K MASTER B",
+    "nombre_diploma": "Fanny Guzmari Güiza Quintero",
+    "tiempo_diploma": "00:26:23",
+    "stats_diploma": "1. /18 41. /1621"
+  },
+  {
+    "puesto": 42,
     "placa": "5447",
     "nombre": "Martha Yolanda Hernández Garzón",
     "categoria": "5 K MASTER A",
@@ -655,32 +706,32 @@ const RUNNERS_DATA = [
     "dif": "+9:16",
     "vel_prom": "11.3 Km/h",
     "ritmo": "5:17 Min/km",
-    "pdf_page": 1531,
+    "pdf_page": 1570,
     "dorsal": "5447",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Martha Yolanda Hernández Garzón",
     "tiempo_diploma": "00:26:28",
-    "stats_diploma": "3. /37 39. /1597"
+    "stats_diploma": "2. /36 42. /1621"
   },
   {
-    "puesto": 40,
+    "puesto": 43,
     "placa": "5445",
     "nombre": "Maria Eulalia Moncada Gelvez",
     "categoria": "5 K MASTER A",
     "ciudad": "Pamplona",
-    "tiempo": "0:26:29",
-    "dif": "+9:17",
+    "tiempo": "0:26:28",
+    "dif": "+9:16",
     "vel_prom": "11.3 Km/h",
     "ritmo": "5:17 Min/km",
-    "pdf_page": 1532,
+    "pdf_page": 1568,
     "dorsal": "5445",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Maria Eulalia Moncada Gelvez",
-    "tiempo_diploma": "00:26:29",
-    "stats_diploma": "4. /37 40. /1597"
+    "tiempo_diploma": "00:26:28",
+    "stats_diploma": "3. /36 43. /1621"
   },
   {
-    "puesto": 41,
+    "puesto": 44,
     "placa": "5062",
     "nombre": "Diana Aguirre",
     "categoria": "5 K ABIERTA",
@@ -689,15 +740,15 @@ const RUNNERS_DATA = [
     "dif": "+9:22",
     "vel_prom": "11.2 Km/h",
     "ritmo": "5:18 Min/km",
-    "pdf_page": 1287,
+    "pdf_page": 1340,
     "dorsal": "5062",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Diana Aguirre",
     "tiempo_diploma": "00:26:34",
-    "stats_diploma": "9. /160 41. /1597"
+    "stats_diploma": "9. /156 44. /1621"
   },
   {
-    "puesto": 42,
+    "puesto": 45,
     "placa": "5051",
     "nombre": "DANIEL FERNANDO NEIRA ACUÑA",
     "categoria": "5 K ABIERTA",
@@ -706,15 +757,32 @@ const RUNNERS_DATA = [
     "dif": "+9:31",
     "vel_prom": "11.2 Km/h",
     "ritmo": "5:20 Min/km",
-    "pdf_page": 1457,
+    "pdf_page": 1331,
     "dorsal": "5051",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "DANIEL FERNANDO NEIRA ACUÑA",
     "tiempo_diploma": "00:26:43",
-    "stats_diploma": "19. /90 42. /1597"
+    "stats_diploma": "18. /88 45. /1621"
   },
   {
-    "puesto": 43,
+    "puesto": 46,
+    "placa": "5535",
+    "nombre": "Victor Manuel Portilla Villamizar",
+    "categoria": "5 K MASTER B",
+    "ciudad": "",
+    "tiempo": "0:26:43",
+    "dif": "+9:31",
+    "vel_prom": "11.2 Km/h",
+    "ritmo": "5:20 Min/km",
+    "pdf_page": 1623,
+    "dorsal": "5535",
+    "categoria_diploma": "5 K MASTER B",
+    "nombre_diploma": "Victor Manuel Portilla Villamizar",
+    "tiempo_diploma": "00:26:43",
+    "stats_diploma": "5. /11 46. /1621"
+  },
+  {
+    "puesto": 47,
     "placa": "5417",
     "nombre": "Diego Gutierrez Parra",
     "categoria": "5 K MASTER A",
@@ -723,32 +791,32 @@ const RUNNERS_DATA = [
     "dif": "+9:45",
     "vel_prom": "11.1 Km/h",
     "ritmo": "5:23 Min/km",
-    "pdf_page": 1576,
+    "pdf_page": 1544,
     "dorsal": "5417",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Diego Gutierrez Parra",
     "tiempo_diploma": "00:26:57",
-    "stats_diploma": "11. /32 43. /1597"
+    "stats_diploma": "11. /32 47. /1621"
   },
   {
-    "puesto": 44,
+    "puesto": 48,
     "placa": "5168",
     "nombre": "María Alejandra Morales Morales",
     "categoria": "5 K ABIERTA",
     "ciudad": "",
-    "tiempo": "0:27:05",
-    "dif": "+9:53",
+    "tiempo": "0:27:04",
+    "dif": "+9:52",
     "vel_prom": "11.0 Km/h",
-    "ritmo": "5:25 Min/km",
-    "pdf_page": 1288,
+    "ritmo": "5:24 Min/km",
+    "pdf_page": 1433,
     "dorsal": "5168",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "María Alejandra Morales Morales",
-    "tiempo_diploma": "00:27:05",
-    "stats_diploma": "10. /160 44. /1597"
+    "tiempo_diploma": "00:27:04",
+    "stats_diploma": "10. /156 48. /1621"
   },
   {
-    "puesto": 45,
+    "puesto": 49,
     "placa": "5041",
     "nombre": "CAROLINA BARBOSA",
     "categoria": "5 K ABIERTA",
@@ -757,32 +825,32 @@ const RUNNERS_DATA = [
     "dif": "+9:57",
     "vel_prom": "11.0 Km/h",
     "ritmo": "5:25 Min/km",
-    "pdf_page": 1289,
+    "pdf_page": 1321,
     "dorsal": "5041",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "CAROLINA BARBOSA",
     "tiempo_diploma": "00:27:09",
-    "stats_diploma": "11. /160 45. /1597"
+    "stats_diploma": "11. /156 49. /1621"
   },
   {
-    "puesto": 46,
+    "puesto": 50,
     "placa": "5110",
     "nombre": "Jorge Andrés García Nossa",
     "categoria": "5 K ABIERTA",
     "ciudad": "Piedecuesta",
-    "tiempo": "0:27:10",
-    "dif": "+9:58",
+    "tiempo": "0:27:09",
+    "dif": "+9:57",
     "vel_prom": "11.0 Km/h",
-    "ritmo": "5:26 Min/km",
-    "pdf_page": 1458,
+    "ritmo": "5:25 Min/km",
+    "pdf_page": 1382,
     "dorsal": "5110",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Jorge Andrés García Nossa",
-    "tiempo_diploma": "00:27:10",
-    "stats_diploma": "20. /90 46. /1597"
+    "tiempo_diploma": "00:27:09",
+    "stats_diploma": "19. /88 50. /1621"
   },
   {
-    "puesto": 47,
+    "puesto": 51,
     "placa": "5089",
     "nombre": "Harold Mejia Ceron",
     "categoria": "5 K ABIERTA",
@@ -791,15 +859,15 @@ const RUNNERS_DATA = [
     "dif": "+10:06",
     "vel_prom": "10.9 Km/h",
     "ritmo": "5:27 Min/km",
-    "pdf_page": 1459,
+    "pdf_page": 1364,
     "dorsal": "5089",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Harold Mejia Ceron",
     "tiempo_diploma": "00:27:18",
-    "stats_diploma": "21. /90 47. /1597"
+    "stats_diploma": "20. /88 51. /1621"
   },
   {
-    "puesto": 48,
+    "puesto": 52,
     "placa": "5431",
     "nombre": "JORGE ANDRES PARRA PRADILLA",
     "categoria": "5 K MASTER A",
@@ -808,15 +876,15 @@ const RUNNERS_DATA = [
     "dif": "+10:25",
     "vel_prom": "10.8 Km/h",
     "ritmo": "5:31 Min/km",
-    "pdf_page": 1577,
+    "pdf_page": 1555,
     "dorsal": "5431",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "JORGE ANDRES PARRA PRADILLA",
     "tiempo_diploma": "00:27:37",
-    "stats_diploma": "12. /32 48. /1597"
+    "stats_diploma": "12. /32 52. /1621"
   },
   {
-    "puesto": 49,
+    "puesto": 53,
     "placa": "5227",
     "nombre": "SONIA VIVIANA ARDILA VARGAS",
     "categoria": "5 K ABIERTA",
@@ -825,15 +893,15 @@ const RUNNERS_DATA = [
     "dif": "+10:26",
     "vel_prom": "10.8 Km/h",
     "ritmo": "5:31 Min/km",
-    "pdf_page": 1290,
+    "pdf_page": 1480,
     "dorsal": "5227",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "SONIA VIVIANA ARDILA VARGAS",
     "tiempo_diploma": "00:27:38",
-    "stats_diploma": "12. /160 49. /1597"
+    "stats_diploma": "12. /156 53. /1621"
   },
   {
-    "puesto": 50,
+    "puesto": 54,
     "placa": "5014",
     "nombre": "Andrea Lopez",
     "categoria": "5 K ABIERTA",
@@ -842,15 +910,32 @@ const RUNNERS_DATA = [
     "dif": "+10:29",
     "vel_prom": "10.8 Km/h",
     "ritmo": "5:32 Min/km",
-    "pdf_page": 1291,
+    "pdf_page": 1296,
     "dorsal": "5014",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Andrea Lopez",
     "tiempo_diploma": "00:27:41",
-    "stats_diploma": "13. /160 50. /1597"
+    "stats_diploma": "13. /156 54. /1621"
   },
   {
-    "puesto": 51,
+    "puesto": 55,
+    "placa": "5524",
+    "nombre": "Luis Alberto Manzano Trillos",
+    "categoria": "5 K MASTER B",
+    "ciudad": "",
+    "tiempo": "0:28:00",
+    "dif": "+10:48",
+    "vel_prom": "10.7 Km/h",
+    "ritmo": "5:36 Min/km",
+    "pdf_page": 1616,
+    "dorsal": "5524",
+    "categoria_diploma": "5 K MASTER B",
+    "nombre_diploma": "Luis Alberto Manzano Trillos",
+    "tiempo_diploma": "00:28:00",
+    "stats_diploma": "6. /11 55. /1621"
+  },
+  {
+    "puesto": 56,
     "placa": "5090",
     "nombre": "Heidy liliana Ramos Snachez",
     "categoria": "5 K ABIERTA",
@@ -859,15 +944,15 @@ const RUNNERS_DATA = [
     "dif": "+10:52",
     "vel_prom": "10.6 Km/h",
     "ritmo": "5:36 Min/km",
-    "pdf_page": 1292,
+    "pdf_page": 1365,
     "dorsal": "5090",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Heidy liliana Ramos Snachez",
     "tiempo_diploma": "00:28:04",
-    "stats_diploma": "14. /160 51. /1597"
+    "stats_diploma": "14. /156 56. /1621"
   },
   {
-    "puesto": 52,
+    "puesto": 57,
     "placa": "5037",
     "nombre": "Carlos Andres Gutiérrez Gómez",
     "categoria": "5 K ABIERTA",
@@ -876,32 +961,49 @@ const RUNNERS_DATA = [
     "dif": "+10:53",
     "vel_prom": "10.6 Km/h",
     "ritmo": "5:37 Min/km",
-    "pdf_page": 1460,
+    "pdf_page": 1317,
     "dorsal": "5037",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Carlos Andres Gutiérrez Gómez",
     "tiempo_diploma": "00:28:05",
-    "stats_diploma": "22. /90 52. /1597"
+    "stats_diploma": "21. /88 57. /1621"
   },
   {
-    "puesto": 53,
+    "puesto": 58,
     "placa": "5453",
     "nombre": "Olga Patricia Martínez Gómez",
     "categoria": "5 K MASTER A",
     "ciudad": "",
-    "tiempo": "0:28:13",
-    "dif": "+11:01",
+    "tiempo": "0:28:12",
+    "dif": "+11:00",
     "vel_prom": "10.6 Km/h",
     "ritmo": "5:38 Min/km",
-    "pdf_page": 1533,
+    "pdf_page": 1576,
     "dorsal": "5453",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Olga Patricia Martínez Gómez",
-    "tiempo_diploma": "00:28:13",
-    "stats_diploma": "5. /37 53. /1597"
+    "tiempo_diploma": "00:28:12",
+    "stats_diploma": "4. /36 58. /1621"
   },
   {
-    "puesto": 54,
+    "puesto": 59,
+    "placa": "5531",
+    "nombre": "Ricardo Gómez Toloza",
+    "categoria": "5 K MASTER B",
+    "ciudad": "Bucaramanga",
+    "tiempo": "0:28:17",
+    "dif": "+11:05",
+    "vel_prom": "10.6 Km/h",
+    "ritmo": "5:39 Min/km",
+    "pdf_page": 1621,
+    "dorsal": "5531",
+    "categoria_diploma": "5 K MASTER B",
+    "nombre_diploma": "Ricardo Gómez Toloza",
+    "tiempo_diploma": "00:28:17",
+    "stats_diploma": "7. /11 59. /1621"
+  },
+  {
+    "puesto": 60,
     "placa": "5434",
     "nombre": "Jose Alberto Michelena Bencomo",
     "categoria": "5 K MASTER A",
@@ -910,15 +1012,15 @@ const RUNNERS_DATA = [
     "dif": "+11:25",
     "vel_prom": "10.4 Km/h",
     "ritmo": "5:43 Min/km",
-    "pdf_page": 1578,
+    "pdf_page": 1558,
     "dorsal": "5434",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Jose Alberto Michelena Bencomo",
     "tiempo_diploma": "00:28:37",
-    "stats_diploma": "13. /32 54. /1597"
+    "stats_diploma": "13. /32 60. /1621"
   },
   {
-    "puesto": 55,
+    "puesto": 61,
     "placa": "5174",
     "nombre": "Maria Fernanda Silva",
     "categoria": "5 K ABIERTA",
@@ -927,15 +1029,15 @@ const RUNNERS_DATA = [
     "dif": "+11:45",
     "vel_prom": "10.3 Km/h",
     "ritmo": "5:47 Min/km",
-    "pdf_page": 1293,
+    "pdf_page": 1438,
     "dorsal": "5174",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Maria Fernanda Silva",
     "tiempo_diploma": "00:28:57",
-    "stats_diploma": "15. /160 55. /1597"
+    "stats_diploma": "15. /156 61. /1621"
   },
   {
-    "puesto": 56,
+    "puesto": 62,
     "placa": "5220",
     "nombre": "Sebastián Díaz Cediel",
     "categoria": "5 K ABIERTA",
@@ -944,32 +1046,32 @@ const RUNNERS_DATA = [
     "dif": "+11:47",
     "vel_prom": "10.3 Km/h",
     "ritmo": "5:47 Min/km",
-    "pdf_page": 1461,
+    "pdf_page": 1474,
     "dorsal": "5220",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Sebastián Díaz Cediel",
     "tiempo_diploma": "00:28:59",
-    "stats_diploma": "23. /90 56. /1597"
+    "stats_diploma": "22. /88 62. /1621"
   },
   {
-    "puesto": 57,
+    "puesto": 63,
     "placa": "5021",
     "nombre": "Andrés felipe Llorente",
     "categoria": "5 K ABIERTA",
     "ciudad": "",
-    "tiempo": "0:29:00",
-    "dif": "+11:48",
+    "tiempo": "0:28:59",
+    "dif": "+11:47",
     "vel_prom": "10.3 Km/h",
-    "ritmo": "5:48 Min/km",
-    "pdf_page": 1462,
+    "ritmo": "5:47 Min/km",
+    "pdf_page": 1302,
     "dorsal": "5021",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Andrés felipe Llorente",
-    "tiempo_diploma": "00:29:00",
-    "stats_diploma": "24. /90 57. /1597"
+    "tiempo_diploma": "00:28:59",
+    "stats_diploma": "23. /88 63. /1621"
   },
   {
-    "puesto": 58,
+    "puesto": 64,
     "placa": "5442",
     "nombre": "LUZ DARY ROJAS GARCIA",
     "categoria": "5 K MASTER A",
@@ -978,15 +1080,15 @@ const RUNNERS_DATA = [
     "dif": "+11:59",
     "vel_prom": "10.2 Km/h",
     "ritmo": "5:50 Min/km",
-    "pdf_page": 1534,
+    "pdf_page": 1565,
     "dorsal": "5442",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "LUZ DARY ROJAS GARCIA",
     "tiempo_diploma": "00:29:11",
-    "stats_diploma": "6. /37 58. /1597"
+    "stats_diploma": "5. /36 64. /1621"
   },
   {
-    "puesto": 59,
+    "puesto": 65,
     "placa": "5071",
     "nombre": "Loren Castro",
     "categoria": "5 K ABIERTA",
@@ -995,15 +1097,15 @@ const RUNNERS_DATA = [
     "dif": "+12:08",
     "vel_prom": "10.2 Km/h",
     "ritmo": "5:52 Min/km",
-    "pdf_page": 1294,
+    "pdf_page": 1348,
     "dorsal": "5071",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Loren Castro",
     "tiempo_diploma": "00:29:20",
-    "stats_diploma": "16. /160 59. /1597"
+    "stats_diploma": "16. /156 65. /1621"
   },
   {
-    "puesto": 60,
+    "puesto": 66,
     "placa": "5430",
     "nombre": "John Jairo Cardenas Ferreira",
     "categoria": "5 K MASTER A",
@@ -1012,15 +1114,15 @@ const RUNNERS_DATA = [
     "dif": "+12:25",
     "vel_prom": "10.1 Km/h",
     "ritmo": "5:55 Min/km",
-    "pdf_page": 1579,
+    "pdf_page": 1554,
     "dorsal": "5430",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "John Jairo Cardenas Ferreira",
     "tiempo_diploma": "00:29:37",
-    "stats_diploma": "14. /32 60. /1597"
+    "stats_diploma": "14. /32 66. /1621"
   },
   {
-    "puesto": 61,
+    "puesto": 67,
     "placa": "5073",
     "nombre": "Diego Fernando Perez Carvajal",
     "categoria": "5 K ABIERTA",
@@ -1029,15 +1131,15 @@ const RUNNERS_DATA = [
     "dif": "+12:45",
     "vel_prom": "10.0 Km/h",
     "ritmo": "5:59 Min/km",
-    "pdf_page": 1463,
+    "pdf_page": 1349,
     "dorsal": "5073",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Diego Fernando Perez Carvajal",
     "tiempo_diploma": "00:29:57",
-    "stats_diploma": "25. /90 61. /1597"
+    "stats_diploma": "24. /88 67. /1621"
   },
   {
-    "puesto": 62,
+    "puesto": 68,
     "placa": "5158",
     "nombre": "Luis Carlos Medina Pinzon",
     "categoria": "5 K ABIERTA",
@@ -1046,32 +1148,32 @@ const RUNNERS_DATA = [
     "dif": "+12:48",
     "vel_prom": "9.9 Km/h",
     "ritmo": "6:00 Min/km",
-    "pdf_page": 1464,
+    "pdf_page": 1424,
     "dorsal": "5158",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Luis Carlos Medina Pinzon",
     "tiempo_diploma": "00:30:00",
-    "stats_diploma": "26. /90 62. /1597"
+    "stats_diploma": "25. /88 68. /1621"
   },
   {
-    "puesto": 63,
+    "puesto": 69,
     "placa": "5128",
     "nombre": "Kattia Hernandez Buitrago",
     "categoria": "5 K ABIERTA",
     "ciudad": "Floridablanca",
-    "tiempo": "0:30:01",
-    "dif": "+12:49",
+    "tiempo": "0:30:00",
+    "dif": "+12:48",
     "vel_prom": "9.9 Km/h",
     "ritmo": "6:00 Min/km",
-    "pdf_page": 1295,
+    "pdf_page": 1399,
     "dorsal": "5128",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Kattia Hernandez Buitrago",
-    "tiempo_diploma": "00:30:01",
-    "stats_diploma": "17. /160 63. /1597"
+    "tiempo_diploma": "00:30:00",
+    "stats_diploma": "17. /156 69. /1621"
   },
   {
-    "puesto": 64,
+    "puesto": 70,
     "placa": "5032",
     "nombre": "Brayan Alberto Medina Martinez",
     "categoria": "5 K ABIERTA",
@@ -1080,15 +1182,32 @@ const RUNNERS_DATA = [
     "dif": "+12:51",
     "vel_prom": "9.9 Km/h",
     "ritmo": "6:00 Min/km",
-    "pdf_page": 1465,
+    "pdf_page": 1312,
     "dorsal": "5032",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Brayan Alberto Medina Martinez",
     "tiempo_diploma": "00:30:03",
-    "stats_diploma": "27. /90 64. /1597"
+    "stats_diploma": "26. /88 70. /1621"
   },
   {
-    "puesto": 65,
+    "puesto": 71,
+    "placa": "5503",
+    "nombre": "Ana Patricia Gutiérrez Sandoval",
+    "categoria": "5 K MASTER B",
+    "ciudad": "Duitama",
+    "tiempo": "0:30:13",
+    "dif": "+13:01",
+    "vel_prom": "9.9 Km/h",
+    "ritmo": "6:02 Min/km",
+    "pdf_page": 1600,
+    "dorsal": "5503",
+    "categoria_diploma": "5 K MASTER B",
+    "nombre_diploma": "Ana Patricia Gutiérrez Sandoval",
+    "tiempo_diploma": "00:30:13",
+    "stats_diploma": "2. /18 71. /1621"
+  },
+  {
+    "puesto": 72,
     "placa": "5234",
     "nombre": "Valentina Pérez",
     "categoria": "5 K ABIERTA",
@@ -1097,32 +1216,32 @@ const RUNNERS_DATA = [
     "dif": "+13:07",
     "vel_prom": "9.8 Km/h",
     "ritmo": "6:03 Min/km",
-    "pdf_page": 1296,
+    "pdf_page": 1486,
     "dorsal": "5234",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Valentina Pérez",
     "tiempo_diploma": "00:30:19",
-    "stats_diploma": "18. /160 65. /1597"
+    "stats_diploma": "18. /156 72. /1621"
   },
   {
-    "puesto": 66,
+    "puesto": 73,
     "placa": "5012",
     "nombre": "Ana Maria Rodriguez Rangel",
     "categoria": "5 K ABIERTA",
     "ciudad": "Bucaramanga",
-    "tiempo": "0:30:22",
-    "dif": "+13:10",
+    "tiempo": "0:30:21",
+    "dif": "+13:09",
     "vel_prom": "9.8 Km/h",
     "ritmo": "6:04 Min/km",
-    "pdf_page": 1297,
+    "pdf_page": 1294,
     "dorsal": "5012",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Ana Maria Rodriguez Rangel",
-    "tiempo_diploma": "00:30:22",
-    "stats_diploma": "19. /160 66. /1597"
+    "tiempo_diploma": "00:30:21",
+    "stats_diploma": "19. /156 73. /1621"
   },
   {
-    "puesto": 67,
+    "puesto": 74,
     "placa": "5082",
     "nombre": "Fayber Andrey Rubio Contreras",
     "categoria": "5 K ABIERTA",
@@ -1131,15 +1250,15 @@ const RUNNERS_DATA = [
     "dif": "+13:10",
     "vel_prom": "9.8 Km/h",
     "ritmo": "6:04 Min/km",
-    "pdf_page": 1466,
+    "pdf_page": 1358,
     "dorsal": "5082",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Fayber Andrey Rubio Contreras",
     "tiempo_diploma": "00:30:22",
-    "stats_diploma": "28. /90 67. /1597"
+    "stats_diploma": "27. /88 74. /1621"
   },
   {
-    "puesto": 68,
+    "puesto": 75,
     "placa": "5050",
     "nombre": "Cristian Leonardo Díaz Ríos",
     "categoria": "5 K ABIERTA",
@@ -1148,32 +1267,49 @@ const RUNNERS_DATA = [
     "dif": "+13:11",
     "vel_prom": "9.8 Km/h",
     "ritmo": "6:04 Min/km",
-    "pdf_page": 1467,
+    "pdf_page": 1330,
     "dorsal": "5050",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Cristian Leonardo Díaz Ríos",
     "tiempo_diploma": "00:30:23",
-    "stats_diploma": "29. /90 68. /1597"
+    "stats_diploma": "28. /88 75. /1621"
   },
   {
-    "puesto": 69,
+    "puesto": 76,
+    "placa": "5518",
+    "nombre": "Imera Luz Estrada Vargas",
+    "categoria": "5 K MASTER B",
+    "ciudad": "Bucaramanga",
+    "tiempo": "0:30:30",
+    "dif": "+13:18",
+    "vel_prom": "9.8 Km/h",
+    "ritmo": "6:06 Min/km",
+    "pdf_page": 1612,
+    "dorsal": "5518",
+    "categoria_diploma": "5 K MASTER B",
+    "nombre_diploma": "Imera Luz Estrada Vargas",
+    "tiempo_diploma": "00:30:30",
+    "stats_diploma": "3. /18 76. /1621"
+  },
+  {
+    "puesto": 77,
     "placa": "5120",
     "nombre": "Julian Alonso Navas López",
     "categoria": "5 K ABIERTA",
     "ciudad": "Bucaramanga",
-    "tiempo": "0:30:33",
-    "dif": "+13:21",
+    "tiempo": "0:30:32",
+    "dif": "+13:20",
     "vel_prom": "9.8 Km/h",
     "ritmo": "6:06 Min/km",
-    "pdf_page": 1468,
+    "pdf_page": 1392,
     "dorsal": "5120",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Julian Alonso Navas López",
-    "tiempo_diploma": "00:30:33",
-    "stats_diploma": "30. /90 69. /1597"
+    "tiempo_diploma": "00:30:32",
+    "stats_diploma": "29. /88 77. /1621"
   },
   {
-    "puesto": 70,
+    "puesto": 78,
     "placa": "5038",
     "nombre": "Carlos Andrés Gaviria Echeverria",
     "categoria": "5 K ABIERTA",
@@ -1182,15 +1318,15 @@ const RUNNERS_DATA = [
     "dif": "+13:21",
     "vel_prom": "9.8 Km/h",
     "ritmo": "6:06 Min/km",
-    "pdf_page": 1469,
+    "pdf_page": 1318,
     "dorsal": "5038",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Carlos Andrés Gaviria Echeverria",
     "tiempo_diploma": "00:30:33",
-    "stats_diploma": "31. /90 70. /1597"
+    "stats_diploma": "30. /88 78. /1621"
   },
   {
-    "puesto": 71,
+    "puesto": 79,
     "placa": "5436",
     "nombre": "Jose Manuel Florez Ramos",
     "categoria": "5 K MASTER A",
@@ -1199,15 +1335,15 @@ const RUNNERS_DATA = [
     "dif": "+13:44",
     "vel_prom": "9.6 Km/h",
     "ritmo": "6:11 Min/km",
-    "pdf_page": 1580,
+    "pdf_page": 1560,
     "dorsal": "5436",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Jose Manuel Florez Ramos",
     "tiempo_diploma": "00:30:56",
-    "stats_diploma": "15. /32 71. /1597"
+    "stats_diploma": "15. /32 79. /1621"
   },
   {
-    "puesto": 72,
+    "puesto": 80,
     "placa": "5080",
     "nombre": "Estefan Silva Aparicio",
     "categoria": "5 K ABIERTA",
@@ -1216,15 +1352,15 @@ const RUNNERS_DATA = [
     "dif": "+13:58",
     "vel_prom": "9.6 Km/h",
     "ritmo": "6:14 Min/km",
-    "pdf_page": 1470,
+    "pdf_page": 1356,
     "dorsal": "5080",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Estefan Silva Aparicio",
     "tiempo_diploma": "00:31:10",
-    "stats_diploma": "32. /90 72. /1597"
+    "stats_diploma": "31. /88 80. /1621"
   },
   {
-    "puesto": 73,
+    "puesto": 81,
     "placa": "5020",
     "nombre": "Andrés Felipe Villamizar Meneses",
     "categoria": "5 K ABIERTA",
@@ -1233,15 +1369,15 @@ const RUNNERS_DATA = [
     "dif": "+13:59",
     "vel_prom": "9.6 Km/h",
     "ritmo": "6:14 Min/km",
-    "pdf_page": 1471,
+    "pdf_page": 1301,
     "dorsal": "5020",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Andrés Felipe Villamizar Meneses",
     "tiempo_diploma": "00:31:11",
-    "stats_diploma": "33. /90 73. /1597"
+    "stats_diploma": "32. /88 81. /1621"
   },
   {
-    "puesto": 74,
+    "puesto": 82,
     "placa": "5259",
     "nombre": "Sebastián Liévano",
     "categoria": "5 K ABIERTA",
@@ -1250,15 +1386,15 @@ const RUNNERS_DATA = [
     "dif": "+14:00",
     "vel_prom": "9.6 Km/h",
     "ritmo": "6:14 Min/km",
-    "pdf_page": 1472,
+    "pdf_page": 1508,
     "dorsal": "5259",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Sebastián Liévano",
     "tiempo_diploma": "00:31:12",
-    "stats_diploma": "34. /90 74. /1597"
+    "stats_diploma": "33. /88 82. /1621"
   },
   {
-    "puesto": 75,
+    "puesto": 83,
     "placa": "5425",
     "nombre": "Geyson Hincapie Gil",
     "categoria": "5 K MASTER A",
@@ -1267,15 +1403,15 @@ const RUNNERS_DATA = [
     "dif": "+14:06",
     "vel_prom": "9.5 Km/h",
     "ritmo": "6:15 Min/km",
-    "pdf_page": 1581,
+    "pdf_page": 1551,
     "dorsal": "5425",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Geyson Hincapie Gil",
     "tiempo_diploma": "00:31:18",
-    "stats_diploma": "16. /32 75. /1597"
+    "stats_diploma": "16. /32 83. /1621"
   },
   {
-    "puesto": 76,
+    "puesto": 84,
     "placa": "5446",
     "nombre": "Marlon Rodriguez",
     "categoria": "5 K MASTER A",
@@ -1284,15 +1420,15 @@ const RUNNERS_DATA = [
     "dif": "+14:06",
     "vel_prom": "9.5 Km/h",
     "ritmo": "6:15 Min/km",
-    "pdf_page": 1582,
+    "pdf_page": 1569,
     "dorsal": "5446",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Marlon Rodriguez",
     "tiempo_diploma": "00:31:18",
-    "stats_diploma": "17. /32 76. /1597"
+    "stats_diploma": "17. /32 84. /1621"
   },
   {
-    "puesto": 77,
+    "puesto": 85,
     "placa": "5156",
     "nombre": "Luis Alberto Piña Fernández",
     "categoria": "5 K ABIERTA",
@@ -1301,15 +1437,15 @@ const RUNNERS_DATA = [
     "dif": "+14:15",
     "vel_prom": "9.5 Km/h",
     "ritmo": "6:17 Min/km",
-    "pdf_page": 1473,
+    "pdf_page": 1422,
     "dorsal": "5156",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Luis Alberto Piña Fernández",
     "tiempo_diploma": "00:31:27",
-    "stats_diploma": "35. /90 77. /1597"
+    "stats_diploma": "34. /88 85. /1621"
   },
   {
-    "puesto": 78,
+    "puesto": 86,
     "placa": "5171",
     "nombre": "María Camila Trujillo villarreal",
     "categoria": "5 K ABIERTA",
@@ -1318,15 +1454,15 @@ const RUNNERS_DATA = [
     "dif": "+14:22",
     "vel_prom": "9.5 Km/h",
     "ritmo": "6:18 Min/km",
-    "pdf_page": 1298,
+    "pdf_page": 1436,
     "dorsal": "5171",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "María Camila Trujillo villarreal",
     "tiempo_diploma": "00:31:34",
-    "stats_diploma": "20. /160 78. /1597"
+    "stats_diploma": "20. /156 86. /1621"
   },
   {
-    "puesto": 79,
+    "puesto": 87,
     "placa": "5016",
     "nombre": "Andrea Catalina Vásquez Saavedra",
     "categoria": "5 K ABIERTA",
@@ -1335,15 +1471,15 @@ const RUNNERS_DATA = [
     "dif": "+14:24",
     "vel_prom": "9.4 Km/h",
     "ritmo": "6:19 Min/km",
-    "pdf_page": 1299,
+    "pdf_page": 1298,
     "dorsal": "5016",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Andrea Catalina Vásquez Saavedra",
     "tiempo_diploma": "00:31:36",
-    "stats_diploma": "21. /160 79. /1597"
+    "stats_diploma": "21. /156 87. /1621"
   },
   {
-    "puesto": 80,
+    "puesto": 88,
     "placa": "5141",
     "nombre": "leidy johanna elijadh",
     "categoria": "5 K ABIERTA",
@@ -1352,15 +1488,15 @@ const RUNNERS_DATA = [
     "dif": "+14:28",
     "vel_prom": "9.4 Km/h",
     "ritmo": "6:20 Min/km",
-    "pdf_page": 1300,
+    "pdf_page": 1409,
     "dorsal": "5141",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "leidy johanna elijadh",
     "tiempo_diploma": "00:31:40",
-    "stats_diploma": "22. /160 80. /1597"
+    "stats_diploma": "22. /156 88. /1621"
   },
   {
-    "puesto": 81,
+    "puesto": 89,
     "placa": "5283",
     "nombre": "Paola Andrea Morales Morales",
     "categoria": "5 K ABIERTA",
@@ -1369,32 +1505,15 @@ const RUNNERS_DATA = [
     "dif": "+14:35",
     "vel_prom": "9.4 Km/h",
     "ritmo": "6:21 Min/km",
-    "pdf_page": 1301,
+    "pdf_page": 1522,
     "dorsal": "5283",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Paola Andrea Morales Morales",
     "tiempo_diploma": "00:31:47",
-    "stats_diploma": "23. /160 81. /1597"
+    "stats_diploma": "23. /156 89. /1621"
   },
   {
-    "puesto": 82,
-    "placa": "5264",
-    "nombre": "José Nelson Rodríguez Cardozo",
-    "categoria": "5 K ABIERTA",
-    "ciudad": "",
-    "tiempo": "0:31:48",
-    "dif": "+14:36",
-    "vel_prom": "9.4 Km/h",
-    "ritmo": "6:21 Min/km",
-    "pdf_page": 1474,
-    "dorsal": "5264",
-    "categoria_diploma": "5 K ABIERTA",
-    "nombre_diploma": "José Nelson Rodríguez Cardozo",
-    "tiempo_diploma": "00:31:48",
-    "stats_diploma": "36. /90 82. /1597"
-  },
-  {
-    "puesto": 83,
+    "puesto": 90,
     "placa": "5069",
     "nombre": "Diana Sofia Herrera leon",
     "categoria": "5 K ABIERTA",
@@ -1403,15 +1522,15 @@ const RUNNERS_DATA = [
     "dif": "+14:40",
     "vel_prom": "9.4 Km/h",
     "ritmo": "6:22 Min/km",
-    "pdf_page": 1302,
+    "pdf_page": 1347,
     "dorsal": "5069",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Diana Sofia Herrera leon",
     "tiempo_diploma": "00:31:52",
-    "stats_diploma": "24. /160 83. /1597"
+    "stats_diploma": "24. /156 90. /1621"
   },
   {
-    "puesto": 84,
+    "puesto": 91,
     "placa": "5024",
     "nombre": "ANGELICA BARRETO MEJIA",
     "categoria": "5 K ABIERTA",
@@ -1420,15 +1539,15 @@ const RUNNERS_DATA = [
     "dif": "+14:55",
     "vel_prom": "9.3 Km/h",
     "ritmo": "6:25 Min/km",
-    "pdf_page": 1303,
+    "pdf_page": 1305,
     "dorsal": "5024",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "ANGELICA BARRETO MEJIA",
     "tiempo_diploma": "00:32:07",
-    "stats_diploma": "25. /160 84. /1597"
+    "stats_diploma": "25. /156 91. /1621"
   },
   {
-    "puesto": 85,
+    "puesto": 92,
     "placa": "5025",
     "nombre": "Angelica Ortiz",
     "categoria": "5 K ABIERTA",
@@ -1437,32 +1556,15 @@ const RUNNERS_DATA = [
     "dif": "+15:03",
     "vel_prom": "9.3 Km/h",
     "ritmo": "6:27 Min/km",
-    "pdf_page": 1304,
+    "pdf_page": 1306,
     "dorsal": "5025",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Angelica Ortiz",
     "tiempo_diploma": "00:32:15",
-    "stats_diploma": "26. /160 85. /1597"
+    "stats_diploma": "26. /156 92. /1621"
   },
   {
-    "puesto": 86,
-    "placa": "5178",
-    "nombre": "María Paula Reátiga Antolinez",
-    "categoria": "5 K ABIERTA",
-    "ciudad": "",
-    "tiempo": "0:32:29",
-    "dif": "+15:17",
-    "vel_prom": "9.2 Km/h",
-    "ritmo": "6:29 Min/km",
-    "pdf_page": 1305,
-    "dorsal": "5178",
-    "categoria_diploma": "5 K ABIERTA",
-    "nombre_diploma": "María Paula Reátiga Antolinez",
-    "tiempo_diploma": "00:32:29",
-    "stats_diploma": "27. /160 86. /1597"
-  },
-  {
-    "puesto": 87,
+    "puesto": 93,
     "placa": "5241",
     "nombre": "Vladimir Lugo Suárez",
     "categoria": "5 K ABIERTA",
@@ -1471,15 +1573,15 @@ const RUNNERS_DATA = [
     "dif": "+15:18",
     "vel_prom": "9.2 Km/h",
     "ritmo": "6:30 Min/km",
-    "pdf_page": 1475,
+    "pdf_page": 1492,
     "dorsal": "5241",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Vladimir Lugo Suárez",
     "tiempo_diploma": "00:32:30",
-    "stats_diploma": "37. /90 87. /1597"
+    "stats_diploma": "35. /88 93. /1621"
   },
   {
-    "puesto": 88,
+    "puesto": 94,
     "placa": "5451",
     "nombre": "Nancy Arciniegas",
     "categoria": "5 K MASTER A",
@@ -1488,32 +1590,32 @@ const RUNNERS_DATA = [
     "dif": "+15:34",
     "vel_prom": "9.1 Km/h",
     "ritmo": "6:33 Min/km",
-    "pdf_page": 1535,
+    "pdf_page": 1574,
     "dorsal": "5451",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Nancy Arciniegas",
     "tiempo_diploma": "00:32:46",
-    "stats_diploma": "7. /37 88. /1597"
+    "stats_diploma": "6. /36 94. /1621"
   },
   {
-    "puesto": 89,
+    "puesto": 95,
     "placa": "5030",
     "nombre": "ANGIE PAOLA SANABRIA DURAN",
     "categoria": "5 K ABIERTA",
     "ciudad": "",
-    "tiempo": "0:32:58",
-    "dif": "+15:46",
+    "tiempo": "0:32:57",
+    "dif": "+15:45",
     "vel_prom": "9.1 Km/h",
     "ritmo": "6:35 Min/km",
-    "pdf_page": 1306,
+    "pdf_page": 1310,
     "dorsal": "5030",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "ANGIE PAOLA SANABRIA DURAN",
-    "tiempo_diploma": "00:32:58",
-    "stats_diploma": "28. /160 89. /1597"
+    "tiempo_diploma": "00:32:57",
+    "stats_diploma": "27. /156 95. /1621"
   },
   {
-    "puesto": 90,
+    "puesto": 96,
     "placa": "5223",
     "nombre": "Sergio E FLECHAS Moreno",
     "categoria": "5 K ABIERTA",
@@ -1527,27 +1629,27 @@ const RUNNERS_DATA = [
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Sergio E FLECHAS Moreno",
     "tiempo_diploma": "00:32:58",
-    "stats_diploma": "38. /90 90. /1597"
+    "stats_diploma": "36. /88 96. /1621"
   },
   {
-    "puesto": 91,
+    "puesto": 97,
     "placa": "5441",
     "nombre": "Luisa Carvajal",
     "categoria": "5 K MASTER A",
     "ciudad": "",
-    "tiempo": "0:33:03",
-    "dif": "+15:51",
+    "tiempo": "0:33:02",
+    "dif": "+15:50",
     "vel_prom": "9.0 Km/h",
     "ritmo": "6:36 Min/km",
-    "pdf_page": 1536,
+    "pdf_page": 1564,
     "dorsal": "5441",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Luisa Carvajal",
-    "tiempo_diploma": "00:33:03",
-    "stats_diploma": "8. /37 91. /1597"
+    "tiempo_diploma": "00:33:02",
+    "stats_diploma": "7. /36 97. /1621"
   },
   {
-    "puesto": 92,
+    "puesto": 98,
     "placa": "1679",
     "nombre": "Yorby Alexis López Ardila",
     "categoria": "10 K ABIERTA",
@@ -1556,15 +1658,15 @@ const RUNNERS_DATA = [
     "dif": "+15:55",
     "vel_prom": "18.1 Km/h",
     "ritmo": "3:18 Min/km",
-    "pdf_page": 639,
+    "pdf_page": 645,
     "dorsal": "1679",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Yorby Alexis López Ardila",
     "tiempo_diploma": "00:33:07",
-    "stats_diploma": "1. /357 92. /1597"
+    "stats_diploma": "1. /357 98. /1621"
   },
   {
-    "puesto": 93,
+    "puesto": 99,
     "placa": "5457",
     "nombre": "Genny Marcela Romero Caceres",
     "categoria": "5 K MASTER A",
@@ -1573,15 +1675,15 @@ const RUNNERS_DATA = [
     "dif": "+16:01",
     "vel_prom": "9.0 Km/h",
     "ritmo": "6:38 Min/km",
-    "pdf_page": 1537,
+    "pdf_page": 1580,
     "dorsal": "5457",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Genny Marcela Romero Caceres",
     "tiempo_diploma": "00:33:13",
-    "stats_diploma": "9. /37 93. /1597"
+    "stats_diploma": "8. /36 99. /1621"
   },
   {
-    "puesto": 94,
+    "puesto": 100,
     "placa": "5144",
     "nombre": "Leidy Viviana Afanador Cáceres",
     "categoria": "5 K ABIERTA",
@@ -1590,15 +1692,15 @@ const RUNNERS_DATA = [
     "dif": "+16:04",
     "vel_prom": "9.0 Km/h",
     "ritmo": "6:39 Min/km",
-    "pdf_page": 1307,
+    "pdf_page": 1412,
     "dorsal": "5144",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Leidy Viviana Afanador Cáceres",
     "tiempo_diploma": "00:33:16",
-    "stats_diploma": "29. /160 94. /1597"
+    "stats_diploma": "28. /156 100. /1621"
   },
   {
-    "puesto": 95,
+    "puesto": 101,
     "placa": "5105",
     "nombre": "Jhoan Camilo Lizcano Lizcano",
     "categoria": "5 K ABIERTA",
@@ -1607,32 +1709,15 @@ const RUNNERS_DATA = [
     "dif": "+16:04",
     "vel_prom": "9.0 Km/h",
     "ritmo": "6:39 Min/km",
-    "pdf_page": 1477,
+    "pdf_page": 1377,
     "dorsal": "5105",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Jhoan Camilo Lizcano Lizcano",
     "tiempo_diploma": "00:33:16",
-    "stats_diploma": "39. /90 95. /1597"
+    "stats_diploma": "37. /88 101. /1621"
   },
   {
-    "puesto": 96,
-    "placa": "1349",
-    "nombre": "Jovanny Sepulveda Cruz",
-    "categoria": "10 K ABIERTA",
-    "ciudad": "",
-    "tiempo": "0:33:18",
-    "dif": "+16:06",
-    "vel_prom": "18.0 Km/h",
-    "ritmo": "3:19 Min/km",
-    "pdf_page": 640,
-    "dorsal": "1349",
-    "categoria_diploma": "10 K ABIERTA",
-    "nombre_diploma": "Jovanny Sepulveda Cruz",
-    "tiempo_diploma": "00:33:18",
-    "stats_diploma": "2. /357 96. /1597"
-  },
-  {
-    "puesto": 97,
+    "puesto": 102,
     "placa": "5411",
     "nombre": "Cesar Fonseca lopez",
     "categoria": "5 K MASTER A",
@@ -1641,15 +1726,32 @@ const RUNNERS_DATA = [
     "dif": "+16:06",
     "vel_prom": "9.0 Km/h",
     "ritmo": "6:39 Min/km",
-    "pdf_page": 1583,
+    "pdf_page": 1538,
     "dorsal": "5411",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Cesar Fonseca lopez",
     "tiempo_diploma": "00:33:18",
-    "stats_diploma": "18. /32 97. /1597"
+    "stats_diploma": "18. /32 102. /1621"
   },
   {
-    "puesto": 98,
+    "puesto": 103,
+    "placa": "1349",
+    "nombre": "Jovanny Sepulveda Cruz",
+    "categoria": "10 K ABIERTA",
+    "ciudad": "",
+    "tiempo": "0:33:18",
+    "dif": "+16:06",
+    "vel_prom": "18.0 Km/h",
+    "ritmo": "3:19 Min/km",
+    "pdf_page": 360,
+    "dorsal": "1349",
+    "categoria_diploma": "10 K ABIERTA",
+    "nombre_diploma": "Jovanny Sepulveda Cruz",
+    "tiempo_diploma": "00:33:18",
+    "stats_diploma": "2. /357 103. /1621"
+  },
+  {
+    "puesto": 104,
     "placa": "5182",
     "nombre": "Mariangel Briceño",
     "categoria": "5 K ABIERTA",
@@ -1658,32 +1760,32 @@ const RUNNERS_DATA = [
     "dif": "+16:07",
     "vel_prom": "9.0 Km/h",
     "ritmo": "6:39 Min/km",
-    "pdf_page": 1308,
+    "pdf_page": 1444,
     "dorsal": "5182",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Mariangel Briceño",
     "tiempo_diploma": "00:33:19",
-    "stats_diploma": "30. /160 98. /1597"
+    "stats_diploma": "29. /156 104. /1621"
   },
   {
-    "puesto": 99,
+    "puesto": 105,
     "placa": "5198",
     "nombre": "Nini Johanna Palacios Mogollon",
     "categoria": "5 K ABIERTA",
     "ciudad": "Giron",
-    "tiempo": "0:33:33",
-    "dif": "+16:21",
+    "tiempo": "0:33:32",
+    "dif": "+16:20",
     "vel_prom": "8.9 Km/h",
     "ritmo": "6:42 Min/km",
-    "pdf_page": 1309,
+    "pdf_page": 1459,
     "dorsal": "5198",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Nini Johanna Palacios Mogollon",
-    "tiempo_diploma": "00:33:33",
-    "stats_diploma": "31. /160 99. /1597"
+    "tiempo_diploma": "00:33:32",
+    "stats_diploma": "30. /156 105. /1621"
   },
   {
-    "puesto": 100,
+    "puesto": 106,
     "placa": "5205",
     "nombre": "Pedro Felipe Leal Florez",
     "categoria": "5 K ABIERTA",
@@ -1692,15 +1794,15 @@ const RUNNERS_DATA = [
     "dif": "+16:26",
     "vel_prom": "8.9 Km/h",
     "ritmo": "6:43 Min/km",
-    "pdf_page": 1478,
+    "pdf_page": 1466,
     "dorsal": "5205",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Pedro Felipe Leal Florez",
     "tiempo_diploma": "00:33:38",
-    "stats_diploma": "40. /90 100. /1597"
+    "stats_diploma": "38. /88 106. /1621"
   },
   {
-    "puesto": 101,
+    "puesto": 107,
     "placa": "5257",
     "nombre": "Matías Bogota",
     "categoria": "5 K ABIERTA",
@@ -1709,15 +1811,15 @@ const RUNNERS_DATA = [
     "dif": "+16:29",
     "vel_prom": "8.9 Km/h",
     "ritmo": "6:44 Min/km",
-    "pdf_page": 1479,
+    "pdf_page": 1506,
     "dorsal": "5257",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Matías Bogota",
     "tiempo_diploma": "00:33:41",
-    "stats_diploma": "41. /90 101. /1597"
+    "stats_diploma": "39. /88 107. /1621"
   },
   {
-    "puesto": 102,
+    "puesto": 108,
     "placa": "5456",
     "nombre": "Oscar Bogotá",
     "categoria": "5 K MASTER A",
@@ -1726,15 +1828,15 @@ const RUNNERS_DATA = [
     "dif": "+16:30",
     "vel_prom": "8.9 Km/h",
     "ritmo": "6:44 Min/km",
-    "pdf_page": 1584,
+    "pdf_page": 1579,
     "dorsal": "5456",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Oscar Bogotá",
     "tiempo_diploma": "00:33:42",
-    "stats_diploma": "19. /32 102. /1597"
+    "stats_diploma": "19. /32 108. /1621"
   },
   {
-    "puesto": 103,
+    "puesto": 109,
     "placa": "5208",
     "nombre": "RONALD JAVIER MEDINA SOCHA",
     "categoria": "5 K ABIERTA",
@@ -1743,15 +1845,15 @@ const RUNNERS_DATA = [
     "dif": "+16:34",
     "vel_prom": "8.8 Km/h",
     "ritmo": "6:45 Min/km",
-    "pdf_page": 1480,
+    "pdf_page": 1467,
     "dorsal": "5208",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "RONALD JAVIER MEDINA SOCHA",
     "tiempo_diploma": "00:33:46",
-    "stats_diploma": "42. /90 103. /1597"
+    "stats_diploma": "40. /88 109. /1621"
   },
   {
-    "puesto": 104,
+    "puesto": 110,
     "placa": "5074",
     "nombre": "Diego Mauricio González Villamizar",
     "categoria": "5 K ABIERTA",
@@ -1760,15 +1862,15 @@ const RUNNERS_DATA = [
     "dif": "+16:37",
     "vel_prom": "8.8 Km/h",
     "ritmo": "6:45 Min/km",
-    "pdf_page": 1481,
+    "pdf_page": 1350,
     "dorsal": "5074",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Diego Mauricio González Villamizar",
     "tiempo_diploma": "00:33:49",
-    "stats_diploma": "43. /90 104. /1597"
+    "stats_diploma": "41. /88 110. /1621"
   },
   {
-    "puesto": 105,
+    "puesto": 111,
     "placa": "5469",
     "nombre": "Diana Gabriela Alvarez peña",
     "categoria": "5 K MASTER A",
@@ -1777,15 +1879,15 @@ const RUNNERS_DATA = [
     "dif": "+16:41",
     "vel_prom": "8.8 Km/h",
     "ritmo": "6:46 Min/km",
-    "pdf_page": 1538,
+    "pdf_page": 1592,
     "dorsal": "5469",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Diana Gabriela Alvarez peña",
     "tiempo_diploma": "00:33:53",
-    "stats_diploma": "10. /37 105. /1597"
+    "stats_diploma": "9. /36 111. /1621"
   },
   {
-    "puesto": 106,
+    "puesto": 112,
     "placa": "5199",
     "nombre": "NUBIA PAOLA PALACIOS MOGOLLON",
     "categoria": "5 K ABIERTA",
@@ -1794,15 +1896,15 @@ const RUNNERS_DATA = [
     "dif": "+16:47",
     "vel_prom": "8.8 Km/h",
     "ritmo": "6:47 Min/km",
-    "pdf_page": 1310,
+    "pdf_page": 1460,
     "dorsal": "5199",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "NUBIA PAOLA PALACIOS MOGOLLON",
     "tiempo_diploma": "00:33:59",
-    "stats_diploma": "32. /160 106. /1597"
+    "stats_diploma": "31. /156 112. /1621"
   },
   {
-    "puesto": 107,
+    "puesto": 113,
     "placa": "5226",
     "nombre": "Sofía Sarmiento",
     "categoria": "5 K ABIERTA",
@@ -1811,32 +1913,32 @@ const RUNNERS_DATA = [
     "dif": "+16:50",
     "vel_prom": "8.8 Km/h",
     "ritmo": "6:48 Min/km",
-    "pdf_page": 1311,
+    "pdf_page": 1479,
     "dorsal": "5226",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Sofía Sarmiento",
     "tiempo_diploma": "00:34:02",
-    "stats_diploma": "33. /160 107. /1597"
+    "stats_diploma": "32. /156 113. /1621"
   },
   {
-    "puesto": 108,
+    "puesto": 114,
     "placa": "5416",
     "nombre": "Diana Carolina Fernandez Zuñiga",
     "categoria": "5 K MASTER A",
     "ciudad": "",
-    "tiempo": "0:34:05",
-    "dif": "+16:53",
+    "tiempo": "0:34:04",
+    "dif": "+16:52",
     "vel_prom": "8.8 Km/h",
-    "ritmo": "6:49 Min/km",
-    "pdf_page": 1539,
+    "ritmo": "6:48 Min/km",
+    "pdf_page": 1543,
     "dorsal": "5416",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Diana Carolina Fernandez Zuñiga",
-    "tiempo_diploma": "00:34:05",
-    "stats_diploma": "11. /37 108. /1597"
+    "tiempo_diploma": "00:34:04",
+    "stats_diploma": "10. /36 114. /1621"
   },
   {
-    "puesto": 109,
+    "puesto": 115,
     "placa": "5279",
     "nombre": "Paola Ramirez Prada",
     "categoria": "5 K ABIERTA",
@@ -1845,15 +1947,15 @@ const RUNNERS_DATA = [
     "dif": "+16:54",
     "vel_prom": "8.7 Km/h",
     "ritmo": "6:49 Min/km",
-    "pdf_page": 1312,
+    "pdf_page": 1520,
     "dorsal": "5279",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Paola Ramirez Prada",
     "tiempo_diploma": "00:34:06",
-    "stats_diploma": "34. /160 109. /1597"
+    "stats_diploma": "33. /156 115. /1621"
   },
   {
-    "puesto": 110,
+    "puesto": 116,
     "placa": "5019",
     "nombre": "Andres Felipe Contreras Caballero",
     "categoria": "5 K ABIERTA",
@@ -1862,15 +1964,15 @@ const RUNNERS_DATA = [
     "dif": "+16:56",
     "vel_prom": "8.7 Km/h",
     "ritmo": "6:49 Min/km",
-    "pdf_page": 1482,
+    "pdf_page": 1300,
     "dorsal": "5019",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Andres Felipe Contreras Caballero",
     "tiempo_diploma": "00:34:08",
-    "stats_diploma": "44. /90 110. /1597"
+    "stats_diploma": "42. /88 116. /1621"
   },
   {
-    "puesto": 111,
+    "puesto": 117,
     "placa": "5044",
     "nombre": "Clara Natalia Olarte Rodriguez",
     "categoria": "5 K ABIERTA",
@@ -1879,15 +1981,15 @@ const RUNNERS_DATA = [
     "dif": "+16:57",
     "vel_prom": "8.7 Km/h",
     "ritmo": "6:49 Min/km",
-    "pdf_page": 1313,
+    "pdf_page": 1324,
     "dorsal": "5044",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Clara Natalia Olarte Rodriguez",
     "tiempo_diploma": "00:34:09",
-    "stats_diploma": "35. /160 111. /1597"
+    "stats_diploma": "34. /156 117. /1621"
   },
   {
-    "puesto": 112,
+    "puesto": 118,
     "placa": "5287",
     "nombre": "David Sierra",
     "categoria": "5 K ABIERTA",
@@ -1896,15 +1998,15 @@ const RUNNERS_DATA = [
     "dif": "+16:57",
     "vel_prom": "8.7 Km/h",
     "ritmo": "6:49 Min/km",
-    "pdf_page": 1483,
+    "pdf_page": 1525,
     "dorsal": "5287",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "David Sierra",
     "tiempo_diploma": "00:34:09",
-    "stats_diploma": "45. /90 112. /1597"
+    "stats_diploma": "43. /88 118. /1621"
   },
   {
-    "puesto": 113,
+    "puesto": 119,
     "placa": "3204",
     "nombre": "Juan Hernandez",
     "categoria": "10 K MASTER A",
@@ -1913,32 +2015,32 @@ const RUNNERS_DATA = [
     "dif": "+16:59",
     "vel_prom": "17.5 Km/h",
     "ritmo": "3:25 Min/km",
-    "pdf_page": 1083,
+    "pdf_page": 1186,
     "dorsal": "3204",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Juan Hernandez",
     "tiempo_diploma": "00:34:11",
-    "stats_diploma": "1. /107 113. /1597"
+    "stats_diploma": "1. /107 119. /1621"
   },
   {
-    "puesto": 114,
+    "puesto": 120,
     "placa": "5003",
     "nombre": "Ailyn Mendoza",
     "categoria": "5 K ABIERTA",
     "ciudad": "Bucaramanga",
-    "tiempo": "0:34:12",
-    "dif": "+17:00",
+    "tiempo": "0:34:11",
+    "dif": "+16:59",
     "vel_prom": "8.7 Km/h",
     "ritmo": "6:50 Min/km",
-    "pdf_page": 1314,
+    "pdf_page": 1287,
     "dorsal": "5003",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Ailyn Mendoza",
-    "tiempo_diploma": "00:34:12",
-    "stats_diploma": "36. /160 114. /1597"
+    "tiempo_diploma": "00:34:11",
+    "stats_diploma": "35. /156 120. /1621"
   },
   {
-    "puesto": 115,
+    "puesto": 121,
     "placa": "5106",
     "nombre": "JHON WILLIAM GARCES VASQUEZ",
     "categoria": "5 K ABIERTA",
@@ -1947,15 +2049,15 @@ const RUNNERS_DATA = [
     "dif": "+17:02",
     "vel_prom": "8.7 Km/h",
     "ritmo": "6:50 Min/km",
-    "pdf_page": 1484,
+    "pdf_page": 1378,
     "dorsal": "5106",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "JHON WILLIAM GARCES VASQUEZ",
     "tiempo_diploma": "00:34:14",
-    "stats_diploma": "46. /90 115. /1597"
+    "stats_diploma": "44. /88 121. /1621"
   },
   {
-    "puesto": 116,
+    "puesto": 122,
     "placa": "128",
     "nombre": "Victor Carrero pulido",
     "categoria": "10 K ELITE",
@@ -1964,32 +2066,32 @@ const RUNNERS_DATA = [
     "dif": "+17:02",
     "vel_prom": "17.5 Km/h",
     "ritmo": "3:25 Min/km",
-    "pdf_page": 319,
+    "pdf_page": 22,
     "dorsal": "128",
     "categoria_diploma": "10 K ELITE",
     "nombre_diploma": "Victor Carrero pulido",
     "tiempo_diploma": "00:34:14",
-    "stats_diploma": "1. /10 116. /1597"
+    "stats_diploma": "1. /10 122. /1621"
   },
   {
-    "puesto": 117,
+    "puesto": 123,
     "placa": "5435",
     "nombre": "José Luis Ramírez Cortés",
     "categoria": "5 K MASTER A",
     "ciudad": "Floridablanca",
-    "tiempo": "0:34:19",
-    "dif": "+17:07",
+    "tiempo": "0:34:18",
+    "dif": "+17:06",
     "vel_prom": "8.7 Km/h",
     "ritmo": "6:51 Min/km",
-    "pdf_page": 1585,
+    "pdf_page": 1559,
     "dorsal": "5435",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "José Luis Ramírez Cortés",
-    "tiempo_diploma": "00:34:19",
-    "stats_diploma": "20. /32 117. /1597"
+    "tiempo_diploma": "00:34:18",
+    "stats_diploma": "20. /32 123. /1621"
   },
   {
-    "puesto": 118,
+    "puesto": 124,
     "placa": "5102",
     "nombre": "JENNY PAOLA MURILLO VARGAS",
     "categoria": "5 K ABIERTA",
@@ -1998,15 +2100,15 @@ const RUNNERS_DATA = [
     "dif": "+17:07",
     "vel_prom": "8.7 Km/h",
     "ritmo": "6:51 Min/km",
-    "pdf_page": 1315,
+    "pdf_page": 1374,
     "dorsal": "5102",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "JENNY PAOLA MURILLO VARGAS",
     "tiempo_diploma": "00:34:19",
-    "stats_diploma": "37. /160 118. /1597"
+    "stats_diploma": "36. /156 124. /1621"
   },
   {
-    "puesto": 119,
+    "puesto": 125,
     "placa": "5172",
     "nombre": "María Camila Ríos",
     "categoria": "5 K ABIERTA",
@@ -2015,15 +2117,15 @@ const RUNNERS_DATA = [
     "dif": "+17:08",
     "vel_prom": "8.7 Km/h",
     "ritmo": "6:52 Min/km",
-    "pdf_page": 1316,
+    "pdf_page": 1437,
     "dorsal": "5172",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "María Camila Ríos",
     "tiempo_diploma": "00:34:20",
-    "stats_diploma": "38. /160 119. /1597"
+    "stats_diploma": "37. /156 125. /1621"
   },
   {
-    "puesto": 120,
+    "puesto": 126,
     "placa": "5235",
     "nombre": "Valeria Guevara",
     "categoria": "5 K ABIERTA",
@@ -2032,15 +2134,15 @@ const RUNNERS_DATA = [
     "dif": "+17:12",
     "vel_prom": "8.7 Km/h",
     "ritmo": "6:52 Min/km",
-    "pdf_page": 1317,
+    "pdf_page": 1487,
     "dorsal": "5235",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Valeria Guevara",
     "tiempo_diploma": "00:34:24",
-    "stats_diploma": "39. /160 120. /1597"
+    "stats_diploma": "38. /156 126. /1621"
   },
   {
-    "puesto": 121,
+    "puesto": 127,
     "placa": "5408",
     "nombre": "Carmen Cecilia Serrano serrano",
     "categoria": "5 K MASTER A",
@@ -2049,66 +2151,66 @@ const RUNNERS_DATA = [
     "dif": "+17:23",
     "vel_prom": "8.6 Km/h",
     "ritmo": "6:55 Min/km",
-    "pdf_page": 1540,
+    "pdf_page": 1536,
     "dorsal": "5408",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Carmen Cecilia Serrano serrano",
     "tiempo_diploma": "00:34:35",
-    "stats_diploma": "12. /37 121. /1597"
+    "stats_diploma": "11. /36 127. /1621"
   },
   {
-    "puesto": 122,
+    "puesto": 128,
     "placa": "5246",
     "nombre": "Yesica Paola Corzo Rueda",
     "categoria": "5 K ABIERTA",
     "ciudad": "Bucaramanga",
-    "tiempo": "0:34:39",
-    "dif": "+17:27",
+    "tiempo": "0:34:38",
+    "dif": "+17:26",
     "vel_prom": "8.6 Km/h",
     "ritmo": "6:55 Min/km",
-    "pdf_page": 1318,
+    "pdf_page": 1496,
     "dorsal": "5246",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Yesica Paola Corzo Rueda",
-    "tiempo_diploma": "00:34:39",
-    "stats_diploma": "40. /160 122. /1597"
+    "tiempo_diploma": "00:34:38",
+    "stats_diploma": "39. /156 128. /1621"
   },
   {
-    "puesto": 123,
+    "puesto": 129,
     "placa": "5017",
     "nombre": "Andrea Juliana Ochoa Villamizar",
     "categoria": "5 K ABIERTA",
     "ciudad": "",
-    "tiempo": "0:34:40",
-    "dif": "+17:28",
+    "tiempo": "0:34:39",
+    "dif": "+17:27",
     "vel_prom": "8.6 Km/h",
-    "ritmo": "6:56 Min/km",
-    "pdf_page": 1319,
+    "ritmo": "6:55 Min/km",
+    "pdf_page": 1299,
     "dorsal": "5017",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Andrea Juliana Ochoa Villamizar",
-    "tiempo_diploma": "00:34:40",
-    "stats_diploma": "41. /160 123. /1597"
+    "tiempo_diploma": "00:34:39",
+    "stats_diploma": "40. /156 129. /1621"
   },
   {
-    "puesto": 124,
+    "puesto": 130,
     "placa": "5094",
     "nombre": "Ingrith Tatiana Grimaldos Serrano",
     "categoria": "5 K ABIERTA",
     "ciudad": "Bucaramanga",
-    "tiempo": "0:34:42",
-    "dif": "+17:30",
+    "tiempo": "0:34:41",
+    "dif": "+17:29",
     "vel_prom": "8.6 Km/h",
     "ritmo": "6:56 Min/km",
-    "pdf_page": 1320,
+    "pdf_page": 1369,
     "dorsal": "5094",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Ingrith Tatiana Grimaldos Serrano",
-    "tiempo_diploma": "00:34:42",
-    "stats_diploma": "42. /160 124. /1597"
+    "tiempo_diploma": "00:34:41",
+    "stats_diploma": "41. /156 130. /1621"
   },
   {
-    "puesto": 125,
+    "puesto": 131,
     "placa": "5098",
     "nombre": "Jeferson Archila Gil",
     "categoria": "5 K ABIERTA",
@@ -2117,15 +2219,15 @@ const RUNNERS_DATA = [
     "dif": "+17:46",
     "vel_prom": "8.5 Km/h",
     "ritmo": "6:59 Min/km",
-    "pdf_page": 1485,
+    "pdf_page": 1371,
     "dorsal": "5098",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Jeferson Archila Gil",
     "tiempo_diploma": "00:34:58",
-    "stats_diploma": "47. /90 125. /1597"
+    "stats_diploma": "45. /88 131. /1621"
   },
   {
-    "puesto": 126,
+    "puesto": 132,
     "placa": "5266",
     "nombre": "Maira Magdalena Hernández Ortega",
     "categoria": "5 K ABIERTA",
@@ -2134,32 +2236,32 @@ const RUNNERS_DATA = [
     "dif": "+17:53",
     "vel_prom": "8.5 Km/h",
     "ritmo": "7:01 Min/km",
-    "pdf_page": 1321,
+    "pdf_page": 1514,
     "dorsal": "5266",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Maira Magdalena Hernández Ortega",
     "tiempo_diploma": "00:35:05",
-    "stats_diploma": "43. /160 126. /1597"
+    "stats_diploma": "42. /156 132. /1621"
   },
   {
-    "puesto": 127,
+    "puesto": 133,
     "placa": "5423",
     "nombre": "Freddy Ortiz Orduz",
     "categoria": "5 K MASTER A",
     "ciudad": "Bucaramanga",
-    "tiempo": "0:35:11",
-    "dif": "+17:59",
+    "tiempo": "0:35:10",
+    "dif": "+17:58",
     "vel_prom": "8.5 Km/h",
     "ritmo": "7:02 Min/km",
-    "pdf_page": 1586,
+    "pdf_page": 1549,
     "dorsal": "5423",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Freddy Ortiz Orduz",
-    "tiempo_diploma": "00:35:11",
-    "stats_diploma": "21. /32 127. /1597"
+    "tiempo_diploma": "00:35:10",
+    "stats_diploma": "21. /32 133. /1621"
   },
   {
-    "puesto": 128,
+    "puesto": 134,
     "placa": "5117",
     "nombre": "Juan Pablo González Amorocho",
     "categoria": "5 K ABIERTA",
@@ -2168,15 +2270,15 @@ const RUNNERS_DATA = [
     "dif": "+17:59",
     "vel_prom": "8.5 Km/h",
     "ritmo": "7:02 Min/km",
-    "pdf_page": 1486,
+    "pdf_page": 1389,
     "dorsal": "5117",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Juan Pablo González Amorocho",
     "tiempo_diploma": "00:35:11",
-    "stats_diploma": "48. /90 128. /1597"
+    "stats_diploma": "46. /88 134. /1621"
   },
   {
-    "puesto": 129,
+    "puesto": 135,
     "placa": "5467",
     "nombre": "Yolanda Martínez",
     "categoria": "5 K MASTER A",
@@ -2185,15 +2287,15 @@ const RUNNERS_DATA = [
     "dif": "+18:00",
     "vel_prom": "8.5 Km/h",
     "ritmo": "7:02 Min/km",
-    "pdf_page": 1541,
+    "pdf_page": 1590,
     "dorsal": "5467",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Yolanda Martínez",
     "tiempo_diploma": "00:35:12",
-    "stats_diploma": "13. /37 129. /1597"
+    "stats_diploma": "12. /36 135. /1621"
   },
   {
-    "puesto": 130,
+    "puesto": 136,
     "placa": "5448",
     "nombre": "Mónica Santos",
     "categoria": "5 K MASTER A",
@@ -2202,15 +2304,15 @@ const RUNNERS_DATA = [
     "dif": "+18:00",
     "vel_prom": "8.5 Km/h",
     "ritmo": "7:02 Min/km",
-    "pdf_page": 1542,
+    "pdf_page": 1571,
     "dorsal": "5448",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Mónica Santos",
     "tiempo_diploma": "00:35:12",
-    "stats_diploma": "14. /37 130. /1597"
+    "stats_diploma": "13. /36 136. /1621"
   },
   {
-    "puesto": 131,
+    "puesto": 137,
     "placa": "5197",
     "nombre": "Nilda Ortega Ortega",
     "categoria": "5 K ABIERTA",
@@ -2219,15 +2321,15 @@ const RUNNERS_DATA = [
     "dif": "+18:02",
     "vel_prom": "8.5 Km/h",
     "ritmo": "7:02 Min/km",
-    "pdf_page": 1322,
+    "pdf_page": 1458,
     "dorsal": "5197",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Nilda Ortega Ortega",
     "tiempo_diploma": "00:35:14",
-    "stats_diploma": "44. /160 131. /1597"
+    "stats_diploma": "43. /156 137. /1621"
   },
   {
-    "puesto": 132,
+    "puesto": 138,
     "placa": "5155",
     "nombre": "Lucas Sebastian Gomez Salamanca",
     "categoria": "5 K ABIERTA",
@@ -2236,15 +2338,15 @@ const RUNNERS_DATA = [
     "dif": "+18:07",
     "vel_prom": "8.4 Km/h",
     "ritmo": "7:03 Min/km",
-    "pdf_page": 1487,
+    "pdf_page": 1421,
     "dorsal": "5155",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Lucas Sebastian Gomez Salamanca",
     "tiempo_diploma": "00:35:19",
-    "stats_diploma": "49. /90 132. /1597"
+    "stats_diploma": "47. /88 138. /1621"
   },
   {
-    "puesto": 133,
+    "puesto": 139,
     "placa": "5175",
     "nombre": "María Fernanda Cortés Cristancho",
     "categoria": "5 K ABIERTA",
@@ -2253,15 +2355,15 @@ const RUNNERS_DATA = [
     "dif": "+18:11",
     "vel_prom": "8.4 Km/h",
     "ritmo": "7:04 Min/km",
-    "pdf_page": 1323,
+    "pdf_page": 1439,
     "dorsal": "5175",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "María Fernanda Cortés Cristancho",
     "tiempo_diploma": "00:35:23",
-    "stats_diploma": "45. /160 133. /1597"
+    "stats_diploma": "44. /156 139. /1621"
   },
   {
-    "puesto": 134,
+    "puesto": 140,
     "placa": "5108",
     "nombre": "Jordy Yolmer Guerrero Rodríguez",
     "categoria": "5 K ABIERTA",
@@ -2270,15 +2372,32 @@ const RUNNERS_DATA = [
     "dif": "+18:12",
     "vel_prom": "8.4 Km/h",
     "ritmo": "7:04 Min/km",
-    "pdf_page": 1488,
+    "pdf_page": 1380,
     "dorsal": "5108",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Jordy Yolmer Guerrero Rodríguez",
     "tiempo_diploma": "00:35:24",
-    "stats_diploma": "50. /90 134. /1597"
+    "stats_diploma": "48. /88 140. /1621"
   },
   {
-    "puesto": 135,
+    "puesto": 141,
+    "placa": "5538",
+    "nombre": "Zoraida Gaitan Rodriguez",
+    "categoria": "5 K MASTER B",
+    "ciudad": "Floridablanca",
+    "tiempo": "0:35:26",
+    "dif": "+18:14",
+    "vel_prom": "8.4 Km/h",
+    "ritmo": "7:05 Min/km",
+    "pdf_page": 1625,
+    "dorsal": "5538",
+    "categoria_diploma": "5 K MASTER B",
+    "nombre_diploma": "Zoraida Gaitan Rodriguez",
+    "tiempo_diploma": "00:35:26",
+    "stats_diploma": "4. /18 141. /1621"
+  },
+  {
+    "puesto": 142,
     "placa": "5065",
     "nombre": "Diana Marcela Forero Romero",
     "categoria": "5 K ABIERTA",
@@ -2287,15 +2406,15 @@ const RUNNERS_DATA = [
     "dif": "+18:14",
     "vel_prom": "8.4 Km/h",
     "ritmo": "7:05 Min/km",
-    "pdf_page": 1324,
+    "pdf_page": 1343,
     "dorsal": "5065",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Diana Marcela Forero Romero",
     "tiempo_diploma": "00:35:26",
-    "stats_diploma": "46. /160 135. /1597"
+    "stats_diploma": "45. /156 142. /1621"
   },
   {
-    "puesto": 136,
+    "puesto": 143,
     "placa": "5022",
     "nombre": "ÁNGEL STEVEN OLIVEROS CHIPAGRA",
     "categoria": "5 K ABIERTA",
@@ -2304,15 +2423,15 @@ const RUNNERS_DATA = [
     "dif": "+18:14",
     "vel_prom": "8.4 Km/h",
     "ritmo": "7:05 Min/km",
-    "pdf_page": 1489,
+    "pdf_page": 1303,
     "dorsal": "5022",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "ÁNGEL STEVEN OLIVEROS CHIPAGRA",
     "tiempo_diploma": "00:35:26",
-    "stats_diploma": "51. /90 136. /1597"
+    "stats_diploma": "49. /88 143. /1621"
   },
   {
-    "puesto": 137,
+    "puesto": 144,
     "placa": "1104",
     "nombre": "Carlos Villamizar",
     "categoria": "10 K ABIERTA",
@@ -2321,15 +2440,15 @@ const RUNNERS_DATA = [
     "dif": "+18:19",
     "vel_prom": "16.8 Km/h",
     "ritmo": "3:33 Min/km",
-    "pdf_page": 641,
+    "pdf_page": 133,
     "dorsal": "1104",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Carlos Villamizar",
     "tiempo_diploma": "00:35:31",
-    "stats_diploma": "3. /357 137. /1597"
+    "stats_diploma": "3. /357 144. /1621"
   },
   {
-    "puesto": 138,
+    "puesto": 145,
     "placa": "5291",
     "nombre": "Karen Forero",
     "categoria": "5 K ABIERTA",
@@ -2338,15 +2457,32 @@ const RUNNERS_DATA = [
     "dif": "+18:22",
     "vel_prom": "8.4 Km/h",
     "ritmo": "7:06 Min/km",
-    "pdf_page": 1325,
+    "pdf_page": 1528,
     "dorsal": "5291",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Karen Forero",
     "tiempo_diploma": "00:35:34",
-    "stats_diploma": "47. /160 138. /1597"
+    "stats_diploma": "46. /156 145. /1621"
   },
   {
-    "puesto": 139,
+    "puesto": 146,
+    "placa": "5511",
+    "nombre": "ELIANA RUEDA",
+    "categoria": "5 K MASTER B",
+    "ciudad": "Piedecuesta",
+    "tiempo": "0:35:34",
+    "dif": "+18:22",
+    "vel_prom": "8.4 Km/h",
+    "ritmo": "7:06 Min/km",
+    "pdf_page": 1607,
+    "dorsal": "5511",
+    "categoria_diploma": "5 K MASTER B",
+    "nombre_diploma": "ELIANA RUEDA",
+    "tiempo_diploma": "00:35:34",
+    "stats_diploma": "5. /18 146. /1621"
+  },
+  {
+    "puesto": 147,
     "placa": "5157",
     "nombre": "Luis Alejandro Diaz Suarez",
     "categoria": "5 K ABIERTA",
@@ -2355,32 +2491,49 @@ const RUNNERS_DATA = [
     "dif": "+18:25",
     "vel_prom": "8.4 Km/h",
     "ritmo": "7:07 Min/km",
-    "pdf_page": 1490,
+    "pdf_page": 1423,
     "dorsal": "5157",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Luis Alejandro Diaz Suarez",
     "tiempo_diploma": "00:35:37",
-    "stats_diploma": "52. /90 139. /1597"
+    "stats_diploma": "50. /88 147. /1621"
   },
   {
-    "puesto": 140,
+    "puesto": 148,
+    "placa": "3320",
+    "nombre": "Einar Juan Ramirez Mendoza",
+    "categoria": "10 K MASTER B",
+    "ciudad": "Floridablanca",
+    "tiempo": "0:35:38",
+    "dif": "+18:26",
+    "vel_prom": "16.8 Km/h",
+    "ritmo": "3:33 Min/km",
+    "pdf_page": 1213,
+    "dorsal": "3320",
+    "categoria_diploma": "10 K MASTER B",
+    "nombre_diploma": "Einar Juan Ramirez Mendoza",
+    "tiempo_diploma": "00:15:02",
+    "stats_diploma": "1. /57 148. /1621"
+  },
+  {
+    "puesto": 149,
     "placa": "5119",
     "nombre": "Daniela Mejia Arguello",
     "categoria": "5 K ABIERTA",
     "ciudad": "Bucaramanga",
     "tiempo": "0:35:42",
     "dif": "+18:30",
-    "vel_prom": "8.3 Km/h",
+    "vel_prom": "8.4 Km/h",
     "ritmo": "7:08 Min/km",
-    "pdf_page": 1326,
+    "pdf_page": 1391,
     "dorsal": "5119",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Daniela Mejia Arguello",
     "tiempo_diploma": "00:35:42",
-    "stats_diploma": "48. /160 140. /1597"
+    "stats_diploma": "47. /156 149. /1621"
   },
   {
-    "puesto": 141,
+    "puesto": 150,
     "placa": "5149",
     "nombre": "LINA JOHANA VELOZA AREVALO",
     "categoria": "5 K ABIERTA",
@@ -2389,15 +2542,15 @@ const RUNNERS_DATA = [
     "dif": "+18:31",
     "vel_prom": "8.3 Km/h",
     "ritmo": "7:08 Min/km",
-    "pdf_page": 1327,
+    "pdf_page": 1416,
     "dorsal": "5149",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "LINA JOHANA VELOZA AREVALO",
     "tiempo_diploma": "00:35:43",
-    "stats_diploma": "49. /160 141. /1597"
+    "stats_diploma": "48. /156 150. /1621"
   },
   {
-    "puesto": 142,
+    "puesto": 151,
     "placa": "5170",
     "nombre": "Maria Camila Jacome Prado",
     "categoria": "5 K ABIERTA",
@@ -2406,15 +2559,15 @@ const RUNNERS_DATA = [
     "dif": "+18:32",
     "vel_prom": "8.3 Km/h",
     "ritmo": "7:08 Min/km",
-    "pdf_page": 1328,
+    "pdf_page": 1435,
     "dorsal": "5170",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Maria Camila Jacome Prado",
     "tiempo_diploma": "00:35:44",
-    "stats_diploma": "50. /160 142. /1597"
+    "stats_diploma": "49. /156 151. /1621"
   },
   {
-    "puesto": 143,
+    "puesto": 152,
     "placa": "5006",
     "nombre": "ALEJANDRA URIBE",
     "categoria": "5 K ABIERTA",
@@ -2423,15 +2576,15 @@ const RUNNERS_DATA = [
     "dif": "+18:36",
     "vel_prom": "8.3 Km/h",
     "ritmo": "7:09 Min/km",
-    "pdf_page": 1329,
+    "pdf_page": 1289,
     "dorsal": "5006",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "ALEJANDRA URIBE",
     "tiempo_diploma": "00:35:48",
-    "stats_diploma": "51. /160 143. /1597"
+    "stats_diploma": "50. /156 152. /1621"
   },
   {
-    "puesto": 144,
+    "puesto": 153,
     "placa": "5418",
     "nombre": "Diego Merchan Salgado",
     "categoria": "5 K MASTER A",
@@ -2440,15 +2593,15 @@ const RUNNERS_DATA = [
     "dif": "+18:39",
     "vel_prom": "8.3 Km/h",
     "ritmo": "7:10 Min/km",
-    "pdf_page": 1587,
+    "pdf_page": 1545,
     "dorsal": "5418",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Diego Merchan Salgado",
     "tiempo_diploma": "00:35:51",
-    "stats_diploma": "22. /32 144. /1597"
+    "stats_diploma": "22. /32 153. /1621"
   },
   {
-    "puesto": 145,
+    "puesto": 154,
     "placa": "5209",
     "nombre": "Rosley Sanabria",
     "categoria": "5 K ABIERTA",
@@ -2457,15 +2610,15 @@ const RUNNERS_DATA = [
     "dif": "+18:41",
     "vel_prom": "8.3 Km/h",
     "ritmo": "7:10 Min/km",
-    "pdf_page": 1330,
+    "pdf_page": 1468,
     "dorsal": "5209",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Rosley Sanabria",
     "tiempo_diploma": "00:35:53",
-    "stats_diploma": "52. /160 145. /1597"
+    "stats_diploma": "51. /156 154. /1621"
   },
   {
-    "puesto": 146,
+    "puesto": 155,
     "placa": "5475",
     "nombre": "Derly Fosting Solano de La Vega",
     "categoria": "5 K MASTER A",
@@ -2474,15 +2627,15 @@ const RUNNERS_DATA = [
     "dif": "+18:44",
     "vel_prom": "8.3 Km/h",
     "ritmo": "7:11 Min/km",
-    "pdf_page": 1543,
+    "pdf_page": 1597,
     "dorsal": "5475",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Derly Fosting Solano de La Vega",
     "tiempo_diploma": "00:35:56",
-    "stats_diploma": "15. /37 146. /1597"
+    "stats_diploma": "14. /36 155. /1621"
   },
   {
-    "puesto": 147,
+    "puesto": 156,
     "placa": "5145",
     "nombre": "Leonardo Fonseca Cortes",
     "categoria": "5 K ABIERTA",
@@ -2491,15 +2644,15 @@ const RUNNERS_DATA = [
     "dif": "+18:52",
     "vel_prom": "8.3 Km/h",
     "ritmo": "7:12 Min/km",
-    "pdf_page": 1491,
+    "pdf_page": 1413,
     "dorsal": "5145",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Leonardo Fonseca Cortes",
     "tiempo_diploma": "00:36:04",
-    "stats_diploma": "53. /90 147. /1597"
+    "stats_diploma": "51. /88 156. /1621"
   },
   {
-    "puesto": 148,
+    "puesto": 157,
     "placa": "5166",
     "nombre": "Margarita Quintero Velandia",
     "categoria": "5 K ABIERTA",
@@ -2508,15 +2661,15 @@ const RUNNERS_DATA = [
     "dif": "+18:52",
     "vel_prom": "8.3 Km/h",
     "ritmo": "7:12 Min/km",
-    "pdf_page": 1331,
+    "pdf_page": 1431,
     "dorsal": "5166",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Margarita Quintero Velandia",
     "tiempo_diploma": "00:36:04",
-    "stats_diploma": "53. /160 148. /1597"
+    "stats_diploma": "52. /156 157. /1621"
   },
   {
-    "puesto": 149,
+    "puesto": 158,
     "placa": "1667",
     "nombre": "Yeison Trejo Bolaños",
     "categoria": "10 K ABIERTA",
@@ -2525,32 +2678,49 @@ const RUNNERS_DATA = [
     "dif": "+18:55",
     "vel_prom": "16.6 Km/h",
     "ritmo": "3:36 Min/km",
-    "pdf_page": 642,
+    "pdf_page": 633,
     "dorsal": "1667",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Yeison Trejo Bolaños",
     "tiempo_diploma": "00:36:07",
-    "stats_diploma": "4. /357 149. /1597"
+    "stats_diploma": "4. /357 158. /1621"
   },
   {
-    "puesto": 150,
+    "puesto": 159,
     "placa": "5214",
     "nombre": "Santiago Varon Torrado",
     "categoria": "5 K ABIERTA",
     "ciudad": "",
     "tiempo": "0:36:08",
     "dif": "+18:56",
-    "vel_prom": "8.2 Km/h",
+    "vel_prom": "8.3 Km/h",
     "ritmo": "7:13 Min/km",
-    "pdf_page": 1492,
+    "pdf_page": 1471,
     "dorsal": "5214",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Santiago Varon Torrado",
     "tiempo_diploma": "00:36:08",
-    "stats_diploma": "54. /90 150. /1597"
+    "stats_diploma": "52. /88 159. /1621"
   },
   {
-    "puesto": 151,
+    "puesto": 160,
+    "placa": "5529",
+    "nombre": "NELLY LUENGAS GRANADOS",
+    "categoria": "5 K MASTER B",
+    "ciudad": "Socorro",
+    "tiempo": "0:36:14",
+    "dif": "+19:02",
+    "vel_prom": "8.2 Km/h",
+    "ritmo": "7:14 Min/km",
+    "pdf_page": 1619,
+    "dorsal": "5529",
+    "categoria_diploma": "5 K MASTER B",
+    "nombre_diploma": "NELLY LUENGAS GRANADOS",
+    "tiempo_diploma": "00:36:14",
+    "stats_diploma": "6. /18 160. /1621"
+  },
+  {
+    "puesto": 161,
     "placa": "1732",
     "nombre": "Pablo Andres Quintero Guerrero",
     "categoria": "10 K ABIERTA",
@@ -2559,15 +2729,32 @@ const RUNNERS_DATA = [
     "dif": "+19:02",
     "vel_prom": "16.5 Km/h",
     "ritmo": "3:37 Min/km",
-    "pdf_page": 643,
+    "pdf_page": 689,
     "dorsal": "1732",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Pablo Andres Quintero Guerrero",
     "tiempo_diploma": "00:36:14",
-    "stats_diploma": "5. /357 151. /1597"
+    "stats_diploma": "5. /357 161. /1621"
   },
   {
-    "puesto": 152,
+    "puesto": 162,
+    "placa": "5508",
+    "nombre": "Edgar Calixto Rojas Roman",
+    "categoria": "5 K MASTER B",
+    "ciudad": "Giron",
+    "tiempo": "0:36:17",
+    "dif": "+19:05",
+    "vel_prom": "8.2 Km/h",
+    "ritmo": "7:15 Min/km",
+    "pdf_page": 1604,
+    "dorsal": "5508",
+    "categoria_diploma": "5 K MASTER B",
+    "nombre_diploma": "Edgar Calixto Rojas Roman",
+    "tiempo_diploma": "00:36:17",
+    "stats_diploma": "8. /11 162. /1621"
+  },
+  {
+    "puesto": 163,
     "placa": "5276",
     "nombre": "Margaret Elizalde Herrera",
     "categoria": "5 K ABIERTA",
@@ -2576,15 +2763,15 @@ const RUNNERS_DATA = [
     "dif": "+19:06",
     "vel_prom": "8.2 Km/h",
     "ritmo": "7:15 Min/km",
-    "pdf_page": 1332,
+    "pdf_page": 1519,
     "dorsal": "5276",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Margaret Elizalde Herrera",
     "tiempo_diploma": "00:36:18",
-    "stats_diploma": "54. /160 152. /1597"
+    "stats_diploma": "53. /156 163. /1621"
   },
   {
-    "puesto": 153,
+    "puesto": 164,
     "placa": "5200",
     "nombre": "Nurys Navarro",
     "categoria": "5 K ABIERTA",
@@ -2593,15 +2780,15 @@ const RUNNERS_DATA = [
     "dif": "+19:09",
     "vel_prom": "8.2 Km/h",
     "ritmo": "7:16 Min/km",
-    "pdf_page": 1333,
+    "pdf_page": 1461,
     "dorsal": "5200",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Nurys Navarro",
     "tiempo_diploma": "00:36:21",
-    "stats_diploma": "55. /160 153. /1597"
+    "stats_diploma": "54. /156 164. /1621"
   },
   {
-    "puesto": 154,
+    "puesto": 165,
     "placa": "5063",
     "nombre": "Diana Carolina Redondo",
     "categoria": "5 K ABIERTA",
@@ -2610,15 +2797,15 @@ const RUNNERS_DATA = [
     "dif": "+19:09",
     "vel_prom": "8.2 Km/h",
     "ritmo": "7:16 Min/km",
-    "pdf_page": 1334,
+    "pdf_page": 1341,
     "dorsal": "5063",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Diana Carolina Redondo",
     "tiempo_diploma": "00:36:21",
-    "stats_diploma": "56. /160 154. /1597"
+    "stats_diploma": "55. /156 165. /1621"
   },
   {
-    "puesto": 155,
+    "puesto": 166,
     "placa": "5443",
     "nombre": "Luz magdeline Velasco",
     "categoria": "5 K MASTER A",
@@ -2627,15 +2814,15 @@ const RUNNERS_DATA = [
     "dif": "+19:17",
     "vel_prom": "8.2 Km/h",
     "ritmo": "7:17 Min/km",
-    "pdf_page": 1544,
+    "pdf_page": 1566,
     "dorsal": "5443",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Luz magdeline Velasco",
     "tiempo_diploma": "00:36:29",
-    "stats_diploma": "16. /37 155. /1597"
+    "stats_diploma": "15. /36 166. /1621"
   },
   {
-    "puesto": 156,
+    "puesto": 167,
     "placa": "5142",
     "nombre": "LEIDY LORENA MUÑOZ GALVAN",
     "categoria": "5 K ABIERTA",
@@ -2644,15 +2831,15 @@ const RUNNERS_DATA = [
     "dif": "+19:19",
     "vel_prom": "8.2 Km/h",
     "ritmo": "7:18 Min/km",
-    "pdf_page": 1335,
+    "pdf_page": 1410,
     "dorsal": "5142",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "LEIDY LORENA MUÑOZ GALVAN",
     "tiempo_diploma": "00:36:31",
-    "stats_diploma": "57. /160 156. /1597"
+    "stats_diploma": "56. /156 167. /1621"
   },
   {
-    "puesto": 157,
+    "puesto": 168,
     "placa": "5180",
     "nombre": "MARIANA ZAMBRANO PINTO",
     "categoria": "5 K ABIERTA",
@@ -2661,32 +2848,32 @@ const RUNNERS_DATA = [
     "dif": "+19:25",
     "vel_prom": "8.1 Km/h",
     "ritmo": "7:19 Min/km",
-    "pdf_page": 1336,
+    "pdf_page": 1442,
     "dorsal": "5180",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "MARIANA ZAMBRANO PINTO",
     "tiempo_diploma": "00:36:37",
-    "stats_diploma": "58. /160 157. /1597"
+    "stats_diploma": "57. /156 168. /1621"
   },
   {
-    "puesto": 158,
+    "puesto": 169,
     "placa": "5115",
     "nombre": "Juan Pablo Arenas Benítez",
     "categoria": "5 K ABIERTA",
     "ciudad": "Sangil",
-    "tiempo": "0:36:39",
-    "dif": "+19:27",
+    "tiempo": "0:36:38",
+    "dif": "+19:26",
     "vel_prom": "8.1 Km/h",
     "ritmo": "7:19 Min/km",
-    "pdf_page": 1493,
+    "pdf_page": 1387,
     "dorsal": "5115",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Juan Pablo Arenas Benítez",
-    "tiempo_diploma": "00:36:39",
-    "stats_diploma": "55. /90 158. /1597"
+    "tiempo_diploma": "00:36:38",
+    "stats_diploma": "53. /88 169. /1621"
   },
   {
-    "puesto": 159,
+    "puesto": 170,
     "placa": "5181",
     "nombre": "Mariana Jerez",
     "categoria": "5 K ABIERTA",
@@ -2695,15 +2882,15 @@ const RUNNERS_DATA = [
     "dif": "+19:29",
     "vel_prom": "8.1 Km/h",
     "ritmo": "7:20 Min/km",
-    "pdf_page": 1337,
+    "pdf_page": 1443,
     "dorsal": "5181",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Mariana Jerez",
     "tiempo_diploma": "00:36:41",
-    "stats_diploma": "59. /160 159. /1597"
+    "stats_diploma": "58. /156 170. /1621"
   },
   {
-    "puesto": 160,
+    "puesto": 171,
     "placa": "5081",
     "nombre": "Fabian Andrey Gualdron Ortiz",
     "categoria": "5 K ABIERTA",
@@ -2712,32 +2899,15 @@ const RUNNERS_DATA = [
     "dif": "+19:29",
     "vel_prom": "8.1 Km/h",
     "ritmo": "7:20 Min/km",
-    "pdf_page": 1494,
+    "pdf_page": 1357,
     "dorsal": "5081",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Fabian Andrey Gualdron Ortiz",
     "tiempo_diploma": "00:36:41",
-    "stats_diploma": "56. /90 160. /1597"
+    "stats_diploma": "54. /88 171. /1621"
   },
   {
-    "puesto": 161,
-    "placa": "111",
-    "nombre": "Jeny Andrea Barcenas Albarracín",
-    "categoria": "10 K ELITE",
-    "ciudad": "Bucaramanga",
-    "tiempo": "0:36:43",
-    "dif": "+19:31",
-    "vel_prom": "16.3 Km/h",
-    "ritmo": "3:40 Min/km",
-    "pdf_page": 302,
-    "dorsal": "111",
-    "categoria_diploma": "10 K ELITE",
-    "nombre_diploma": "Jeny Andrea Barcenas Albarracín",
-    "tiempo_diploma": "00:36:43",
-    "stats_diploma": "1. /17 161. /1597"
-  },
-  {
-    "puesto": 162,
+    "puesto": 172,
     "placa": "5403",
     "nombre": "ANA DELIA REINA VILLAMIZAR",
     "categoria": "5 K MASTER A",
@@ -2746,15 +2916,32 @@ const RUNNERS_DATA = [
     "dif": "+19:31",
     "vel_prom": "8.1 Km/h",
     "ritmo": "7:20 Min/km",
-    "pdf_page": 1545,
+    "pdf_page": 1531,
     "dorsal": "5403",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "ANA DELIA REINA VILLAMIZAR",
     "tiempo_diploma": "00:36:43",
-    "stats_diploma": "17. /37 162. /1597"
+    "stats_diploma": "16. /36 172. /1621"
   },
   {
-    "puesto": 163,
+    "puesto": 173,
+    "placa": "111",
+    "nombre": "Jeny Andrea Barcenas Albarracín",
+    "categoria": "10 K ELITE",
+    "ciudad": "Bucaramanga",
+    "tiempo": "0:36:43",
+    "dif": "+19:31",
+    "vel_prom": "16.3 Km/h",
+    "ritmo": "3:40 Min/km",
+    "pdf_page": 10,
+    "dorsal": "111",
+    "categoria_diploma": "10 K ELITE",
+    "nombre_diploma": "Jeny Andrea Barcenas Albarracín",
+    "tiempo_diploma": "00:36:43",
+    "stats_diploma": "1. /17 173. /1621"
+  },
+  {
+    "puesto": 174,
     "placa": "5236",
     "nombre": "Vanessa Cabanzo",
     "categoria": "5 K ABIERTA",
@@ -2763,15 +2950,15 @@ const RUNNERS_DATA = [
     "dif": "+19:32",
     "vel_prom": "8.1 Km/h",
     "ritmo": "7:20 Min/km",
-    "pdf_page": 1338,
+    "pdf_page": 1488,
     "dorsal": "5236",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Vanessa Cabanzo",
     "tiempo_diploma": "00:36:44",
-    "stats_diploma": "60. /160 163. /1597"
+    "stats_diploma": "59. /156 174. /1621"
   },
   {
-    "puesto": 164,
+    "puesto": 175,
     "placa": "5458",
     "nombre": "Ricardo Mancilla Lopez",
     "categoria": "5 K MASTER A",
@@ -2780,15 +2967,15 @@ const RUNNERS_DATA = [
     "dif": "+19:33",
     "vel_prom": "8.1 Km/h",
     "ritmo": "7:21 Min/km",
-    "pdf_page": 1588,
+    "pdf_page": 1581,
     "dorsal": "5458",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Ricardo Mancilla Lopez",
     "tiempo_diploma": "00:36:45",
-    "stats_diploma": "23. /32 164. /1597"
+    "stats_diploma": "23. /32 175. /1621"
   },
   {
-    "puesto": 165,
+    "puesto": 176,
     "placa": "5433",
     "nombre": "JOSE ECHEVERRIA BLANCO",
     "categoria": "5 K MASTER A",
@@ -2797,32 +2984,32 @@ const RUNNERS_DATA = [
     "dif": "+19:35",
     "vel_prom": "8.1 Km/h",
     "ritmo": "7:21 Min/km",
-    "pdf_page": 1589,
+    "pdf_page": 1557,
     "dorsal": "5433",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "JOSE ECHEVERRIA BLANCO",
     "tiempo_diploma": "00:36:47",
-    "stats_diploma": "24. /32 165. /1597"
+    "stats_diploma": "24. /32 176. /1621"
   },
   {
-    "puesto": 166,
+    "puesto": 177,
     "placa": "5001",
     "nombre": "Adriana Silva Sánchez",
     "categoria": "5 K ABIERTA",
     "ciudad": "",
-    "tiempo": "0:36:48",
-    "dif": "+19:36",
+    "tiempo": "0:36:47",
+    "dif": "+19:35",
     "vel_prom": "8.1 Km/h",
     "ritmo": "7:21 Min/km",
-    "pdf_page": 1339,
+    "pdf_page": 1285,
     "dorsal": "5001",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Adriana Silva Sánchez",
-    "tiempo_diploma": "00:36:48",
-    "stats_diploma": "61. /160 166. /1597"
+    "tiempo_diploma": "00:36:47",
+    "stats_diploma": "60. /156 177. /1621"
   },
   {
-    "puesto": 167,
+    "puesto": 178,
     "placa": "5116",
     "nombre": "JUAN PABLO ZAMBRANO SALAZAR",
     "categoria": "5 K ABIERTA",
@@ -2831,15 +3018,15 @@ const RUNNERS_DATA = [
     "dif": "+19:43",
     "vel_prom": "8.1 Km/h",
     "ritmo": "7:23 Min/km",
-    "pdf_page": 1495,
+    "pdf_page": 1388,
     "dorsal": "5116",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "JUAN PABLO ZAMBRANO SALAZAR",
     "tiempo_diploma": "00:36:55",
-    "stats_diploma": "57. /90 167. /1597"
+    "stats_diploma": "55. /88 178. /1621"
   },
   {
-    "puesto": 168,
+    "puesto": 179,
     "placa": "3117",
     "nombre": "Leonel Pinzón Pinto",
     "categoria": "10 K MASTER A",
@@ -2848,15 +3035,15 @@ const RUNNERS_DATA = [
     "dif": "+19:45",
     "vel_prom": "16.2 Km/h",
     "ritmo": "3:41 Min/km",
-    "pdf_page": 1084,
+    "pdf_page": 1108,
     "dorsal": "3117",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Leonel Pinzón Pinto",
     "tiempo_diploma": "00:36:57",
-    "stats_diploma": "2. /107 168. /1597"
+    "stats_diploma": "2. /107 179. /1621"
   },
   {
-    "puesto": 169,
+    "puesto": 180,
     "placa": "5455",
     "nombre": "Oscar Higuera Leon",
     "categoria": "5 K MASTER A",
@@ -2865,15 +3052,15 @@ const RUNNERS_DATA = [
     "dif": "+19:49",
     "vel_prom": "8.1 Km/h",
     "ritmo": "7:24 Min/km",
-    "pdf_page": 1590,
+    "pdf_page": 1578,
     "dorsal": "5455",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Oscar Higuera Leon",
     "tiempo_diploma": "00:37:01",
-    "stats_diploma": "25. /32 169. /1597"
+    "stats_diploma": "25. /32 180. /1621"
   },
   {
-    "puesto": 170,
+    "puesto": 181,
     "placa": "5464",
     "nombre": "Tatiana Lisset Poveda Sanchez",
     "categoria": "5 K MASTER A",
@@ -2882,15 +3069,15 @@ const RUNNERS_DATA = [
     "dif": "+19:49",
     "vel_prom": "8.1 Km/h",
     "ritmo": "7:24 Min/km",
-    "pdf_page": 1546,
+    "pdf_page": 1587,
     "dorsal": "5464",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Tatiana Lisset Poveda Sanchez",
     "tiempo_diploma": "00:37:01",
-    "stats_diploma": "18. /37 170. /1597"
+    "stats_diploma": "17. /36 181. /1621"
   },
   {
-    "puesto": 171,
+    "puesto": 182,
     "placa": "5026",
     "nombre": "Mariana Mateus",
     "categoria": "5 K ABIERTA",
@@ -2899,15 +3086,15 @@ const RUNNERS_DATA = [
     "dif": "+19:51",
     "vel_prom": "8.0 Km/h",
     "ritmo": "7:24 Min/km",
-    "pdf_page": 1340,
+    "pdf_page": 1307,
     "dorsal": "5026",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Mariana Mateus",
     "tiempo_diploma": "00:37:03",
-    "stats_diploma": "62. /160 171. /1597"
+    "stats_diploma": "61. /156 182. /1621"
   },
   {
-    "puesto": 172,
+    "puesto": 183,
     "placa": "5260",
     "nombre": "LAURA MONTES CRISTANCHO",
     "categoria": "5 K ABIERTA",
@@ -2916,15 +3103,15 @@ const RUNNERS_DATA = [
     "dif": "+20:06",
     "vel_prom": "8.0 Km/h",
     "ritmo": "7:27 Min/km",
-    "pdf_page": 1341,
+    "pdf_page": 1509,
     "dorsal": "5260",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "LAURA MONTES CRISTANCHO",
     "tiempo_diploma": "00:37:18",
-    "stats_diploma": "63. /160 172. /1597"
+    "stats_diploma": "62. /156 183. /1621"
   },
   {
-    "puesto": 173,
+    "puesto": 184,
     "placa": "3373",
     "nombre": "Ricardo Torres",
     "categoria": "10 K MASTER B",
@@ -2933,15 +3120,15 @@ const RUNNERS_DATA = [
     "dif": "+20:07",
     "vel_prom": "16.0 Km/h",
     "ritmo": "3:43 Min/km",
-    "pdf_page": 1223,
+    "pdf_page": 1262,
     "dorsal": "3373",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Ricardo Torres",
     "tiempo_diploma": "00:37:19",
-    "stats_diploma": "1. /56 173. /1597"
+    "stats_diploma": "2. /57 184. /1621"
   },
   {
-    "puesto": 174,
+    "puesto": 185,
     "placa": "123",
     "nombre": "Paula Andrea Camargo Morales",
     "categoria": "10 K ELITE",
@@ -2950,15 +3137,15 @@ const RUNNERS_DATA = [
     "dif": "+20:09",
     "vel_prom": "16.0 Km/h",
     "ritmo": "3:44 Min/km",
-    "pdf_page": 303,
+    "pdf_page": 19,
     "dorsal": "123",
     "categoria_diploma": "10 K ELITE",
     "nombre_diploma": "Paula Andrea Camargo Morales",
     "tiempo_diploma": "00:37:21",
-    "stats_diploma": "2. /17 174. /1597"
+    "stats_diploma": "2. /17 185. /1621"
   },
   {
-    "puesto": 175,
+    "puesto": 186,
     "placa": "5261",
     "nombre": "Alejandra Merchan Salgado",
     "categoria": "5 K ABIERTA",
@@ -2967,15 +3154,15 @@ const RUNNERS_DATA = [
     "dif": "+20:10",
     "vel_prom": "8.0 Km/h",
     "ritmo": "7:28 Min/km",
-    "pdf_page": 1342,
+    "pdf_page": 1510,
     "dorsal": "5261",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Alejandra Merchan Salgado",
     "tiempo_diploma": "00:37:22",
-    "stats_diploma": "64. /160 175. /1597"
+    "stats_diploma": "63. /156 186. /1621"
   },
   {
-    "puesto": 176,
+    "puesto": 187,
     "placa": "5130",
     "nombre": "Kevin Steven Vargas Espitia",
     "categoria": "5 K ABIERTA",
@@ -2984,15 +3171,32 @@ const RUNNERS_DATA = [
     "dif": "+20:11",
     "vel_prom": "8.0 Km/h",
     "ritmo": "7:28 Min/km",
-    "pdf_page": 1496,
+    "pdf_page": 1401,
     "dorsal": "5130",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Kevin Steven Vargas Espitia",
     "tiempo_diploma": "00:37:23",
-    "stats_diploma": "58. /90 176. /1597"
+    "stats_diploma": "56. /88 187. /1621"
   },
   {
-    "puesto": 177,
+    "puesto": 188,
+    "placa": "5515",
+    "nombre": "German Botello",
+    "categoria": "5 K MASTER B",
+    "ciudad": "Bucaramanga",
+    "tiempo": "0:37:28",
+    "dif": "+20:16",
+    "vel_prom": "8.0 Km/h",
+    "ritmo": "7:29 Min/km",
+    "pdf_page": 1610,
+    "dorsal": "5515",
+    "categoria_diploma": "5 K MASTER B",
+    "nombre_diploma": "German Botello",
+    "tiempo_diploma": "00:37:28",
+    "stats_diploma": "9. /11 188. /1621"
+  },
+  {
+    "puesto": 189,
     "placa": "5127",
     "nombre": "Karol Gonzalez",
     "categoria": "5 K ABIERTA",
@@ -3001,15 +3205,15 @@ const RUNNERS_DATA = [
     "dif": "+20:16",
     "vel_prom": "8.0 Km/h",
     "ritmo": "7:29 Min/km",
-    "pdf_page": 1343,
+    "pdf_page": 1398,
     "dorsal": "5127",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Karol Gonzalez",
     "tiempo_diploma": "00:37:28",
-    "stats_diploma": "65. /160 177. /1597"
+    "stats_diploma": "64. /156 189. /1621"
   },
   {
-    "puesto": 178,
+    "puesto": 190,
     "placa": "3306",
     "nombre": "Arly Aya",
     "categoria": "10 K MASTER B",
@@ -3018,15 +3222,15 @@ const RUNNERS_DATA = [
     "dif": "+20:22",
     "vel_prom": "15.9 Km/h",
     "ritmo": "3:45 Min/km",
-    "pdf_page": 1224,
+    "pdf_page": 1200,
     "dorsal": "3306",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Arly Aya",
     "tiempo_diploma": "00:37:34",
-    "stats_diploma": "2. /56 178. /1597"
+    "stats_diploma": "3. /57 190. /1621"
   },
   {
-    "puesto": 179,
+    "puesto": 191,
     "placa": "5413",
     "nombre": "CRISTIAN ALEXANDER GARZON DIAZ",
     "categoria": "5 K MASTER A",
@@ -3035,15 +3239,15 @@ const RUNNERS_DATA = [
     "dif": "+20:25",
     "vel_prom": "7.9 Km/h",
     "ritmo": "7:31 Min/km",
-    "pdf_page": 1591,
+    "pdf_page": 1540,
     "dorsal": "5413",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "CRISTIAN ALEXANDER GARZON DIAZ",
     "tiempo_diploma": "00:37:37",
-    "stats_diploma": "26. /32 179. /1597"
+    "stats_diploma": "26. /32 191. /1621"
   },
   {
-    "puesto": 180,
+    "puesto": 192,
     "placa": "5002",
     "nombre": "ADRIANA BOLIVAR LAMUS",
     "categoria": "5 K ABIERTA",
@@ -3052,32 +3256,32 @@ const RUNNERS_DATA = [
     "dif": "+20:25",
     "vel_prom": "7.9 Km/h",
     "ritmo": "7:31 Min/km",
-    "pdf_page": 1344,
+    "pdf_page": 1286,
     "dorsal": "5002",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "ADRIANA BOLIVAR LAMUS",
     "tiempo_diploma": "00:37:37",
-    "stats_diploma": "66. /160 180. /1597"
+    "stats_diploma": "65. /156 192. /1621"
   },
   {
-    "puesto": 181,
+    "puesto": 193,
     "placa": "5163",
     "nombre": "Manuela Esther De La Hoz Collazos",
     "categoria": "5 K ABIERTA",
     "ciudad": "Bucaramanga",
-    "tiempo": "0:37:39",
-    "dif": "+20:27",
+    "tiempo": "0:37:38",
+    "dif": "+20:26",
     "vel_prom": "7.9 Km/h",
     "ritmo": "7:31 Min/km",
-    "pdf_page": 1345,
+    "pdf_page": 1428,
     "dorsal": "5163",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Manuela Esther De La Hoz Collazos",
-    "tiempo_diploma": "00:37:39",
-    "stats_diploma": "67. /160 181. /1597"
+    "tiempo_diploma": "00:37:38",
+    "stats_diploma": "66. /156 193. /1621"
   },
   {
-    "puesto": 182,
+    "puesto": 194,
     "placa": "5084",
     "nombre": "Fernanda Lucia Fuentes Suarez",
     "categoria": "5 K ABIERTA",
@@ -3086,49 +3290,49 @@ const RUNNERS_DATA = [
     "dif": "+20:28",
     "vel_prom": "7.9 Km/h",
     "ritmo": "7:32 Min/km",
-    "pdf_page": 1346,
+    "pdf_page": 1360,
     "dorsal": "5084",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Fernanda Lucia Fuentes Suarez",
     "tiempo_diploma": "00:37:40",
-    "stats_diploma": "68. /160 182. /1597"
+    "stats_diploma": "67. /156 194. /1621"
   },
   {
-    "puesto": 183,
+    "puesto": 195,
     "placa": "5134",
     "nombre": "LAURA Veloza Arevalo",
     "categoria": "5 K ABIERTA",
     "ciudad": "Bucaramanga",
-    "tiempo": "0:37:49",
-    "dif": "+20:37",
+    "tiempo": "0:37:48",
+    "dif": "+20:36",
     "vel_prom": "7.9 Km/h",
     "ritmo": "7:33 Min/km",
-    "pdf_page": 1347,
+    "pdf_page": 1405,
     "dorsal": "5134",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "LAURA Veloza Arevalo",
-    "tiempo_diploma": "00:37:49",
-    "stats_diploma": "69. /160 183. /1597"
+    "tiempo_diploma": "00:37:48",
+    "stats_diploma": "68. /156 195. /1621"
   },
   {
-    "puesto": 184,
+    "puesto": 196,
     "placa": "5159",
     "nombre": "Luis Eduardo Martínez Meneses",
     "categoria": "5 K ABIERTA",
     "ciudad": "Barrancabermeja",
-    "tiempo": "0:37:56",
-    "dif": "+20:44",
+    "tiempo": "0:37:55",
+    "dif": "+20:43",
     "vel_prom": "7.9 Km/h",
     "ritmo": "7:35 Min/km",
-    "pdf_page": 1497,
+    "pdf_page": 1425,
     "dorsal": "5159",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Luis Eduardo Martínez Meneses",
-    "tiempo_diploma": "00:37:56",
-    "stats_diploma": "59. /90 184. /1597"
+    "tiempo_diploma": "00:37:55",
+    "stats_diploma": "57. /88 196. /1621"
   },
   {
-    "puesto": 185,
+    "puesto": 197,
     "placa": "5404",
     "nombre": "Ana Isabel Serrano Serrano",
     "categoria": "5 K MASTER A",
@@ -3137,32 +3341,32 @@ const RUNNERS_DATA = [
     "dif": "+20:53",
     "vel_prom": "7.8 Km/h",
     "ritmo": "7:37 Min/km",
-    "pdf_page": 1547,
+    "pdf_page": 1532,
     "dorsal": "5404",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Ana Isabel Serrano Serrano",
     "tiempo_diploma": "00:38:05",
-    "stats_diploma": "19. /37 185. /1597"
+    "stats_diploma": "18. /36 197. /1621"
   },
   {
-    "puesto": 186,
+    "puesto": 198,
     "placa": "5146",
     "nombre": "LIGIA PATRICIA DURAN MORA",
     "categoria": "5 K ABIERTA",
     "ciudad": "Bucaramanga",
-    "tiempo": "0:38:06",
-    "dif": "+20:54",
+    "tiempo": "0:38:05",
+    "dif": "+20:53",
     "vel_prom": "7.8 Km/h",
     "ritmo": "7:37 Min/km",
-    "pdf_page": 1348,
+    "pdf_page": 1414,
     "dorsal": "5146",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "LIGIA PATRICIA DURAN MORA",
-    "tiempo_diploma": "00:38:06",
-    "stats_diploma": "70. /160 186. /1597"
+    "tiempo_diploma": "00:38:05",
+    "stats_diploma": "69. /156 198. /1621"
   },
   {
-    "puesto": 187,
+    "puesto": 199,
     "placa": "5101",
     "nombre": "Jenny Buitrago",
     "categoria": "5 K ABIERTA",
@@ -3171,49 +3375,32 @@ const RUNNERS_DATA = [
     "dif": "+20:55",
     "vel_prom": "7.8 Km/h",
     "ritmo": "7:37 Min/km",
-    "pdf_page": 1349,
+    "pdf_page": 1373,
     "dorsal": "5101",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Jenny Buitrago",
     "tiempo_diploma": "00:38:07",
-    "stats_diploma": "71. /160 187. /1597"
+    "stats_diploma": "70. /156 199. /1621"
   },
   {
-    "puesto": 188,
+    "puesto": 200,
     "placa": "5027",
     "nombre": "Angélica Ramírez Parra",
     "categoria": "5 K ABIERTA",
     "ciudad": "",
-    "tiempo": "0:38:10",
-    "dif": "+20:58",
+    "tiempo": "0:38:09",
+    "dif": "+20:57",
     "vel_prom": "7.8 Km/h",
-    "ritmo": "7:38 Min/km",
-    "pdf_page": 1350,
+    "ritmo": "7:37 Min/km",
+    "pdf_page": 1308,
     "dorsal": "5027",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Angélica Ramírez Parra",
-    "tiempo_diploma": "00:38:10",
-    "stats_diploma": "72. /160 188. /1597"
+    "tiempo_diploma": "00:38:09",
+    "stats_diploma": "71. /156 200. /1621"
   },
   {
-    "puesto": 189,
-    "placa": "5139",
-    "nombre": "Laura Ximena Prada RuedA",
-    "categoria": "5 K ABIERTA",
-    "ciudad": "",
-    "tiempo": "0:38:13",
-    "dif": "+21:01",
-    "vel_prom": "7.8 Km/h",
-    "ritmo": "7:38 Min/km",
-    "pdf_page": 1351,
-    "dorsal": "5139",
-    "categoria_diploma": "5 K ABIERTA",
-    "nombre_diploma": "Laura Ximena Prada RuedA",
-    "tiempo_diploma": "00:38:13",
-    "stats_diploma": "73. /160 189. /1597"
-  },
-  {
-    "puesto": 190,
+    "puesto": 201,
     "placa": "5258",
     "nombre": "INES SOFIA SOLANO HENAO",
     "categoria": "5 K ABIERTA",
@@ -3222,15 +3409,15 @@ const RUNNERS_DATA = [
     "dif": "+21:13",
     "vel_prom": "7.8 Km/h",
     "ritmo": "7:41 Min/km",
-    "pdf_page": 1352,
+    "pdf_page": 1507,
     "dorsal": "5258",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "INES SOFIA SOLANO HENAO",
     "tiempo_diploma": "00:38:25",
-    "stats_diploma": "74. /160 190. /1597"
+    "stats_diploma": "72. /156 201. /1621"
   },
   {
-    "puesto": 191,
+    "puesto": 202,
     "placa": "105",
     "nombre": "David Cadena",
     "categoria": "10 K ELITE",
@@ -3239,15 +3426,15 @@ const RUNNERS_DATA = [
     "dif": "+21:15",
     "vel_prom": "15.6 Km/h",
     "ritmo": "3:50 Min/km",
-    "pdf_page": 320,
+    "pdf_page": 4,
     "dorsal": "105",
     "categoria_diploma": "10 K ELITE",
     "nombre_diploma": "David Cadena",
     "tiempo_diploma": "00:38:27",
-    "stats_diploma": "2. /10 191. /1597"
+    "stats_diploma": "2. /10 202. /1621"
   },
   {
-    "puesto": 192,
+    "puesto": 203,
     "placa": "1330",
     "nombre": "Johnatan Sarmiento",
     "categoria": "10 K ABIERTA",
@@ -3256,15 +3443,32 @@ const RUNNERS_DATA = [
     "dif": "+21:17",
     "vel_prom": "15.5 Km/h",
     "ritmo": "3:50 Min/km",
-    "pdf_page": 644,
+    "pdf_page": 343,
     "dorsal": "1330",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Johnatan Sarmiento",
     "tiempo_diploma": "00:38:29",
-    "stats_diploma": "6. /357 192. /1597"
+    "stats_diploma": "6. /357 203. /1621"
   },
   {
-    "puesto": 193,
+    "puesto": 204,
+    "placa": "5461",
+    "nombre": "Sandra Milena Galvis Mora",
+    "categoria": "5 K MASTER A",
+    "ciudad": "",
+    "tiempo": "0:38:29",
+    "dif": "+21:17",
+    "vel_prom": "7.7 Km/h",
+    "ritmo": "7:41 Min/km",
+    "pdf_page": 1584,
+    "dorsal": "5461",
+    "categoria_diploma": "5 K MASTER A",
+    "nombre_diploma": "Sandra Milena Galvis Mora",
+    "tiempo_diploma": "00:38:29",
+    "stats_diploma": "19. /36 204. /1621"
+  },
+  {
+    "puesto": 205,
     "placa": "3122",
     "nombre": "Luis Tasco",
     "categoria": "10 K MASTER A",
@@ -3273,32 +3477,15 @@ const RUNNERS_DATA = [
     "dif": "+21:17",
     "vel_prom": "15.5 Km/h",
     "ritmo": "3:50 Min/km",
-    "pdf_page": 1085,
+    "pdf_page": 1113,
     "dorsal": "3122",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Luis Tasco",
     "tiempo_diploma": "00:38:29",
-    "stats_diploma": "3. /107 193. /1597"
+    "stats_diploma": "3. /107 205. /1621"
   },
   {
-    "puesto": 194,
-    "placa": "5461",
-    "nombre": "Sandra Milena Galvis Mora",
-    "categoria": "5 K MASTER A",
-    "ciudad": "",
-    "tiempo": "0:38:30",
-    "dif": "+21:18",
-    "vel_prom": "7.7 Km/h",
-    "ritmo": "7:42 Min/km",
-    "pdf_page": 1548,
-    "dorsal": "5461",
-    "categoria_diploma": "5 K MASTER A",
-    "nombre_diploma": "Sandra Milena Galvis Mora",
-    "tiempo_diploma": "00:38:30",
-    "stats_diploma": "20. /37 194. /1597"
-  },
-  {
-    "puesto": 195,
+    "puesto": 206,
     "placa": "5247",
     "nombre": "Yesica Tatiana Niño Delgado",
     "categoria": "5 K ABIERTA",
@@ -3307,15 +3494,15 @@ const RUNNERS_DATA = [
     "dif": "+21:18",
     "vel_prom": "7.7 Km/h",
     "ritmo": "7:42 Min/km",
-    "pdf_page": 1353,
+    "pdf_page": 1497,
     "dorsal": "5247",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Yesica Tatiana Niño Delgado",
     "tiempo_diploma": "00:38:30",
-    "stats_diploma": "75. /160 195. /1597"
+    "stats_diploma": "73. /156 206. /1621"
   },
   {
-    "puesto": 196,
+    "puesto": 207,
     "placa": "5042",
     "nombre": "Carolina Cadena",
     "categoria": "5 K ABIERTA",
@@ -3324,32 +3511,32 @@ const RUNNERS_DATA = [
     "dif": "+21:23",
     "vel_prom": "7.7 Km/h",
     "ritmo": "7:43 Min/km",
-    "pdf_page": 1354,
+    "pdf_page": 1322,
     "dorsal": "5042",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Carolina Cadena",
     "tiempo_diploma": "00:38:35",
-    "stats_diploma": "76. /160 196. /1597"
+    "stats_diploma": "74. /156 207. /1621"
   },
   {
-    "puesto": 197,
+    "puesto": 208,
     "placa": "5005",
     "nombre": "Alejandra Pinto Bautista",
     "categoria": "5 K ABIERTA",
     "ciudad": "",
-    "tiempo": "0:38:39",
-    "dif": "+21:27",
+    "tiempo": "0:38:38",
+    "dif": "+21:26",
     "vel_prom": "7.7 Km/h",
     "ritmo": "7:43 Min/km",
-    "pdf_page": 1355,
+    "pdf_page": 1288,
     "dorsal": "5005",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Alejandra Pinto Bautista",
-    "tiempo_diploma": "00:38:39",
-    "stats_diploma": "77. /160 197. /1597"
+    "tiempo_diploma": "00:38:38",
+    "stats_diploma": "75. /156 208. /1621"
   },
   {
-    "puesto": 198,
+    "puesto": 209,
     "placa": "3381",
     "nombre": "Víctor Angel Florez",
     "categoria": "10 K MASTER B",
@@ -3358,32 +3545,66 @@ const RUNNERS_DATA = [
     "dif": "+21:30",
     "vel_prom": "15.5 Km/h",
     "ritmo": "3:52 Min/km",
-    "pdf_page": 1225,
+    "pdf_page": 1270,
     "dorsal": "3381",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Víctor Angel Florez",
     "tiempo_diploma": "00:38:42",
-    "stats_diploma": "3. /56 198. /1597"
+    "stats_diploma": "4. /57 209. /1621"
   },
   {
-    "puesto": 199,
+    "puesto": 210,
+    "placa": "5532",
+    "nombre": "Sandra Marcela Romero Martinez",
+    "categoria": "5 K MASTER B",
+    "ciudad": "Floridablanca",
+    "tiempo": "0:38:45",
+    "dif": "+21:33",
+    "vel_prom": "7.7 Km/h",
+    "ritmo": "7:45 Min/km",
+    "pdf_page": 1622,
+    "dorsal": "5532",
+    "categoria_diploma": "5 K MASTER B",
+    "nombre_diploma": "Sandra Marcela Romero Martinez",
+    "tiempo_diploma": "00:38:45",
+    "stats_diploma": "7. /18 210. /1621"
+  },
+  {
+    "puesto": 211,
+    "placa": "5517",
+    "nombre": "Hernan Yepes",
+    "categoria": "5 K MASTER B",
+    "ciudad": "",
+    "tiempo": "0:38:45",
+    "dif": "+21:33",
+    "vel_prom": "7.7 Km/h",
+    "ritmo": "7:45 Min/km",
+    "pdf_page": 1611,
+    "dorsal": "5517",
+    "categoria_diploma": "5 K MASTER B",
+    "nombre_diploma": "Hernan Yepes",
+    "tiempo_diploma": "00:38:45",
+    "stats_diploma": "10. /11 211. /1621"
+  },
+  {
+    "puesto": 212,
     "placa": "5092",
     "nombre": "Hugo Fernando Barragán Ramírez",
     "categoria": "5 K ABIERTA",
     "ciudad": "",
-    "tiempo": "0:38:47",
-    "dif": "+21:35",
+    "tiempo": "0:38:46",
+    "dif": "+21:34",
     "vel_prom": "7.7 Km/h",
     "ritmo": "7:45 Min/km",
-    "pdf_page": 1498,
+    "pdf_page": 1367,
     "dorsal": "5092",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Hugo Fernando Barragán Ramírez",
-    "tiempo_diploma": "00:38:47",
-    "stats_diploma": "60. /90 199. /1597"
+    "tiempo_diploma": "00:38:46",
+    "stats_diploma": "58. /88 212. /1621"
   },
   {
-    "puesto": 200,
+    "puesto": 213,
     "placa": "3321",
     "nombre": "Eliberto Duran padilla",
     "categoria": "10 K MASTER B",
@@ -3392,32 +3613,32 @@ const RUNNERS_DATA = [
     "dif": "+21:35",
     "vel_prom": "15.4 Km/h",
     "ritmo": "3:52 Min/km",
-    "pdf_page": 1226,
+    "pdf_page": 1214,
     "dorsal": "3321",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Eliberto Duran padilla",
     "tiempo_diploma": "00:38:47",
-    "stats_diploma": "4. /56 200. /1597"
+    "stats_diploma": "5. /57 213. /1621"
   },
   {
-    "puesto": 201,
+    "puesto": 214,
     "placa": "5230",
     "nombre": "Tatiana Vanegas",
     "categoria": "5 K ABIERTA",
     "ciudad": "",
-    "tiempo": "0:38:48",
-    "dif": "+21:36",
+    "tiempo": "0:38:47",
+    "dif": "+21:35",
     "vel_prom": "7.7 Km/h",
     "ritmo": "7:45 Min/km",
-    "pdf_page": 1356,
+    "pdf_page": 1483,
     "dorsal": "5230",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Tatiana Vanegas",
-    "tiempo_diploma": "00:38:48",
-    "stats_diploma": "78. /160 201. /1597"
+    "tiempo_diploma": "00:38:47",
+    "stats_diploma": "76. /156 214. /1621"
   },
   {
-    "puesto": 202,
+    "puesto": 215,
     "placa": "5023",
     "nombre": "Angela Fernanda Ibañez",
     "categoria": "5 K ABIERTA",
@@ -3426,32 +3647,15 @@ const RUNNERS_DATA = [
     "dif": "+21:36",
     "vel_prom": "7.7 Km/h",
     "ritmo": "7:45 Min/km",
-    "pdf_page": 1357,
+    "pdf_page": 1304,
     "dorsal": "5023",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Angela Fernanda Ibañez",
     "tiempo_diploma": "00:38:48",
-    "stats_diploma": "79. /160 202. /1597"
+    "stats_diploma": "77. /156 215. /1621"
   },
   {
-    "puesto": 203,
-    "placa": "5212",
-    "nombre": "Sandra Paola Martínez Jurado",
-    "categoria": "5 K ABIERTA",
-    "ciudad": "Piedecuesta",
-    "tiempo": "0:38:51",
-    "dif": "+21:39",
-    "vel_prom": "7.7 Km/h",
-    "ritmo": "7:46 Min/km",
-    "pdf_page": 1358,
-    "dorsal": "5212",
-    "categoria_diploma": "5 K ABIERTA",
-    "nombre_diploma": "Sandra Paola Martínez Jurado",
-    "tiempo_diploma": "00:38:51",
-    "stats_diploma": "80. /160 203. /1597"
-  },
-  {
-    "puesto": 204,
+    "puesto": 216,
     "placa": "1445",
     "nombre": "Luis Carlos Escobar Arboleda",
     "categoria": "10 K ABIERTA",
@@ -3460,15 +3664,15 @@ const RUNNERS_DATA = [
     "dif": "+21:42",
     "vel_prom": "15.4 Km/h",
     "ritmo": "3:53 Min/km",
-    "pdf_page": 645,
+    "pdf_page": 441,
     "dorsal": "1445",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Luis Carlos Escobar Arboleda",
     "tiempo_diploma": "00:38:54",
-    "stats_diploma": "7. /357 204. /1597"
+    "stats_diploma": "7. /357 216. /1621"
   },
   {
-    "puesto": 205,
+    "puesto": 217,
     "placa": "3044",
     "nombre": "Eduar Yesid Gómez Herrera",
     "categoria": "10 K MASTER A",
@@ -3477,15 +3681,15 @@ const RUNNERS_DATA = [
     "dif": "+21:44",
     "vel_prom": "15.4 Km/h",
     "ritmo": "3:53 Min/km",
-    "pdf_page": 1086,
+    "pdf_page": 1039,
     "dorsal": "3044",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Eduar Yesid Gómez Herrera",
     "tiempo_diploma": "00:38:56",
-    "stats_diploma": "4. /107 205. /1597"
+    "stats_diploma": "4. /107 217. /1621"
   },
   {
-    "puesto": 206,
+    "puesto": 218,
     "placa": "5091",
     "nombre": "Heilly Daniela Pedraza Romero",
     "categoria": "5 K ABIERTA",
@@ -3494,49 +3698,49 @@ const RUNNERS_DATA = [
     "dif": "+21:51",
     "vel_prom": "7.6 Km/h",
     "ritmo": "7:48 Min/km",
-    "pdf_page": 1359,
+    "pdf_page": 1366,
     "dorsal": "5091",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Heilly Daniela Pedraza Romero",
     "tiempo_diploma": "00:39:03",
-    "stats_diploma": "81. /160 206. /1597"
+    "stats_diploma": "78. /156 218. /1621"
   },
   {
-    "puesto": 207,
+    "puesto": 219,
     "placa": "5228",
     "nombre": "Stefanny Nataly Arenas Delgado",
     "categoria": "5 K ABIERTA",
     "ciudad": "Saravena",
-    "tiempo": "0:39:07",
-    "dif": "+21:55",
+    "tiempo": "0:39:06",
+    "dif": "+21:54",
     "vel_prom": "7.6 Km/h",
     "ritmo": "7:49 Min/km",
-    "pdf_page": 1360,
+    "pdf_page": 1481,
     "dorsal": "5228",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Stefanny Nataly Arenas Delgado",
-    "tiempo_diploma": "00:39:07",
-    "stats_diploma": "82. /160 207. /1597"
+    "tiempo_diploma": "00:39:06",
+    "stats_diploma": "79. /156 219. /1621"
   },
   {
-    "puesto": 208,
+    "puesto": 220,
     "placa": "5083",
     "nombre": "Felipe Ardila",
     "categoria": "5 K ABIERTA",
     "ciudad": "Bucaramanga",
-    "tiempo": "0:39:08",
-    "dif": "+21:56",
+    "tiempo": "0:39:07",
+    "dif": "+21:55",
     "vel_prom": "7.6 Km/h",
     "ritmo": "7:49 Min/km",
-    "pdf_page": 1499,
+    "pdf_page": 1359,
     "dorsal": "5083",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Felipe Ardila",
-    "tiempo_diploma": "00:39:08",
-    "stats_diploma": "61. /90 208. /1597"
+    "tiempo_diploma": "00:39:07",
+    "stats_diploma": "59. /88 220. /1621"
   },
   {
-    "puesto": 209,
+    "puesto": 221,
     "placa": "5093",
     "nombre": "Ingrid Barrera",
     "categoria": "5 K ABIERTA",
@@ -3545,15 +3749,15 @@ const RUNNERS_DATA = [
     "dif": "+21:56",
     "vel_prom": "7.6 Km/h",
     "ritmo": "7:49 Min/km",
-    "pdf_page": 1361,
+    "pdf_page": 1368,
     "dorsal": "5093",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Ingrid Barrera",
     "tiempo_diploma": "00:39:08",
-    "stats_diploma": "83. /160 209. /1597"
+    "stats_diploma": "80. /156 221. /1621"
   },
   {
-    "puesto": 210,
+    "puesto": 222,
     "placa": "5195",
     "nombre": "Nicol Mantilla",
     "categoria": "5 K ABIERTA",
@@ -3562,15 +3766,15 @@ const RUNNERS_DATA = [
     "dif": "+22:00",
     "vel_prom": "7.6 Km/h",
     "ritmo": "7:50 Min/km",
-    "pdf_page": 1362,
+    "pdf_page": 1456,
     "dorsal": "5195",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Nicol Mantilla",
     "tiempo_diploma": "00:39:12",
-    "stats_diploma": "84. /160 210. /1597"
+    "stats_diploma": "81. /156 222. /1621"
   },
   {
-    "puesto": 211,
+    "puesto": 223,
     "placa": "5184",
     "nombre": "Marleny Arciniegas Ruiz",
     "categoria": "5 K ABIERTA",
@@ -3579,15 +3783,15 @@ const RUNNERS_DATA = [
     "dif": "+22:01",
     "vel_prom": "7.6 Km/h",
     "ritmo": "7:50 Min/km",
-    "pdf_page": 1363,
+    "pdf_page": 1446,
     "dorsal": "5184",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Marleny Arciniegas Ruiz",
     "tiempo_diploma": "00:39:13",
-    "stats_diploma": "85. /160 211. /1597"
+    "stats_diploma": "82. /156 223. /1621"
   },
   {
-    "puesto": 212,
+    "puesto": 224,
     "placa": "5224",
     "nombre": "SILVIA DANIELA DUARTE SOLANO",
     "categoria": "5 K ABIERTA",
@@ -3596,15 +3800,15 @@ const RUNNERS_DATA = [
     "dif": "+22:04",
     "vel_prom": "7.6 Km/h",
     "ritmo": "7:51 Min/km",
-    "pdf_page": 1500,
+    "pdf_page": 1477,
     "dorsal": "5224",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "SILVIA DANIELA DUARTE SOLANO",
     "tiempo_diploma": "00:39:16",
-    "stats_diploma": "62. /90 212. /1597"
+    "stats_diploma": "60. /88 224. /1621"
   },
   {
-    "puesto": 213,
+    "puesto": 225,
     "placa": "1184",
     "nombre": "Diego Alejandro Sanchez Alzate",
     "categoria": "10 K ABIERTA",
@@ -3613,15 +3817,15 @@ const RUNNERS_DATA = [
     "dif": "+22:04",
     "vel_prom": "15.2 Km/h",
     "ritmo": "3:55 Min/km",
-    "pdf_page": 646,
+    "pdf_page": 206,
     "dorsal": "1184",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Diego Alejandro Sanchez Alzate",
     "tiempo_diploma": "00:39:16",
-    "stats_diploma": "8. /357 213. /1597"
+    "stats_diploma": "8. /357 225. /1621"
   },
   {
-    "puesto": 214,
+    "puesto": 226,
     "placa": "5055",
     "nombre": "Dariela de Jesús Beltrán Romero",
     "categoria": "5 K ABIERTA",
@@ -3630,15 +3834,15 @@ const RUNNERS_DATA = [
     "dif": "+22:06",
     "vel_prom": "7.6 Km/h",
     "ritmo": "7:51 Min/km",
-    "pdf_page": 1364,
+    "pdf_page": 1335,
     "dorsal": "5055",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Dariela de Jesús Beltrán Romero",
     "tiempo_diploma": "00:39:18",
-    "stats_diploma": "86. /160 214. /1597"
+    "stats_diploma": "83. /156 226. /1621"
   },
   {
-    "puesto": 215,
+    "puesto": 227,
     "placa": "5407",
     "nombre": "Carmen Cecilia Marín Tellez",
     "categoria": "5 K MASTER A",
@@ -3647,32 +3851,15 @@ const RUNNERS_DATA = [
     "dif": "+22:09",
     "vel_prom": "7.6 Km/h",
     "ritmo": "7:52 Min/km",
-    "pdf_page": 1549,
+    "pdf_page": 1535,
     "dorsal": "5407",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Carmen Cecilia Marín Tellez",
     "tiempo_diploma": "00:39:21",
-    "stats_diploma": "21. /37 215. /1597"
+    "stats_diploma": "20. /36 227. /1621"
   },
   {
-    "puesto": 216,
-    "placa": "5028",
-    "nombre": "Angie Narvaez",
-    "categoria": "5 K ABIERTA",
-    "ciudad": "Barrancabermeja",
-    "tiempo": "0:39:23",
-    "dif": "+22:11",
-    "vel_prom": "7.6 Km/h",
-    "ritmo": "7:52 Min/km",
-    "pdf_page": 1365,
-    "dorsal": "5028",
-    "categoria_diploma": "5 K ABIERTA",
-    "nombre_diploma": "Angie Narvaez",
-    "tiempo_diploma": "00:39:23",
-    "stats_diploma": "87. /160 216. /1597"
-  },
-  {
-    "puesto": 217,
+    "puesto": 228,
     "placa": "5219",
     "nombre": "Sebastián Alvarez",
     "categoria": "5 K ABIERTA",
@@ -3681,15 +3868,15 @@ const RUNNERS_DATA = [
     "dif": "+22:17",
     "vel_prom": "7.5 Km/h",
     "ritmo": "7:53 Min/km",
-    "pdf_page": 1501,
+    "pdf_page": 1473,
     "dorsal": "5219",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Sebastián Alvarez",
     "tiempo_diploma": "00:39:29",
-    "stats_diploma": "63. /90 217. /1597"
+    "stats_diploma": "61. /88 228. /1621"
   },
   {
-    "puesto": 218,
+    "puesto": 229,
     "placa": "5439",
     "nombre": "RECLAMÓ CON CARTA FISICA amaya",
     "categoria": "5 K MASTER A",
@@ -3698,15 +3885,15 @@ const RUNNERS_DATA = [
     "dif": "+22:18",
     "vel_prom": "7.5 Km/h",
     "ritmo": "7:54 Min/km",
-    "pdf_page": 1550,
+    "pdf_page": 1562,
     "dorsal": "5439",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "RECLAMÓ CON CARTA FISICA amaya martinez",
     "tiempo_diploma": "00:39:30",
-    "stats_diploma": "22. /37 218. /1597"
+    "stats_diploma": "21. /36 229. /1621"
   },
   {
-    "puesto": 219,
+    "puesto": 230,
     "placa": "5049",
     "nombre": "CRISTIAN JAVIER SALAZAR HERNANDEZ",
     "categoria": "5 K ABIERTA",
@@ -3715,15 +3902,15 @@ const RUNNERS_DATA = [
     "dif": "+22:20",
     "vel_prom": "7.5 Km/h",
     "ritmo": "7:54 Min/km",
-    "pdf_page": 1502,
+    "pdf_page": 1329,
     "dorsal": "5049",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "CRISTIAN JAVIER SALAZAR HERNANDEZ",
     "tiempo_diploma": "00:39:32",
-    "stats_diploma": "64. /90 219. /1597"
+    "stats_diploma": "62. /88 230. /1621"
   },
   {
-    "puesto": 220,
+    "puesto": 231,
     "placa": "3043",
     "nombre": "Edisson Panqueva Pinto",
     "categoria": "10 K MASTER A",
@@ -3732,15 +3919,15 @@ const RUNNERS_DATA = [
     "dif": "+22:20",
     "vel_prom": "15.1 Km/h",
     "ritmo": "3:57 Min/km",
-    "pdf_page": 1087,
+    "pdf_page": 1038,
     "dorsal": "3043",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Edisson Panqueva Pinto",
     "tiempo_diploma": "00:39:32",
-    "stats_diploma": "5. /107 220. /1597"
+    "stats_diploma": "5. /107 231. /1621"
   },
   {
-    "puesto": 221,
+    "puesto": 232,
     "placa": "5111",
     "nombre": "José Luis Villamizar Contreras",
     "categoria": "5 K ABIERTA",
@@ -3749,15 +3936,15 @@ const RUNNERS_DATA = [
     "dif": "+22:27",
     "vel_prom": "7.5 Km/h",
     "ritmo": "7:55 Min/km",
-    "pdf_page": 1503,
+    "pdf_page": 1383,
     "dorsal": "5111",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "José Luis Villamizar Contreras",
     "tiempo_diploma": "00:39:39",
-    "stats_diploma": "65. /90 221. /1597"
+    "stats_diploma": "63. /88 232. /1621"
   },
   {
-    "puesto": 222,
+    "puesto": 233,
     "placa": "5221",
     "nombre": "Sebastián aguilar Aguilar",
     "categoria": "5 K ABIERTA",
@@ -3766,15 +3953,15 @@ const RUNNERS_DATA = [
     "dif": "+22:35",
     "vel_prom": "7.5 Km/h",
     "ritmo": "7:57 Min/km",
-    "pdf_page": 1504,
+    "pdf_page": 1475,
     "dorsal": "5221",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Sebastián aguilar Aguilar",
     "tiempo_diploma": "00:39:47",
-    "stats_diploma": "66. /90 222. /1597"
+    "stats_diploma": "64. /88 233. /1621"
   },
   {
-    "puesto": 223,
+    "puesto": 234,
     "placa": "5244",
     "nombre": "Yeimy yulieth Ramirez guerrero",
     "categoria": "5 K ABIERTA",
@@ -3783,32 +3970,49 @@ const RUNNERS_DATA = [
     "dif": "+22:36",
     "vel_prom": "7.5 Km/h",
     "ritmo": "7:57 Min/km",
-    "pdf_page": 1366,
+    "pdf_page": 1495,
     "dorsal": "5244",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Yeimy yulieth Ramirez guerrero",
     "tiempo_diploma": "00:39:48",
-    "stats_diploma": "88. /160 223. /1597"
+    "stats_diploma": "84. /156 234. /1621"
   },
   {
-    "puesto": 224,
+    "puesto": 235,
+    "placa": "5512",
+    "nombre": "Erika Cristina Duran Tarazona",
+    "categoria": "5 K MASTER B",
+    "ciudad": "",
+    "tiempo": "0:39:49",
+    "dif": "+22:37",
+    "vel_prom": "7.5 Km/h",
+    "ritmo": "7:57 Min/km",
+    "pdf_page": 1608,
+    "dorsal": "5512",
+    "categoria_diploma": "5 K MASTER B",
+    "nombre_diploma": "Erika Cristina Duran Tarazona",
+    "tiempo_diploma": "00:39:49",
+    "stats_diploma": "8. /18 235. /1621"
+  },
+  {
+    "puesto": 236,
     "placa": "5249",
     "nombre": "Yolanda Cala",
     "categoria": "5 K ABIERTA",
     "ciudad": "",
-    "tiempo": "0:39:50",
-    "dif": "+22:38",
+    "tiempo": "0:39:49",
+    "dif": "+22:37",
     "vel_prom": "7.5 Km/h",
-    "ritmo": "7:58 Min/km",
-    "pdf_page": 1367,
+    "ritmo": "7:57 Min/km",
+    "pdf_page": 1499,
     "dorsal": "5249",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Yolanda Cala",
-    "tiempo_diploma": "00:39:50",
-    "stats_diploma": "89. /160 224. /1597"
+    "tiempo_diploma": "00:39:49",
+    "stats_diploma": "85. /156 236. /1621"
   },
   {
-    "puesto": 225,
+    "puesto": 237,
     "placa": "1276",
     "nombre": "Jaime alfonso Moreno capacho",
     "categoria": "10 K ABIERTA",
@@ -3817,15 +4021,32 @@ const RUNNERS_DATA = [
     "dif": "+22:39",
     "vel_prom": "15.0 Km/h",
     "ritmo": "3:59 Min/km",
-    "pdf_page": 647,
+    "pdf_page": 293,
     "dorsal": "1276",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Jaime alfonso Moreno capacho",
     "tiempo_diploma": "00:39:51",
-    "stats_diploma": "9. /357 225. /1597"
+    "stats_diploma": "9. /357 237. /1621"
   },
   {
-    "puesto": 226,
+    "puesto": 238,
+    "placa": "5521",
+    "nombre": "Lastenia Almeyda Villabona",
+    "categoria": "5 K MASTER B",
+    "ciudad": "Carmen de Chucuri",
+    "tiempo": "0:40:01",
+    "dif": "+22:49",
+    "vel_prom": "7.4 Km/h",
+    "ritmo": "8:00 Min/km",
+    "pdf_page": 1614,
+    "dorsal": "5521",
+    "categoria_diploma": "5 K MASTER B",
+    "nombre_diploma": "Lastenia Almeyda Villabona",
+    "tiempo_diploma": "00:40:01",
+    "stats_diploma": "9. /18 238. /1621"
+  },
+  {
+    "puesto": 239,
     "placa": "5125",
     "nombre": "KARINA CABALLERO DURÁN",
     "categoria": "5 K ABIERTA",
@@ -3834,15 +4055,15 @@ const RUNNERS_DATA = [
     "dif": "+22:50",
     "vel_prom": "7.4 Km/h",
     "ritmo": "8:00 Min/km",
-    "pdf_page": 1368,
+    "pdf_page": 1396,
     "dorsal": "5125",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "KARINA CABALLERO DURÁN",
     "tiempo_diploma": "00:40:02",
-    "stats_diploma": "90. /160 226. /1597"
+    "stats_diploma": "86. /156 239. /1621"
   },
   {
-    "puesto": 227,
+    "puesto": 240,
     "placa": "5085",
     "nombre": "Gerson Coronel",
     "categoria": "5 K ABIERTA",
@@ -3851,15 +4072,15 @@ const RUNNERS_DATA = [
     "dif": "+22:50",
     "vel_prom": "7.4 Km/h",
     "ritmo": "8:00 Min/km",
-    "pdf_page": 1505,
+    "pdf_page": 1361,
     "dorsal": "5085",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Gerson Coronel",
     "tiempo_diploma": "00:40:02",
-    "stats_diploma": "67. /90 227. /1597"
+    "stats_diploma": "65. /88 240. /1621"
   },
   {
-    "puesto": 228,
+    "puesto": 241,
     "placa": "5270",
     "nombre": "Mariana Mestra Cuellar",
     "categoria": "5 K ABIERTA",
@@ -3868,15 +4089,32 @@ const RUNNERS_DATA = [
     "dif": "+23:03",
     "vel_prom": "7.4 Km/h",
     "ritmo": "8:03 Min/km",
-    "pdf_page": 1369,
+    "pdf_page": 1515,
     "dorsal": "5270",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Mariana Mestra Cuellar",
     "tiempo_diploma": "00:40:15",
-    "stats_diploma": "91. /160 228. /1597"
+    "stats_diploma": "87. /156 241. /1621"
   },
   {
-    "puesto": 229,
+    "puesto": 242,
+    "placa": "5502",
+    "nombre": "Aleyda Hernandez Carvajal",
+    "categoria": "5 K MASTER B",
+    "ciudad": "",
+    "tiempo": "0:40:15",
+    "dif": "+23:03",
+    "vel_prom": "7.4 Km/h",
+    "ritmo": "8:03 Min/km",
+    "pdf_page": 1599,
+    "dorsal": "5502",
+    "categoria_diploma": "5 K MASTER B",
+    "nombre_diploma": "Aleyda Hernandez Carvajal",
+    "tiempo_diploma": "00:40:15",
+    "stats_diploma": "10. /18 242. /1621"
+  },
+  {
+    "puesto": 243,
     "placa": "5077",
     "nombre": "Erika Paola Dotor Zambrano",
     "categoria": "5 K ABIERTA",
@@ -3885,32 +4123,32 @@ const RUNNERS_DATA = [
     "dif": "+23:07",
     "vel_prom": "7.4 Km/h",
     "ritmo": "8:03 Min/km",
-    "pdf_page": 1370,
+    "pdf_page": 1353,
     "dorsal": "5077",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Erika Paola Dotor Zambrano",
     "tiempo_diploma": "00:40:19",
-    "stats_diploma": "92. /160 229. /1597"
+    "stats_diploma": "88. /156 243. /1621"
   },
   {
-    "puesto": 230,
+    "puesto": 244,
     "placa": "5066",
     "nombre": "Diana Marcela Bautista Toloza",
     "categoria": "5 K ABIERTA",
     "ciudad": "Bucaramanga",
-    "tiempo": "0:40:21",
-    "dif": "+23:09",
+    "tiempo": "0:40:20",
+    "dif": "+23:08",
     "vel_prom": "7.4 Km/h",
     "ritmo": "8:04 Min/km",
-    "pdf_page": 1371,
+    "pdf_page": 1344,
     "dorsal": "5066",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Diana Marcela Bautista Toloza",
-    "tiempo_diploma": "00:40:21",
-    "stats_diploma": "93. /160 230. /1597"
+    "tiempo_diploma": "00:40:20",
+    "stats_diploma": "89. /156 244. /1621"
   },
   {
-    "puesto": 231,
+    "puesto": 245,
     "placa": "1105",
     "nombre": "Carlos Pineda Vargas",
     "categoria": "10 K ABIERTA",
@@ -3919,15 +4157,15 @@ const RUNNERS_DATA = [
     "dif": "+23:09",
     "vel_prom": "14.8 Km/h",
     "ritmo": "4:02 Min/km",
-    "pdf_page": 648,
+    "pdf_page": 134,
     "dorsal": "1105",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Carlos Pineda Vargas",
     "tiempo_diploma": "00:40:21",
-    "stats_diploma": "10. /357 231. /1597"
+    "stats_diploma": "10. /357 245. /1621"
   },
   {
-    "puesto": 232,
+    "puesto": 246,
     "placa": "5250",
     "nombre": "Yurley Andrea Grimaldo Sánchez",
     "categoria": "5 K ABIERTA",
@@ -3936,15 +4174,15 @@ const RUNNERS_DATA = [
     "dif": "+23:14",
     "vel_prom": "7.4 Km/h",
     "ritmo": "8:05 Min/km",
-    "pdf_page": 1372,
+    "pdf_page": 1500,
     "dorsal": "5250",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Yurley Andrea Grimaldo Sánchez",
     "tiempo_diploma": "00:40:26",
-    "stats_diploma": "94. /160 232. /1597"
+    "stats_diploma": "90. /156 246. /1621"
   },
   {
-    "puesto": 233,
+    "puesto": 247,
     "placa": "5067",
     "nombre": "Diana Patricia García Gallego",
     "categoria": "5 K ABIERTA",
@@ -3953,15 +4191,15 @@ const RUNNERS_DATA = [
     "dif": "+23:22",
     "vel_prom": "7.3 Km/h",
     "ritmo": "8:06 Min/km",
-    "pdf_page": 1373,
+    "pdf_page": 1345,
     "dorsal": "5067",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Diana Patricia García Gallego",
     "tiempo_diploma": "00:40:34",
-    "stats_diploma": "95. /160 233. /1597"
+    "stats_diploma": "91. /156 247. /1621"
   },
   {
-    "puesto": 234,
+    "puesto": 248,
     "placa": "5463",
     "nombre": "Tatiana Pérez Uribe",
     "categoria": "5 K MASTER A",
@@ -3970,15 +4208,15 @@ const RUNNERS_DATA = [
     "dif": "+23:29",
     "vel_prom": "7.3 Km/h",
     "ritmo": "8:08 Min/km",
-    "pdf_page": 1551,
+    "pdf_page": 1586,
     "dorsal": "5463",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Tatiana Pérez Uribe",
     "tiempo_diploma": "00:40:41",
-    "stats_diploma": "23. /37 234. /1597"
+    "stats_diploma": "22. /36 248. /1621"
   },
   {
-    "puesto": 235,
+    "puesto": 249,
     "placa": "5029",
     "nombre": "Angie Melissa Quintero Quintero",
     "categoria": "5 K ABIERTA",
@@ -3987,15 +4225,15 @@ const RUNNERS_DATA = [
     "dif": "+23:31",
     "vel_prom": "7.3 Km/h",
     "ritmo": "8:08 Min/km",
-    "pdf_page": 1374,
+    "pdf_page": 1309,
     "dorsal": "5029",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Angie Melissa Quintero Quintero",
     "tiempo_diploma": "00:40:43",
-    "stats_diploma": "96. /160 235. /1597"
+    "stats_diploma": "92. /156 249. /1621"
   },
   {
-    "puesto": 236,
+    "puesto": 250,
     "placa": "5132",
     "nombre": "Laren Salazar",
     "categoria": "5 K ABIERTA",
@@ -4004,15 +4242,15 @@ const RUNNERS_DATA = [
     "dif": "+23:31",
     "vel_prom": "7.3 Km/h",
     "ritmo": "8:08 Min/km",
-    "pdf_page": 1375,
+    "pdf_page": 1403,
     "dorsal": "5132",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Laren Salazar",
     "tiempo_diploma": "00:40:43",
-    "stats_diploma": "97. /160 236. /1597"
+    "stats_diploma": "93. /156 250. /1621"
   },
   {
-    "puesto": 237,
+    "puesto": 251,
     "placa": "5232",
     "nombre": "Thomas Alexander Riddle Delgado",
     "categoria": "5 K ABIERTA",
@@ -4021,32 +4259,32 @@ const RUNNERS_DATA = [
     "dif": "+23:39",
     "vel_prom": "7.3 Km/h",
     "ritmo": "8:10 Min/km",
-    "pdf_page": 1506,
+    "pdf_page": 1484,
     "dorsal": "5232",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Thomas Alexander Riddle Delgado",
     "tiempo_diploma": "00:40:51",
-    "stats_diploma": "68. /90 237. /1597"
+    "stats_diploma": "66. /88 251. /1621"
   },
   {
-    "puesto": 238,
+    "puesto": 252,
     "placa": "5137",
     "nombre": "Laura Valentina Lizcano Báez",
     "categoria": "5 K ABIERTA",
     "ciudad": "Bucaramanga",
-    "tiempo": "0:40:56",
-    "dif": "+23:44",
+    "tiempo": "0:40:55",
+    "dif": "+23:43",
     "vel_prom": "7.3 Km/h",
     "ritmo": "8:11 Min/km",
-    "pdf_page": 1376,
+    "pdf_page": 1408,
     "dorsal": "5137",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Laura Valentina Lizcano Báez",
-    "tiempo_diploma": "00:40:56",
-    "stats_diploma": "98. /160 238. /1597"
+    "tiempo_diploma": "00:40:55",
+    "stats_diploma": "94. /156 252. /1621"
   },
   {
-    "puesto": 239,
+    "puesto": 253,
     "placa": "5240",
     "nombre": "Viviana Pabón",
     "categoria": "5 K ABIERTA",
@@ -4055,15 +4293,15 @@ const RUNNERS_DATA = [
     "dif": "+23:44",
     "vel_prom": "7.3 Km/h",
     "ritmo": "8:11 Min/km",
-    "pdf_page": 1377,
+    "pdf_page": 1491,
     "dorsal": "5240",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Viviana Pabón",
     "tiempo_diploma": "00:40:56",
-    "stats_diploma": "99. /160 239. /1597"
+    "stats_diploma": "95. /156 253. /1621"
   },
   {
-    "puesto": 240,
+    "puesto": 254,
     "placa": "5009",
     "nombre": "ALLISON DANIELA RIVERA ARDILA",
     "categoria": "5 K ABIERTA",
@@ -4072,15 +4310,15 @@ const RUNNERS_DATA = [
     "dif": "+23:44",
     "vel_prom": "7.3 Km/h",
     "ritmo": "8:11 Min/km",
-    "pdf_page": 1378,
+    "pdf_page": 1292,
     "dorsal": "5009",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "ALLISON DANIELA RIVERA ARDILA",
     "tiempo_diploma": "00:40:56",
-    "stats_diploma": "100. /160 240. /1597"
+    "stats_diploma": "96. /156 254. /1621"
   },
   {
-    "puesto": 241,
+    "puesto": 255,
     "placa": "5039",
     "nombre": "Carlos Manuel Gutiérrez Gómez",
     "categoria": "5 K ABIERTA",
@@ -4089,15 +4327,15 @@ const RUNNERS_DATA = [
     "dif": "+23:51",
     "vel_prom": "7.3 Km/h",
     "ritmo": "8:12 Min/km",
-    "pdf_page": 1507,
+    "pdf_page": 1319,
     "dorsal": "5039",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Carlos Manuel Gutiérrez Gómez",
     "tiempo_diploma": "00:41:03",
-    "stats_diploma": "69. /90 241. /1597"
+    "stats_diploma": "67. /88 255. /1621"
   },
   {
-    "puesto": 242,
+    "puesto": 256,
     "placa": "1728",
     "nombre": "Leonardo Rico Tello",
     "categoria": "10 K ABIERTA",
@@ -4106,15 +4344,15 @@ const RUNNERS_DATA = [
     "dif": "+23:55",
     "vel_prom": "14.5 Km/h",
     "ritmo": "4:06 Min/km",
-    "pdf_page": 649,
+    "pdf_page": 685,
     "dorsal": "1728",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Leonardo Rico Tello",
     "tiempo_diploma": "00:41:07",
-    "stats_diploma": "11. /357 242. /1597"
+    "stats_diploma": "11. /357 256. /1621"
   },
   {
-    "puesto": 243,
+    "puesto": 257,
     "placa": "1505",
     "nombre": "Mario Lozada",
     "categoria": "10 K ABIERTA",
@@ -4123,15 +4361,32 @@ const RUNNERS_DATA = [
     "dif": "+24:01",
     "vel_prom": "14.5 Km/h",
     "ritmo": "4:07 Min/km",
-    "pdf_page": 650,
+    "pdf_page": 490,
     "dorsal": "1505",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Mario Lozada",
     "tiempo_diploma": "00:41:13",
-    "stats_diploma": "12. /357 243. /1597"
+    "stats_diploma": "12. /357 257. /1621"
   },
   {
-    "puesto": 244,
+    "puesto": 258,
+    "placa": "5504",
+    "nombre": "Carlos Alberto Duarte Sanabria",
+    "categoria": "5 K MASTER B",
+    "ciudad": "Bucaramanga",
+    "tiempo": "0:41:17",
+    "dif": "+24:05",
+    "vel_prom": "7.2 Km/h",
+    "ritmo": "8:15 Min/km",
+    "pdf_page": 1601,
+    "dorsal": "5504",
+    "categoria_diploma": "5 K MASTER B",
+    "nombre_diploma": "Carlos Alberto Duarte Sanabria",
+    "tiempo_diploma": "00:41:17",
+    "stats_diploma": "11. /11 258. /1621"
+  },
+  {
+    "puesto": 259,
     "placa": "3008",
     "nombre": "Anatan Rogelio Montaño Hincapie",
     "categoria": "10 K MASTER A",
@@ -4140,15 +4395,15 @@ const RUNNERS_DATA = [
     "dif": "+24:09",
     "vel_prom": "14.5 Km/h",
     "ritmo": "4:08 Min/km",
-    "pdf_page": 1088,
+    "pdf_page": 1007,
     "dorsal": "3008",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Anatan Rogelio Montaño Hincapie",
     "tiempo_diploma": "00:41:21",
-    "stats_diploma": "6. /107 244. /1597"
+    "stats_diploma": "6. /107 259. /1621"
   },
   {
-    "puesto": 245,
+    "puesto": 260,
     "placa": "5075",
     "nombre": "Elsa Julieth Tapias Devia",
     "categoria": "5 K ABIERTA",
@@ -4157,15 +4412,15 @@ const RUNNERS_DATA = [
     "dif": "+24:12",
     "vel_prom": "7.2 Km/h",
     "ritmo": "8:16 Min/km",
-    "pdf_page": 1379,
+    "pdf_page": 1351,
     "dorsal": "5075",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Elsa Julieth Tapias Devia",
     "tiempo_diploma": "00:41:24",
-    "stats_diploma": "101. /160 245. /1597"
+    "stats_diploma": "97. /156 260. /1621"
   },
   {
-    "puesto": 246,
+    "puesto": 261,
     "placa": "3094",
     "nombre": "Jose Arenas",
     "categoria": "10 K MASTER A",
@@ -4174,32 +4429,32 @@ const RUNNERS_DATA = [
     "dif": "+24:12",
     "vel_prom": "14.4 Km/h",
     "ritmo": "4:08 Min/km",
-    "pdf_page": 1089,
+    "pdf_page": 1086,
     "dorsal": "3094",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Jose Arenas",
     "tiempo_diploma": "00:41:24",
-    "stats_diploma": "7. /107 246. /1597"
+    "stats_diploma": "7. /107 261. /1621"
   },
   {
-    "puesto": 247,
+    "puesto": 262,
     "placa": "5471",
     "nombre": "Carolina Duitama Duran",
     "categoria": "5 K MASTER A",
     "ciudad": "Bucaramanga",
-    "tiempo": "0:41:28",
-    "dif": "+24:16",
+    "tiempo": "0:41:27",
+    "dif": "+24:15",
     "vel_prom": "7.2 Km/h",
     "ritmo": "8:17 Min/km",
-    "pdf_page": 1552,
+    "pdf_page": 1594,
     "dorsal": "5471",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Carolina Duitama Duran",
-    "tiempo_diploma": "00:41:28",
-    "stats_diploma": "24. /37 247. /1597"
+    "tiempo_diploma": "00:41:27",
+    "stats_diploma": "23. /36 262. /1621"
   },
   {
-    "puesto": 248,
+    "puesto": 263,
     "placa": "5286",
     "nombre": "Andrea Carolina Gomez Barragan",
     "categoria": "5 K ABIERTA",
@@ -4208,15 +4463,15 @@ const RUNNERS_DATA = [
     "dif": "+24:18",
     "vel_prom": "7.2 Km/h",
     "ritmo": "8:18 Min/km",
-    "pdf_page": 1380,
+    "pdf_page": 1524,
     "dorsal": "5286",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Andrea Carolina Gomez Barragan",
     "tiempo_diploma": "00:41:30",
-    "stats_diploma": "102. /160 248. /1597"
+    "stats_diploma": "98. /156 263. /1621"
   },
   {
-    "puesto": 249,
+    "puesto": 264,
     "placa": "5165",
     "nombre": "Marcela Cartagena Oviedo",
     "categoria": "5 K ABIERTA",
@@ -4225,32 +4480,32 @@ const RUNNERS_DATA = [
     "dif": "+24:26",
     "vel_prom": "7.2 Km/h",
     "ritmo": "8:19 Min/km",
-    "pdf_page": 1381,
+    "pdf_page": 1430,
     "dorsal": "5165",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Marcela Cartagena Oviedo",
     "tiempo_diploma": "00:41:38",
-    "stats_diploma": "103. /160 249. /1597"
+    "stats_diploma": "99. /156 264. /1621"
   },
   {
-    "puesto": 250,
+    "puesto": 265,
     "placa": "5133",
     "nombre": "Laura Fernández",
     "categoria": "5 K ABIERTA",
     "ciudad": "Bogotá",
-    "tiempo": "0:41:39",
-    "dif": "+24:27",
+    "tiempo": "0:41:38",
+    "dif": "+24:26",
     "vel_prom": "7.2 Km/h",
     "ritmo": "8:19 Min/km",
-    "pdf_page": 1382,
+    "pdf_page": 1404,
     "dorsal": "5133",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Laura Fernández",
-    "tiempo_diploma": "00:41:39",
-    "stats_diploma": "104. /160 250. /1597"
+    "tiempo_diploma": "00:41:38",
+    "stats_diploma": "100. /156 265. /1621"
   },
   {
-    "puesto": 251,
+    "puesto": 266,
     "placa": "1245",
     "nombre": "German Avellaneda",
     "categoria": "10 K ABIERTA",
@@ -4259,15 +4514,15 @@ const RUNNERS_DATA = [
     "dif": "+24:33",
     "vel_prom": "14.3 Km/h",
     "ritmo": "4:10 Min/km",
-    "pdf_page": 651,
+    "pdf_page": 264,
     "dorsal": "1245",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "German Avellaneda",
     "tiempo_diploma": "00:41:45",
-    "stats_diploma": "13. /357 251. /1597"
+    "stats_diploma": "13. /357 266. /1621"
   },
   {
-    "puesto": 252,
+    "puesto": 267,
     "placa": "5468",
     "nombre": "Yolima Rafaela Romero Serrano",
     "categoria": "5 K MASTER A",
@@ -4276,15 +4531,15 @@ const RUNNERS_DATA = [
     "dif": "+24:34",
     "vel_prom": "7.1 Km/h",
     "ritmo": "8:21 Min/km",
-    "pdf_page": 1553,
+    "pdf_page": 1591,
     "dorsal": "5468",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Yolima Rafaela Romero Serrano",
     "tiempo_diploma": "00:41:46",
-    "stats_diploma": "25. /37 252. /1597"
+    "stats_diploma": "24. /36 267. /1621"
   },
   {
-    "puesto": 253,
+    "puesto": 268,
     "placa": "3176",
     "nombre": "Víctor Alfonso Triana Rincon",
     "categoria": "10 K MASTER A",
@@ -4293,15 +4548,15 @@ const RUNNERS_DATA = [
     "dif": "+24:35",
     "vel_prom": "14.3 Km/h",
     "ritmo": "4:10 Min/km",
-    "pdf_page": 1090,
+    "pdf_page": 1163,
     "dorsal": "3176",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Víctor Alfonso Triana Rincon",
     "tiempo_diploma": "00:41:47",
-    "stats_diploma": "8. /107 253. /1597"
+    "stats_diploma": "8. /107 268. /1621"
   },
   {
-    "puesto": 254,
+    "puesto": 269,
     "placa": "5210",
     "nombre": "Rosmary Sepulveda García",
     "categoria": "5 K ABIERTA",
@@ -4310,15 +4565,15 @@ const RUNNERS_DATA = [
     "dif": "+24:48",
     "vel_prom": "7.1 Km/h",
     "ritmo": "8:24 Min/km",
-    "pdf_page": 1383,
+    "pdf_page": 1469,
     "dorsal": "5210",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Rosmary Sepulveda García",
     "tiempo_diploma": "00:42:00",
-    "stats_diploma": "105. /160 254. /1597"
+    "stats_diploma": "101. /156 269. /1621"
   },
   {
-    "puesto": 255,
+    "puesto": 270,
     "placa": "1599",
     "nombre": "Santiago Acuña",
     "categoria": "10 K ABIERTA",
@@ -4327,15 +4582,15 @@ const RUNNERS_DATA = [
     "dif": "+24:50",
     "vel_prom": "14.2 Km/h",
     "ritmo": "4:12 Min/km",
-    "pdf_page": 652,
+    "pdf_page": 571,
     "dorsal": "1599",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Santiago Acuña",
     "tiempo_diploma": "00:42:02",
-    "stats_diploma": "14. /357 255. /1597"
+    "stats_diploma": "14. /357 270. /1621"
   },
   {
-    "puesto": 256,
+    "puesto": 271,
     "placa": "5047",
     "nombre": "CRISTIAN DAVID DELGADO GAITAN",
     "categoria": "5 K ABIERTA",
@@ -4344,15 +4599,15 @@ const RUNNERS_DATA = [
     "dif": "+24:53",
     "vel_prom": "7.1 Km/h",
     "ritmo": "8:25 Min/km",
-    "pdf_page": 1508,
+    "pdf_page": 1327,
     "dorsal": "5047",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "CRISTIAN DAVID DELGADO GAITAN",
     "tiempo_diploma": "00:42:05",
-    "stats_diploma": "70. /90 256. /1597"
+    "stats_diploma": "68. /88 271. /1621"
   },
   {
-    "puesto": 257,
+    "puesto": 272,
     "placa": "5462",
     "nombre": "Silvia Medina",
     "categoria": "5 K MASTER A",
@@ -4361,15 +4616,15 @@ const RUNNERS_DATA = [
     "dif": "+24:53",
     "vel_prom": "7.1 Km/h",
     "ritmo": "8:25 Min/km",
-    "pdf_page": 1554,
+    "pdf_page": 1585,
     "dorsal": "5462",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Silvia Medina",
     "tiempo_diploma": "00:42:05",
-    "stats_diploma": "26. /37 257. /1597"
+    "stats_diploma": "25. /36 272. /1621"
   },
   {
-    "puesto": 258,
+    "puesto": 273,
     "placa": "5251",
     "nombre": "Yury Paola Castañeda Martinez",
     "categoria": "5 K ABIERTA",
@@ -4378,15 +4633,15 @@ const RUNNERS_DATA = [
     "dif": "+24:54",
     "vel_prom": "7.1 Km/h",
     "ritmo": "8:25 Min/km",
-    "pdf_page": 1384,
+    "pdf_page": 1501,
     "dorsal": "5251",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Yury Paola Castañeda Martinez",
     "tiempo_diploma": "00:42:06",
-    "stats_diploma": "106. /160 258. /1597"
+    "stats_diploma": "102. /156 273. /1621"
   },
   {
-    "puesto": 259,
+    "puesto": 274,
     "placa": "5203",
     "nombre": "Paola Quintero Jaimes",
     "categoria": "5 K ABIERTA",
@@ -4395,15 +4650,15 @@ const RUNNERS_DATA = [
     "dif": "+25:01",
     "vel_prom": "7.1 Km/h",
     "ritmo": "8:26 Min/km",
-    "pdf_page": 1385,
+    "pdf_page": 1464,
     "dorsal": "5203",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Paola Quintero Jaimes",
     "tiempo_diploma": "00:42:13",
-    "stats_diploma": "107. /160 259. /1597"
+    "stats_diploma": "103. /156 274. /1621"
   },
   {
-    "puesto": 260,
+    "puesto": 275,
     "placa": "5201",
     "nombre": "ORIANNA SOFÍA ARENAS HERNÁNDEZ",
     "categoria": "5 K ABIERTA",
@@ -4412,32 +4667,32 @@ const RUNNERS_DATA = [
     "dif": "+25:12",
     "vel_prom": "7.0 Km/h",
     "ritmo": "8:28 Min/km",
-    "pdf_page": 1386,
+    "pdf_page": 1462,
     "dorsal": "5201",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "ORIANNA SOFÍA ARENAS HERNÁNDEZ",
     "tiempo_diploma": "00:42:24",
-    "stats_diploma": "108. /160 260. /1597"
+    "stats_diploma": "104. /156 275. /1621"
   },
   {
-    "puesto": 261,
+    "puesto": 276,
     "placa": "5078",
     "nombre": "Esmeralda Hernadez Santos",
     "categoria": "5 K ABIERTA",
     "ciudad": "Bucaramanga",
-    "tiempo": "0:42:25",
-    "dif": "+25:13",
+    "tiempo": "0:42:24",
+    "dif": "+25:12",
     "vel_prom": "7.0 Km/h",
-    "ritmo": "8:29 Min/km",
-    "pdf_page": 1387,
+    "ritmo": "8:28 Min/km",
+    "pdf_page": 1354,
     "dorsal": "5078",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Esmeralda Hernadez Santos",
-    "tiempo_diploma": "00:42:25",
-    "stats_diploma": "109. /160 261. /1597"
+    "tiempo_diploma": "00:42:24",
+    "stats_diploma": "105. /156 276. /1621"
   },
   {
-    "puesto": 262,
+    "puesto": 277,
     "placa": "5011",
     "nombre": "Ana Maria Ardila Alvarez",
     "categoria": "5 K ABIERTA",
@@ -4446,15 +4701,15 @@ const RUNNERS_DATA = [
     "dif": "+25:17",
     "vel_prom": "7.0 Km/h",
     "ritmo": "8:29 Min/km",
-    "pdf_page": 1388,
+    "pdf_page": 1293,
     "dorsal": "5011",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Ana Maria Ardila Alvarez",
     "tiempo_diploma": "00:42:29",
-    "stats_diploma": "110. /160 262. /1597"
+    "stats_diploma": "106. /156 277. /1621"
   },
   {
-    "puesto": 263,
+    "puesto": 278,
     "placa": "1285",
     "nombre": "Javier Yesid Gómez",
     "categoria": "10 K ABIERTA",
@@ -4463,15 +4718,15 @@ const RUNNERS_DATA = [
     "dif": "+25:17",
     "vel_prom": "14.1 Km/h",
     "ritmo": "4:14 Min/km",
-    "pdf_page": 653,
+    "pdf_page": 302,
     "dorsal": "1285",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Javier Yesid Gómez",
     "tiempo_diploma": "00:42:29",
-    "stats_diploma": "15. /357 263. /1597"
+    "stats_diploma": "15. /357 278. /1621"
   },
   {
-    "puesto": 264,
+    "puesto": 279,
     "placa": "5412",
     "nombre": "Claudia Delgadillo",
     "categoria": "5 K MASTER A",
@@ -4480,15 +4735,15 @@ const RUNNERS_DATA = [
     "dif": "+25:17",
     "vel_prom": "7.0 Km/h",
     "ritmo": "8:29 Min/km",
-    "pdf_page": 1555,
+    "pdf_page": 1539,
     "dorsal": "5412",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Claudia Delgadillo",
     "tiempo_diploma": "00:42:29",
-    "stats_diploma": "27. /37 264. /1597"
+    "stats_diploma": "26. /36 279. /1621"
   },
   {
-    "puesto": 265,
+    "puesto": 280,
     "placa": "5015",
     "nombre": "Andrea Carolina Osorio Castro",
     "categoria": "5 K ABIERTA",
@@ -4497,15 +4752,15 @@ const RUNNERS_DATA = [
     "dif": "+25:20",
     "vel_prom": "7.0 Km/h",
     "ritmo": "8:30 Min/km",
-    "pdf_page": 1389,
+    "pdf_page": 1297,
     "dorsal": "5015",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Andrea Carolina Osorio Castro",
     "tiempo_diploma": "00:42:32",
-    "stats_diploma": "111. /160 265. /1597"
+    "stats_diploma": "107. /156 280. /1621"
   },
   {
-    "puesto": 266,
+    "puesto": 281,
     "placa": "1081",
     "nombre": "Brayan Caballero",
     "categoria": "10 K ABIERTA",
@@ -4514,15 +4769,32 @@ const RUNNERS_DATA = [
     "dif": "+25:20",
     "vel_prom": "14.1 Km/h",
     "ritmo": "4:15 Min/km",
-    "pdf_page": 654,
+    "pdf_page": 111,
     "dorsal": "1081",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Brayan Caballero",
     "tiempo_diploma": "00:42:32",
-    "stats_diploma": "16. /357 266. /1597"
+    "stats_diploma": "16. /357 281. /1621"
   },
   {
-    "puesto": 267,
+    "puesto": 282,
+    "placa": "5539",
+    "nombre": "Adelaida Rueda",
+    "categoria": "5 K MASTER B",
+    "ciudad": "",
+    "tiempo": "0:42:43",
+    "dif": "+25:31",
+    "vel_prom": "7.0 Km/h",
+    "ritmo": "8:32 Min/km",
+    "pdf_page": 1626,
+    "dorsal": "5539",
+    "categoria_diploma": "5 K MASTER B",
+    "nombre_diploma": "Adelaida Rueda",
+    "tiempo_diploma": "00:42:43",
+    "stats_diploma": "11. /18 282. /1621"
+  },
+  {
+    "puesto": 283,
     "placa": "5169",
     "nombre": "Maria Alix Quintero Rojas",
     "categoria": "5 K ABIERTA",
@@ -4531,15 +4803,15 @@ const RUNNERS_DATA = [
     "dif": "+25:39",
     "vel_prom": "7.0 Km/h",
     "ritmo": "8:34 Min/km",
-    "pdf_page": 1390,
+    "pdf_page": 1434,
     "dorsal": "5169",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Maria Alix Quintero Rojas",
     "tiempo_diploma": "00:42:51",
-    "stats_diploma": "112. /160 267. /1597"
+    "stats_diploma": "108. /156 283. /1621"
   },
   {
-    "puesto": 268,
+    "puesto": 284,
     "placa": "5229",
     "nombre": "Stefany Cotacio",
     "categoria": "5 K ABIERTA",
@@ -4548,15 +4820,15 @@ const RUNNERS_DATA = [
     "dif": "+25:41",
     "vel_prom": "6.9 Km/h",
     "ritmo": "8:34 Min/km",
-    "pdf_page": 1391,
+    "pdf_page": 1482,
     "dorsal": "5229",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Stefany Cotacio",
     "tiempo_diploma": "00:42:53",
-    "stats_diploma": "113. /160 268. /1597"
+    "stats_diploma": "109. /156 284. /1621"
   },
   {
-    "puesto": 269,
+    "puesto": 285,
     "placa": "1051",
     "nombre": "Andres Felipe Ojeda Villamizar",
     "categoria": "10 K ABIERTA",
@@ -4565,15 +4837,15 @@ const RUNNERS_DATA = [
     "dif": "+25:48",
     "vel_prom": "13.9 Km/h",
     "ritmo": "4:18 Min/km",
-    "pdf_page": 655,
+    "pdf_page": 83,
     "dorsal": "1051",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Andres Felipe Ojeda Villamizar",
     "tiempo_diploma": "00:43:00",
-    "stats_diploma": "17. /357 269. /1597"
+    "stats_diploma": "17. /357 285. /1621"
   },
   {
-    "puesto": 270,
+    "puesto": 286,
     "placa": "5057",
     "nombre": "David Enrique Forero Sánchez",
     "categoria": "5 K ABIERTA",
@@ -4582,15 +4854,15 @@ const RUNNERS_DATA = [
     "dif": "+25:52",
     "vel_prom": "6.9 Km/h",
     "ritmo": "8:36 Min/km",
-    "pdf_page": 1509,
+    "pdf_page": 1336,
     "dorsal": "5057",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "David Enrique Forero Sánchez",
     "tiempo_diploma": "00:43:04",
-    "stats_diploma": "71. /90 270. /1597"
+    "stats_diploma": "69. /88 286. /1621"
   },
   {
-    "puesto": 271,
+    "puesto": 287,
     "placa": "3205",
     "nombre": "Diego Fernando Navarro Barajas",
     "categoria": "10 K MASTER A",
@@ -4599,15 +4871,15 @@ const RUNNERS_DATA = [
     "dif": "+26:00",
     "vel_prom": "13.8 Km/h",
     "ritmo": "4:19 Min/km",
-    "pdf_page": 1091,
+    "pdf_page": 1187,
     "dorsal": "3205",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Diego Fernando Navarro Barajas",
     "tiempo_diploma": "00:43:12",
-    "stats_diploma": "9. /107 271. /1597"
+    "stats_diploma": "9. /107 287. /1621"
   },
   {
-    "puesto": 272,
+    "puesto": 288,
     "placa": "5034",
     "nombre": "Camilo Molina",
     "categoria": "5 K ABIERTA",
@@ -4616,15 +4888,15 @@ const RUNNERS_DATA = [
     "dif": "+26:02",
     "vel_prom": "6.9 Km/h",
     "ritmo": "8:38 Min/km",
-    "pdf_page": 1510,
+    "pdf_page": 1314,
     "dorsal": "5034",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Camilo Molina",
     "tiempo_diploma": "00:43:14",
-    "stats_diploma": "72. /90 272. /1597"
+    "stats_diploma": "70. /88 288. /1621"
   },
   {
-    "puesto": 273,
+    "puesto": 289,
     "placa": "5136",
     "nombre": "Laura Milena Figueroa Gomez",
     "categoria": "5 K ABIERTA",
@@ -4633,15 +4905,15 @@ const RUNNERS_DATA = [
     "dif": "+26:02",
     "vel_prom": "6.9 Km/h",
     "ritmo": "8:38 Min/km",
-    "pdf_page": 1392,
+    "pdf_page": 1407,
     "dorsal": "5136",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Laura Milena Figueroa Gomez",
     "tiempo_diploma": "00:43:14",
-    "stats_diploma": "114. /160 273. /1597"
+    "stats_diploma": "110. /156 289. /1621"
   },
   {
-    "puesto": 274,
+    "puesto": 290,
     "placa": "5202",
     "nombre": "Oscar Andres Mateus Pinzon",
     "categoria": "5 K ABIERTA",
@@ -4650,15 +4922,15 @@ const RUNNERS_DATA = [
     "dif": "+26:03",
     "vel_prom": "6.9 Km/h",
     "ritmo": "8:39 Min/km",
-    "pdf_page": 1511,
+    "pdf_page": 1463,
     "dorsal": "5202",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Oscar Andres Mateus Pinzon",
     "tiempo_diploma": "00:43:15",
-    "stats_diploma": "73. /90 274. /1597"
+    "stats_diploma": "71. /88 290. /1621"
   },
   {
-    "puesto": 275,
+    "puesto": 291,
     "placa": "1366",
     "nombre": "Juan Sebastian Ramirez Pradilla",
     "categoria": "10 K ABIERTA",
@@ -4667,32 +4939,32 @@ const RUNNERS_DATA = [
     "dif": "+26:06",
     "vel_prom": "13.8 Km/h",
     "ritmo": "4:19 Min/km",
-    "pdf_page": 656,
+    "pdf_page": 376,
     "dorsal": "1366",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Juan Sebastian Ramirez Pradilla",
     "tiempo_diploma": "00:43:18",
-    "stats_diploma": "18. /357 275. /1597"
+    "stats_diploma": "18. /357 291. /1621"
   },
   {
-    "puesto": 276,
+    "puesto": 292,
     "placa": "5196",
     "nombre": "Nicolás Esteban Cañas Jaimes",
     "categoria": "5 K ABIERTA",
     "ciudad": "",
-    "tiempo": "0:43:20",
-    "dif": "+26:08",
+    "tiempo": "0:43:19",
+    "dif": "+26:07",
     "vel_prom": "6.9 Km/h",
-    "ritmo": "8:40 Min/km",
-    "pdf_page": 1512,
+    "ritmo": "8:39 Min/km",
+    "pdf_page": 1457,
     "dorsal": "5196",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Nicolás Esteban Cañas Jaimes",
-    "tiempo_diploma": "00:43:20",
-    "stats_diploma": "74. /90 276. /1597"
+    "tiempo_diploma": "00:43:19",
+    "stats_diploma": "72. /88 292. /1621"
   },
   {
-    "puesto": 277,
+    "puesto": 293,
     "placa": "5179",
     "nombre": "María Paz Perez Martinez",
     "categoria": "5 K ABIERTA",
@@ -4701,15 +4973,15 @@ const RUNNERS_DATA = [
     "dif": "+26:08",
     "vel_prom": "6.9 Km/h",
     "ritmo": "8:40 Min/km",
-    "pdf_page": 1393,
+    "pdf_page": 1441,
     "dorsal": "5179",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "María Paz Perez Martinez",
     "tiempo_diploma": "00:43:20",
-    "stats_diploma": "115. /160 277. /1597"
+    "stats_diploma": "111. /156 293. /1621"
   },
   {
-    "puesto": 278,
+    "puesto": 294,
     "placa": "3207",
     "nombre": "Gabriela Salamanca",
     "categoria": "10 K MASTER A",
@@ -4718,15 +4990,15 @@ const RUNNERS_DATA = [
     "dif": "+26:08",
     "vel_prom": "13.8 Km/h",
     "ritmo": "4:20 Min/km",
-    "pdf_page": 996,
+    "pdf_page": 1189,
     "dorsal": "3207",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Gabriela Salamanca",
     "tiempo_diploma": "00:43:20",
-    "stats_diploma": "1. /87 278. /1597"
+    "stats_diploma": "1. /87 294. /1621"
   },
   {
-    "puesto": 279,
+    "puesto": 295,
     "placa": "3337",
     "nombre": "Jorge Armando Rueda Garcia",
     "categoria": "10 K MASTER B",
@@ -4735,15 +5007,15 @@ const RUNNERS_DATA = [
     "dif": "+26:13",
     "vel_prom": "13.8 Km/h",
     "ritmo": "4:20 Min/km",
-    "pdf_page": 1227,
+    "pdf_page": 1230,
     "dorsal": "3337",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Jorge Armando Rueda Garcia",
     "tiempo_diploma": "00:43:25",
-    "stats_diploma": "5. /56 279. /1597"
+    "stats_diploma": "6. /57 295. /1621"
   },
   {
-    "puesto": 280,
+    "puesto": 296,
     "placa": "5248",
     "nombre": "Yina Lisbeth Mejía Molina",
     "categoria": "5 K ABIERTA",
@@ -4752,15 +5024,15 @@ const RUNNERS_DATA = [
     "dif": "+26:15",
     "vel_prom": "6.9 Km/h",
     "ritmo": "8:41 Min/km",
-    "pdf_page": 1394,
+    "pdf_page": 1498,
     "dorsal": "5248",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Yina Lisbeth Mejía Molina",
     "tiempo_diploma": "00:43:27",
-    "stats_diploma": "116. /160 280. /1597"
+    "stats_diploma": "112. /156 296. /1621"
   },
   {
-    "puesto": 281,
+    "puesto": 297,
     "placa": "1368",
     "nombre": "Juan Sebastián Silva Rincón",
     "categoria": "10 K ABIERTA",
@@ -4769,15 +5041,15 @@ const RUNNERS_DATA = [
     "dif": "+26:16",
     "vel_prom": "13.7 Km/h",
     "ritmo": "4:20 Min/km",
-    "pdf_page": 657,
+    "pdf_page": 378,
     "dorsal": "1368",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Juan Sebastián Silva Rincón",
     "tiempo_diploma": "00:15:14",
-    "stats_diploma": "19. /357 281. /1597"
+    "stats_diploma": "19. /357 297. /1621"
   },
   {
-    "puesto": 282,
+    "puesto": 298,
     "placa": "118",
     "nombre": "Lorena Barajas Quintero",
     "categoria": "10 K ELITE",
@@ -4786,15 +5058,15 @@ const RUNNERS_DATA = [
     "dif": "+26:19",
     "vel_prom": "13.7 Km/h",
     "ritmo": "4:21 Min/km",
-    "pdf_page": 304,
+    "pdf_page": 15,
     "dorsal": "118",
     "categoria_diploma": "10 K ELITE",
     "nombre_diploma": "Lorena Barajas Quintero",
     "tiempo_diploma": "00:43:31",
-    "stats_diploma": "3. /17 282. /1597"
+    "stats_diploma": "3. /17 298. /1621"
   },
   {
-    "puesto": 283,
+    "puesto": 299,
     "placa": "5043",
     "nombre": "César Augusto Sandino Galvis",
     "categoria": "5 K ABIERTA",
@@ -4803,15 +5075,15 @@ const RUNNERS_DATA = [
     "dif": "+26:21",
     "vel_prom": "6.8 Km/h",
     "ritmo": "8:42 Min/km",
-    "pdf_page": 1513,
+    "pdf_page": 1323,
     "dorsal": "5043",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "César Augusto Sandino Galvis",
     "tiempo_diploma": "00:43:33",
-    "stats_diploma": "75. /90 283. /1597"
+    "stats_diploma": "73. /88 299. /1621"
   },
   {
-    "puesto": 284,
+    "puesto": 300,
     "placa": "3160",
     "nombre": "Ricardo andres Pinzon",
     "categoria": "10 K MASTER A",
@@ -4820,15 +5092,15 @@ const RUNNERS_DATA = [
     "dif": "+26:30",
     "vel_prom": "13.7 Km/h",
     "ritmo": "4:22 Min/km",
-    "pdf_page": 1092,
+    "pdf_page": 1150,
     "dorsal": "3160",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Ricardo andres Pinzon",
     "tiempo_diploma": "00:43:42",
-    "stats_diploma": "10. /107 284. /1597"
+    "stats_diploma": "10. /107 300. /1621"
   },
   {
-    "puesto": 285,
+    "puesto": 301,
     "placa": "5008",
     "nombre": "Alexandra Garcia Rodriguez",
     "categoria": "5 K ABIERTA",
@@ -4837,15 +5109,32 @@ const RUNNERS_DATA = [
     "dif": "+26:30",
     "vel_prom": "6.8 Km/h",
     "ritmo": "8:44 Min/km",
-    "pdf_page": 1395,
+    "pdf_page": 1291,
     "dorsal": "5008",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Alexandra Garcia Rodriguez",
     "tiempo_diploma": "00:43:42",
-    "stats_diploma": "117. /160 285. /1597"
+    "stats_diploma": "113. /156 301. /1621"
   },
   {
-    "puesto": 286,
+    "puesto": 302,
+    "placa": "5530",
+    "nombre": "Patricia Gomez Cuellar",
+    "categoria": "5 K MASTER B",
+    "ciudad": "",
+    "tiempo": "0:43:44",
+    "dif": "+26:32",
+    "vel_prom": "6.8 Km/h",
+    "ritmo": "8:44 Min/km",
+    "pdf_page": 1620,
+    "dorsal": "5530",
+    "categoria_diploma": "5 K MASTER B",
+    "nombre_diploma": "Patricia Gomez Cuellar",
+    "tiempo_diploma": "00:43:44",
+    "stats_diploma": "12. /18 302. /1621"
+  },
+  {
+    "puesto": 303,
     "placa": "3016",
     "nombre": "Arlet Suarez  Carrascal",
     "categoria": "10 K MASTER A",
@@ -4854,15 +5143,15 @@ const RUNNERS_DATA = [
     "dif": "+26:33",
     "vel_prom": "13.7 Km/h",
     "ritmo": "4:22 Min/km",
-    "pdf_page": 997,
+    "pdf_page": 1014,
     "dorsal": "3016",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Arlet Suarez  Carrascal",
     "tiempo_diploma": "00:43:45",
-    "stats_diploma": "2. /87 286. /1597"
+    "stats_diploma": "2. /87 303. /1621"
   },
   {
-    "puesto": 287,
+    "puesto": 304,
     "placa": "5183",
     "nombre": "Marleidy Carreño Rincon",
     "categoria": "5 K ABIERTA",
@@ -4871,15 +5160,15 @@ const RUNNERS_DATA = [
     "dif": "+26:38",
     "vel_prom": "6.8 Km/h",
     "ritmo": "8:46 Min/km",
-    "pdf_page": 1396,
+    "pdf_page": 1445,
     "dorsal": "5183",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Marleidy Carreño Rincon",
     "tiempo_diploma": "00:43:50",
-    "stats_diploma": "118. /160 287. /1597"
+    "stats_diploma": "114. /156 304. /1621"
   },
   {
-    "puesto": 288,
+    "puesto": 305,
     "placa": "1183",
     "nombre": "Diego Velandia González",
     "categoria": "10 K ABIERTA",
@@ -4888,15 +5177,15 @@ const RUNNERS_DATA = [
     "dif": "+26:40",
     "vel_prom": "13.6 Km/h",
     "ritmo": "4:23 Min/km",
-    "pdf_page": 658,
+    "pdf_page": 205,
     "dorsal": "1183",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Diego Velandia González",
     "tiempo_diploma": "00:43:52",
-    "stats_diploma": "20. /357 288. /1597"
+    "stats_diploma": "20. /357 305. /1621"
   },
   {
-    "puesto": 289,
+    "puesto": 306,
     "placa": "1041",
     "nombre": "Andres Sanabria",
     "categoria": "10 K ABIERTA",
@@ -4905,15 +5194,15 @@ const RUNNERS_DATA = [
     "dif": "+26:42",
     "vel_prom": "13.6 Km/h",
     "ritmo": "4:23 Min/km",
-    "pdf_page": 659,
+    "pdf_page": 73,
     "dorsal": "1041",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Andres Sanabria",
     "tiempo_diploma": "00:43:54",
-    "stats_diploma": "21. /357 289. /1597"
+    "stats_diploma": "21. /357 306. /1621"
   },
   {
-    "puesto": 290,
+    "puesto": 307,
     "placa": "3170",
     "nombre": "Sergio Florez Alvarez",
     "categoria": "10 K MASTER A",
@@ -4922,15 +5211,15 @@ const RUNNERS_DATA = [
     "dif": "+26:42",
     "vel_prom": "13.6 Km/h",
     "ritmo": "4:23 Min/km",
-    "pdf_page": 1093,
+    "pdf_page": 1158,
     "dorsal": "3170",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Sergio Florez Alvarez",
     "tiempo_diploma": "00:43:54",
-    "stats_diploma": "11. /107 290. /1597"
+    "stats_diploma": "11. /107 307. /1621"
   },
   {
-    "puesto": 291,
+    "puesto": 308,
     "placa": "1110",
     "nombre": "Carlos Andres Arias Alvarez",
     "categoria": "10 K ABIERTA",
@@ -4939,15 +5228,15 @@ const RUNNERS_DATA = [
     "dif": "+26:44",
     "vel_prom": "13.6 Km/h",
     "ritmo": "4:23 Min/km",
-    "pdf_page": 660,
+    "pdf_page": 138,
     "dorsal": "1110",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Carlos Andres Arias Alvarez",
     "tiempo_diploma": "00:43:56",
-    "stats_diploma": "22. /357 291. /1597"
+    "stats_diploma": "22. /357 308. /1621"
   },
   {
-    "puesto": 292,
+    "puesto": 309,
     "placa": "5154",
     "nombre": "Lizeth Katerine Martinez Aguirre",
     "categoria": "5 K ABIERTA",
@@ -4956,15 +5245,15 @@ const RUNNERS_DATA = [
     "dif": "+26:44",
     "vel_prom": "6.8 Km/h",
     "ritmo": "8:47 Min/km",
-    "pdf_page": 1397,
+    "pdf_page": 1420,
     "dorsal": "5154",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Lizeth Katerine Martinez Aguirre",
     "tiempo_diploma": "00:43:56",
-    "stats_diploma": "119. /160 292. /1597"
+    "stats_diploma": "115. /156 309. /1621"
   },
   {
-    "puesto": 293,
+    "puesto": 310,
     "placa": "3093",
     "nombre": "Jorge Arboleda",
     "categoria": "10 K MASTER A",
@@ -4973,15 +5262,15 @@ const RUNNERS_DATA = [
     "dif": "+26:46",
     "vel_prom": "13.6 Km/h",
     "ritmo": "4:23 Min/km",
-    "pdf_page": 1094,
+    "pdf_page": 1085,
     "dorsal": "3093",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Jorge Arboleda",
     "tiempo_diploma": "00:43:58",
-    "stats_diploma": "12. /107 293. /1597"
+    "stats_diploma": "12. /107 310. /1621"
   },
   {
-    "puesto": 294,
+    "puesto": 311,
     "placa": "1287",
     "nombre": "Jeferson Palacio Herrera",
     "categoria": "10 K ABIERTA",
@@ -4990,15 +5279,15 @@ const RUNNERS_DATA = [
     "dif": "+26:51",
     "vel_prom": "13.6 Km/h",
     "ritmo": "4:24 Min/km",
-    "pdf_page": 661,
+    "pdf_page": 304,
     "dorsal": "1287",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Jeferson Palacio Herrera",
     "tiempo_diploma": "00:44:03",
-    "stats_diploma": "23. /357 294. /1597"
+    "stats_diploma": "23. /357 311. /1621"
   },
   {
-    "puesto": 295,
+    "puesto": 312,
     "placa": "5449",
     "nombre": "Monica Yaneth Torres Mejia",
     "categoria": "5 K MASTER A",
@@ -5007,15 +5296,15 @@ const RUNNERS_DATA = [
     "dif": "+26:53",
     "vel_prom": "6.8 Km/h",
     "ritmo": "8:49 Min/km",
-    "pdf_page": 1556,
+    "pdf_page": 1572,
     "dorsal": "5449",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Monica Yaneth Torres Mejia",
     "tiempo_diploma": "00:44:05",
-    "stats_diploma": "28. /37 295. /1597"
+    "stats_diploma": "27. /36 312. /1621"
   },
   {
-    "puesto": 296,
+    "puesto": 313,
     "placa": "5086",
     "nombre": "Gilmer serrano",
     "categoria": "5 K ABIERTA",
@@ -5024,32 +5313,32 @@ const RUNNERS_DATA = [
     "dif": "+26:56",
     "vel_prom": "6.7 Km/h",
     "ritmo": "8:49 Min/km",
-    "pdf_page": 1514,
+    "pdf_page": 1362,
     "dorsal": "5086",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Gilmer serrano",
     "tiempo_diploma": "00:44:08",
-    "stats_diploma": "76. /90 296. /1597"
+    "stats_diploma": "74. /88 313. /1621"
   },
   {
-    "puesto": 297,
+    "puesto": 314,
     "placa": "5405",
     "nombre": "Angelica maria Martinez rojas",
     "categoria": "5 K MASTER A",
     "ciudad": "",
-    "tiempo": "0:44:10",
-    "dif": "+26:58",
+    "tiempo": "0:44:09",
+    "dif": "+26:57",
     "vel_prom": "6.7 Km/h",
-    "ritmo": "8:50 Min/km",
-    "pdf_page": 1592,
+    "ritmo": "8:49 Min/km",
+    "pdf_page": 1533,
     "dorsal": "5405",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Angelica maria Martinez rojas",
-    "tiempo_diploma": "00:44:10",
-    "stats_diploma": "27. /32 297. /1597"
+    "tiempo_diploma": "00:44:09",
+    "stats_diploma": "27. /32 314. /1621"
   },
   {
-    "puesto": 298,
+    "puesto": 315,
     "placa": "3005",
     "nombre": "Alexander Navarro Barajas",
     "categoria": "10 K MASTER A",
@@ -5058,15 +5347,15 @@ const RUNNERS_DATA = [
     "dif": "+26:58",
     "vel_prom": "13.5 Km/h",
     "ritmo": "4:25 Min/km",
-    "pdf_page": 1095,
+    "pdf_page": 1004,
     "dorsal": "3005",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Alexander Navarro Barajas",
     "tiempo_diploma": "00:44:10",
-    "stats_diploma": "13. /107 298. /1597"
+    "stats_diploma": "13. /107 315. /1621"
   },
   {
-    "puesto": 299,
+    "puesto": 316,
     "placa": "5126",
     "nombre": "Karina isabel Vacca lozano",
     "categoria": "5 K ABIERTA",
@@ -5075,15 +5364,15 @@ const RUNNERS_DATA = [
     "dif": "+27:01",
     "vel_prom": "6.7 Km/h",
     "ritmo": "8:50 Min/km",
-    "pdf_page": 1398,
+    "pdf_page": 1397,
     "dorsal": "5126",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Karina isabel Vacca lozano",
     "tiempo_diploma": "00:44:13",
-    "stats_diploma": "120. /160 299. /1597"
+    "stats_diploma": "116. /156 316. /1621"
   },
   {
-    "puesto": 300,
+    "puesto": 317,
     "placa": "5052",
     "nombre": "Daniela Rangel Ibañez",
     "categoria": "5 K ABIERTA",
@@ -5092,15 +5381,15 @@ const RUNNERS_DATA = [
     "dif": "+27:02",
     "vel_prom": "6.7 Km/h",
     "ritmo": "8:50 Min/km",
-    "pdf_page": 1399,
+    "pdf_page": 1332,
     "dorsal": "5052",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Daniela Rangel Ibañez",
     "tiempo_diploma": "00:44:14",
-    "stats_diploma": "121. /160 300. /1597"
+    "stats_diploma": "117. /156 317. /1621"
   },
   {
-    "puesto": 301,
+    "puesto": 318,
     "placa": "5450",
     "nombre": "Nadia Cecilia Camargo Ruiz",
     "categoria": "5 K MASTER A",
@@ -5109,15 +5398,32 @@ const RUNNERS_DATA = [
     "dif": "+27:02",
     "vel_prom": "6.7 Km/h",
     "ritmo": "8:50 Min/km",
-    "pdf_page": 1557,
+    "pdf_page": 1573,
     "dorsal": "5450",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Nadia Cecilia Camargo Ruiz",
     "tiempo_diploma": "00:44:14",
-    "stats_diploma": "29. /37 301. /1597"
+    "stats_diploma": "28. /36 318. /1621"
   },
   {
-    "puesto": 302,
+    "puesto": 319,
+    "placa": "5510",
+    "nombre": "Elda Patricia Camargo Ruiz",
+    "categoria": "5 K MASTER B",
+    "ciudad": "",
+    "tiempo": "0:44:15",
+    "dif": "+27:03",
+    "vel_prom": "6.7 Km/h",
+    "ritmo": "8:51 Min/km",
+    "pdf_page": 1606,
+    "dorsal": "5510",
+    "categoria_diploma": "5 K MASTER B",
+    "nombre_diploma": "Elda Patricia Camargo Ruiz",
+    "tiempo_diploma": "00:44:15",
+    "stats_diploma": "13. /18 319. /1621"
+  },
+  {
+    "puesto": 320,
     "placa": "5164",
     "nombre": "Marcela Jácome",
     "categoria": "5 K ABIERTA",
@@ -5126,32 +5432,15 @@ const RUNNERS_DATA = [
     "dif": "+27:03",
     "vel_prom": "6.7 Km/h",
     "ritmo": "8:51 Min/km",
-    "pdf_page": 1400,
+    "pdf_page": 1429,
     "dorsal": "5164",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Marcela Jácome",
     "tiempo_diploma": "00:44:15",
-    "stats_diploma": "122. /160 302. /1597"
+    "stats_diploma": "118. /156 320. /1621"
   },
   {
-    "puesto": 303,
-    "placa": "1208",
-    "nombre": "Edwin Hernando Cañón Peña",
-    "categoria": "10 K ABIERTA",
-    "ciudad": "Bucaramanga",
-    "tiempo": "0:44:22",
-    "dif": "+27:10",
-    "vel_prom": "13.5 Km/h",
-    "ritmo": "4:26 Min/km",
-    "pdf_page": 662,
-    "dorsal": "1208",
-    "categoria_diploma": "10 K ABIERTA",
-    "nombre_diploma": "Edwin Hernando Cañón Peña",
-    "tiempo_diploma": "00:44:22",
-    "stats_diploma": "24. /357 303. /1597"
-  },
-  {
-    "puesto": 304,
+    "puesto": 321,
     "placa": "5429",
     "nombre": "JOHN EDUARDO QUINTERO SANTOS",
     "categoria": "5 K MASTER A",
@@ -5160,15 +5449,32 @@ const RUNNERS_DATA = [
     "dif": "+27:10",
     "vel_prom": "6.7 Km/h",
     "ritmo": "8:52 Min/km",
-    "pdf_page": 1593,
+    "pdf_page": 1553,
     "dorsal": "5429",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "JOHN EDUARDO QUINTERO SANTOS",
     "tiempo_diploma": "00:44:22",
-    "stats_diploma": "28. /32 304. /1597"
+    "stats_diploma": "28. /32 321. /1621"
   },
   {
-    "puesto": 305,
+    "puesto": 321,
+    "placa": "1208",
+    "nombre": "Edwin Hernando Cañón Peña",
+    "categoria": "10 K ABIERTA",
+    "ciudad": "Bucaramanga",
+    "tiempo": "0:44:22",
+    "dif": "+27:10",
+    "vel_prom": "13.5 Km/h",
+    "ritmo": "4:26 Min/km",
+    "pdf_page": 229,
+    "dorsal": "1208",
+    "categoria_diploma": "10 K ABIERTA",
+    "nombre_diploma": "Edwin Hernando Cañón Peña",
+    "tiempo_diploma": "00:44:22",
+    "stats_diploma": "24. /357 322. /1621"
+  },
+  {
+    "puesto": 323,
     "placa": "3362",
     "nombre": "Nelson Carvajal Padilla",
     "categoria": "10 K MASTER B",
@@ -5177,15 +5483,15 @@ const RUNNERS_DATA = [
     "dif": "+27:13",
     "vel_prom": "13.5 Km/h",
     "ritmo": "4:26 Min/km",
-    "pdf_page": 1228,
+    "pdf_page": 1253,
     "dorsal": "3362",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Nelson Carvajal Padilla",
     "tiempo_diploma": "00:44:25",
-    "stats_diploma": "6. /56 305. /1597"
+    "stats_diploma": "7. /57 323. /1621"
   },
   {
-    "puesto": 306,
+    "puesto": 324,
     "placa": "5271",
     "nombre": "Silvia Serrano",
     "categoria": "5 K ABIERTA",
@@ -5194,15 +5500,15 @@ const RUNNERS_DATA = [
     "dif": "+27:15",
     "vel_prom": "6.7 Km/h",
     "ritmo": "8:53 Min/km",
-    "pdf_page": 1401,
+    "pdf_page": 1516,
     "dorsal": "5271",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Silvia Serrano",
     "tiempo_diploma": "00:44:27",
-    "stats_diploma": "123. /160 306. /1597"
+    "stats_diploma": "119. /156 324. /1621"
   },
   {
-    "puesto": 307,
+    "puesto": 325,
     "placa": "5104",
     "nombre": "Jessica Paola Esteban Porras",
     "categoria": "5 K ABIERTA",
@@ -5211,15 +5517,32 @@ const RUNNERS_DATA = [
     "dif": "+27:16",
     "vel_prom": "6.7 Km/h",
     "ritmo": "8:53 Min/km",
-    "pdf_page": 1402,
+    "pdf_page": 1376,
     "dorsal": "5104",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Jessica Paola Esteban Porras",
     "tiempo_diploma": "00:44:28",
-    "stats_diploma": "124. /160 307. /1597"
+    "stats_diploma": "120. /156 325. /1621"
   },
   {
-    "puesto": 308,
+    "puesto": 326,
+    "placa": "5103",
+    "nombre": "Jessica Andrea Martinez Picon",
+    "categoria": "5 K ABIERTA",
+    "ciudad": "",
+    "tiempo": "0:44:28",
+    "dif": "+27:16",
+    "vel_prom": "6.7 Km/h",
+    "ritmo": "8:53 Min/km",
+    "pdf_page": 1375,
+    "dorsal": "5103",
+    "categoria_diploma": "5 K ABIERTA",
+    "nombre_diploma": "Jessica Andrea Martinez Picon",
+    "tiempo_diploma": "00:44:28",
+    "stats_diploma": "121. /156 326. /1621"
+  },
+  {
+    "puesto": 327,
     "placa": "3140",
     "nombre": "Mayser Mauricio Rodriguez Balaguera",
     "categoria": "10 K MASTER A",
@@ -5228,32 +5551,15 @@ const RUNNERS_DATA = [
     "dif": "+27:17",
     "vel_prom": "13.4 Km/h",
     "ritmo": "4:26 Min/km",
-    "pdf_page": 1096,
+    "pdf_page": 1131,
     "dorsal": "3140",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Mayser Mauricio Rodriguez Balaguera",
     "tiempo_diploma": "00:44:29",
-    "stats_diploma": "14. /107 308. /1597"
+    "stats_diploma": "14. /107 327. /1621"
   },
   {
-    "puesto": 309,
-    "placa": "5103",
-    "nombre": "Jessica Andrea Martinez Picon",
-    "categoria": "5 K ABIERTA",
-    "ciudad": "",
-    "tiempo": "0:44:29",
-    "dif": "+27:17",
-    "vel_prom": "6.7 Km/h",
-    "ritmo": "8:53 Min/km",
-    "pdf_page": 1403,
-    "dorsal": "5103",
-    "categoria_diploma": "5 K ABIERTA",
-    "nombre_diploma": "Jessica Andrea Martinez Picon",
-    "tiempo_diploma": "00:44:29",
-    "stats_diploma": "125. /160 309. /1597"
-  },
-  {
-    "puesto": 310,
+    "puesto": 328,
     "placa": "1079",
     "nombre": "Bayron Arturo Lopez Canas",
     "categoria": "10 K ABIERTA",
@@ -5262,15 +5568,15 @@ const RUNNERS_DATA = [
     "dif": "+27:21",
     "vel_prom": "13.4 Km/h",
     "ritmo": "4:27 Min/km",
-    "pdf_page": 663,
+    "pdf_page": 109,
     "dorsal": "1079",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Bayron Arturo Lopez Canas",
     "tiempo_diploma": "00:44:33",
-    "stats_diploma": "25. /357 310. /1597"
+    "stats_diploma": "25. /357 328. /1621"
   },
   {
-    "puesto": 311,
+    "puesto": 329,
     "placa": "1374",
     "nombre": "JULIAN CAMILO VANEGAS ORTEGA",
     "categoria": "10 K ABIERTA",
@@ -5279,15 +5585,15 @@ const RUNNERS_DATA = [
     "dif": "+27:23",
     "vel_prom": "13.4 Km/h",
     "ritmo": "4:27 Min/km",
-    "pdf_page": 664,
+    "pdf_page": 384,
     "dorsal": "1374",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "JULIAN CAMILO VANEGAS ORTEGA",
     "tiempo_diploma": "00:44:35",
-    "stats_diploma": "26. /357 311. /1597"
+    "stats_diploma": "26. /357 329. /1621"
   },
   {
-    "puesto": 312,
+    "puesto": 330,
     "placa": "5472",
     "nombre": "Juliana Cristancho Morales",
     "categoria": "5 K MASTER A",
@@ -5296,15 +5602,15 @@ const RUNNERS_DATA = [
     "dif": "+27:23",
     "vel_prom": "6.7 Km/h",
     "ritmo": "8:55 Min/km",
-    "pdf_page": 1558,
+    "pdf_page": 1595,
     "dorsal": "5472",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Juliana Cristancho Morales",
     "tiempo_diploma": "00:44:35",
-    "stats_diploma": "30. /37 312. /1597"
+    "stats_diploma": "29. /36 330. /1621"
   },
   {
-    "puesto": 313,
+    "puesto": 331,
     "placa": "5007",
     "nombre": "Alexandra Serrano",
     "categoria": "5 K ABIERTA",
@@ -5313,15 +5619,15 @@ const RUNNERS_DATA = [
     "dif": "+27:24",
     "vel_prom": "6.7 Km/h",
     "ritmo": "8:55 Min/km",
-    "pdf_page": 1404,
+    "pdf_page": 1290,
     "dorsal": "5007",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Alexandra Serrano",
     "tiempo_diploma": "00:44:36",
-    "stats_diploma": "126. /160 313. /1597"
+    "stats_diploma": "122. /156 331. /1621"
   },
   {
-    "puesto": 314,
+    "puesto": 332,
     "placa": "1653",
     "nombre": "Weimar Armenta",
     "categoria": "10 K ABIERTA",
@@ -5330,32 +5636,15 @@ const RUNNERS_DATA = [
     "dif": "+27:27",
     "vel_prom": "13.4 Km/h",
     "ritmo": "4:27 Min/km",
-    "pdf_page": 665,
+    "pdf_page": 620,
     "dorsal": "1653",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Weimar Armenta",
     "tiempo_diploma": "00:44:39",
-    "stats_diploma": "27. /357 314. /1597"
+    "stats_diploma": "27. /357 332. /1621"
   },
   {
-    "puesto": 315,
-    "placa": "1182",
-    "nombre": "Diego Francisco Esteban Leon",
-    "categoria": "10 K ABIERTA",
-    "ciudad": "Bucaramanga",
-    "tiempo": "0:44:41",
-    "dif": "+27:29",
-    "vel_prom": "13.4 Km/h",
-    "ritmo": "4:28 Min/km",
-    "pdf_page": 666,
-    "dorsal": "1182",
-    "categoria_diploma": "10 K ABIERTA",
-    "nombre_diploma": "Diego Francisco Esteban Leon",
-    "tiempo_diploma": "00:44:41",
-    "stats_diploma": "28. /357 315. /1597"
-  },
-  {
-    "puesto": 316,
+    "puesto": 333,
     "placa": "5263",
     "nombre": "Karoll Ramos",
     "categoria": "5 K ABIERTA",
@@ -5364,15 +5653,32 @@ const RUNNERS_DATA = [
     "dif": "+27:29",
     "vel_prom": "6.7 Km/h",
     "ritmo": "8:56 Min/km",
-    "pdf_page": 1405,
+    "pdf_page": 1512,
     "dorsal": "5263",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Karoll Ramos",
     "tiempo_diploma": "00:44:41",
-    "stats_diploma": "127. /160 316. /1597"
+    "stats_diploma": "123. /156 333. /1621"
   },
   {
-    "puesto": 317,
+    "puesto": 334,
+    "placa": "1182",
+    "nombre": "Diego Francisco Esteban Leon",
+    "categoria": "10 K ABIERTA",
+    "ciudad": "Bucaramanga",
+    "tiempo": "0:44:41",
+    "dif": "+27:29",
+    "vel_prom": "13.4 Km/h",
+    "ritmo": "4:28 Min/km",
+    "pdf_page": 204,
+    "dorsal": "1182",
+    "categoria_diploma": "10 K ABIERTA",
+    "nombre_diploma": "Diego Francisco Esteban Leon",
+    "tiempo_diploma": "00:44:41",
+    "stats_diploma": "28. /357 334. /1621"
+  },
+  {
+    "puesto": 335,
     "placa": "3116",
     "nombre": "Leonardo Gutiérrez Lobo",
     "categoria": "10 K MASTER A",
@@ -5381,15 +5687,15 @@ const RUNNERS_DATA = [
     "dif": "+27:31",
     "vel_prom": "13.4 Km/h",
     "ritmo": "4:28 Min/km",
-    "pdf_page": 1097,
+    "pdf_page": 1107,
     "dorsal": "3116",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Leonardo Gutiérrez Lobo",
     "tiempo_diploma": "00:44:43",
-    "stats_diploma": "15. /107 317. /1597"
+    "stats_diploma": "15. /107 335. /1621"
   },
   {
-    "puesto": 318,
+    "puesto": 336,
     "placa": "5289",
     "nombre": "Valeria Dejanon",
     "categoria": "5 K ABIERTA",
@@ -5398,15 +5704,15 @@ const RUNNERS_DATA = [
     "dif": "+27:32",
     "vel_prom": "6.7 Km/h",
     "ritmo": "8:56 Min/km",
-    "pdf_page": 1406,
+    "pdf_page": 1527,
     "dorsal": "5289",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Valeria Dejanon",
     "tiempo_diploma": "00:44:44",
-    "stats_diploma": "128. /160 318. /1597"
+    "stats_diploma": "124. /156 336. /1621"
   },
   {
-    "puesto": 319,
+    "puesto": 337,
     "placa": "3124",
     "nombre": "Carlos Andrés Bravo",
     "categoria": "10 K MASTER A",
@@ -5415,15 +5721,15 @@ const RUNNERS_DATA = [
     "dif": "+27:35",
     "vel_prom": "13.3 Km/h",
     "ritmo": "4:28 Min/km",
-    "pdf_page": 1098,
+    "pdf_page": 1115,
     "dorsal": "3124",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Carlos Andrés Bravo",
     "tiempo_diploma": "00:44:47",
-    "stats_diploma": "16. /107 319. /1597"
+    "stats_diploma": "16. /107 337. /1621"
   },
   {
-    "puesto": 320,
+    "puesto": 338,
     "placa": "1566",
     "nombre": "Paula Becerra",
     "categoria": "10 K ABIERTA",
@@ -5432,15 +5738,15 @@ const RUNNERS_DATA = [
     "dif": "+27:37",
     "vel_prom": "13.3 Km/h",
     "ritmo": "4:28 Min/km",
-    "pdf_page": 329,
+    "pdf_page": 545,
     "dorsal": "1566",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Paula Becerra",
     "tiempo_diploma": "00:44:49",
-    "stats_diploma": "1. /310 320. /1597"
+    "stats_diploma": "1. /309 338. /1621"
   },
   {
-    "puesto": 321,
+    "puesto": 339,
     "placa": "1154",
     "nombre": "Danny Andres Pinzon Ascanio",
     "categoria": "10 K ABIERTA",
@@ -5449,15 +5755,15 @@ const RUNNERS_DATA = [
     "dif": "+27:50",
     "vel_prom": "13.3 Km/h",
     "ritmo": "4:30 Min/km",
-    "pdf_page": 667,
+    "pdf_page": 177,
     "dorsal": "1154",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Danny Andres Pinzon Ascanio",
     "tiempo_diploma": "00:45:02",
-    "stats_diploma": "29. /357 321. /1597"
+    "stats_diploma": "29. /357 339. /1621"
   },
   {
-    "puesto": 322,
+    "puesto": 340,
     "placa": "3148",
     "nombre": "Nini Johana Arrieta Sánchez",
     "categoria": "10 K MASTER A",
@@ -5466,15 +5772,15 @@ const RUNNERS_DATA = [
     "dif": "+27:52",
     "vel_prom": "13.3 Km/h",
     "ritmo": "4:30 Min/km",
-    "pdf_page": 998,
+    "pdf_page": 1139,
     "dorsal": "3148",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Nini Johana Arrieta Sánchez",
     "tiempo_diploma": "00:45:04",
-    "stats_diploma": "3. /87 322. /1597"
+    "stats_diploma": "3. /87 340. /1621"
   },
   {
-    "puesto": 323,
+    "puesto": 341,
     "placa": "1103",
     "nombre": "Carlos Rey",
     "categoria": "10 K ABIERTA",
@@ -5483,15 +5789,15 @@ const RUNNERS_DATA = [
     "dif": "+27:52",
     "vel_prom": "13.3 Km/h",
     "ritmo": "4:30 Min/km",
-    "pdf_page": 668,
+    "pdf_page": 132,
     "dorsal": "1103",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Carlos Rey",
     "tiempo_diploma": "00:45:04",
-    "stats_diploma": "30. /357 323. /1597"
+    "stats_diploma": "30. /357 341. /1621"
   },
   {
-    "puesto": 324,
+    "puesto": 342,
     "placa": "3092",
     "nombre": "Jonn Arias",
     "categoria": "10 K MASTER A",
@@ -5500,15 +5806,15 @@ const RUNNERS_DATA = [
     "dif": "+27:54",
     "vel_prom": "13.3 Km/h",
     "ritmo": "4:30 Min/km",
-    "pdf_page": 1099,
+    "pdf_page": 1084,
     "dorsal": "3092",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Jonn Arias",
     "tiempo_diploma": "00:45:06",
-    "stats_diploma": "17. /107 324. /1597"
+    "stats_diploma": "17. /107 342. /1621"
   },
   {
-    "puesto": 325,
+    "puesto": 343,
     "placa": "5238",
     "nombre": "Veronica Gonzalez",
     "categoria": "5 K ABIERTA",
@@ -5517,32 +5823,32 @@ const RUNNERS_DATA = [
     "dif": "+27:57",
     "vel_prom": "6.6 Km/h",
     "ritmo": "9:01 Min/km",
-    "pdf_page": 1515,
+    "pdf_page": 1490,
     "dorsal": "5238",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Veronica Gonzalez",
     "tiempo_diploma": "00:45:09",
-    "stats_diploma": "77. /90 325. /1597"
+    "stats_diploma": "75. /88 343. /1621"
   },
   {
-    "puesto": 326,
+    "puesto": 344,
     "placa": "5152",
     "nombre": "Lina María López Díaz",
     "categoria": "5 K ABIERTA",
     "ciudad": "",
-    "tiempo": "0:45:15",
-    "dif": "+28:03",
+    "tiempo": "0:45:14",
+    "dif": "+28:02",
     "vel_prom": "6.6 Km/h",
-    "ritmo": "9:03 Min/km",
-    "pdf_page": 1407,
+    "ritmo": "9:02 Min/km",
+    "pdf_page": 1418,
     "dorsal": "5152",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Lina María López Díaz",
-    "tiempo_diploma": "00:45:15",
-    "stats_diploma": "129. /160 326. /1597"
+    "tiempo_diploma": "00:45:14",
+    "stats_diploma": "125. /156 344. /1621"
   },
   {
-    "puesto": 327,
+    "puesto": 345,
     "placa": "5402",
     "nombre": "Adriana Mantilla",
     "categoria": "5 K MASTER A",
@@ -5551,15 +5857,15 @@ const RUNNERS_DATA = [
     "dif": "+28:05",
     "vel_prom": "6.6 Km/h",
     "ritmo": "9:03 Min/km",
-    "pdf_page": 1594,
+    "pdf_page": 1530,
     "dorsal": "5402",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Adriana Mantilla",
     "tiempo_diploma": "00:45:17",
-    "stats_diploma": "29. /32 327. /1597"
+    "stats_diploma": "29. /32 345. /1621"
   },
   {
-    "puesto": 328,
+    "puesto": 346,
     "placa": "3151",
     "nombre": "Óscar Darío Celis Rivero",
     "categoria": "10 K MASTER A",
@@ -5568,15 +5874,15 @@ const RUNNERS_DATA = [
     "dif": "+28:08",
     "vel_prom": "13.2 Km/h",
     "ritmo": "4:32 Min/km",
-    "pdf_page": 1100,
+    "pdf_page": 1142,
     "dorsal": "3151",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Óscar Darío Celis Rivero",
     "tiempo_diploma": "00:45:20",
-    "stats_diploma": "18. /107 328. /1597"
+    "stats_diploma": "18. /107 346. /1621"
   },
   {
-    "puesto": 329,
+    "puesto": 347,
     "placa": "1206",
     "nombre": "Edwin Bustamante Gomez",
     "categoria": "10 K ABIERTA",
@@ -5585,15 +5891,15 @@ const RUNNERS_DATA = [
     "dif": "+28:10",
     "vel_prom": "13.2 Km/h",
     "ritmo": "4:32 Min/km",
-    "pdf_page": 669,
+    "pdf_page": 227,
     "dorsal": "1206",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Edwin Bustamante Gomez",
     "tiempo_diploma": "00:45:22",
-    "stats_diploma": "31. /357 329. /1597"
+    "stats_diploma": "31. /357 347. /1621"
   },
   {
-    "puesto": 330,
+    "puesto": 348,
     "placa": "5194",
     "nombre": "Nataly Xiomara Duarte Amado",
     "categoria": "5 K ABIERTA",
@@ -5602,15 +5908,15 @@ const RUNNERS_DATA = [
     "dif": "+28:11",
     "vel_prom": "6.6 Km/h",
     "ritmo": "9:04 Min/km",
-    "pdf_page": 1408,
+    "pdf_page": 1455,
     "dorsal": "5194",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Nataly Xiomara Duarte Amado",
     "tiempo_diploma": "00:45:23",
-    "stats_diploma": "130. /160 330. /1597"
+    "stats_diploma": "126. /156 348. /1621"
   },
   {
-    "puesto": 331,
+    "puesto": 349,
     "placa": "1236",
     "nombre": "Fernando Córdoba",
     "categoria": "10 K ABIERTA",
@@ -5619,15 +5925,15 @@ const RUNNERS_DATA = [
     "dif": "+28:11",
     "vel_prom": "13.2 Km/h",
     "ritmo": "4:32 Min/km",
-    "pdf_page": 670,
+    "pdf_page": 256,
     "dorsal": "1236",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Fernando Córdoba",
     "tiempo_diploma": "00:45:23",
-    "stats_diploma": "32. /357 331. /1597"
+    "stats_diploma": "32. /357 349. /1621"
   },
   {
-    "puesto": 332,
+    "puesto": 350,
     "placa": "5143",
     "nombre": "Leidy Viviana Blanco Cruz",
     "categoria": "5 K ABIERTA",
@@ -5636,15 +5942,15 @@ const RUNNERS_DATA = [
     "dif": "+28:12",
     "vel_prom": "6.6 Km/h",
     "ritmo": "9:04 Min/km",
-    "pdf_page": 1409,
+    "pdf_page": 1411,
     "dorsal": "5143",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Leidy Viviana Blanco Cruz",
     "tiempo_diploma": "00:45:24",
-    "stats_diploma": "131. /160 332. /1597"
+    "stats_diploma": "127. /156 350. /1621"
   },
   {
-    "puesto": 333,
+    "puesto": 351,
     "placa": "5135",
     "nombre": "Laura Fernanda Alvarez Maldonado",
     "categoria": "5 K ABIERTA",
@@ -5653,32 +5959,32 @@ const RUNNERS_DATA = [
     "dif": "+28:13",
     "vel_prom": "6.6 Km/h",
     "ritmo": "9:05 Min/km",
-    "pdf_page": 1410,
+    "pdf_page": 1406,
     "dorsal": "5135",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Laura Fernanda Alvarez Maldonado",
     "tiempo_diploma": "00:45:25",
-    "stats_diploma": "132. /160 333. /1597"
+    "stats_diploma": "128. /156 351. /1621"
   },
   {
-    "puesto": 334,
+    "puesto": 352,
     "placa": "5013",
     "nombre": "Andrea Roa",
     "categoria": "5 K ABIERTA",
     "ciudad": "Floridablanca",
-    "tiempo": "0:45:26",
-    "dif": "+28:14",
+    "tiempo": "0:45:25",
+    "dif": "+28:13",
     "vel_prom": "6.6 Km/h",
     "ritmo": "9:05 Min/km",
-    "pdf_page": 1411,
+    "pdf_page": 1295,
     "dorsal": "5013",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Andrea Roa",
-    "tiempo_diploma": "00:45:26",
-    "stats_diploma": "133. /160 334. /1597"
+    "tiempo_diploma": "00:45:25",
+    "stats_diploma": "129. /156 352. /1621"
   },
   {
-    "puesto": 335,
+    "puesto": 353,
     "placa": "5454",
     "nombre": "ORIANA YARITZA LOPEZ ROJAS",
     "categoria": "5 K MASTER A",
@@ -5687,32 +5993,15 @@ const RUNNERS_DATA = [
     "dif": "+28:17",
     "vel_prom": "6.5 Km/h",
     "ritmo": "9:05 Min/km",
-    "pdf_page": 1559,
+    "pdf_page": 1577,
     "dorsal": "5454",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "ORIANA YARITZA LOPEZ ROJAS",
     "tiempo_diploma": "00:45:29",
-    "stats_diploma": "31. /37 335. /1597"
+    "stats_diploma": "30. /36 353. /1621"
   },
   {
-    "puesto": 336,
-    "placa": "3375",
-    "nombre": "Rosaura Lizcano",
-    "categoria": "10 K MASTER B",
-    "ciudad": "Barbosa",
-    "tiempo": "0:45:30",
-    "dif": "+28:18",
-    "vel_prom": "13.1 Km/h",
-    "ritmo": "4:33 Min/km",
-    "pdf_page": 1190,
-    "dorsal": "3375",
-    "categoria_diploma": "10 K MASTER B",
-    "nombre_diploma": "Rosaura Lizcano",
-    "tiempo_diploma": "00:45:30",
-    "stats_diploma": "1. /33 336. /1597"
-  },
-  {
-    "puesto": 337,
+    "puesto": 354,
     "placa": "5211",
     "nombre": "SANDRA MILENA CARREÑO PEÑALOZA",
     "categoria": "5 K ABIERTA",
@@ -5721,15 +6010,32 @@ const RUNNERS_DATA = [
     "dif": "+28:18",
     "vel_prom": "6.5 Km/h",
     "ritmo": "9:06 Min/km",
-    "pdf_page": 1412,
+    "pdf_page": 1470,
     "dorsal": "5211",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "SANDRA MILENA CARREÑO PEÑALOZA",
     "tiempo_diploma": "00:45:30",
-    "stats_diploma": "134. /160 337. /1597"
+    "stats_diploma": "130. /156 354. /1621"
   },
   {
-    "puesto": 338,
+    "puesto": 355,
+    "placa": "3375",
+    "nombre": "Rosaura Lizcano",
+    "categoria": "10 K MASTER B",
+    "ciudad": "Barbosa",
+    "tiempo": "0:45:30",
+    "dif": "+28:18",
+    "vel_prom": "13.1 Km/h",
+    "ritmo": "4:33 Min/km",
+    "pdf_page": 1264,
+    "dorsal": "3375",
+    "categoria_diploma": "10 K MASTER B",
+    "nombre_diploma": "Rosaura Lizcano",
+    "tiempo_diploma": "00:45:30",
+    "stats_diploma": "1. /33 355. /1621"
+  },
+  {
+    "puesto": 356,
     "placa": "5466",
     "nombre": "Yamel Xiomara Lopez Rojas",
     "categoria": "5 K MASTER A",
@@ -5738,15 +6044,15 @@ const RUNNERS_DATA = [
     "dif": "+28:18",
     "vel_prom": "6.5 Km/h",
     "ritmo": "9:06 Min/km",
-    "pdf_page": 1560,
+    "pdf_page": 1589,
     "dorsal": "5466",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Yamel Xiomara Lopez Rojas",
     "tiempo_diploma": "00:45:30",
-    "stats_diploma": "32. /37 338. /1597"
+    "stats_diploma": "31. /36 356. /1621"
   },
   {
-    "puesto": 339,
+    "puesto": 357,
     "placa": "5054",
     "nombre": "Danna Valentina Espinel Cordero",
     "categoria": "5 K ABIERTA",
@@ -5755,15 +6061,15 @@ const RUNNERS_DATA = [
     "dif": "+28:19",
     "vel_prom": "6.5 Km/h",
     "ritmo": "9:06 Min/km",
-    "pdf_page": 1413,
+    "pdf_page": 1334,
     "dorsal": "5054",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Danna Valentina Espinel Cordero",
     "tiempo_diploma": "00:45:31",
-    "stats_diploma": "135. /160 339. /1597"
+    "stats_diploma": "131. /156 357. /1621"
   },
   {
-    "puesto": 340,
+    "puesto": 358,
     "placa": "5096",
     "nombre": "Janitzi Dayana Tovar Redondo",
     "categoria": "5 K ABIERTA",
@@ -5772,15 +6078,15 @@ const RUNNERS_DATA = [
     "dif": "+28:19",
     "vel_prom": "6.5 Km/h",
     "ritmo": "9:06 Min/km",
-    "pdf_page": 1414,
+    "pdf_page": 1370,
     "dorsal": "5096",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Janitzi Dayana Tovar Redondo",
     "tiempo_diploma": "00:45:31",
-    "stats_diploma": "136. /160 340. /1597"
+    "stats_diploma": "132. /156 358. /1621"
   },
   {
-    "puesto": 341,
+    "puesto": 359,
     "placa": "5131",
     "nombre": "Keyler Daniel Lopez Machado",
     "categoria": "5 K ABIERTA",
@@ -5789,15 +6095,15 @@ const RUNNERS_DATA = [
     "dif": "+28:19",
     "vel_prom": "6.5 Km/h",
     "ritmo": "9:06 Min/km",
-    "pdf_page": 1516,
+    "pdf_page": 1402,
     "dorsal": "5131",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Keyler Daniel Lopez Machado",
     "tiempo_diploma": "00:45:31",
-    "stats_diploma": "78. /90 341. /1597"
+    "stats_diploma": "76. /88 359. /1621"
   },
   {
-    "puesto": 342,
+    "puesto": 360,
     "placa": "3380",
     "nombre": "Sonia Patricia Santos Sarmiento",
     "categoria": "10 K MASTER B",
@@ -5806,15 +6112,15 @@ const RUNNERS_DATA = [
     "dif": "+28:22",
     "vel_prom": "13.1 Km/h",
     "ritmo": "4:33 Min/km",
-    "pdf_page": 1191,
+    "pdf_page": 1269,
     "dorsal": "3380",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Sonia Patricia Santos Sarmiento",
     "tiempo_diploma": "00:45:34",
-    "stats_diploma": "2. /33 342. /1597"
+    "stats_diploma": "2. /33 360. /1621"
   },
   {
-    "puesto": 343,
+    "puesto": 361,
     "placa": "1451",
     "nombre": "Luis Fernando Duran Rey",
     "categoria": "10 K ABIERTA",
@@ -5823,15 +6129,15 @@ const RUNNERS_DATA = [
     "dif": "+28:25",
     "vel_prom": "13.1 Km/h",
     "ritmo": "4:33 Min/km",
-    "pdf_page": 671,
+    "pdf_page": 445,
     "dorsal": "1451",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Luis Fernando Duran Rey",
     "tiempo_diploma": "00:45:37",
-    "stats_diploma": "33. /357 343. /1597"
+    "stats_diploma": "33. /357 361. /1621"
   },
   {
-    "puesto": 344,
+    "puesto": 362,
     "placa": "1308",
     "nombre": "Jhan Carlos Pinzon Galindo",
     "categoria": "10 K ABIERTA",
@@ -5840,15 +6146,15 @@ const RUNNERS_DATA = [
     "dif": "+28:32",
     "vel_prom": "13.1 Km/h",
     "ritmo": "4:34 Min/km",
-    "pdf_page": 672,
+    "pdf_page": 324,
     "dorsal": "1308",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Jhan Carlos Pinzon Galindo",
     "tiempo_diploma": "00:45:44",
-    "stats_diploma": "34. /357 344. /1597"
+    "stats_diploma": "34. /357 362. /1621"
   },
   {
-    "puesto": 345,
+    "puesto": 363,
     "placa": "5265",
     "nombre": "Maríajose Páez lobo",
     "categoria": "5 K ABIERTA",
@@ -5857,15 +6163,15 @@ const RUNNERS_DATA = [
     "dif": "+28:41",
     "vel_prom": "6.5 Km/h",
     "ritmo": "9:10 Min/km",
-    "pdf_page": 1415,
+    "pdf_page": 1513,
     "dorsal": "5265",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Maríajose Páez lobo",
     "tiempo_diploma": "00:45:53",
-    "stats_diploma": "137. /160 345. /1597"
+    "stats_diploma": "133. /156 363. /1621"
   },
   {
-    "puesto": 346,
+    "puesto": 364,
     "placa": "1284",
     "nombre": "Javier Leonardo Ardila Torres",
     "categoria": "10 K ABIERTA",
@@ -5874,32 +6180,15 @@ const RUNNERS_DATA = [
     "dif": "+28:42",
     "vel_prom": "13.0 Km/h",
     "ritmo": "4:35 Min/km",
-    "pdf_page": 673,
+    "pdf_page": 301,
     "dorsal": "1284",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Javier Leonardo Ardila Torres",
     "tiempo_diploma": "00:45:54",
-    "stats_diploma": "35. /357 346. /1597"
+    "stats_diploma": "35. /357 364. /1621"
   },
   {
-    "puesto": 347,
-    "placa": "1212",
-    "nombre": "Eliana Katterine Avila Toscano",
-    "categoria": "10 K ABIERTA",
-    "ciudad": "Floridablanca",
-    "tiempo": "0:45:55",
-    "dif": "+28:43",
-    "vel_prom": "13.0 Km/h",
-    "ritmo": "4:35 Min/km",
-    "pdf_page": 330,
-    "dorsal": "1212",
-    "categoria_diploma": "10 K ABIERTA",
-    "nombre_diploma": "Eliana Katterine Avila Toscano",
-    "tiempo_diploma": "00:15:46",
-    "stats_diploma": "2. /310 347. /1597"
-  },
-  {
-    "puesto": 348,
+    "puesto": 365,
     "placa": "5121",
     "nombre": "Juliana Godoy",
     "categoria": "5 K ABIERTA",
@@ -5908,15 +6197,15 @@ const RUNNERS_DATA = [
     "dif": "+28:43",
     "vel_prom": "6.5 Km/h",
     "ritmo": "9:11 Min/km",
-    "pdf_page": 1416,
+    "pdf_page": 1393,
     "dorsal": "5121",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Juliana Godoy",
     "tiempo_diploma": "00:45:55",
-    "stats_diploma": "138. /160 348. /1597"
+    "stats_diploma": "134. /156 365. /1621"
   },
   {
-    "puesto": 349,
+    "puesto": 366,
     "placa": "3319",
     "nombre": "EDUARDO GARCIA PUENTES",
     "categoria": "10 K MASTER B",
@@ -5925,15 +6214,15 @@ const RUNNERS_DATA = [
     "dif": "+28:52",
     "vel_prom": "13.0 Km/h",
     "ritmo": "4:36 Min/km",
-    "pdf_page": 1229,
+    "pdf_page": 1212,
     "dorsal": "3319",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "EDUARDO GARCIA PUENTES",
     "tiempo_diploma": "00:46:04",
-    "stats_diploma": "7. /56 349. /1597"
+    "stats_diploma": "8. /57 366. /1621"
   },
   {
-    "puesto": 350,
+    "puesto": 367,
     "placa": "5064",
     "nombre": "DIANA LIZETH SARMIENTO SANDOVAL",
     "categoria": "5 K ABIERTA",
@@ -5942,15 +6231,32 @@ const RUNNERS_DATA = [
     "dif": "+28:53",
     "vel_prom": "6.5 Km/h",
     "ritmo": "9:13 Min/km",
-    "pdf_page": 1417,
+    "pdf_page": 1342,
     "dorsal": "5064",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "DIANA LIZETH SARMIENTO SANDOVAL",
     "tiempo_diploma": "00:46:05",
-    "stats_diploma": "139. /160 350. /1597"
+    "stats_diploma": "135. /156 367. /1621"
   },
   {
-    "puesto": 351,
+    "puesto": 368,
+    "placa": "5523",
+    "nombre": "Liga Moreno Espinosa",
+    "categoria": "5 K MASTER B",
+    "ciudad": "",
+    "tiempo": "0:46:13",
+    "dif": "+29:01",
+    "vel_prom": "6.4 Km/h",
+    "ritmo": "9:14 Min/km",
+    "pdf_page": 1615,
+    "dorsal": "5523",
+    "categoria_diploma": "5 K MASTER B",
+    "nombre_diploma": "Liga Moreno Espinosa",
+    "tiempo_diploma": "00:46:13",
+    "stats_diploma": "14. /18 368. /1621"
+  },
+  {
+    "puesto": 369,
     "placa": "5262",
     "nombre": "MADYSSON MANRIQUE BARRERA",
     "categoria": "5 K ABIERTA",
@@ -5959,15 +6265,15 @@ const RUNNERS_DATA = [
     "dif": "+29:01",
     "vel_prom": "6.4 Km/h",
     "ritmo": "9:14 Min/km",
-    "pdf_page": 1418,
+    "pdf_page": 1511,
     "dorsal": "5262",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "MADYSSON MANRIQUE BARRERA",
     "tiempo_diploma": "00:46:13",
-    "stats_diploma": "140. /160 351. /1597"
+    "stats_diploma": "136. /156 369. /1621"
   },
   {
-    "puesto": 352,
+    "puesto": 370,
     "placa": "5036",
     "nombre": "CARLOS DELGADO",
     "categoria": "5 K ABIERTA",
@@ -5976,15 +6282,15 @@ const RUNNERS_DATA = [
     "dif": "+29:02",
     "vel_prom": "6.4 Km/h",
     "ritmo": "9:14 Min/km",
-    "pdf_page": 1517,
+    "pdf_page": 1316,
     "dorsal": "5036",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "CARLOS DELGADO",
     "tiempo_diploma": "00:46:14",
-    "stats_diploma": "79. /90 352. /1597"
+    "stats_diploma": "77. /88 370. /1621"
   },
   {
-    "puesto": 353,
+    "puesto": 371,
     "placa": "3365",
     "nombre": "Omar Fernández",
     "categoria": "10 K MASTER B",
@@ -5993,15 +6299,15 @@ const RUNNERS_DATA = [
     "dif": "+29:06",
     "vel_prom": "12.9 Km/h",
     "ritmo": "4:37 Min/km",
-    "pdf_page": 1230,
+    "pdf_page": 1256,
     "dorsal": "3365",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Omar Fernández",
     "tiempo_diploma": "00:46:18",
-    "stats_diploma": "8. /56 353. /1597"
+    "stats_diploma": "9. /57 371. /1621"
   },
   {
-    "puesto": 354,
+    "puesto": 372,
     "placa": "1614",
     "nombre": "Sergio andres Arguello contreras",
     "categoria": "10 K ABIERTA",
@@ -6010,15 +6316,15 @@ const RUNNERS_DATA = [
     "dif": "+29:06",
     "vel_prom": "12.9 Km/h",
     "ritmo": "4:37 Min/km",
-    "pdf_page": 674,
+    "pdf_page": 585,
     "dorsal": "1614",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Sergio andres Arguello contreras",
     "tiempo_diploma": "00:46:18",
-    "stats_diploma": "36. /357 354. /1597"
+    "stats_diploma": "36. /357 372. /1621"
   },
   {
-    "puesto": 355,
+    "puesto": 373,
     "placa": "5243",
     "nombre": "Yaritza Angelica Pinillos Herrera",
     "categoria": "5 K ABIERTA",
@@ -6027,15 +6333,15 @@ const RUNNERS_DATA = [
     "dif": "+29:10",
     "vel_prom": "6.4 Km/h",
     "ritmo": "9:16 Min/km",
-    "pdf_page": 1419,
+    "pdf_page": 1494,
     "dorsal": "5243",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Yaritza Angelica Pinillos Herrera",
     "tiempo_diploma": "00:46:22",
-    "stats_diploma": "141. /160 355. /1597"
+    "stats_diploma": "137. /156 373. /1621"
   },
   {
-    "puesto": 356,
+    "puesto": 374,
     "placa": "3006",
     "nombre": "ALFREDO ALFONSO CHARRIS ORTEGA",
     "categoria": "10 K MASTER A",
@@ -6044,15 +6350,15 @@ const RUNNERS_DATA = [
     "dif": "+29:11",
     "vel_prom": "12.9 Km/h",
     "ritmo": "4:38 Min/km",
-    "pdf_page": 1101,
+    "pdf_page": 1005,
     "dorsal": "3006",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "ALFREDO ALFONSO CHARRIS ORTEGA",
     "tiempo_diploma": "00:46:23",
-    "stats_diploma": "19. /107 356. /1597"
+    "stats_diploma": "19. /107 374. /1621"
   },
   {
-    "puesto": 357,
+    "puesto": 375,
     "placa": "1364",
     "nombre": "Juan Sebastian Duarte Prada",
     "categoria": "10 K ABIERTA",
@@ -6061,15 +6367,15 @@ const RUNNERS_DATA = [
     "dif": "+29:14",
     "vel_prom": "12.9 Km/h",
     "ritmo": "4:38 Min/km",
-    "pdf_page": 675,
+    "pdf_page": 374,
     "dorsal": "1364",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Juan Sebastian Duarte Prada",
     "tiempo_diploma": "00:46:26",
-    "stats_diploma": "37. /357 357. /1597"
+    "stats_diploma": "37. /357 375. /1621"
   },
   {
-    "puesto": 358,
+    "puesto": 376,
     "placa": "1108",
     "nombre": "Carlos Alirio Lopez Ayala",
     "categoria": "10 K ABIERTA",
@@ -6078,32 +6384,32 @@ const RUNNERS_DATA = [
     "dif": "+29:18",
     "vel_prom": "12.9 Km/h",
     "ritmo": "4:39 Min/km",
-    "pdf_page": 676,
+    "pdf_page": 137,
     "dorsal": "1108",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Carlos Alirio Lopez Ayala",
     "tiempo_diploma": "00:46:30",
-    "stats_diploma": "38. /357 358. /1597"
+    "stats_diploma": "38. /357 376. /1621"
   },
   {
-    "puesto": 359,
+    "puesto": 377,
     "placa": "5189",
     "nombre": "MIGUEL MENDEZ MUÑOZ",
     "categoria": "5 K ABIERTA",
     "ciudad": "Bucaramanga",
-    "tiempo": "0:46:31",
-    "dif": "+29:19",
+    "tiempo": "0:46:30",
+    "dif": "+29:18",
     "vel_prom": "6.4 Km/h",
     "ritmo": "9:18 Min/km",
-    "pdf_page": 1518,
+    "pdf_page": 1450,
     "dorsal": "5189",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "MIGUEL MENDEZ MUÑOZ",
-    "tiempo_diploma": "00:46:31",
-    "stats_diploma": "80. /90 359. /1597"
+    "tiempo_diploma": "00:46:30",
+    "stats_diploma": "78. /88 377. /1621"
   },
   {
-    "puesto": 360,
+    "puesto": 378,
     "placa": "1749",
     "nombre": "Adriana Mildred Garcia Rueda",
     "categoria": "10 K ABIERTA",
@@ -6112,15 +6418,15 @@ const RUNNERS_DATA = [
     "dif": "+29:23",
     "vel_prom": "12.8 Km/h",
     "ritmo": "4:39 Min/km",
-    "pdf_page": 331,
+    "pdf_page": 705,
     "dorsal": "1749",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Adriana Mildred Garcia Rueda",
     "tiempo_diploma": "00:46:35",
-    "stats_diploma": "3. /310 360. /1597"
+    "stats_diploma": "2. /309 378. /1621"
   },
   {
-    "puesto": 361,
+    "puesto": 379,
     "placa": "5470",
     "nombre": "Aneris Alenis Albarracin Pertiz",
     "categoria": "5 K MASTER A",
@@ -6129,15 +6435,15 @@ const RUNNERS_DATA = [
     "dif": "+29:24",
     "vel_prom": "6.4 Km/h",
     "ritmo": "9:19 Min/km",
-    "pdf_page": 1561,
+    "pdf_page": 1593,
     "dorsal": "5470",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Aneris Alenis Albarracin Pertiz",
     "tiempo_diploma": "00:46:36",
-    "stats_diploma": "33. /37 361. /1597"
+    "stats_diploma": "32. /36 379. /1621"
   },
   {
-    "puesto": 362,
+    "puesto": 380,
     "placa": "1261",
     "nombre": "Henry Cuadros Puentes",
     "categoria": "10 K ABIERTA",
@@ -6146,15 +6452,15 @@ const RUNNERS_DATA = [
     "dif": "+29:25",
     "vel_prom": "12.8 Km/h",
     "ritmo": "4:39 Min/km",
-    "pdf_page": 677,
+    "pdf_page": 279,
     "dorsal": "1261",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Henry Cuadros Puentes",
     "tiempo_diploma": "00:46:37",
-    "stats_diploma": "39. /357 362. /1597"
+    "stats_diploma": "39. /357 380. /1621"
   },
   {
-    "puesto": 363,
+    "puesto": 381,
     "placa": "3084",
     "nombre": "Jeyser Mauricio Rodriguez Balaguera",
     "categoria": "10 K MASTER A",
@@ -6163,15 +6469,15 @@ const RUNNERS_DATA = [
     "dif": "+29:26",
     "vel_prom": "12.8 Km/h",
     "ritmo": "4:39 Min/km",
-    "pdf_page": 1102,
+    "pdf_page": 1076,
     "dorsal": "3084",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Jeyser Mauricio Rodriguez Balaguera",
     "tiempo_diploma": "00:46:38",
-    "stats_diploma": "20. /107 363. /1597"
+    "stats_diploma": "20. /107 381. /1621"
   },
   {
-    "puesto": 364,
+    "puesto": 382,
     "placa": "1048",
     "nombre": "Andrés Euripides Sarmiento Díaz",
     "categoria": "10 K ABIERTA",
@@ -6180,15 +6486,15 @@ const RUNNERS_DATA = [
     "dif": "+29:26",
     "vel_prom": "12.8 Km/h",
     "ritmo": "4:39 Min/km",
-    "pdf_page": 678,
+    "pdf_page": 80,
     "dorsal": "1048",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Andrés Euripides Sarmiento Díaz",
     "tiempo_diploma": "00:46:38",
-    "stats_diploma": "40. /357 364. /1597"
+    "stats_diploma": "40. /357 382. /1621"
   },
   {
-    "puesto": 365,
+    "puesto": 383,
     "placa": "1043",
     "nombre": "Andres Guturo",
     "categoria": "10 K ABIERTA",
@@ -6197,15 +6503,15 @@ const RUNNERS_DATA = [
     "dif": "+29:27",
     "vel_prom": "12.8 Km/h",
     "ritmo": "4:39 Min/km",
-    "pdf_page": 679,
+    "pdf_page": 75,
     "dorsal": "1043",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Andres Guturo",
     "tiempo_diploma": "00:46:39",
-    "stats_diploma": "41. /357 365. /1597"
+    "stats_diploma": "41. /357 383. /1621"
   },
   {
-    "puesto": 366,
+    "puesto": 384,
     "placa": "5187",
     "nombre": "MARYURI NIÑO SANJUAN",
     "categoria": "5 K ABIERTA",
@@ -6214,15 +6520,15 @@ const RUNNERS_DATA = [
     "dif": "+29:29",
     "vel_prom": "6.4 Km/h",
     "ritmo": "9:20 Min/km",
-    "pdf_page": 1420,
+    "pdf_page": 1448,
     "dorsal": "5187",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "MARYURI NIÑO SANJUAN",
     "tiempo_diploma": "00:46:41",
-    "stats_diploma": "142. /160 366. /1597"
+    "stats_diploma": "138. /156 384. /1621"
   },
   {
-    "puesto": 367,
+    "puesto": 385,
     "placa": "1054",
     "nombre": "Andres Mauricio Moreno Duque",
     "categoria": "10 K ABIERTA",
@@ -6231,15 +6537,15 @@ const RUNNERS_DATA = [
     "dif": "+29:33",
     "vel_prom": "12.8 Km/h",
     "ritmo": "4:40 Min/km",
-    "pdf_page": 680,
+    "pdf_page": 86,
     "dorsal": "1054",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Andres Mauricio Moreno Duque",
     "tiempo_diploma": "00:46:45",
-    "stats_diploma": "42. /357 367. /1597"
+    "stats_diploma": "42. /357 385. /1621"
   },
   {
-    "puesto": 368,
+    "puesto": 386,
     "placa": "1288",
     "nombre": "Jeferson Osorio Suárez",
     "categoria": "10 K ABIERTA",
@@ -6248,15 +6554,15 @@ const RUNNERS_DATA = [
     "dif": "+29:34",
     "vel_prom": "12.8 Km/h",
     "ritmo": "4:40 Min/km",
-    "pdf_page": 681,
+    "pdf_page": 305,
     "dorsal": "1288",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Jeferson Osorio Suárez",
     "tiempo_diploma": "00:46:46",
-    "stats_diploma": "43. /357 368. /1597"
+    "stats_diploma": "43. /357 386. /1621"
   },
   {
-    "puesto": 369,
+    "puesto": 387,
     "placa": "5414",
     "nombre": "Deisy Yaneth Niño Torres",
     "categoria": "5 K MASTER A",
@@ -6265,32 +6571,32 @@ const RUNNERS_DATA = [
     "dif": "+29:35",
     "vel_prom": "6.4 Km/h",
     "ritmo": "9:21 Min/km",
-    "pdf_page": 1562,
+    "pdf_page": 1541,
     "dorsal": "5414",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Deisy Yaneth Niño Torres",
     "tiempo_diploma": "00:46:47",
-    "stats_diploma": "34. /37 369. /1597"
+    "stats_diploma": "33. /36 387. /1621"
   },
   {
-    "puesto": 370,
+    "puesto": 388,
     "placa": "5053",
     "nombre": "DANIELA ROJAS IGANSZEWSKI",
     "categoria": "5 K ABIERTA",
     "ciudad": "Girón",
-    "tiempo": "0:46:52",
-    "dif": "+29:40",
+    "tiempo": "0:46:51",
+    "dif": "+29:39",
     "vel_prom": "6.4 Km/h",
     "ritmo": "9:22 Min/km",
-    "pdf_page": 1421,
+    "pdf_page": 1333,
     "dorsal": "5053",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "DANIELA ROJAS IGANSZEWSKI",
-    "tiempo_diploma": "00:46:52",
-    "stats_diploma": "143. /160 370. /1597"
+    "tiempo_diploma": "00:46:51",
+    "stats_diploma": "139. /156 388. /1621"
   },
   {
-    "puesto": 371,
+    "puesto": 389,
     "placa": "3338",
     "nombre": "José Licinio Sánchez Gutierrez",
     "categoria": "10 K MASTER B",
@@ -6304,10 +6610,10 @@ const RUNNERS_DATA = [
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "José Licinio Sánchez Gutierrez",
     "tiempo_diploma": "00:46:52",
-    "stats_diploma": "9. /56 371. /1597"
+    "stats_diploma": "10. /57 389. /1621"
   },
   {
-    "puesto": 372,
+    "puesto": 390,
     "placa": "1273",
     "nombre": "IVAN CARDENAS",
     "categoria": "10 K ABIERTA",
@@ -6316,15 +6622,15 @@ const RUNNERS_DATA = [
     "dif": "+29:44",
     "vel_prom": "12.7 Km/h",
     "ritmo": "4:41 Min/km",
-    "pdf_page": 682,
+    "pdf_page": 290,
     "dorsal": "1273",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "IVAN CARDENAS",
     "tiempo_diploma": "00:46:56",
-    "stats_diploma": "44. /357 372. /1597"
+    "stats_diploma": "44. /357 390. /1621"
   },
   {
-    "puesto": 373,
+    "puesto": 391,
     "placa": "1347",
     "nombre": "JOSUE MEDINA",
     "categoria": "10 K ABIERTA",
@@ -6333,15 +6639,15 @@ const RUNNERS_DATA = [
     "dif": "+29:46",
     "vel_prom": "12.7 Km/h",
     "ritmo": "4:41 Min/km",
-    "pdf_page": 683,
+    "pdf_page": 358,
     "dorsal": "1347",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "JOSUE MEDINA",
     "tiempo_diploma": "00:46:58",
-    "stats_diploma": "45. /357 373. /1597"
+    "stats_diploma": "45. /357 391. /1621"
   },
   {
-    "puesto": 374,
+    "puesto": 392,
     "placa": "1275",
     "nombre": "Jaime Díaz Niño",
     "categoria": "10 K ABIERTA",
@@ -6350,15 +6656,15 @@ const RUNNERS_DATA = [
     "dif": "+29:49",
     "vel_prom": "12.7 Km/h",
     "ritmo": "4:42 Min/km",
-    "pdf_page": 684,
+    "pdf_page": 292,
     "dorsal": "1275",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Jaime Díaz Niño",
     "tiempo_diploma": "00:47:01",
-    "stats_diploma": "46. /357 374. /1597"
+    "stats_diploma": "46. /357 392. /1621"
   },
   {
-    "puesto": 375,
+    "puesto": 393,
     "placa": "5190",
     "nombre": "Miguel Salas Mercado",
     "categoria": "5 K ABIERTA",
@@ -6367,15 +6673,15 @@ const RUNNERS_DATA = [
     "dif": "+29:55",
     "vel_prom": "6.3 Km/h",
     "ritmo": "9:25 Min/km",
-    "pdf_page": 1519,
+    "pdf_page": 1451,
     "dorsal": "5190",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Miguel Salas Mercado",
     "tiempo_diploma": "00:47:07",
-    "stats_diploma": "81. /90 375. /1597"
+    "stats_diploma": "79. /88 393. /1621"
   },
   {
-    "puesto": 376,
+    "puesto": 394,
     "placa": "5153",
     "nombre": "Liza Fernanda Rodríguez Otavo",
     "categoria": "5 K ABIERTA",
@@ -6384,15 +6690,15 @@ const RUNNERS_DATA = [
     "dif": "+29:59",
     "vel_prom": "6.3 Km/h",
     "ritmo": "9:26 Min/km",
-    "pdf_page": 1422,
+    "pdf_page": 1419,
     "dorsal": "5153",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Liza Fernanda Rodríguez Otavo",
     "tiempo_diploma": "00:47:11",
-    "stats_diploma": "144. /160 376. /1597"
+    "stats_diploma": "140. /156 394. /1621"
   },
   {
-    "puesto": 377,
+    "puesto": 395,
     "placa": "1239",
     "nombre": "Franklyn Stevenn Pineda Vargas",
     "categoria": "10 K ABIERTA",
@@ -6401,15 +6707,15 @@ const RUNNERS_DATA = [
     "dif": "+30:02",
     "vel_prom": "12.7 Km/h",
     "ritmo": "4:43 Min/km",
-    "pdf_page": 685,
+    "pdf_page": 259,
     "dorsal": "1239",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Franklyn Stevenn Pineda Vargas",
     "tiempo_diploma": "00:47:14",
-    "stats_diploma": "47. /357 377. /1597"
+    "stats_diploma": "47. /357 395. /1621"
   },
   {
-    "puesto": 378,
+    "puesto": 396,
     "placa": "3363",
     "nombre": "NELSON HERNANDEZ",
     "categoria": "10 K MASTER B",
@@ -6418,15 +6724,15 @@ const RUNNERS_DATA = [
     "dif": "+30:18",
     "vel_prom": "12.6 Km/h",
     "ritmo": "4:45 Min/km",
-    "pdf_page": 1232,
+    "pdf_page": 1254,
     "dorsal": "3363",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "NELSON HERNANDEZ",
     "tiempo_diploma": "00:47:30",
-    "stats_diploma": "10. /56 378. /1597"
+    "stats_diploma": "11. /57 396. /1621"
   },
   {
-    "puesto": 379,
+    "puesto": 397,
     "placa": "1087",
     "nombre": "Breiner Correa Ortiz",
     "categoria": "10 K ABIERTA",
@@ -6435,15 +6741,15 @@ const RUNNERS_DATA = [
     "dif": "+30:19",
     "vel_prom": "12.6 Km/h",
     "ritmo": "4:45 Min/km",
-    "pdf_page": 686,
+    "pdf_page": 117,
     "dorsal": "1087",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Breiner Correa Ortiz",
     "tiempo_diploma": "00:47:31",
-    "stats_diploma": "48. /357 379. /1597"
+    "stats_diploma": "48. /357 397. /1621"
   },
   {
-    "puesto": 380,
+    "puesto": 398,
     "placa": "1577",
     "nombre": "Ricardo Alexis Carreño González",
     "categoria": "10 K ABIERTA",
@@ -6452,15 +6758,15 @@ const RUNNERS_DATA = [
     "dif": "+30:23",
     "vel_prom": "12.6 Km/h",
     "ritmo": "4:45 Min/km",
-    "pdf_page": 687,
+    "pdf_page": 554,
     "dorsal": "1577",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Ricardo Alexis Carreño González",
     "tiempo_diploma": "00:47:35",
-    "stats_diploma": "49. /357 380. /1597"
+    "stats_diploma": "49. /357 398. /1621"
   },
   {
-    "puesto": 381,
+    "puesto": 399,
     "placa": "127",
     "nombre": "Valentina Florez Céspedes",
     "categoria": "10 K ELITE",
@@ -6469,15 +6775,15 @@ const RUNNERS_DATA = [
     "dif": "+30:24",
     "vel_prom": "12.6 Km/h",
     "ritmo": "4:45 Min/km",
-    "pdf_page": 305,
+    "pdf_page": 21,
     "dorsal": "127",
     "categoria_diploma": "10 K ELITE",
     "nombre_diploma": "Valentina Florez Céspedes",
     "tiempo_diploma": "00:47:36",
-    "stats_diploma": "4. /17 381. /1597"
+    "stats_diploma": "4. /17 399. /1621"
   },
   {
-    "puesto": 382,
+    "puesto": 400,
     "placa": "1747",
     "nombre": "Maikol Jurado",
     "categoria": "10 K ABIERTA",
@@ -6486,15 +6792,15 @@ const RUNNERS_DATA = [
     "dif": "+30:26",
     "vel_prom": "12.5 Km/h",
     "ritmo": "4:45 Min/km",
-    "pdf_page": 688,
+    "pdf_page": 703,
     "dorsal": "1747",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Maikol Jurado",
     "tiempo_diploma": "00:47:38",
-    "stats_diploma": "50. /357 382. /1597"
+    "stats_diploma": "50. /357 400. /1621"
   },
   {
-    "puesto": 383,
+    "puesto": 401,
     "placa": "1598",
     "nombre": "Sandy Marcela Vera Giraldo",
     "categoria": "10 K ABIERTA",
@@ -6503,15 +6809,15 @@ const RUNNERS_DATA = [
     "dif": "+30:39",
     "vel_prom": "12.5 Km/h",
     "ritmo": "4:47 Min/km",
-    "pdf_page": 332,
+    "pdf_page": 570,
     "dorsal": "1598",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Sandy Marcela Vera Giraldo",
     "tiempo_diploma": "00:47:51",
-    "stats_diploma": "4. /310 383. /1597"
+    "stats_diploma": "3. /309 401. /1621"
   },
   {
-    "puesto": 384,
+    "puesto": 402,
     "placa": "1522",
     "nombre": "Mexy Torrado",
     "categoria": "10 K ABIERTA",
@@ -6520,15 +6826,15 @@ const RUNNERS_DATA = [
     "dif": "+30:41",
     "vel_prom": "12.5 Km/h",
     "ritmo": "4:47 Min/km",
-    "pdf_page": 333,
+    "pdf_page": 506,
     "dorsal": "1522",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Mexy Torrado",
     "tiempo_diploma": "00:47:53",
-    "stats_diploma": "5. /310 384. /1597"
+    "stats_diploma": "4. /309 402. /1621"
   },
   {
-    "puesto": 385,
+    "puesto": 403,
     "placa": "1228",
     "nombre": "Eyerson Garcia",
     "categoria": "10 K ABIERTA",
@@ -6537,15 +6843,15 @@ const RUNNERS_DATA = [
     "dif": "+30:42",
     "vel_prom": "12.5 Km/h",
     "ritmo": "4:47 Min/km",
-    "pdf_page": 689,
+    "pdf_page": 249,
     "dorsal": "1228",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Eyerson Garcia",
     "tiempo_diploma": "00:47:54",
-    "stats_diploma": "51. /357 385. /1597"
+    "stats_diploma": "51. /357 403. /1621"
   },
   {
-    "puesto": 386,
+    "puesto": 404,
     "placa": "1338",
     "nombre": "Jose Antonio Botello Jaramillo",
     "categoria": "10 K ABIERTA",
@@ -6554,15 +6860,32 @@ const RUNNERS_DATA = [
     "dif": "+30:47",
     "vel_prom": "12.5 Km/h",
     "ritmo": "4:47 Min/km",
-    "pdf_page": 690,
+    "pdf_page": 350,
     "dorsal": "1338",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Jose Antonio Botello Jaramillo",
     "tiempo_diploma": "00:47:59",
-    "stats_diploma": "52. /357 386. /1597"
+    "stats_diploma": "52. /357 404. /1621"
   },
   {
-    "puesto": 387,
+    "puesto": 405,
+    "placa": "5519",
+    "nombre": "JACQUELINE AREVALO",
+    "categoria": "5 K MASTER B",
+    "ciudad": "Ocaña",
+    "tiempo": "0:48:02",
+    "dif": "+30:50",
+    "vel_prom": "6.2 Km/h",
+    "ritmo": "9:36 Min/km",
+    "pdf_page": 1613,
+    "dorsal": "5519",
+    "categoria_diploma": "5 K MASTER B",
+    "nombre_diploma": "JACQUELINE AREVALO",
+    "tiempo_diploma": "00:48:02",
+    "stats_diploma": "15. /18 405. /1621"
+  },
+  {
+    "puesto": 406,
     "placa": "3115",
     "nombre": "Leonardo Solano",
     "categoria": "10 K MASTER A",
@@ -6571,15 +6894,15 @@ const RUNNERS_DATA = [
     "dif": "+30:50",
     "vel_prom": "12.4 Km/h",
     "ritmo": "4:48 Min/km",
-    "pdf_page": 1103,
+    "pdf_page": 1106,
     "dorsal": "3115",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Leonardo Solano",
     "tiempo_diploma": "00:48:02",
-    "stats_diploma": "21. /107 387. /1597"
+    "stats_diploma": "21. /107 406. /1621"
   },
   {
-    "puesto": 388,
+    "puesto": 407,
     "placa": "3372",
     "nombre": "Ramón BARRERA CUEVAS",
     "categoria": "10 K MASTER B",
@@ -6588,15 +6911,15 @@ const RUNNERS_DATA = [
     "dif": "+30:59",
     "vel_prom": "12.4 Km/h",
     "ritmo": "4:49 Min/km",
-    "pdf_page": 1233,
+    "pdf_page": 1261,
     "dorsal": "3372",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Ramón BARRERA CUEVAS",
     "tiempo_diploma": "00:48:11",
-    "stats_diploma": "11. /56 388. /1597"
+    "stats_diploma": "12. /57 407. /1621"
   },
   {
-    "puesto": 389,
+    "puesto": 408,
     "placa": "1671",
     "nombre": "Yeni paola Carreño camacho",
     "categoria": "10 K ABIERTA",
@@ -6605,15 +6928,15 @@ const RUNNERS_DATA = [
     "dif": "+31:11",
     "vel_prom": "12.4 Km/h",
     "ritmo": "4:50 Min/km",
-    "pdf_page": 334,
+    "pdf_page": 637,
     "dorsal": "1671",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Yeni paola Carreño camacho",
     "tiempo_diploma": "00:48:23",
-    "stats_diploma": "6. /310 389. /1597"
+    "stats_diploma": "5. /309 408. /1621"
   },
   {
-    "puesto": 390,
+    "puesto": 409,
     "placa": "1498",
     "nombre": "María Paula Tobón De Castro",
     "categoria": "10 K ABIERTA",
@@ -6622,15 +6945,15 @@ const RUNNERS_DATA = [
     "dif": "+31:16",
     "vel_prom": "12.3 Km/h",
     "ritmo": "4:50 Min/km",
-    "pdf_page": 335,
+    "pdf_page": 484,
     "dorsal": "1498",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "María Paula Tobón De Castro",
     "tiempo_diploma": "00:48:28",
-    "stats_diploma": "7. /310 390. /1597"
+    "stats_diploma": "6. /309 409. /1621"
   },
   {
-    "puesto": 391,
+    "puesto": 410,
     "placa": "1731",
     "nombre": "Javier Villamizar",
     "categoria": "10 K ABIERTA",
@@ -6639,15 +6962,15 @@ const RUNNERS_DATA = [
     "dif": "+31:21",
     "vel_prom": "12.3 Km/h",
     "ritmo": "4:51 Min/km",
-    "pdf_page": 691,
+    "pdf_page": 688,
     "dorsal": "1731",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Javier Villamizar",
     "tiempo_diploma": "00:48:33",
-    "stats_diploma": "53. /357 391. /1597"
+    "stats_diploma": "53. /357 410. /1621"
   },
   {
-    "puesto": 392,
+    "puesto": 411,
     "placa": "5061",
     "nombre": "Dayana Corredor",
     "categoria": "5 K ABIERTA",
@@ -6656,15 +6979,15 @@ const RUNNERS_DATA = [
     "dif": "+31:24",
     "vel_prom": "6.1 Km/h",
     "ritmo": "9:43 Min/km",
-    "pdf_page": 1423,
+    "pdf_page": 1339,
     "dorsal": "5061",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Dayana Corredor",
     "tiempo_diploma": "00:48:36",
-    "stats_diploma": "145. /160 392. /1597"
+    "stats_diploma": "141. /156 411. /1621"
   },
   {
-    "puesto": 393,
+    "puesto": 412,
     "placa": "5242",
     "nombre": "WENDY TATIANA DIAZ SIERRA",
     "categoria": "5 K ABIERTA",
@@ -6673,15 +6996,15 @@ const RUNNERS_DATA = [
     "dif": "+31:24",
     "vel_prom": "6.1 Km/h",
     "ritmo": "9:43 Min/km",
-    "pdf_page": 1424,
+    "pdf_page": 1493,
     "dorsal": "5242",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "WENDY TATIANA DIAZ SIERRA",
     "tiempo_diploma": "00:48:36",
-    "stats_diploma": "146. /160 393. /1597"
+    "stats_diploma": "142. /156 412. /1621"
   },
   {
-    "puesto": 394,
+    "puesto": 413,
     "placa": "5162",
     "nombre": "Manuel Sanchez Forero",
     "categoria": "5 K ABIERTA",
@@ -6690,15 +7013,15 @@ const RUNNERS_DATA = [
     "dif": "+31:30",
     "vel_prom": "6.1 Km/h",
     "ritmo": "9:44 Min/km",
-    "pdf_page": 1520,
+    "pdf_page": 1427,
     "dorsal": "5162",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Manuel Sanchez Forero",
     "tiempo_diploma": "00:48:42",
-    "stats_diploma": "82. /90 394. /1597"
+    "stats_diploma": "80. /88 413. /1621"
   },
   {
-    "puesto": 395,
+    "puesto": 414,
     "placa": "1263",
     "nombre": "HENRY LEONARDO OLAYA GONZALEZ",
     "categoria": "10 K ABIERTA",
@@ -6707,15 +7030,32 @@ const RUNNERS_DATA = [
     "dif": "+31:30",
     "vel_prom": "12.3 Km/h",
     "ritmo": "4:52 Min/km",
-    "pdf_page": 692,
+    "pdf_page": 281,
     "dorsal": "1263",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "HENRY LEONARDO OLAYA GONZALEZ",
     "tiempo_diploma": "00:48:42",
-    "stats_diploma": "54. /357 395. /1597"
+    "stats_diploma": "54. /357 414. /1621"
   },
   {
-    "puesto": 396,
+    "puesto": 415,
+    "placa": "5505",
+    "nombre": "Claudia Patricia Forero Jimenez",
+    "categoria": "5 K MASTER B",
+    "ciudad": "",
+    "tiempo": "0:48:43",
+    "dif": "+31:31",
+    "vel_prom": "6.1 Km/h",
+    "ritmo": "9:44 Min/km",
+    "pdf_page": 1602,
+    "dorsal": "5505",
+    "categoria_diploma": "5 K MASTER B",
+    "nombre_diploma": "Claudia Patricia Forero Jimenez",
+    "tiempo_diploma": "00:48:43",
+    "stats_diploma": "16. /18 415. /1621"
+  },
+  {
+    "puesto": 416,
     "placa": "1163",
     "nombre": "David Alejandro Celis Villamizar",
     "categoria": "10 K ABIERTA",
@@ -6724,15 +7064,15 @@ const RUNNERS_DATA = [
     "dif": "+31:31",
     "vel_prom": "12.3 Km/h",
     "ritmo": "4:52 Min/km",
-    "pdf_page": 693,
+    "pdf_page": 185,
     "dorsal": "1163",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "David Alejandro Celis Villamizar",
     "tiempo_diploma": "00:48:43",
-    "stats_diploma": "55. /357 396. /1597"
+    "stats_diploma": "55. /357 416. /1621"
   },
   {
-    "puesto": 397,
+    "puesto": 417,
     "placa": "1610",
     "nombre": "Sebastián Felipe Fuentes Suárez",
     "categoria": "10 K ABIERTA",
@@ -6741,15 +7081,15 @@ const RUNNERS_DATA = [
     "dif": "+31:34",
     "vel_prom": "12.3 Km/h",
     "ritmo": "4:52 Min/km",
-    "pdf_page": 694,
+    "pdf_page": 581,
     "dorsal": "1610",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Sebastián Felipe Fuentes Suárez",
     "tiempo_diploma": "00:48:46",
-    "stats_diploma": "56. /357 397. /1597"
+    "stats_diploma": "56. /357 417. /1621"
   },
   {
-    "puesto": 398,
+    "puesto": 418,
     "placa": "1509",
     "nombre": "Matías Alejandro Bernal",
     "categoria": "10 K ABIERTA",
@@ -6758,15 +7098,15 @@ const RUNNERS_DATA = [
     "dif": "+31:37",
     "vel_prom": "12.2 Km/h",
     "ritmo": "4:52 Min/km",
-    "pdf_page": 695,
+    "pdf_page": 494,
     "dorsal": "1509",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Matías Alejandro Bernal",
     "tiempo_diploma": "00:48:49",
-    "stats_diploma": "57. /357 398. /1597"
+    "stats_diploma": "57. /357 418. /1621"
   },
   {
-    "puesto": 399,
+    "puesto": 419,
     "placa": "1686",
     "nombre": "Fabian Goyeneche",
     "categoria": "10 K ABIERTA",
@@ -6775,15 +7115,15 @@ const RUNNERS_DATA = [
     "dif": "+31:40",
     "vel_prom": "12.2 Km/h",
     "ritmo": "4:53 Min/km",
-    "pdf_page": 696,
+    "pdf_page": 651,
     "dorsal": "1686",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Fabian Goyeneche",
     "tiempo_diploma": "00:48:52",
-    "stats_diploma": "58. /357 399. /1597"
+    "stats_diploma": "58. /357 419. /1621"
   },
   {
-    "puesto": 400,
+    "puesto": 420,
     "placa": "1112",
     "nombre": "Carlos Eduardo Cuadros Antolinez",
     "categoria": "10 K ABIERTA",
@@ -6792,15 +7132,15 @@ const RUNNERS_DATA = [
     "dif": "+31:43",
     "vel_prom": "12.2 Km/h",
     "ritmo": "4:53 Min/km",
-    "pdf_page": 697,
+    "pdf_page": 140,
     "dorsal": "1112",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Carlos Eduardo Cuadros Antolinez",
     "tiempo_diploma": "00:48:55",
-    "stats_diploma": "59. /357 400. /1597"
+    "stats_diploma": "59. /357 420. /1621"
   },
   {
-    "puesto": 401,
+    "puesto": 421,
     "placa": "5440",
     "nombre": "Liliana Pinzon",
     "categoria": "5 K MASTER A",
@@ -6814,10 +7154,10 @@ const RUNNERS_DATA = [
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Liliana Pinzon",
     "tiempo_diploma": "00:49:00",
-    "stats_diploma": "35. /37 401. /1597"
+    "stats_diploma": "34. /36 421. /1621"
   },
   {
-    "puesto": 402,
+    "puesto": 422,
     "placa": "1141",
     "nombre": "Daniel Estevez",
     "categoria": "10 K ABIERTA",
@@ -6826,15 +7166,15 @@ const RUNNERS_DATA = [
     "dif": "+31:50",
     "vel_prom": "12.2 Km/h",
     "ritmo": "4:54 Min/km",
-    "pdf_page": 698,
+    "pdf_page": 166,
     "dorsal": "1141",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Daniel Estevez",
     "tiempo_diploma": "00:49:02",
-    "stats_diploma": "60. /357 402. /1597"
+    "stats_diploma": "60. /357 422. /1621"
   },
   {
-    "puesto": 403,
+    "puesto": 423,
     "placa": "1127",
     "nombre": "Cesar Augusto Gomez Fonseca",
     "categoria": "10 K ABIERTA",
@@ -6843,15 +7183,15 @@ const RUNNERS_DATA = [
     "dif": "+31:52",
     "vel_prom": "12.2 Km/h",
     "ritmo": "4:54 Min/km",
-    "pdf_page": 699,
+    "pdf_page": 152,
     "dorsal": "1127",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Cesar Augusto Gomez Fonseca",
     "tiempo_diploma": "00:49:04",
-    "stats_diploma": "61. /357 403. /1597"
+    "stats_diploma": "61. /357 423. /1621"
   },
   {
-    "puesto": 404,
+    "puesto": 424,
     "placa": "1056",
     "nombre": "Andrés Rodrigo Adarm Hernández",
     "categoria": "10 K ABIERTA",
@@ -6860,15 +7200,15 @@ const RUNNERS_DATA = [
     "dif": "+31:52",
     "vel_prom": "12.2 Km/h",
     "ritmo": "4:54 Min/km",
-    "pdf_page": 700,
+    "pdf_page": 87,
     "dorsal": "1056",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Andrés Rodrigo Adarm Hernández",
     "tiempo_diploma": "00:49:04",
-    "stats_diploma": "62. /357 404. /1597"
+    "stats_diploma": "62. /357 424. /1621"
   },
   {
-    "puesto": 405,
+    "puesto": 425,
     "placa": "3183",
     "nombre": "Wilson Jose Ibáñez Medina",
     "categoria": "10 K MASTER A",
@@ -6877,15 +7217,15 @@ const RUNNERS_DATA = [
     "dif": "+31:53",
     "vel_prom": "12.2 Km/h",
     "ritmo": "4:54 Min/km",
-    "pdf_page": 1104,
+    "pdf_page": 1168,
     "dorsal": "3183",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Wilson Jose Ibáñez Medina",
     "tiempo_diploma": "00:49:05",
-    "stats_diploma": "22. /107 405. /1597"
+    "stats_diploma": "22. /107 425. /1621"
   },
   {
-    "puesto": 406,
+    "puesto": 426,
     "placa": "1579",
     "nombre": "Robert Carreño",
     "categoria": "10 K ABIERTA",
@@ -6894,15 +7234,15 @@ const RUNNERS_DATA = [
     "dif": "+31:54",
     "vel_prom": "12.2 Km/h",
     "ritmo": "4:54 Min/km",
-    "pdf_page": 701,
+    "pdf_page": 556,
     "dorsal": "1579",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Robert Carreño",
     "tiempo_diploma": "00:49:06",
-    "stats_diploma": "63. /357 406. /1597"
+    "stats_diploma": "63. /357 426. /1621"
   },
   {
-    "puesto": 407,
+    "puesto": 427,
     "placa": "1442",
     "nombre": "Luis Antonio Gutierrez Abril",
     "categoria": "10 K ABIERTA",
@@ -6911,15 +7251,15 @@ const RUNNERS_DATA = [
     "dif": "+31:55",
     "vel_prom": "12.2 Km/h",
     "ritmo": "4:54 Min/km",
-    "pdf_page": 702,
+    "pdf_page": 439,
     "dorsal": "1442",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Luis Antonio Gutierrez Abril",
     "tiempo_diploma": "00:49:07",
-    "stats_diploma": "64. /357 407. /1597"
+    "stats_diploma": "64. /357 427. /1621"
   },
   {
-    "puesto": 408,
+    "puesto": 428,
     "placa": "3322",
     "nombre": "Enoc Barros  Arias",
     "categoria": "10 K MASTER B",
@@ -6928,15 +7268,15 @@ const RUNNERS_DATA = [
     "dif": "+31:55",
     "vel_prom": "12.2 Km/h",
     "ritmo": "4:54 Min/km",
-    "pdf_page": 1234,
+    "pdf_page": 1215,
     "dorsal": "3322",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Enoc Barros  Arias",
     "tiempo_diploma": "00:49:07",
-    "stats_diploma": "12. /56 408. /1597"
+    "stats_diploma": "13. /57 428. /1621"
   },
   {
-    "puesto": 409,
+    "puesto": 429,
     "placa": "1348",
     "nombre": "Jovan Salas",
     "categoria": "10 K ABIERTA",
@@ -6945,15 +7285,15 @@ const RUNNERS_DATA = [
     "dif": "+31:56",
     "vel_prom": "12.2 Km/h",
     "ritmo": "4:54 Min/km",
-    "pdf_page": 703,
+    "pdf_page": 359,
     "dorsal": "1348",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Jovan Salas",
     "tiempo_diploma": "00:49:08",
-    "stats_diploma": "65. /357 409. /1597"
+    "stats_diploma": "65. /357 429. /1621"
   },
   {
-    "puesto": 410,
+    "puesto": 430,
     "placa": "3118",
     "nombre": "Leticia Cuéllar Hernández",
     "categoria": "10 K MASTER A",
@@ -6962,15 +7302,15 @@ const RUNNERS_DATA = [
     "dif": "+31:56",
     "vel_prom": "12.2 Km/h",
     "ritmo": "4:54 Min/km",
-    "pdf_page": 999,
+    "pdf_page": 1109,
     "dorsal": "3118",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Leticia Cuéllar Hernández",
     "tiempo_diploma": "00:49:08",
-    "stats_diploma": "4. /87 410. /1597"
+    "stats_diploma": "4. /87 430. /1621"
   },
   {
-    "puesto": 411,
+    "puesto": 431,
     "placa": "1325",
     "nombre": "Johan Jose Hoyos Sanchez",
     "categoria": "10 K ABIERTA",
@@ -6979,15 +7319,15 @@ const RUNNERS_DATA = [
     "dif": "+31:59",
     "vel_prom": "12.1 Km/h",
     "ritmo": "4:55 Min/km",
-    "pdf_page": 704,
+    "pdf_page": 338,
     "dorsal": "1325",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Johan Jose Hoyos Sanchez",
     "tiempo_diploma": "00:49:11",
-    "stats_diploma": "66. /357 411. /1597"
+    "stats_diploma": "66. /357 431. /1621"
   },
   {
-    "puesto": 412,
+    "puesto": 432,
     "placa": "1657",
     "nombre": "Wilder David Trigos Benitez",
     "categoria": "10 K ABIERTA",
@@ -6996,15 +7336,15 @@ const RUNNERS_DATA = [
     "dif": "+32:05",
     "vel_prom": "12.1 Km/h",
     "ritmo": "4:55 Min/km",
-    "pdf_page": 705,
+    "pdf_page": 624,
     "dorsal": "1657",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Wilder David Trigos Benitez",
     "tiempo_diploma": "00:49:17",
-    "stats_diploma": "67. /357 412. /1597"
+    "stats_diploma": "67. /357 432. /1621"
   },
   {
-    "puesto": 413,
+    "puesto": 433,
     "placa": "1552",
     "nombre": "Norbey Grass Agudelo",
     "categoria": "10 K ABIERTA",
@@ -7013,15 +7353,15 @@ const RUNNERS_DATA = [
     "dif": "+32:19",
     "vel_prom": "12.1 Km/h",
     "ritmo": "4:57 Min/km",
-    "pdf_page": 706,
+    "pdf_page": 533,
     "dorsal": "1552",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Norbey Grass Agudelo",
     "tiempo_diploma": "00:49:31",
-    "stats_diploma": "68. /357 413. /1597"
+    "stats_diploma": "68. /357 433. /1621"
   },
   {
-    "puesto": 414,
+    "puesto": 434,
     "placa": "1143",
     "nombre": "Daniel Martinez Ortiz",
     "categoria": "10 K ABIERTA",
@@ -7030,32 +7370,32 @@ const RUNNERS_DATA = [
     "dif": "+32:20",
     "vel_prom": "12.1 Km/h",
     "ritmo": "4:57 Min/km",
-    "pdf_page": 707,
+    "pdf_page": 168,
     "dorsal": "1143",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Daniel Martinez Ortiz",
     "tiempo_diploma": "00:49:32",
-    "stats_diploma": "69. /357 414. /1597"
+    "stats_diploma": "69. /357 434. /1621"
   },
   {
-    "puesto": 415,
+    "puesto": 435,
     "placa": "5112",
     "nombre": "JOSE NICOLAS FERNANDEZ DIAZ",
     "categoria": "5 K ABIERTA",
     "ciudad": "",
-    "tiempo": "0:49:34",
-    "dif": "+32:22",
+    "tiempo": "0:49:33",
+    "dif": "+32:21",
     "vel_prom": "6.0 Km/h",
     "ritmo": "9:54 Min/km",
-    "pdf_page": 1521,
+    "pdf_page": 1384,
     "dorsal": "5112",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "JOSE NICOLAS FERNANDEZ DIAZ",
-    "tiempo_diploma": "00:49:34",
-    "stats_diploma": "83. /90 415. /1597"
+    "tiempo_diploma": "00:49:33",
+    "stats_diploma": "81. /88 435. /1621"
   },
   {
-    "puesto": 416,
+    "puesto": 436,
     "placa": "1582",
     "nombre": "Robinson Steven Valderrama López",
     "categoria": "10 K ABIERTA",
@@ -7064,15 +7404,15 @@ const RUNNERS_DATA = [
     "dif": "+32:22",
     "vel_prom": "12.1 Km/h",
     "ritmo": "4:57 Min/km",
-    "pdf_page": 708,
+    "pdf_page": 559,
     "dorsal": "1582",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Robinson Steven Valderrama López",
     "tiempo_diploma": "00:49:34",
-    "stats_diploma": "70. /357 416. /1597"
+    "stats_diploma": "70. /357 436. /1621"
   },
   {
-    "puesto": 417,
+    "puesto": 437,
     "placa": "1741",
     "nombre": "Sergio Gomez",
     "categoria": "10 K ABIERTA",
@@ -7081,15 +7421,15 @@ const RUNNERS_DATA = [
     "dif": "+32:30",
     "vel_prom": "12.0 Km/h",
     "ritmo": "4:58 Min/km",
-    "pdf_page": 709,
+    "pdf_page": 697,
     "dorsal": "1741",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Sergio Gomez",
     "tiempo_diploma": "00:49:42",
-    "stats_diploma": "71. /357 417. /1597"
+    "stats_diploma": "71. /357 437. /1621"
   },
   {
-    "puesto": 418,
+    "puesto": 438,
     "placa": "3162",
     "nombre": "Roberto Pablo Beltrán Flórez",
     "categoria": "10 K MASTER A",
@@ -7098,15 +7438,15 @@ const RUNNERS_DATA = [
     "dif": "+32:33",
     "vel_prom": "12.0 Km/h",
     "ritmo": "4:58 Min/km",
-    "pdf_page": 1105,
+    "pdf_page": 1151,
     "dorsal": "3162",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Roberto Pablo Beltrán Flórez",
     "tiempo_diploma": "00:49:45",
-    "stats_diploma": "23. /107 418. /1597"
+    "stats_diploma": "23. /107 438. /1621"
   },
   {
-    "puesto": 419,
+    "puesto": 439,
     "placa": "3182",
     "nombre": "Wilmer Mejías",
     "categoria": "10 K MASTER A",
@@ -7115,15 +7455,15 @@ const RUNNERS_DATA = [
     "dif": "+32:36",
     "vel_prom": "12.0 Km/h",
     "ritmo": "4:58 Min/km",
-    "pdf_page": 1106,
+    "pdf_page": 1167,
     "dorsal": "3182",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Wilmer Mejías",
     "tiempo_diploma": "00:49:48",
-    "stats_diploma": "24. /107 419. /1597"
+    "stats_diploma": "24. /107 439. /1621"
   },
   {
-    "puesto": 420,
+    "puesto": 440,
     "placa": "3039",
     "nombre": "DIEGO ANDRES SALTARIN MESA",
     "categoria": "10 K MASTER A",
@@ -7132,32 +7472,32 @@ const RUNNERS_DATA = [
     "dif": "+32:38",
     "vel_prom": "12.0 Km/h",
     "ritmo": "4:59 Min/km",
-    "pdf_page": 1107,
+    "pdf_page": 1034,
     "dorsal": "3039",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "DIEGO ANDRES SALTARIN MESA",
     "tiempo_diploma": "00:49:50",
-    "stats_diploma": "25. /107 420. /1597"
+    "stats_diploma": "25. /107 440. /1621"
   },
   {
-    "puesto": 421,
+    "puesto": 441,
     "placa": "5076",
     "nombre": "Erick Santiago Rueda montero",
     "categoria": "5 K ABIERTA",
     "ciudad": "",
-    "tiempo": "0:49:55",
-    "dif": "+32:43",
+    "tiempo": "0:49:54",
+    "dif": "+32:42",
     "vel_prom": "6.0 Km/h",
-    "ritmo": "9:59 Min/km",
-    "pdf_page": 1522,
+    "ritmo": "9:58 Min/km",
+    "pdf_page": 1352,
     "dorsal": "5076",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Erick Santiago Rueda montero",
-    "tiempo_diploma": "00:49:55",
-    "stats_diploma": "84. /90 421. /1597"
+    "tiempo_diploma": "00:49:54",
+    "stats_diploma": "82. /88 441. /1621"
   },
   {
-    "puesto": 422,
+    "puesto": 442,
     "placa": "5177",
     "nombre": "Maria jose Maldonado Claros",
     "categoria": "5 K ABIERTA",
@@ -7166,15 +7506,15 @@ const RUNNERS_DATA = [
     "dif": "+32:43",
     "vel_prom": "6.0 Km/h",
     "ritmo": "9:59 Min/km",
-    "pdf_page": 1425,
+    "pdf_page": 1440,
     "dorsal": "5177",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Maria jose Maldonado Claros",
     "tiempo_diploma": "00:49:55",
-    "stats_diploma": "147. /160 422. /1597"
+    "stats_diploma": "143. /156 442. /1621"
   },
   {
-    "puesto": 423,
+    "puesto": 443,
     "placa": "5124",
     "nombre": "Karina Acero",
     "categoria": "5 K ABIERTA",
@@ -7183,15 +7523,15 @@ const RUNNERS_DATA = [
     "dif": "+32:44",
     "vel_prom": "6.0 Km/h",
     "ritmo": "9:59 Min/km",
-    "pdf_page": 1426,
+    "pdf_page": 1395,
     "dorsal": "5124",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Karina Acero",
     "tiempo_diploma": "00:49:56",
-    "stats_diploma": "148. /160 423. /1597"
+    "stats_diploma": "144. /156 443. /1621"
   },
   {
-    "puesto": 424,
+    "puesto": 444,
     "placa": "3078",
     "nombre": "JAVIER MAURICIO RANGEL SANCHEZ",
     "categoria": "10 K MASTER A",
@@ -7200,15 +7540,15 @@ const RUNNERS_DATA = [
     "dif": "+32:47",
     "vel_prom": "12.0 Km/h",
     "ritmo": "4:59 Min/km",
-    "pdf_page": 1108,
+    "pdf_page": 1070,
     "dorsal": "3078",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "JAVIER MAURICIO RANGEL SANCHEZ",
     "tiempo_diploma": "00:49:59",
-    "stats_diploma": "26. /107 424. /1597"
+    "stats_diploma": "26. /107 444. /1621"
   },
   {
-    "puesto": 425,
+    "puesto": 445,
     "placa": "1513",
     "nombre": "Mayerly Rincon  Arguello",
     "categoria": "10 K ABIERTA",
@@ -7217,15 +7557,15 @@ const RUNNERS_DATA = [
     "dif": "+32:48",
     "vel_prom": "11.9 Km/h",
     "ritmo": "5:00 Min/km",
-    "pdf_page": 336,
+    "pdf_page": 498,
     "dorsal": "1513",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Mayerly Rincon  Arguello",
     "tiempo_diploma": "00:50:00",
-    "stats_diploma": "8. /310 425. /1597"
+    "stats_diploma": "7. /309 445. /1621"
   },
   {
-    "puesto": 426,
+    "puesto": 446,
     "placa": "1537",
     "nombre": "NASSER RAFAEL HERNANDEZ DURAN",
     "categoria": "10 K ABIERTA",
@@ -7234,15 +7574,15 @@ const RUNNERS_DATA = [
     "dif": "+32:49",
     "vel_prom": "11.9 Km/h",
     "ritmo": "5:00 Min/km",
-    "pdf_page": 710,
+    "pdf_page": 520,
     "dorsal": "1537",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "NASSER RAFAEL HERNANDEZ DURAN",
     "tiempo_diploma": "00:50:01",
-    "stats_diploma": "72. /357 426. /1597"
+    "stats_diploma": "72. /357 446. /1621"
   },
   {
-    "puesto": 427,
+    "puesto": 447,
     "placa": "1157",
     "nombre": "David García",
     "categoria": "10 K ABIERTA",
@@ -7251,15 +7591,15 @@ const RUNNERS_DATA = [
     "dif": "+32:51",
     "vel_prom": "11.9 Km/h",
     "ritmo": "5:00 Min/km",
-    "pdf_page": 711,
+    "pdf_page": 180,
     "dorsal": "1157",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "David García",
     "tiempo_diploma": "00:50:03",
-    "stats_diploma": "73. /357 427. /1597"
+    "stats_diploma": "73. /357 447. /1621"
   },
   {
-    "puesto": 428,
+    "puesto": 448,
     "placa": "1279",
     "nombre": "Jairo Burbano",
     "categoria": "10 K ABIERTA",
@@ -7268,15 +7608,15 @@ const RUNNERS_DATA = [
     "dif": "+32:52",
     "vel_prom": "11.9 Km/h",
     "ritmo": "5:00 Min/km",
-    "pdf_page": 712,
+    "pdf_page": 296,
     "dorsal": "1279",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Jairo Burbano",
     "tiempo_diploma": "00:50:04",
-    "stats_diploma": "74. /357 428. /1597"
+    "stats_diploma": "74. /357 448. /1621"
   },
   {
-    "puesto": 429,
+    "puesto": 449,
     "placa": "3203",
     "nombre": "Yelitzza Yiceth Orozco Muñoz",
     "categoria": "10 K MASTER A",
@@ -7285,15 +7625,15 @@ const RUNNERS_DATA = [
     "dif": "+32:56",
     "vel_prom": "11.9 Km/h",
     "ritmo": "5:00 Min/km",
-    "pdf_page": 1000,
+    "pdf_page": 1185,
     "dorsal": "3203",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Yelitzza Yiceth Orozco Muñoz",
     "tiempo_diploma": "00:50:08",
-    "stats_diploma": "5. /87 429. /1597"
+    "stats_diploma": "5. /87 449. /1621"
   },
   {
-    "puesto": 430,
+    "puesto": 450,
     "placa": "5284",
     "nombre": "Maria Camila Garrido Vesga",
     "categoria": "5 K ABIERTA",
@@ -7302,15 +7642,15 @@ const RUNNERS_DATA = [
     "dif": "+33:01",
     "vel_prom": "5.9 Km/h",
     "ritmo": "10:02 Min/km",
-    "pdf_page": 1427,
+    "pdf_page": 1523,
     "dorsal": "5284",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Maria Camila Garrido Vesga",
     "tiempo_diploma": "00:50:13",
-    "stats_diploma": "149. /160 430. /1597"
+    "stats_diploma": "145. /156 450. /1621"
   },
   {
-    "puesto": 431,
+    "puesto": 451,
     "placa": "1078",
     "nombre": "Bairon Cuervo",
     "categoria": "10 K ABIERTA",
@@ -7319,15 +7659,15 @@ const RUNNERS_DATA = [
     "dif": "+33:12",
     "vel_prom": "11.9 Km/h",
     "ritmo": "5:02 Min/km",
-    "pdf_page": 713,
+    "pdf_page": 108,
     "dorsal": "1078",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Bairon Cuervo",
     "tiempo_diploma": "00:50:24",
-    "stats_diploma": "75. /357 431. /1597"
+    "stats_diploma": "75. /357 451. /1621"
   },
   {
-    "puesto": 432,
+    "puesto": 452,
     "placa": "5255",
     "nombre": "Oscar Francisco Trujillo Carreño",
     "categoria": "5 K ABIERTA",
@@ -7336,15 +7676,15 @@ const RUNNERS_DATA = [
     "dif": "+33:18",
     "vel_prom": "5.9 Km/h",
     "ritmo": "10:06 Min/km",
-    "pdf_page": 1523,
+    "pdf_page": 1504,
     "dorsal": "5255",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Oscar Francisco Trujillo Carreño",
     "tiempo_diploma": "00:50:30",
-    "stats_diploma": "85. /90 432. /1597"
+    "stats_diploma": "83. /88 452. /1621"
   },
   {
-    "puesto": 433,
+    "puesto": 453,
     "placa": "5256",
     "nombre": "Wendy Johanna Arango Ortega",
     "categoria": "5 K ABIERTA",
@@ -7353,15 +7693,15 @@ const RUNNERS_DATA = [
     "dif": "+33:18",
     "vel_prom": "5.9 Km/h",
     "ritmo": "10:06 Min/km",
-    "pdf_page": 1428,
+    "pdf_page": 1505,
     "dorsal": "5256",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Wendy Johanna Arango Ortega",
     "tiempo_diploma": "00:50:30",
-    "stats_diploma": "150. /160 433. /1597"
+    "stats_diploma": "146. /156 453. /1621"
   },
   {
-    "puesto": 434,
+    "puesto": 454,
     "placa": "1277",
     "nombre": "Jaime Andres Quiñones Chacón",
     "categoria": "10 K ABIERTA",
@@ -7370,15 +7710,15 @@ const RUNNERS_DATA = [
     "dif": "+33:22",
     "vel_prom": "11.8 Km/h",
     "ritmo": "5:03 Min/km",
-    "pdf_page": 714,
+    "pdf_page": 294,
     "dorsal": "1277",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Jaime Andres Quiñones Chacón",
     "tiempo_diploma": "00:50:34",
-    "stats_diploma": "76. /357 434. /1597"
+    "stats_diploma": "76. /357 454. /1621"
   },
   {
-    "puesto": 435,
+    "puesto": 455,
     "placa": "5401",
     "nombre": "Adela Maria Castellon Quevedo",
     "categoria": "5 K MASTER A",
@@ -7387,15 +7727,15 @@ const RUNNERS_DATA = [
     "dif": "+33:26",
     "vel_prom": "5.9 Km/h",
     "ritmo": "10:07 Min/km",
-    "pdf_page": 1564,
+    "pdf_page": 1529,
     "dorsal": "5401",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Adela Maria Castellon Quevedo",
     "tiempo_diploma": "00:50:38",
-    "stats_diploma": "36. /37 435. /1597"
+    "stats_diploma": "35. /36 455. /1621"
   },
   {
-    "puesto": 436,
+    "puesto": 456,
     "placa": "1492",
     "nombre": "maria juliana serrano vera",
     "categoria": "10 K ABIERTA",
@@ -7404,15 +7744,15 @@ const RUNNERS_DATA = [
     "dif": "+33:29",
     "vel_prom": "11.8 Km/h",
     "ritmo": "5:04 Min/km",
-    "pdf_page": 337,
+    "pdf_page": 478,
     "dorsal": "1492",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "maria juliana serrano vera",
     "tiempo_diploma": "00:50:41",
-    "stats_diploma": "9. /310 436. /1597"
+    "stats_diploma": "8. /309 456. /1621"
   },
   {
-    "puesto": 437,
+    "puesto": 457,
     "placa": "1095",
     "nombre": "Camilo Blanco",
     "categoria": "10 K ABIERTA",
@@ -7421,15 +7761,15 @@ const RUNNERS_DATA = [
     "dif": "+33:40",
     "vel_prom": "11.7 Km/h",
     "ritmo": "5:05 Min/km",
-    "pdf_page": 715,
+    "pdf_page": 125,
     "dorsal": "1095",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Camilo Blanco",
     "tiempo_diploma": "00:50:52",
-    "stats_diploma": "77. /357 437. /1597"
+    "stats_diploma": "77. /357 457. /1621"
   },
   {
-    "puesto": 438,
+    "puesto": 458,
     "placa": "3163",
     "nombre": "Roger León",
     "categoria": "10 K MASTER A",
@@ -7438,15 +7778,15 @@ const RUNNERS_DATA = [
     "dif": "+33:41",
     "vel_prom": "11.7 Km/h",
     "ritmo": "5:05 Min/km",
-    "pdf_page": 1109,
+    "pdf_page": 1152,
     "dorsal": "3163",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Roger León",
     "tiempo_diploma": "00:50:53",
-    "stats_diploma": "27. /107 438. /1597"
+    "stats_diploma": "27. /107 458. /1621"
   },
   {
-    "puesto": 439,
+    "puesto": 459,
     "placa": "3167",
     "nombre": "santiago afanador",
     "categoria": "10 K MASTER A",
@@ -7455,15 +7795,15 @@ const RUNNERS_DATA = [
     "dif": "+33:42",
     "vel_prom": "11.7 Km/h",
     "ritmo": "5:05 Min/km",
-    "pdf_page": 1110,
+    "pdf_page": 1155,
     "dorsal": "3167",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "santiago afanador",
     "tiempo_diploma": "00:50:54",
-    "stats_diploma": "28. /107 439. /1597"
+    "stats_diploma": "28. /107 459. /1621"
   },
   {
-    "puesto": 440,
+    "puesto": 460,
     "placa": "1377",
     "nombre": "Julián Eduardo Padilla Hernández",
     "categoria": "10 K ABIERTA",
@@ -7472,15 +7812,15 @@ const RUNNERS_DATA = [
     "dif": "+34:03",
     "vel_prom": "11.7 Km/h",
     "ritmo": "5:07 Min/km",
-    "pdf_page": 716,
+    "pdf_page": 387,
     "dorsal": "1377",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Julián Eduardo Padilla Hernández",
     "tiempo_diploma": "00:51:15",
-    "stats_diploma": "78. /357 440. /1597"
+    "stats_diploma": "78. /357 460. /1621"
   },
   {
-    "puesto": 441,
+    "puesto": 461,
     "placa": "1322",
     "nombre": "Johan Camilo Andres Jaimes Rangel",
     "categoria": "10 K ABIERTA",
@@ -7489,15 +7829,15 @@ const RUNNERS_DATA = [
     "dif": "+34:06",
     "vel_prom": "11.6 Km/h",
     "ritmo": "5:07 Min/km",
-    "pdf_page": 717,
+    "pdf_page": 336,
     "dorsal": "1322",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Johan Camilo Andres Jaimes Rangel",
     "tiempo_diploma": "00:51:18",
-    "stats_diploma": "79. /357 441. /1597"
+    "stats_diploma": "79. /357 461. /1621"
   },
   {
-    "puesto": 442,
+    "puesto": 462,
     "placa": "1297",
     "nombre": "Jessel Rangel Gamarra",
     "categoria": "10 K ABIERTA",
@@ -7506,15 +7846,15 @@ const RUNNERS_DATA = [
     "dif": "+34:06",
     "vel_prom": "11.6 Km/h",
     "ritmo": "5:07 Min/km",
-    "pdf_page": 718,
+    "pdf_page": 314,
     "dorsal": "1297",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Jessel Rangel Gamarra",
     "tiempo_diploma": "00:51:18",
-    "stats_diploma": "80. /357 442. /1597"
+    "stats_diploma": "80. /357 462. /1621"
   },
   {
-    "puesto": 443,
+    "puesto": 463,
     "placa": "1739",
     "nombre": "Sara Padilla",
     "categoria": "10 K ABIERTA",
@@ -7523,15 +7863,15 @@ const RUNNERS_DATA = [
     "dif": "+34:09",
     "vel_prom": "11.6 Km/h",
     "ritmo": "5:08 Min/km",
-    "pdf_page": 338,
+    "pdf_page": 695,
     "dorsal": "1739",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Sara Padilla",
     "tiempo_diploma": "00:51:21",
-    "stats_diploma": "10. /310 443. /1597"
+    "stats_diploma": "9. /309 463. /1621"
   },
   {
-    "puesto": 444,
+    "puesto": 464,
     "placa": "3168",
     "nombre": "Sergio Zavaleta",
     "categoria": "10 K MASTER A",
@@ -7540,15 +7880,15 @@ const RUNNERS_DATA = [
     "dif": "+34:10",
     "vel_prom": "11.6 Km/h",
     "ritmo": "5:08 Min/km",
-    "pdf_page": 1111,
+    "pdf_page": 1156,
     "dorsal": "3168",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Sergio Zavaleta",
     "tiempo_diploma": "00:51:22",
-    "stats_diploma": "29. /107 444. /1597"
+    "stats_diploma": "29. /107 464. /1621"
   },
   {
-    "puesto": 445,
+    "puesto": 465,
     "placa": "5444",
     "nombre": "Luz mary Moreno afanador",
     "categoria": "5 K MASTER A",
@@ -7557,15 +7897,15 @@ const RUNNERS_DATA = [
     "dif": "+34:22",
     "vel_prom": "5.8 Km/h",
     "ritmo": "10:18 Min/km",
-    "pdf_page": 1565,
+    "pdf_page": 1567,
     "dorsal": "5444",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Luz mary Moreno afanador",
-    "tiempo_diploma": "00:10:24",
-    "stats_diploma": "37. /37 445. /1597"
+    "tiempo_diploma": "00:51:34",
+    "stats_diploma": "36. /36 465. /1621"
   },
   {
-    "puesto": 446,
+    "puesto": 466,
     "placa": "5033",
     "nombre": "Briyith Kathalina Rincon moreno",
     "categoria": "5 K ABIERTA",
@@ -7574,15 +7914,15 @@ const RUNNERS_DATA = [
     "dif": "+34:22",
     "vel_prom": "5.8 Km/h",
     "ritmo": "10:18 Min/km",
-    "pdf_page": 1429,
+    "pdf_page": 1313,
     "dorsal": "5033",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Briyith Kathalina Rincon moreno",
     "tiempo_diploma": "00:10:24",
-    "stats_diploma": "151. /160 446. /1597"
+    "stats_diploma": "147. /156 466. /1621"
   },
   {
-    "puesto": 447,
+    "puesto": 467,
     "placa": "1016",
     "nombre": "Alexander Salcedo Duran",
     "categoria": "10 K ABIERTA",
@@ -7591,15 +7931,15 @@ const RUNNERS_DATA = [
     "dif": "+34:22",
     "vel_prom": "11.6 Km/h",
     "ritmo": "5:09 Min/km",
-    "pdf_page": 719,
+    "pdf_page": 50,
     "dorsal": "1016",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Alexander Salcedo Duran",
     "tiempo_diploma": "00:51:34",
-    "stats_diploma": "81. /357 447. /1597"
+    "stats_diploma": "81. /357 467. /1621"
   },
   {
-    "puesto": 448,
+    "puesto": 468,
     "placa": "1611",
     "nombre": "Sergio Uscategui",
     "categoria": "10 K ABIERTA",
@@ -7608,15 +7948,15 @@ const RUNNERS_DATA = [
     "dif": "+34:29",
     "vel_prom": "11.6 Km/h",
     "ritmo": "5:10 Min/km",
-    "pdf_page": 720,
+    "pdf_page": 582,
     "dorsal": "1611",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Sergio Uscategui",
     "tiempo_diploma": "00:51:41",
-    "stats_diploma": "82. /357 448. /1597"
+    "stats_diploma": "82. /357 468. /1621"
   },
   {
-    "puesto": 449,
+    "puesto": 469,
     "placa": "1675",
     "nombre": "Yojhan Esteban Duarte Rodríguez",
     "categoria": "10 K ABIERTA",
@@ -7625,15 +7965,15 @@ const RUNNERS_DATA = [
     "dif": "+34:30",
     "vel_prom": "11.6 Km/h",
     "ritmo": "5:10 Min/km",
-    "pdf_page": 721,
+    "pdf_page": 641,
     "dorsal": "1675",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Yojhan Esteban Duarte Rodríguez",
     "tiempo_diploma": "00:51:42",
-    "stats_diploma": "83. /357 449. /1597"
+    "stats_diploma": "83. /357 469. /1621"
   },
   {
-    "puesto": 450,
+    "puesto": 470,
     "placa": "5275",
     "nombre": "Cristian Javier Quintero Rodríguez",
     "categoria": "5 K ABIERTA",
@@ -7642,15 +7982,15 @@ const RUNNERS_DATA = [
     "dif": "+34:30",
     "vel_prom": "5.8 Km/h",
     "ritmo": "10:20 Min/km",
-    "pdf_page": 1524,
+    "pdf_page": 1518,
     "dorsal": "5275",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Cristian Javier Quintero Rodríguez",
     "tiempo_diploma": "00:51:42",
-    "stats_diploma": "86. /90 450. /1597"
+    "stats_diploma": "84. /88 470. /1621"
   },
   {
-    "puesto": 451,
+    "puesto": 471,
     "placa": "1137",
     "nombre": "Cristian Camilo Amaya Pelaez",
     "categoria": "10 K ABIERTA",
@@ -7659,15 +7999,15 @@ const RUNNERS_DATA = [
     "dif": "+34:34",
     "vel_prom": "11.5 Km/h",
     "ritmo": "5:10 Min/km",
-    "pdf_page": 722,
+    "pdf_page": 162,
     "dorsal": "1137",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Cristian Camilo Amaya Pelaez",
     "tiempo_diploma": "00:51:46",
-    "stats_diploma": "84. /357 451. /1597"
+    "stats_diploma": "84. /357 471. /1621"
   },
   {
-    "puesto": 452,
+    "puesto": 472,
     "placa": "1088",
     "nombre": "Brian Jose Celis Sanabria",
     "categoria": "10 K ABIERTA",
@@ -7676,15 +8016,15 @@ const RUNNERS_DATA = [
     "dif": "+34:39",
     "vel_prom": "11.5 Km/h",
     "ritmo": "5:11 Min/km",
-    "pdf_page": 723,
+    "pdf_page": 118,
     "dorsal": "1088",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Brian Jose Celis Sanabria",
     "tiempo_diploma": "00:51:51",
-    "stats_diploma": "85. /357 452. /1597"
+    "stats_diploma": "85. /357 472. /1621"
   },
   {
-    "puesto": 453,
+    "puesto": 473,
     "placa": "1712",
     "nombre": "Pedro Fernando Tarazona leon",
     "categoria": "10 K ABIERTA",
@@ -7693,15 +8033,15 @@ const RUNNERS_DATA = [
     "dif": "+34:41",
     "vel_prom": "11.5 Km/h",
     "ritmo": "5:11 Min/km",
-    "pdf_page": 724,
+    "pdf_page": 672,
     "dorsal": "1712",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Pedro Fernando Tarazona leon",
     "tiempo_diploma": "00:51:53",
-    "stats_diploma": "86. /357 453. /1597"
+    "stats_diploma": "86. /357 473. /1621"
   },
   {
-    "puesto": 454,
+    "puesto": 474,
     "placa": "3395",
     "nombre": "JOHN LEGUIZAMÓN",
     "categoria": "10 K MASTER B",
@@ -7710,15 +8050,15 @@ const RUNNERS_DATA = [
     "dif": "+34:47",
     "vel_prom": "11.5 Km/h",
     "ritmo": "5:11 Min/km",
-    "pdf_page": 1235,
+    "pdf_page": 1282,
     "dorsal": "3395",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "JOHN LEGUIZAMÓN",
     "tiempo_diploma": "00:51:59",
-    "stats_diploma": "13. /56 454. /1597"
+    "stats_diploma": "14. /57 474. /1621"
   },
   {
-    "puesto": 455,
+    "puesto": 475,
     "placa": "1248",
     "nombre": "Gianmarco Fernandez Blanco",
     "categoria": "10 K ABIERTA",
@@ -7727,15 +8067,15 @@ const RUNNERS_DATA = [
     "dif": "+34:48",
     "vel_prom": "11.5 Km/h",
     "ritmo": "5:12 Min/km",
-    "pdf_page": 725,
+    "pdf_page": 266,
     "dorsal": "1248",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Gianmarco Fernandez Blanco",
     "tiempo_diploma": "00:52:00",
-    "stats_diploma": "87. /357 455. /1597"
+    "stats_diploma": "87. /357 475. /1621"
   },
   {
-    "puesto": 456,
+    "puesto": 476,
     "placa": "1107",
     "nombre": "Carlos Alberto Valbera Bello",
     "categoria": "10 K ABIERTA",
@@ -7744,15 +8084,15 @@ const RUNNERS_DATA = [
     "dif": "+34:51",
     "vel_prom": "11.5 Km/h",
     "ritmo": "5:12 Min/km",
-    "pdf_page": 726,
+    "pdf_page": 136,
     "dorsal": "1107",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Carlos Alberto Valbera Bello",
     "tiempo_diploma": "00:52:03",
-    "stats_diploma": "88. /357 456. /1597"
+    "stats_diploma": "88. /357 476. /1621"
   },
   {
-    "puesto": 457,
+    "puesto": 477,
     "placa": "1459",
     "nombre": "Maicol Quintero",
     "categoria": "10 K ABIERTA",
@@ -7761,15 +8101,15 @@ const RUNNERS_DATA = [
     "dif": "+34:53",
     "vel_prom": "11.5 Km/h",
     "ritmo": "5:12 Min/km",
-    "pdf_page": 727,
+    "pdf_page": 452,
     "dorsal": "1459",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Maicol Quintero",
     "tiempo_diploma": "00:52:05",
-    "stats_diploma": "89. /357 457. /1597"
+    "stats_diploma": "89. /357 477. /1621"
   },
   {
-    "puesto": 458,
+    "puesto": 478,
     "placa": "3329",
     "nombre": "Henry Rincón Garcia",
     "categoria": "10 K MASTER B",
@@ -7778,15 +8118,15 @@ const RUNNERS_DATA = [
     "dif": "+34:54",
     "vel_prom": "11.5 Km/h",
     "ritmo": "5:12 Min/km",
-    "pdf_page": 1236,
+    "pdf_page": 1222,
     "dorsal": "3329",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Henry Rincón Garcia",
     "tiempo_diploma": "00:52:06",
-    "stats_diploma": "14. /56 458. /1597"
+    "stats_diploma": "15. /57 478. /1621"
   },
   {
-    "puesto": 459,
+    "puesto": 479,
     "placa": "1542",
     "nombre": "Nataly Montoya",
     "categoria": "10 K ABIERTA",
@@ -7795,15 +8135,32 @@ const RUNNERS_DATA = [
     "dif": "+34:55",
     "vel_prom": "11.5 Km/h",
     "ritmo": "5:12 Min/km",
-    "pdf_page": 339,
+    "pdf_page": 524,
     "dorsal": "1542",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Nataly Montoya",
     "tiempo_diploma": "00:52:07",
-    "stats_diploma": "11. /310 459. /1597"
+    "stats_diploma": "10. /309 479. /1621"
   },
   {
-    "puesto": 460,
+    "puesto": 480,
+    "placa": "5526",
+    "nombre": "LUZM CHACON CARRILLO",
+    "categoria": "5 K MASTER B",
+    "ciudad": "Bucaramanga",
+    "tiempo": "0:52:07",
+    "dif": "+34:55",
+    "vel_prom": "5.7 Km/h",
+    "ritmo": "10:25 Min/km",
+    "pdf_page": 1617,
+    "dorsal": "5526",
+    "categoria_diploma": "5 K MASTER B",
+    "nombre_diploma": "LUZM CHACON CARRILLO",
+    "tiempo_diploma": "00:52:07",
+    "stats_diploma": "17. /18 480. /1621"
+  },
+  {
+    "puesto": 481,
     "placa": "5419",
     "nombre": "Eduardo Beltran",
     "categoria": "5 K MASTER A",
@@ -7812,15 +8169,15 @@ const RUNNERS_DATA = [
     "dif": "+34:57",
     "vel_prom": "5.7 Km/h",
     "ritmo": "10:25 Min/km",
-    "pdf_page": 1595,
+    "pdf_page": 1546,
     "dorsal": "5419",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Eduardo Beltran",
     "tiempo_diploma": "00:52:09",
-    "stats_diploma": "30. /32 460. /1597"
+    "stats_diploma": "30. /32 481. /1621"
   },
   {
-    "puesto": 461,
+    "puesto": 482,
     "placa": "1356",
     "nombre": "JUAN DAVID VECINO MANTILLA",
     "categoria": "10 K ABIERTA",
@@ -7829,15 +8186,15 @@ const RUNNERS_DATA = [
     "dif": "+34:58",
     "vel_prom": "11.5 Km/h",
     "ritmo": "5:13 Min/km",
-    "pdf_page": 728,
+    "pdf_page": 367,
     "dorsal": "1356",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "JUAN DAVID VECINO MANTILLA",
     "tiempo_diploma": "00:52:10",
-    "stats_diploma": "90. /357 461. /1597"
+    "stats_diploma": "90. /357 482. /1621"
   },
   {
-    "puesto": 462,
+    "puesto": 483,
     "placa": "3025",
     "nombre": "CARLOS ARIEL GARAVITO MEDINA",
     "categoria": "10 K MASTER A",
@@ -7846,15 +8203,15 @@ const RUNNERS_DATA = [
     "dif": "+35:01",
     "vel_prom": "11.4 Km/h",
     "ritmo": "5:13 Min/km",
-    "pdf_page": 1112,
+    "pdf_page": 1021,
     "dorsal": "3025",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "CARLOS ARIEL GARAVITO MEDINA",
     "tiempo_diploma": "00:52:13",
-    "stats_diploma": "30. /107 462. /1597"
+    "stats_diploma": "30. /107 483. /1621"
   },
   {
-    "puesto": 463,
+    "puesto": 484,
     "placa": "1654",
     "nombre": "Wendy gonzalez",
     "categoria": "10 K ABIERTA",
@@ -7863,15 +8220,15 @@ const RUNNERS_DATA = [
     "dif": "+35:01",
     "vel_prom": "11.4 Km/h",
     "ritmo": "5:13 Min/km",
-    "pdf_page": 340,
+    "pdf_page": 621,
     "dorsal": "1654",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Wendy gonzalez",
     "tiempo_diploma": "00:52:13",
-    "stats_diploma": "12. /310 463. /1597"
+    "stats_diploma": "11. /309 484. /1621"
   },
   {
-    "puesto": 464,
+    "puesto": 485,
     "placa": "1044",
     "nombre": "Andres Rey",
     "categoria": "10 K ABIERTA",
@@ -7880,15 +8237,15 @@ const RUNNERS_DATA = [
     "dif": "+35:03",
     "vel_prom": "11.4 Km/h",
     "ritmo": "5:13 Min/km",
-    "pdf_page": 729,
+    "pdf_page": 76,
     "dorsal": "1044",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Andres Rey",
     "tiempo_diploma": "00:52:15",
-    "stats_diploma": "91. /357 464. /1597"
+    "stats_diploma": "91. /357 485. /1621"
   },
   {
-    "puesto": 465,
+    "puesto": 486,
     "placa": "5109",
     "nombre": "JORGE ALBERTO VERA VILLAMIZAR",
     "categoria": "5 K ABIERTA",
@@ -7897,32 +8254,32 @@ const RUNNERS_DATA = [
     "dif": "+35:09",
     "vel_prom": "5.7 Km/h",
     "ritmo": "10:28 Min/km",
-    "pdf_page": 1525,
+    "pdf_page": 1381,
     "dorsal": "5109",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "JORGE ALBERTO VERA VILLAMIZAR",
     "tiempo_diploma": "00:52:21",
-    "stats_diploma": "87. /90 465. /1597"
+    "stats_diploma": "85. /88 486. /1621"
   },
   {
-    "puesto": 466,
+    "puesto": 487,
     "placa": "5123",
     "nombre": "Karen lizeth Toloza Espinel",
     "categoria": "5 K ABIERTA",
     "ciudad": "Bucaramanga",
-    "tiempo": "0:52:38",
-    "dif": "+35:26",
+    "tiempo": "0:52:37",
+    "dif": "+35:25",
     "vel_prom": "5.6 Km/h",
     "ritmo": "10:31 Min/km",
-    "pdf_page": 1430,
+    "pdf_page": 1394,
     "dorsal": "5123",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Karen lizeth Toloza Espinel",
-    "tiempo_diploma": "00:52:38",
-    "stats_diploma": "152. /160 466. /1597"
+    "tiempo_diploma": "00:52:37",
+    "stats_diploma": "148. /156 487. /1621"
   },
   {
-    "puesto": 467,
+    "puesto": 488,
     "placa": "1527",
     "nombre": "Miguel Angel Zapata Zapata",
     "categoria": "10 K ABIERTA",
@@ -7931,15 +8288,15 @@ const RUNNERS_DATA = [
     "dif": "+35:28",
     "vel_prom": "11.3 Km/h",
     "ritmo": "5:16 Min/km",
-    "pdf_page": 730,
+    "pdf_page": 510,
     "dorsal": "1527",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Miguel Angel Zapata Zapata",
     "tiempo_diploma": "00:52:40",
-    "stats_diploma": "92. /357 467. /1597"
+    "stats_diploma": "92. /357 488. /1621"
   },
   {
-    "puesto": 468,
+    "puesto": 489,
     "placa": "3384",
     "nombre": "William Gomez Cano",
     "categoria": "10 K MASTER B",
@@ -7948,15 +8305,15 @@ const RUNNERS_DATA = [
     "dif": "+35:29",
     "vel_prom": "11.3 Km/h",
     "ritmo": "5:16 Min/km",
-    "pdf_page": 1237,
+    "pdf_page": 1273,
     "dorsal": "3384",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "William Gomez Cano",
     "tiempo_diploma": "00:52:41",
-    "stats_diploma": "15. /56 468. /1597"
+    "stats_diploma": "16. /57 489. /1621"
   },
   {
-    "puesto": 469,
+    "puesto": 490,
     "placa": "1188",
     "nombre": "Diego Andrés Peña Mantilla",
     "categoria": "10 K ABIERTA",
@@ -7965,15 +8322,15 @@ const RUNNERS_DATA = [
     "dif": "+35:30",
     "vel_prom": "11.3 Km/h",
     "ritmo": "5:16 Min/km",
-    "pdf_page": 731,
+    "pdf_page": 210,
     "dorsal": "1188",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Diego Andrés Peña Mantilla",
     "tiempo_diploma": "00:52:42",
-    "stats_diploma": "93. /357 469. /1597"
+    "stats_diploma": "93. /357 490. /1621"
   },
   {
-    "puesto": 470,
+    "puesto": 491,
     "placa": "104",
     "nombre": "Claudia Cediel Palomino",
     "categoria": "10 K ELITE",
@@ -7982,15 +8339,15 @@ const RUNNERS_DATA = [
     "dif": "+35:38",
     "vel_prom": "11.3 Km/h",
     "ritmo": "5:17 Min/km",
-    "pdf_page": 306,
+    "pdf_page": 3,
     "dorsal": "104",
     "categoria_diploma": "10 K ELITE",
     "nombre_diploma": "Claudia Cediel Palomino",
     "tiempo_diploma": "00:52:50",
-    "stats_diploma": "5. /17 470. /1597"
+    "stats_diploma": "5. /17 491. /1621"
   },
   {
-    "puesto": 471,
+    "puesto": 492,
     "placa": "1209",
     "nombre": "Edwing Giovanni Araque Serrano",
     "categoria": "10 K ABIERTA",
@@ -7999,15 +8356,15 @@ const RUNNERS_DATA = [
     "dif": "+35:44",
     "vel_prom": "11.3 Km/h",
     "ritmo": "5:17 Min/km",
-    "pdf_page": 732,
+    "pdf_page": 230,
     "dorsal": "1209",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Edwing Giovanni Araque Serrano",
     "tiempo_diploma": "00:52:56",
-    "stats_diploma": "94. /357 471. /1597"
+    "stats_diploma": "94. /357 492. /1621"
   },
   {
-    "puesto": 472,
+    "puesto": 493,
     "placa": "1375",
     "nombre": "Julian David Santana Porras",
     "categoria": "10 K ABIERTA",
@@ -8016,15 +8373,15 @@ const RUNNERS_DATA = [
     "dif": "+35:47",
     "vel_prom": "11.3 Km/h",
     "ritmo": "5:17 Min/km",
-    "pdf_page": 733,
+    "pdf_page": 385,
     "dorsal": "1375",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Julian David Santana Porras",
     "tiempo_diploma": "00:52:59",
-    "stats_diploma": "95. /357 472. /1597"
+    "stats_diploma": "95. /357 493. /1621"
   },
   {
-    "puesto": 473,
+    "puesto": 494,
     "placa": "1584",
     "nombre": "Roger Enrique Polanco Díaz",
     "categoria": "10 K ABIERTA",
@@ -8033,15 +8390,15 @@ const RUNNERS_DATA = [
     "dif": "+35:48",
     "vel_prom": "11.3 Km/h",
     "ritmo": "5:18 Min/km",
-    "pdf_page": 734,
+    "pdf_page": 561,
     "dorsal": "1584",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Roger Enrique Polanco Díaz",
     "tiempo_diploma": "00:53:00",
-    "stats_diploma": "96. /357 473. /1597"
+    "stats_diploma": "96. /357 494. /1621"
   },
   {
-    "puesto": 474,
+    "puesto": 495,
     "placa": "3090",
     "nombre": "John Santamaria",
     "categoria": "10 K MASTER A",
@@ -8050,15 +8407,15 @@ const RUNNERS_DATA = [
     "dif": "+35:50",
     "vel_prom": "11.3 Km/h",
     "ritmo": "5:18 Min/km",
-    "pdf_page": 1113,
+    "pdf_page": 1082,
     "dorsal": "3090",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "John Santamaria",
     "tiempo_diploma": "00:53:02",
-    "stats_diploma": "31. /107 474. /1597"
+    "stats_diploma": "31. /107 495. /1621"
   },
   {
-    "puesto": 475,
+    "puesto": 496,
     "placa": "1241",
     "nombre": "Fredy Anaya Vera",
     "categoria": "10 K ABIERTA",
@@ -8067,15 +8424,15 @@ const RUNNERS_DATA = [
     "dif": "+35:52",
     "vel_prom": "11.3 Km/h",
     "ritmo": "5:18 Min/km",
-    "pdf_page": 735,
+    "pdf_page": 261,
     "dorsal": "1241",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Fredy Anaya Vera",
     "tiempo_diploma": "00:53:04",
-    "stats_diploma": "97. /357 475. /1597"
+    "stats_diploma": "97. /357 496. /1621"
   },
   {
-    "puesto": 476,
+    "puesto": 497,
     "placa": "1372",
     "nombre": "Julián Borda Carrillo",
     "categoria": "10 K ABIERTA",
@@ -8084,15 +8441,15 @@ const RUNNERS_DATA = [
     "dif": "+35:53",
     "vel_prom": "11.3 Km/h",
     "ritmo": "5:18 Min/km",
-    "pdf_page": 736,
+    "pdf_page": 382,
     "dorsal": "1372",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Julián Borda Carrillo",
     "tiempo_diploma": "00:53:05",
-    "stats_diploma": "98. /357 476. /1597"
+    "stats_diploma": "98. /357 497. /1621"
   },
   {
-    "puesto": 477,
+    "puesto": 498,
     "placa": "1111",
     "nombre": "Carlos Augusto Rueda Bautista",
     "categoria": "10 K ABIERTA",
@@ -8101,15 +8458,15 @@ const RUNNERS_DATA = [
     "dif": "+35:54",
     "vel_prom": "11.2 Km/h",
     "ritmo": "5:18 Min/km",
-    "pdf_page": 737,
+    "pdf_page": 139,
     "dorsal": "1111",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Carlos Augusto Rueda Bautista",
     "tiempo_diploma": "00:53:06",
-    "stats_diploma": "99. /357 477. /1597"
+    "stats_diploma": "99. /357 498. /1621"
   },
   {
-    "puesto": 478,
+    "puesto": 499,
     "placa": "3367",
     "nombre": "Orlando Alfonso Gomez Parada",
     "categoria": "10 K MASTER B",
@@ -8118,15 +8475,15 @@ const RUNNERS_DATA = [
     "dif": "+35:56",
     "vel_prom": "11.2 Km/h",
     "ritmo": "5:18 Min/km",
-    "pdf_page": 1238,
+    "pdf_page": 1258,
     "dorsal": "3367",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Orlando Alfonso Gomez Parada",
     "tiempo_diploma": "00:53:08",
-    "stats_diploma": "16. /56 478. /1597"
+    "stats_diploma": "17. /57 499. /1621"
   },
   {
-    "puesto": 479,
+    "puesto": 500,
     "placa": "1203",
     "nombre": "Eduardo Jose Duarte Osorio",
     "categoria": "10 K ABIERTA",
@@ -8135,15 +8492,15 @@ const RUNNERS_DATA = [
     "dif": "+36:00",
     "vel_prom": "11.2 Km/h",
     "ritmo": "5:19 Min/km",
-    "pdf_page": 738,
+    "pdf_page": 225,
     "dorsal": "1203",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Eduardo Jose Duarte Osorio",
     "tiempo_diploma": "00:53:12",
-    "stats_diploma": "100. /357 479. /1597"
+    "stats_diploma": "100. /357 500. /1621"
   },
   {
-    "puesto": 480,
+    "puesto": 501,
     "placa": "5167",
     "nombre": "María Hernandez",
     "categoria": "5 K ABIERTA",
@@ -8152,15 +8509,15 @@ const RUNNERS_DATA = [
     "dif": "+36:03",
     "vel_prom": "5.6 Km/h",
     "ritmo": "10:39 Min/km",
-    "pdf_page": 1431,
+    "pdf_page": 1432,
     "dorsal": "5167",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "María Hernandez",
     "tiempo_diploma": "00:53:15",
-    "stats_diploma": "153. /160 480. /1597"
+    "stats_diploma": "149. /156 501. /1621"
   },
   {
-    "puesto": 481,
+    "puesto": 502,
     "placa": "1099",
     "nombre": "Camilo Andrés Pérez Román",
     "categoria": "10 K ABIERTA",
@@ -8169,15 +8526,15 @@ const RUNNERS_DATA = [
     "dif": "+36:06",
     "vel_prom": "11.2 Km/h",
     "ritmo": "5:19 Min/km",
-    "pdf_page": 739,
+    "pdf_page": 128,
     "dorsal": "1099",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Camilo Andrés Pérez Román",
     "tiempo_diploma": "00:53:18",
-    "stats_diploma": "101. /357 481. /1597"
+    "stats_diploma": "101. /357 502. /1621"
   },
   {
-    "puesto": 482,
+    "puesto": 503,
     "placa": "1113",
     "nombre": "Carlos Enrique Gallego Silva",
     "categoria": "10 K ABIERTA",
@@ -8186,15 +8543,15 @@ const RUNNERS_DATA = [
     "dif": "+36:12",
     "vel_prom": "11.2 Km/h",
     "ritmo": "5:20 Min/km",
-    "pdf_page": 740,
+    "pdf_page": 141,
     "dorsal": "1113",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Carlos Enrique Gallego Silva",
     "tiempo_diploma": "00:53:24",
-    "stats_diploma": "102. /357 482. /1597"
+    "stats_diploma": "102. /357 503. /1621"
   },
   {
-    "puesto": 483,
+    "puesto": 504,
     "placa": "1252",
     "nombre": "Guillermo Antonio Páez Rodriguez",
     "categoria": "10 K ABIERTA",
@@ -8203,15 +8560,15 @@ const RUNNERS_DATA = [
     "dif": "+36:13",
     "vel_prom": "11.2 Km/h",
     "ritmo": "5:20 Min/km",
-    "pdf_page": 741,
+    "pdf_page": 270,
     "dorsal": "1252",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Guillermo Antonio Páez Rodriguez",
     "tiempo_diploma": "00:53:25",
-    "stats_diploma": "103. /357 483. /1597"
+    "stats_diploma": "103. /357 504. /1621"
   },
   {
-    "puesto": 484,
+    "puesto": 505,
     "placa": "3102",
     "nombre": "Juan Jose Miro Quesada",
     "categoria": "10 K MASTER A",
@@ -8220,15 +8577,15 @@ const RUNNERS_DATA = [
     "dif": "+36:16",
     "vel_prom": "11.2 Km/h",
     "ritmo": "5:20 Min/km",
-    "pdf_page": 1114,
+    "pdf_page": 1094,
     "dorsal": "3102",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Juan Jose Miro Quesada",
     "tiempo_diploma": "00:53:28",
-    "stats_diploma": "32. /107 484. /1597"
+    "stats_diploma": "32. /107 505. /1621"
   },
   {
-    "puesto": 485,
+    "puesto": 506,
     "placa": "3164",
     "nombre": "Ronald Eduardo Carreño Ayala",
     "categoria": "10 K MASTER A",
@@ -8237,15 +8594,15 @@ const RUNNERS_DATA = [
     "dif": "+36:19",
     "vel_prom": "11.2 Km/h",
     "ritmo": "5:21 Min/km",
-    "pdf_page": 1115,
+    "pdf_page": 1153,
     "dorsal": "3164",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Ronald Eduardo Carreño Ayala",
     "tiempo_diploma": "00:53:31",
-    "stats_diploma": "33. /107 485. /1597"
+    "stats_diploma": "33. /107 506. /1621"
   },
   {
-    "puesto": 486,
+    "puesto": 507,
     "placa": "1138",
     "nombre": "Cristian Javier Barajas Miranda",
     "categoria": "10 K ABIERTA",
@@ -8254,15 +8611,15 @@ const RUNNERS_DATA = [
     "dif": "+36:23",
     "vel_prom": "11.1 Km/h",
     "ritmo": "5:21 Min/km",
-    "pdf_page": 742,
+    "pdf_page": 163,
     "dorsal": "1138",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Cristian Javier Barajas Miranda",
     "tiempo_diploma": "00:53:35",
-    "stats_diploma": "104. /357 486. /1597"
+    "stats_diploma": "104. /357 507. /1621"
   },
   {
-    "puesto": 487,
+    "puesto": 508,
     "placa": "3123",
     "nombre": "Luis Felipe Fuentes Colmenares",
     "categoria": "10 K MASTER A",
@@ -8271,15 +8628,15 @@ const RUNNERS_DATA = [
     "dif": "+36:24",
     "vel_prom": "11.1 Km/h",
     "ritmo": "5:21 Min/km",
-    "pdf_page": 1116,
+    "pdf_page": 1114,
     "dorsal": "3123",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Luis Felipe Fuentes Colmenares",
     "tiempo_diploma": "00:53:36",
-    "stats_diploma": "34. /107 487. /1597"
+    "stats_diploma": "34. /107 508. /1621"
   },
   {
-    "puesto": 488,
+    "puesto": 509,
     "placa": "1544",
     "nombre": "Nathalia Cordero Lizcano",
     "categoria": "10 K ABIERTA",
@@ -8288,15 +8645,15 @@ const RUNNERS_DATA = [
     "dif": "+36:26",
     "vel_prom": "11.1 Km/h",
     "ritmo": "5:21 Min/km",
-    "pdf_page": 341,
+    "pdf_page": 526,
     "dorsal": "1544",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Nathalia Cordero Lizcano",
     "tiempo_diploma": "00:53:38",
-    "stats_diploma": "13. /310 488. /1597"
+    "stats_diploma": "12. /309 509. /1621"
   },
   {
-    "puesto": 489,
+    "puesto": 510,
     "placa": "1312",
     "nombre": "Jhon Pinto",
     "categoria": "10 K ABIERTA",
@@ -8305,15 +8662,15 @@ const RUNNERS_DATA = [
     "dif": "+36:31",
     "vel_prom": "11.1 Km/h",
     "ritmo": "5:22 Min/km",
-    "pdf_page": 743,
+    "pdf_page": 327,
     "dorsal": "1312",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Jhon Pinto",
     "tiempo_diploma": "00:53:43",
-    "stats_diploma": "105. /357 489. /1597"
+    "stats_diploma": "105. /357 510. /1621"
   },
   {
-    "puesto": 490,
+    "puesto": 511,
     "placa": "3076",
     "nombre": "Javier Vasquez",
     "categoria": "10 K MASTER A",
@@ -8322,15 +8679,15 @@ const RUNNERS_DATA = [
     "dif": "+36:32",
     "vel_prom": "11.1 Km/h",
     "ritmo": "5:22 Min/km",
-    "pdf_page": 1117,
+    "pdf_page": 1068,
     "dorsal": "3076",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Javier Vasquez",
     "tiempo_diploma": "00:53:44",
-    "stats_diploma": "35. /107 490. /1597"
+    "stats_diploma": "35. /107 511. /1621"
   },
   {
-    "puesto": 491,
+    "puesto": 512,
     "placa": "3129",
     "nombre": "Marco Calderón",
     "categoria": "10 K MASTER A",
@@ -8339,15 +8696,15 @@ const RUNNERS_DATA = [
     "dif": "+36:34",
     "vel_prom": "11.1 Km/h",
     "ritmo": "5:22 Min/km",
-    "pdf_page": 1118,
+    "pdf_page": 1120,
     "dorsal": "3129",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Marco Calderón",
     "tiempo_diploma": "00:53:46",
-    "stats_diploma": "36. /107 491. /1597"
+    "stats_diploma": "36. /107 512. /1621"
   },
   {
-    "puesto": 492,
+    "puesto": 513,
     "placa": "1367",
     "nombre": "JUAN SEBASTIAN MERCHAN MONTAÑEZ",
     "categoria": "10 K ABIERTA",
@@ -8356,15 +8713,15 @@ const RUNNERS_DATA = [
     "dif": "+36:37",
     "vel_prom": "11.1 Km/h",
     "ritmo": "5:22 Min/km",
-    "pdf_page": 744,
+    "pdf_page": 377,
     "dorsal": "1367",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "JUAN SEBASTIAN MERCHAN MONTAÑEZ",
     "tiempo_diploma": "00:53:49",
-    "stats_diploma": "106. /357 492. /1597"
+    "stats_diploma": "106. /357 513. /1621"
   },
   {
-    "puesto": 493,
+    "puesto": 514,
     "placa": "3316",
     "nombre": "Diego Fernando Forero Anaya",
     "categoria": "10 K MASTER B",
@@ -8373,15 +8730,15 @@ const RUNNERS_DATA = [
     "dif": "+36:37",
     "vel_prom": "11.1 Km/h",
     "ritmo": "5:22 Min/km",
-    "pdf_page": 1239,
+    "pdf_page": 1209,
     "dorsal": "3316",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Diego Fernando Forero Anaya",
     "tiempo_diploma": "00:53:49",
-    "stats_diploma": "17. /56 493. /1597"
+    "stats_diploma": "18. /57 514. /1621"
   },
   {
-    "puesto": 494,
+    "puesto": 515,
     "placa": "3364",
     "nombre": "Oliva BARAJAS AFANADOR",
     "categoria": "10 K MASTER B",
@@ -8390,15 +8747,15 @@ const RUNNERS_DATA = [
     "dif": "+36:38",
     "vel_prom": "11.1 Km/h",
     "ritmo": "5:23 Min/km",
-    "pdf_page": 1192,
+    "pdf_page": 1255,
     "dorsal": "3364",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Oliva BARAJAS AFANADOR",
     "tiempo_diploma": "00:53:50",
-    "stats_diploma": "3. /33 494. /1597"
+    "stats_diploma": "3. /33 515. /1621"
   },
   {
-    "puesto": 495,
+    "puesto": 516,
     "placa": "3120",
     "nombre": "Lina María Matallana Rodríguez",
     "categoria": "10 K MASTER A",
@@ -8407,15 +8764,15 @@ const RUNNERS_DATA = [
     "dif": "+36:43",
     "vel_prom": "11.1 Km/h",
     "ritmo": "5:23 Min/km",
-    "pdf_page": 1001,
+    "pdf_page": 1111,
     "dorsal": "3120",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Lina María Matallana Rodríguez",
     "tiempo_diploma": "00:53:55",
-    "stats_diploma": "6. /87 495. /1597"
+    "stats_diploma": "6. /87 516. /1621"
   },
   {
-    "puesto": 496,
+    "puesto": 517,
     "placa": "1164",
     "nombre": "David Felipe Camacho Hernandez",
     "categoria": "10 K ABIERTA",
@@ -8424,15 +8781,15 @@ const RUNNERS_DATA = [
     "dif": "+36:44",
     "vel_prom": "11.1 Km/h",
     "ritmo": "5:23 Min/km",
-    "pdf_page": 745,
+    "pdf_page": 186,
     "dorsal": "1164",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "David Felipe Camacho Hernandez",
     "tiempo_diploma": "00:53:56",
-    "stats_diploma": "107. /357 496. /1597"
+    "stats_diploma": "107. /357 517. /1621"
   },
   {
-    "puesto": 497,
+    "puesto": 518,
     "placa": "1674",
     "nombre": "YESENIA VILLAMIZAR",
     "categoria": "10 K ABIERTA",
@@ -8441,15 +8798,15 @@ const RUNNERS_DATA = [
     "dif": "+36:45",
     "vel_prom": "11.1 Km/h",
     "ritmo": "5:23 Min/km",
-    "pdf_page": 342,
+    "pdf_page": 640,
     "dorsal": "1674",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "YESENIA VILLAMIZAR",
     "tiempo_diploma": "00:53:57",
-    "stats_diploma": "14. /310 497. /1597"
+    "stats_diploma": "13. /309 518. /1621"
   },
   {
-    "puesto": 498,
+    "puesto": 519,
     "placa": "3310",
     "nombre": "Carlos julio Chaparro Ramírez",
     "categoria": "10 K MASTER B",
@@ -8458,15 +8815,15 @@ const RUNNERS_DATA = [
     "dif": "+36:49",
     "vel_prom": "11.1 Km/h",
     "ritmo": "5:24 Min/km",
-    "pdf_page": 1240,
+    "pdf_page": 1203,
     "dorsal": "3310",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Carlos julio Chaparro Ramírez",
     "tiempo_diploma": "00:54:01",
-    "stats_diploma": "18. /56 498. /1597"
+    "stats_diploma": "19. /57 519. /1621"
   },
   {
-    "puesto": 499,
+    "puesto": 520,
     "placa": "1266",
     "nombre": "HERNAN DARIO GOMEZ HERNANDEZ",
     "categoria": "10 K ABIERTA",
@@ -8475,15 +8832,15 @@ const RUNNERS_DATA = [
     "dif": "+36:49",
     "vel_prom": "11.1 Km/h",
     "ritmo": "5:24 Min/km",
-    "pdf_page": 746,
+    "pdf_page": 283,
     "dorsal": "1266",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "HERNAN DARIO GOMEZ HERNANDEZ",
     "tiempo_diploma": "00:54:01",
-    "stats_diploma": "108. /357 499. /1597"
+    "stats_diploma": "108. /357 520. /1621"
   },
   {
-    "puesto": 500,
+    "puesto": 521,
     "placa": "1342",
     "nombre": "Jose luis Pacheco",
     "categoria": "10 K ABIERTA",
@@ -8492,15 +8849,15 @@ const RUNNERS_DATA = [
     "dif": "+36:52",
     "vel_prom": "11.0 Km/h",
     "ritmo": "5:24 Min/km",
-    "pdf_page": 747,
+    "pdf_page": 354,
     "dorsal": "1342",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Jose luis Pacheco",
     "tiempo_diploma": "00:54:04",
-    "stats_diploma": "109. /357 500. /1597"
+    "stats_diploma": "109. /357 521. /1621"
   },
   {
-    "puesto": 501,
+    "puesto": 522,
     "placa": "3098",
     "nombre": "Jose Manuel Rangel Moreno",
     "categoria": "10 K MASTER A",
@@ -8509,15 +8866,15 @@ const RUNNERS_DATA = [
     "dif": "+36:57",
     "vel_prom": "11.0 Km/h",
     "ritmo": "5:24 Min/km",
-    "pdf_page": 1119,
+    "pdf_page": 1090,
     "dorsal": "3098",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Jose Manuel Rangel Moreno",
     "tiempo_diploma": "00:54:09",
-    "stats_diploma": "37. /107 501. /1597"
+    "stats_diploma": "37. /107 522. /1621"
   },
   {
-    "puesto": 502,
+    "puesto": 523,
     "placa": "132",
     "nombre": "Andrey Eduardo Duran Sanchez",
     "categoria": "10 K ELITE",
@@ -8526,15 +8883,15 @@ const RUNNERS_DATA = [
     "dif": "+37:01",
     "vel_prom": "11.0 Km/h",
     "ritmo": "5:25 Min/km",
-    "pdf_page": 321,
+    "pdf_page": 25,
     "dorsal": "132",
     "categoria_diploma": "10 K ELITE",
     "nombre_diploma": "Andrey Eduardo Duran Sanchez",
     "tiempo_diploma": "00:54:13",
-    "stats_diploma": "3. /10 502. /1597"
+    "stats_diploma": "3. /10 523. /1621"
   },
   {
-    "puesto": 503,
+    "puesto": 524,
     "placa": "1738",
     "nombre": "Lina Salazar Duarte",
     "categoria": "10 K ABIERTA",
@@ -8543,15 +8900,15 @@ const RUNNERS_DATA = [
     "dif": "+37:04",
     "vel_prom": "11.0 Km/h",
     "ritmo": "5:25 Min/km",
-    "pdf_page": 343,
+    "pdf_page": 694,
     "dorsal": "1738",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Lina Salazar Duarte",
     "tiempo_diploma": "00:54:16",
-    "stats_diploma": "15. /310 503. /1597"
+    "stats_diploma": "14. /309 524. /1621"
   },
   {
-    "puesto": 504,
+    "puesto": 525,
     "placa": "1049",
     "nombre": "Andres Felipe Lemus Bermudez",
     "categoria": "10 K ABIERTA",
@@ -8560,15 +8917,15 @@ const RUNNERS_DATA = [
     "dif": "+37:05",
     "vel_prom": "11.0 Km/h",
     "ritmo": "5:25 Min/km",
-    "pdf_page": 748,
+    "pdf_page": 81,
     "dorsal": "1049",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Andres Felipe Lemus Bermudez",
     "tiempo_diploma": "00:54:17",
-    "stats_diploma": "110. /357 504. /1597"
+    "stats_diploma": "110. /357 525. /1621"
   },
   {
-    "puesto": 505,
+    "puesto": 526,
     "placa": "1661",
     "nombre": "WILMAR FONTECHA SUASA",
     "categoria": "10 K ABIERTA",
@@ -8577,15 +8934,15 @@ const RUNNERS_DATA = [
     "dif": "+37:05",
     "vel_prom": "11.0 Km/h",
     "ritmo": "5:25 Min/km",
-    "pdf_page": 749,
+    "pdf_page": 627,
     "dorsal": "1661",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "WILMAR FONTECHA SUASA",
     "tiempo_diploma": "00:54:17",
-    "stats_diploma": "111. /357 505. /1597"
+    "stats_diploma": "111. /357 526. /1621"
   },
   {
-    "puesto": 506,
+    "puesto": 527,
     "placa": "1670",
     "nombre": "YELIXSA KARELIZ LAMUS MORENO",
     "categoria": "10 K ABIERTA",
@@ -8594,15 +8951,15 @@ const RUNNERS_DATA = [
     "dif": "+37:05",
     "vel_prom": "11.0 Km/h",
     "ritmo": "5:25 Min/km",
-    "pdf_page": 344,
+    "pdf_page": 636,
     "dorsal": "1670",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "YELIXSA KARELIZ LAMUS MORENO",
     "tiempo_diploma": "00:54:17",
-    "stats_diploma": "16. /310 506. /1597"
+    "stats_diploma": "15. /309 527. /1621"
   },
   {
-    "puesto": 507,
+    "puesto": 528,
     "placa": "1066",
     "nombre": "Angelica Velasco",
     "categoria": "10 K ABIERTA",
@@ -8611,15 +8968,15 @@ const RUNNERS_DATA = [
     "dif": "+37:05",
     "vel_prom": "11.0 Km/h",
     "ritmo": "5:25 Min/km",
-    "pdf_page": 345,
+    "pdf_page": 96,
     "dorsal": "1066",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Angelica Velasco",
     "tiempo_diploma": "00:54:17",
-    "stats_diploma": "17. /310 507. /1597"
+    "stats_diploma": "16. /309 528. /1621"
   },
   {
-    "puesto": 508,
+    "puesto": 529,
     "placa": "1194",
     "nombre": "Duvan Duran",
     "categoria": "10 K ABIERTA",
@@ -8628,15 +8985,15 @@ const RUNNERS_DATA = [
     "dif": "+37:05",
     "vel_prom": "11.0 Km/h",
     "ritmo": "5:25 Min/km",
-    "pdf_page": 750,
+    "pdf_page": 216,
     "dorsal": "1194",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Duvan Duran",
     "tiempo_diploma": "00:54:17",
-    "stats_diploma": "112. /357 508. /1597"
+    "stats_diploma": "112. /357 529. /1621"
   },
   {
-    "puesto": 509,
+    "puesto": 530,
     "placa": "3045",
     "nombre": "Edwin Muñoz Amaríz",
     "categoria": "10 K MASTER A",
@@ -8645,15 +9002,15 @@ const RUNNERS_DATA = [
     "dif": "+37:06",
     "vel_prom": "11.0 Km/h",
     "ritmo": "5:25 Min/km",
-    "pdf_page": 1120,
+    "pdf_page": 1040,
     "dorsal": "3045",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Edwin Muñoz Amaríz",
     "tiempo_diploma": "00:54:18",
-    "stats_diploma": "38. /107 509. /1597"
+    "stats_diploma": "38. /107 530. /1621"
   },
   {
-    "puesto": 510,
+    "puesto": 531,
     "placa": "1352",
     "nombre": "JUAN CAMILO RAMIREZ CABALLERO",
     "categoria": "10 K ABIERTA",
@@ -8662,15 +9019,15 @@ const RUNNERS_DATA = [
     "dif": "+37:07",
     "vel_prom": "11.0 Km/h",
     "ritmo": "5:25 Min/km",
-    "pdf_page": 751,
+    "pdf_page": 363,
     "dorsal": "1352",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "JUAN CAMILO RAMIREZ CABALLERO",
     "tiempo_diploma": "00:54:19",
-    "stats_diploma": "113. /357 510. /1597"
+    "stats_diploma": "113. /357 531. /1621"
   },
   {
-    "puesto": 511,
+    "puesto": 532,
     "placa": "1232",
     "nombre": "Farid Manzour Saab Rmolina",
     "categoria": "10 K ABIERTA",
@@ -8679,15 +9036,15 @@ const RUNNERS_DATA = [
     "dif": "+37:11",
     "vel_prom": "11.0 Km/h",
     "ritmo": "5:26 Min/km",
-    "pdf_page": 752,
+    "pdf_page": 253,
     "dorsal": "1232",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Farid Manzour Saab Rmolina",
     "tiempo_diploma": "00:54:23",
-    "stats_diploma": "114. /357 511. /1597"
+    "stats_diploma": "114. /357 532. /1621"
   },
   {
-    "puesto": 512,
+    "puesto": 533,
     "placa": "1216",
     "nombre": "Emanuel Orduz",
     "categoria": "10 K ABIERTA",
@@ -8696,15 +9053,15 @@ const RUNNERS_DATA = [
     "dif": "+37:13",
     "vel_prom": "11.0 Km/h",
     "ritmo": "5:26 Min/km",
-    "pdf_page": 753,
+    "pdf_page": 237,
     "dorsal": "1216",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Emanuel Orduz",
     "tiempo_diploma": "00:54:25",
-    "stats_diploma": "115. /357 512. /1597"
+    "stats_diploma": "115. /357 533. /1621"
   },
   {
-    "puesto": 513,
+    "puesto": 534,
     "placa": "1190",
     "nombre": "Diego Armando Pradilla Perez",
     "categoria": "10 K ABIERTA",
@@ -8713,15 +9070,15 @@ const RUNNERS_DATA = [
     "dif": "+37:17",
     "vel_prom": "11.0 Km/h",
     "ritmo": "5:26 Min/km",
-    "pdf_page": 754,
+    "pdf_page": 212,
     "dorsal": "1190",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Diego Armando Pradilla Perez",
     "tiempo_diploma": "00:54:29",
-    "stats_diploma": "116. /357 513. /1597"
+    "stats_diploma": "116. /357 534. /1621"
   },
   {
-    "puesto": 514,
+    "puesto": 535,
     "placa": "1086",
     "nombre": "Brayan Steven Castellanos Rodríguez",
     "categoria": "10 K ABIERTA",
@@ -8730,15 +9087,15 @@ const RUNNERS_DATA = [
     "dif": "+37:21",
     "vel_prom": "10.9 Km/h",
     "ritmo": "5:27 Min/km",
-    "pdf_page": 755,
+    "pdf_page": 116,
     "dorsal": "1086",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Brayan Steven Castellanos Rodríguez",
     "tiempo_diploma": "00:54:33",
-    "stats_diploma": "117. /357 514. /1597"
+    "stats_diploma": "117. /357 535. /1621"
   },
   {
-    "puesto": 515,
+    "puesto": 536,
     "placa": "1546",
     "nombre": "Nathaly Tarazona",
     "categoria": "10 K ABIERTA",
@@ -8747,15 +9104,15 @@ const RUNNERS_DATA = [
     "dif": "+37:22",
     "vel_prom": "10.9 Km/h",
     "ritmo": "5:27 Min/km",
-    "pdf_page": 346,
+    "pdf_page": 528,
     "dorsal": "1546",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Nathaly Tarazona",
     "tiempo_diploma": "00:54:34",
-    "stats_diploma": "18. /310 515. /1597"
+    "stats_diploma": "17. /309 536. /1621"
   },
   {
-    "puesto": 516,
+    "puesto": 537,
     "placa": "1360",
     "nombre": "Juan Fernando Velasquez Picon",
     "categoria": "10 K ABIERTA",
@@ -8764,15 +9121,15 @@ const RUNNERS_DATA = [
     "dif": "+37:27",
     "vel_prom": "10.9 Km/h",
     "ritmo": "5:27 Min/km",
-    "pdf_page": 756,
+    "pdf_page": 371,
     "dorsal": "1360",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Juan Fernando Velasquez Picon",
     "tiempo_diploma": "00:54:39",
-    "stats_diploma": "118. /357 516. /1597"
+    "stats_diploma": "118. /357 537. /1621"
   },
   {
-    "puesto": 517,
+    "puesto": 538,
     "placa": "1202",
     "nombre": "Edison Arley Vargas Quintero",
     "categoria": "10 K ABIERTA",
@@ -8781,15 +9138,15 @@ const RUNNERS_DATA = [
     "dif": "+37:27",
     "vel_prom": "10.9 Km/h",
     "ritmo": "5:27 Min/km",
-    "pdf_page": 757,
+    "pdf_page": 224,
     "dorsal": "1202",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Edison Arley Vargas Quintero",
     "tiempo_diploma": "00:54:39",
-    "stats_diploma": "119. /357 517. /1597"
+    "stats_diploma": "119. /357 538. /1621"
   },
   {
-    "puesto": 518,
+    "puesto": 539,
     "placa": "1215",
     "nombre": "Elvis Julian Molina Valencia",
     "categoria": "10 K ABIERTA",
@@ -8798,15 +9155,15 @@ const RUNNERS_DATA = [
     "dif": "+37:28",
     "vel_prom": "10.9 Km/h",
     "ritmo": "5:28 Min/km",
-    "pdf_page": 758,
+    "pdf_page": 236,
     "dorsal": "1215",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Elvis Julian Molina Valencia",
     "tiempo_diploma": "00:54:40",
-    "stats_diploma": "120. /357 518. /1597"
+    "stats_diploma": "120. /357 539. /1621"
   },
   {
-    "puesto": 519,
+    "puesto": 540,
     "placa": "1165",
     "nombre": "David Felipe Bohórquez Prada",
     "categoria": "10 K ABIERTA",
@@ -8815,15 +9172,15 @@ const RUNNERS_DATA = [
     "dif": "+37:28",
     "vel_prom": "10.9 Km/h",
     "ritmo": "5:28 Min/km",
-    "pdf_page": 759,
+    "pdf_page": 187,
     "dorsal": "1165",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "David Felipe Bohórquez Prada",
     "tiempo_diploma": "00:54:40",
-    "stats_diploma": "121. /357 519. /1597"
+    "stats_diploma": "121. /357 540. /1621"
   },
   {
-    "puesto": 520,
+    "puesto": 541,
     "placa": "1726",
     "nombre": "Angelica Castellanos Rueda",
     "categoria": "10 K ABIERTA",
@@ -8832,15 +9189,15 @@ const RUNNERS_DATA = [
     "dif": "+37:29",
     "vel_prom": "10.9 Km/h",
     "ritmo": "5:28 Min/km",
-    "pdf_page": 347,
+    "pdf_page": 683,
     "dorsal": "1726",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Angelica Castellanos Rueda",
     "tiempo_diploma": "00:54:41",
-    "stats_diploma": "19. /310 520. /1597"
+    "stats_diploma": "18. /309 541. /1621"
   },
   {
-    "puesto": 521,
+    "puesto": 542,
     "placa": "3361",
     "nombre": "MILTHON ARTURO SIERRA RAMIREZ",
     "categoria": "10 K MASTER B",
@@ -8849,15 +9206,15 @@ const RUNNERS_DATA = [
     "dif": "+37:29",
     "vel_prom": "10.9 Km/h",
     "ritmo": "5:28 Min/km",
-    "pdf_page": 1241,
+    "pdf_page": 1252,
     "dorsal": "3361",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "MILTHON ARTURO SIERRA RAMIREZ",
     "tiempo_diploma": "00:54:41",
-    "stats_diploma": "19. /56 521. /1597"
+    "stats_diploma": "20. /57 542. /1621"
   },
   {
-    "puesto": 522,
+    "puesto": 543,
     "placa": "1128",
     "nombre": "Cesar Ivan Carvajal Ardila",
     "categoria": "10 K ABIERTA",
@@ -8866,15 +9223,15 @@ const RUNNERS_DATA = [
     "dif": "+37:30",
     "vel_prom": "10.9 Km/h",
     "ritmo": "5:28 Min/km",
-    "pdf_page": 760,
+    "pdf_page": 153,
     "dorsal": "1128",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Cesar Ivan Carvajal Ardila",
     "tiempo_diploma": "00:54:42",
-    "stats_diploma": "122. /357 522. /1597"
+    "stats_diploma": "122. /357 543. /1621"
   },
   {
-    "puesto": 523,
+    "puesto": 544,
     "placa": "1052",
     "nombre": "Andrés Felipe Mateus Triana",
     "categoria": "10 K ABIERTA",
@@ -8883,15 +9240,15 @@ const RUNNERS_DATA = [
     "dif": "+37:30",
     "vel_prom": "10.9 Km/h",
     "ritmo": "5:28 Min/km",
-    "pdf_page": 761,
+    "pdf_page": 84,
     "dorsal": "1052",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Andrés Felipe Mateus Triana",
     "tiempo_diploma": "00:54:42",
-    "stats_diploma": "123. /357 523. /1597"
+    "stats_diploma": "123. /357 544. /1621"
   },
   {
-    "puesto": 524,
+    "puesto": 545,
     "placa": "1082",
     "nombre": "Brayan Rangel",
     "categoria": "10 K ABIERTA",
@@ -8900,15 +9257,15 @@ const RUNNERS_DATA = [
     "dif": "+37:31",
     "vel_prom": "10.9 Km/h",
     "ritmo": "5:28 Min/km",
-    "pdf_page": 762,
+    "pdf_page": 112,
     "dorsal": "1082",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Brayan Rangel",
     "tiempo_diploma": "00:54:43",
-    "stats_diploma": "124. /357 524. /1597"
+    "stats_diploma": "124. /357 545. /1621"
   },
   {
-    "puesto": 525,
+    "puesto": 546,
     "placa": "3073",
     "nombre": "JAIME ALBERTO CHAVEZ CARREÑO",
     "categoria": "10 K MASTER A",
@@ -8917,15 +9274,15 @@ const RUNNERS_DATA = [
     "dif": "+37:31",
     "vel_prom": "10.9 Km/h",
     "ritmo": "5:28 Min/km",
-    "pdf_page": 1121,
+    "pdf_page": 1065,
     "dorsal": "3073",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "JAIME ALBERTO CHAVEZ CARREÑO",
     "tiempo_diploma": "00:54:43",
-    "stats_diploma": "39. /107 525. /1597"
+    "stats_diploma": "39. /107 546. /1621"
   },
   {
-    "puesto": 526,
+    "puesto": 547,
     "placa": "1660",
     "nombre": "Willinton Steve Naranjo Olaya",
     "categoria": "10 K ABIERTA",
@@ -8934,15 +9291,15 @@ const RUNNERS_DATA = [
     "dif": "+37:39",
     "vel_prom": "10.9 Km/h",
     "ritmo": "5:29 Min/km",
-    "pdf_page": 763,
+    "pdf_page": 626,
     "dorsal": "1660",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Willinton Steve Naranjo Olaya",
     "tiempo_diploma": "00:54:51",
-    "stats_diploma": "125. /357 526. /1597"
+    "stats_diploma": "125. /357 547. /1621"
   },
   {
-    "puesto": 527,
+    "puesto": 548,
     "placa": "110",
     "nombre": "Ismael Fernando Guerrero Peña",
     "categoria": "10 K ELITE",
@@ -8951,15 +9308,15 @@ const RUNNERS_DATA = [
     "dif": "+37:39",
     "vel_prom": "10.9 Km/h",
     "ritmo": "5:29 Min/km",
-    "pdf_page": 322,
+    "pdf_page": 9,
     "dorsal": "110",
     "categoria_diploma": "10 K ELITE",
     "nombre_diploma": "Ismael Fernando Guerrero Peña",
     "tiempo_diploma": "00:54:51",
-    "stats_diploma": "4. /10 527. /1597"
+    "stats_diploma": "4. /10 548. /1621"
   },
   {
-    "puesto": 528,
+    "puesto": 549,
     "placa": "1172",
     "nombre": "Delia Carolina Bacca Sanchez",
     "categoria": "10 K ABIERTA",
@@ -8968,15 +9325,15 @@ const RUNNERS_DATA = [
     "dif": "+37:46",
     "vel_prom": "10.9 Km/h",
     "ritmo": "5:29 Min/km",
-    "pdf_page": 348,
+    "pdf_page": 194,
     "dorsal": "1172",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Delia Carolina Bacca Sanchez",
     "tiempo_diploma": "00:54:58",
-    "stats_diploma": "20. /310 528. /1597"
+    "stats_diploma": "19. /309 549. /1621"
   },
   {
-    "puesto": 529,
+    "puesto": 550,
     "placa": "3038",
     "nombre": "Diego Serrano",
     "categoria": "10 K MASTER A",
@@ -8985,15 +9342,15 @@ const RUNNERS_DATA = [
     "dif": "+37:51",
     "vel_prom": "10.8 Km/h",
     "ritmo": "5:30 Min/km",
-    "pdf_page": 1122,
+    "pdf_page": 1033,
     "dorsal": "3038",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Diego Serrano",
     "tiempo_diploma": "00:55:03",
-    "stats_diploma": "40. /107 529. /1597"
+    "stats_diploma": "40. /107 550. /1621"
   },
   {
-    "puesto": 530,
+    "puesto": 551,
     "placa": "1387",
     "nombre": "Karen Natalia Cardenas Porras",
     "categoria": "10 K ABIERTA",
@@ -9002,15 +9359,15 @@ const RUNNERS_DATA = [
     "dif": "+37:51",
     "vel_prom": "10.8 Km/h",
     "ritmo": "5:30 Min/km",
-    "pdf_page": 349,
+    "pdf_page": 397,
     "dorsal": "1387",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Karen Natalia Cardenas Porras",
     "tiempo_diploma": "00:55:03",
-    "stats_diploma": "21. /310 530. /1597"
+    "stats_diploma": "20. /309 551. /1621"
   },
   {
-    "puesto": 531,
+    "puesto": 552,
     "placa": "1700",
     "nombre": "Omar Andrés Calvete Alvernia",
     "categoria": "10 K ABIERTA",
@@ -9019,15 +9376,15 @@ const RUNNERS_DATA = [
     "dif": "+37:52",
     "vel_prom": "10.8 Km/h",
     "ritmo": "5:30 Min/km",
-    "pdf_page": 764,
+    "pdf_page": 661,
     "dorsal": "1700",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Omar Andrés Calvete Alvernia",
     "tiempo_diploma": "00:55:04",
-    "stats_diploma": "126. /357 531. /1597"
+    "stats_diploma": "126. /357 552. /1621"
   },
   {
-    "puesto": 532,
+    "puesto": 553,
     "placa": "1050",
     "nombre": "Andres Felipe Gomez Chaparro",
     "categoria": "10 K ABIERTA",
@@ -9036,15 +9393,15 @@ const RUNNERS_DATA = [
     "dif": "+37:52",
     "vel_prom": "10.8 Km/h",
     "ritmo": "5:30 Min/km",
-    "pdf_page": 765,
+    "pdf_page": 82,
     "dorsal": "1050",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Andres Felipe Gomez Chaparro",
     "tiempo_diploma": "00:55:04",
-    "stats_diploma": "127. /357 532. /1597"
+    "stats_diploma": "127. /357 553. /1621"
   },
   {
-    "puesto": 533,
+    "puesto": 554,
     "placa": "1046",
     "nombre": "Andrés Villamil Novoa",
     "categoria": "10 K ABIERTA",
@@ -9053,15 +9410,15 @@ const RUNNERS_DATA = [
     "dif": "+37:54",
     "vel_prom": "10.8 Km/h",
     "ritmo": "5:30 Min/km",
-    "pdf_page": 766,
+    "pdf_page": 78,
     "dorsal": "1046",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Andrés Villamil Novoa",
     "tiempo_diploma": "00:55:06",
-    "stats_diploma": "128. /357 533. /1597"
+    "stats_diploma": "128. /357 554. /1621"
   },
   {
-    "puesto": 534,
+    "puesto": 555,
     "placa": "1177",
     "nombre": "Diana Elizabeth Villamizar",
     "categoria": "10 K ABIERTA",
@@ -9070,15 +9427,15 @@ const RUNNERS_DATA = [
     "dif": "+37:54",
     "vel_prom": "10.8 Km/h",
     "ritmo": "5:30 Min/km",
-    "pdf_page": 350,
+    "pdf_page": 199,
     "dorsal": "1177",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Diana Elizabeth Villamizar",
     "tiempo_diploma": "00:55:06",
-    "stats_diploma": "22. /310 534. /1597"
+    "stats_diploma": "21. /309 555. /1621"
   },
   {
-    "puesto": 535,
+    "puesto": 556,
     "placa": "1080",
     "nombre": "Bayron Elian Cala Vesga",
     "categoria": "10 K ABIERTA",
@@ -9087,15 +9444,15 @@ const RUNNERS_DATA = [
     "dif": "+37:55",
     "vel_prom": "10.8 Km/h",
     "ritmo": "5:30 Min/km",
-    "pdf_page": 767,
+    "pdf_page": 110,
     "dorsal": "1080",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Bayron Elian Cala Vesga",
     "tiempo_diploma": "00:55:07",
-    "stats_diploma": "129. /357 535. /1597"
+    "stats_diploma": "129. /357 556. /1621"
   },
   {
-    "puesto": 536,
+    "puesto": 557,
     "placa": "3087",
     "nombre": "Johana Corona",
     "categoria": "10 K MASTER A",
@@ -9104,15 +9461,15 @@ const RUNNERS_DATA = [
     "dif": "+37:59",
     "vel_prom": "10.8 Km/h",
     "ritmo": "5:31 Min/km",
-    "pdf_page": 1002,
+    "pdf_page": 1079,
     "dorsal": "3087",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Johana Corona",
     "tiempo_diploma": "00:55:11",
-    "stats_diploma": "7. /87 536. /1597"
+    "stats_diploma": "7. /87 557. /1621"
   },
   {
-    "puesto": 537,
+    "puesto": 558,
     "placa": "1639",
     "nombre": "Valentina Guevara",
     "categoria": "10 K ABIERTA",
@@ -9121,15 +9478,15 @@ const RUNNERS_DATA = [
     "dif": "+38:01",
     "vel_prom": "10.8 Km/h",
     "ritmo": "5:31 Min/km",
-    "pdf_page": 351,
+    "pdf_page": 607,
     "dorsal": "1639",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Valentina Guevara",
     "tiempo_diploma": "00:55:13",
-    "stats_diploma": "23. /310 537. /1597"
+    "stats_diploma": "22. /309 558. /1621"
   },
   {
-    "puesto": 538,
+    "puesto": 559,
     "placa": "3083",
     "nombre": "JESÚS PARADA",
     "categoria": "10 K MASTER A",
@@ -9138,15 +9495,15 @@ const RUNNERS_DATA = [
     "dif": "+38:04",
     "vel_prom": "10.8 Km/h",
     "ritmo": "5:31 Min/km",
-    "pdf_page": 1123,
+    "pdf_page": 1075,
     "dorsal": "3083",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "JESÚS PARADA",
     "tiempo_diploma": "00:55:16",
-    "stats_diploma": "41. /107 538. /1597"
+    "stats_diploma": "41. /107 559. /1621"
   },
   {
-    "puesto": 539,
+    "puesto": 560,
     "placa": "3341",
     "nombre": "Juan Miguel Gomez Quiroga",
     "categoria": "10 K MASTER B",
@@ -9155,15 +9512,15 @@ const RUNNERS_DATA = [
     "dif": "+38:05",
     "vel_prom": "10.8 Km/h",
     "ritmo": "5:31 Min/km",
-    "pdf_page": 1242,
+    "pdf_page": 1234,
     "dorsal": "3341",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Juan Miguel Gomez Quiroga",
     "tiempo_diploma": "00:55:17",
-    "stats_diploma": "20. /56 539. /1597"
+    "stats_diploma": "21. /57 560. /1621"
   },
   {
-    "puesto": 540,
+    "puesto": 561,
     "placa": "1007",
     "nombre": "Alejandra Peña Castro",
     "categoria": "10 K ABIERTA",
@@ -9172,15 +9529,15 @@ const RUNNERS_DATA = [
     "dif": "+38:05",
     "vel_prom": "10.8 Km/h",
     "ritmo": "5:31 Min/km",
-    "pdf_page": 352,
+    "pdf_page": 43,
     "dorsal": "1007",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Alejandra Peña Castro",
     "tiempo_diploma": "00:55:17",
-    "stats_diploma": "24. /310 540. /1597"
+    "stats_diploma": "23. /309 561. /1621"
   },
   {
-    "puesto": 541,
+    "puesto": 562,
     "placa": "1604",
     "nombre": "Sarith Tatiana Sánchez Patiño",
     "categoria": "10 K ABIERTA",
@@ -9189,15 +9546,15 @@ const RUNNERS_DATA = [
     "dif": "+38:05",
     "vel_prom": "10.8 Km/h",
     "ritmo": "5:31 Min/km",
-    "pdf_page": 353,
+    "pdf_page": 576,
     "dorsal": "1604",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Sarith Tatiana Sánchez Patiño",
     "tiempo_diploma": "00:55:17",
-    "stats_diploma": "25. /310 541. /1597"
+    "stats_diploma": "24. /309 562. /1621"
   },
   {
-    "puesto": 542,
+    "puesto": 563,
     "placa": "1431",
     "nombre": "Lina Gabriela Robles Vargas",
     "categoria": "10 K ABIERTA",
@@ -9206,15 +9563,15 @@ const RUNNERS_DATA = [
     "dif": "+38:06",
     "vel_prom": "10.8 Km/h",
     "ritmo": "5:31 Min/km",
-    "pdf_page": 354,
+    "pdf_page": 431,
     "dorsal": "1431",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Lina Gabriela Robles Vargas",
     "tiempo_diploma": "00:55:18",
-    "stats_diploma": "26. /310 542. /1597"
+    "stats_diploma": "25. /309 563. /1621"
   },
   {
-    "puesto": 543,
+    "puesto": 564,
     "placa": "3342",
     "nombre": "Julio Egdar Pedroza Vargas",
     "categoria": "10 K MASTER B",
@@ -9223,15 +9580,15 @@ const RUNNERS_DATA = [
     "dif": "+38:09",
     "vel_prom": "10.8 Km/h",
     "ritmo": "5:32 Min/km",
-    "pdf_page": 1243,
+    "pdf_page": 1235,
     "dorsal": "3342",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Julio Egdar Pedroza Vargas",
     "tiempo_diploma": "00:55:21",
-    "stats_diploma": "21. /56 543. /1597"
+    "stats_diploma": "22. /57 564. /1621"
   },
   {
-    "puesto": 544,
+    "puesto": 565,
     "placa": "1578",
     "nombre": "RICHARD SANTIAGO HERNANDEZ",
     "categoria": "10 K ABIERTA",
@@ -9240,15 +9597,15 @@ const RUNNERS_DATA = [
     "dif": "+38:10",
     "vel_prom": "10.8 Km/h",
     "ritmo": "5:32 Min/km",
-    "pdf_page": 768,
+    "pdf_page": 555,
     "dorsal": "1578",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "RICHARD SANTIAGO HERNANDEZ TORRES",
     "tiempo_diploma": "00:55:22",
-    "stats_diploma": "130. /357 544. /1597"
+    "stats_diploma": "130. /357 565. /1621"
   },
   {
-    "puesto": 545,
+    "puesto": 566,
     "placa": "5100",
     "nombre": "Jennifer Suárez",
     "categoria": "5 K ABIERTA",
@@ -9257,15 +9614,15 @@ const RUNNERS_DATA = [
     "dif": "+38:10",
     "vel_prom": "5.4 Km/h",
     "ritmo": "11:04 Min/km",
-    "pdf_page": 1432,
+    "pdf_page": 1372,
     "dorsal": "5100",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Jennifer Suárez",
     "tiempo_diploma": "00:55:22",
-    "stats_diploma": "154. /160 545. /1597"
+    "stats_diploma": "150. /156 566. /1621"
   },
   {
-    "puesto": 546,
+    "puesto": 567,
     "placa": "1650",
     "nombre": "Viviana Beltrán",
     "categoria": "10 K ABIERTA",
@@ -9274,15 +9631,15 @@ const RUNNERS_DATA = [
     "dif": "+38:13",
     "vel_prom": "10.8 Km/h",
     "ritmo": "5:32 Min/km",
-    "pdf_page": 355,
+    "pdf_page": 617,
     "dorsal": "1650",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Viviana Beltrán",
     "tiempo_diploma": "00:55:25",
-    "stats_diploma": "27. /310 546. /1597"
+    "stats_diploma": "26. /309 567. /1621"
   },
   {
-    "puesto": 547,
+    "puesto": 568,
     "placa": "1152",
     "nombre": "Daniela Flye",
     "categoria": "10 K ABIERTA",
@@ -9291,15 +9648,15 @@ const RUNNERS_DATA = [
     "dif": "+38:19",
     "vel_prom": "10.8 Km/h",
     "ritmo": "5:33 Min/km",
-    "pdf_page": 356,
+    "pdf_page": 175,
     "dorsal": "1152",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Daniela Flye",
     "tiempo_diploma": "00:55:31",
-    "stats_diploma": "28. /310 547. /1597"
+    "stats_diploma": "27. /309 568. /1621"
   },
   {
-    "puesto": 548,
+    "puesto": 569,
     "placa": "1448",
     "nombre": "Luis Felipe Caicedo Hurtado",
     "categoria": "10 K ABIERTA",
@@ -9308,15 +9665,15 @@ const RUNNERS_DATA = [
     "dif": "+38:19",
     "vel_prom": "10.8 Km/h",
     "ritmo": "5:33 Min/km",
-    "pdf_page": 769,
+    "pdf_page": 444,
     "dorsal": "1448",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Luis Felipe Caicedo Hurtado",
     "tiempo_diploma": "00:55:31",
-    "stats_diploma": "131. /357 548. /1597"
+    "stats_diploma": "131. /357 569. /1621"
   },
   {
-    "puesto": 549,
+    "puesto": 570,
     "placa": "1140",
     "nombre": "Daniel Torres Galvan",
     "categoria": "10 K ABIERTA",
@@ -9325,15 +9682,15 @@ const RUNNERS_DATA = [
     "dif": "+38:21",
     "vel_prom": "10.7 Km/h",
     "ritmo": "5:33 Min/km",
-    "pdf_page": 770,
+    "pdf_page": 165,
     "dorsal": "1140",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Daniel Torres Galvan",
     "tiempo_diploma": "00:55:33",
-    "stats_diploma": "132. /357 549. /1597"
+    "stats_diploma": "132. /357 570. /1621"
   },
   {
-    "puesto": 550,
+    "puesto": 571,
     "placa": "1353",
     "nombre": "JUAN CARLOS CHARRY",
     "categoria": "10 K ABIERTA",
@@ -9342,15 +9699,15 @@ const RUNNERS_DATA = [
     "dif": "+38:22",
     "vel_prom": "10.7 Km/h",
     "ritmo": "5:33 Min/km",
-    "pdf_page": 771,
+    "pdf_page": 364,
     "dorsal": "1353",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "JUAN CARLOS CHARRY",
     "tiempo_diploma": "00:55:34",
-    "stats_diploma": "133. /357 550. /1597"
+    "stats_diploma": "133. /357 571. /1621"
   },
   {
-    "puesto": 551,
+    "puesto": 572,
     "placa": "3103",
     "nombre": "Juan Pablo Avendaño Carreño",
     "categoria": "10 K MASTER A",
@@ -9359,15 +9716,15 @@ const RUNNERS_DATA = [
     "dif": "+38:23",
     "vel_prom": "10.7 Km/h",
     "ritmo": "5:33 Min/km",
-    "pdf_page": 1124,
+    "pdf_page": 1095,
     "dorsal": "3103",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Juan Pablo Avendaño Carreño",
     "tiempo_diploma": "00:55:35",
-    "stats_diploma": "42. /107 551. /1597"
+    "stats_diploma": "42. /107 572. /1621"
   },
   {
-    "puesto": 552,
+    "puesto": 573,
     "placa": "3383",
     "nombre": "William Salgar Rangel",
     "categoria": "10 K MASTER B",
@@ -9376,15 +9733,15 @@ const RUNNERS_DATA = [
     "dif": "+38:24",
     "vel_prom": "10.7 Km/h",
     "ritmo": "5:33 Min/km",
-    "pdf_page": 1244,
+    "pdf_page": 1272,
     "dorsal": "3383",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "William Salgar Rangel",
     "tiempo_diploma": "00:55:36",
-    "stats_diploma": "22. /56 552. /1597"
+    "stats_diploma": "23. /57 573. /1621"
   },
   {
-    "puesto": 553,
+    "puesto": 574,
     "placa": "1722",
     "nombre": "Diego Fernando Ramirez Sarmiento",
     "categoria": "10 K ABIERTA",
@@ -9393,15 +9750,15 @@ const RUNNERS_DATA = [
     "dif": "+38:24",
     "vel_prom": "10.7 Km/h",
     "ritmo": "5:33 Min/km",
-    "pdf_page": 772,
+    "pdf_page": 679,
     "dorsal": "1722",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Diego Fernando Ramirez Sarmiento",
     "tiempo_diploma": "00:55:36",
-    "stats_diploma": "134. /357 553. /1597"
+    "stats_diploma": "134. /357 574. /1621"
   },
   {
-    "puesto": 554,
+    "puesto": 575,
     "placa": "1702",
     "nombre": "Nataly Zambrano guiza",
     "categoria": "10 K ABIERTA",
@@ -9410,15 +9767,15 @@ const RUNNERS_DATA = [
     "dif": "+38:25",
     "vel_prom": "10.7 Km/h",
     "ritmo": "5:33 Min/km",
-    "pdf_page": 357,
+    "pdf_page": 663,
     "dorsal": "1702",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Nataly Zambrano guiza",
     "tiempo_diploma": "00:55:37",
-    "stats_diploma": "29. /310 554. /1597"
+    "stats_diploma": "28. /309 575. /1621"
   },
   {
-    "puesto": 555,
+    "puesto": 576,
     "placa": "1278",
     "nombre": "Jaime Andrés Villamil García",
     "categoria": "10 K ABIERTA",
@@ -9427,15 +9784,15 @@ const RUNNERS_DATA = [
     "dif": "+38:32",
     "vel_prom": "10.7 Km/h",
     "ritmo": "5:34 Min/km",
-    "pdf_page": 773,
+    "pdf_page": 295,
     "dorsal": "1278",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Jaime Andrés Villamil García",
     "tiempo_diploma": "00:55:44",
-    "stats_diploma": "135. /357 555. /1597"
+    "stats_diploma": "135. /357 576. /1621"
   },
   {
-    "puesto": 556,
+    "puesto": 577,
     "placa": "3371",
     "nombre": "PATRICIA LUGO AYALA",
     "categoria": "10 K MASTER B",
@@ -9444,15 +9801,15 @@ const RUNNERS_DATA = [
     "dif": "+38:33",
     "vel_prom": "10.7 Km/h",
     "ritmo": "5:34 Min/km",
-    "pdf_page": 1193,
+    "pdf_page": 1260,
     "dorsal": "3371",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "PATRICIA LUGO AYALA",
     "tiempo_diploma": "00:15:12",
-    "stats_diploma": "4. /33 556. /1597"
+    "stats_diploma": "4. /33 577. /1621"
   },
   {
-    "puesto": 557,
+    "puesto": 578,
     "placa": "3056",
     "nombre": "GERSON JAIR RODRIGUEZ SILVA",
     "categoria": "10 K MASTER A",
@@ -9461,15 +9818,15 @@ const RUNNERS_DATA = [
     "dif": "+38:38",
     "vel_prom": "10.7 Km/h",
     "ritmo": "5:35 Min/km",
-    "pdf_page": 1125,
+    "pdf_page": 1050,
     "dorsal": "3056",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "GERSON JAIR RODRIGUEZ SILVA",
     "tiempo_diploma": "00:55:50",
-    "stats_diploma": "43. /107 557. /1597"
+    "stats_diploma": "43. /107 578. /1621"
   },
   {
-    "puesto": 558,
+    "puesto": 579,
     "placa": "1156",
     "nombre": "Darwin Esneider Gamarra Florez",
     "categoria": "10 K ABIERTA",
@@ -9478,15 +9835,15 @@ const RUNNERS_DATA = [
     "dif": "+38:40",
     "vel_prom": "10.7 Km/h",
     "ritmo": "5:35 Min/km",
-    "pdf_page": 774,
+    "pdf_page": 179,
     "dorsal": "1156",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Darwin Esneider Gamarra Florez",
     "tiempo_diploma": "00:55:52",
-    "stats_diploma": "136. /357 558. /1597"
+    "stats_diploma": "136. /357 579. /1621"
   },
   {
-    "puesto": 559,
+    "puesto": 580,
     "placa": "1251",
     "nombre": "Gottfried Ferney Hernandez Machuca",
     "categoria": "10 K ABIERTA",
@@ -9495,15 +9852,15 @@ const RUNNERS_DATA = [
     "dif": "+38:42",
     "vel_prom": "10.7 Km/h",
     "ritmo": "5:35 Min/km",
-    "pdf_page": 775,
+    "pdf_page": 269,
     "dorsal": "1251",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Gottfried Ferney Hernandez Machuca",
     "tiempo_diploma": "00:55:54",
-    "stats_diploma": "137. /357 559. /1597"
+    "stats_diploma": "137. /357 580. /1621"
   },
   {
-    "puesto": 560,
+    "puesto": 581,
     "placa": "1298",
     "nombre": "JESSICA LAITON",
     "categoria": "10 K ABIERTA",
@@ -9512,15 +9869,15 @@ const RUNNERS_DATA = [
     "dif": "+38:45",
     "vel_prom": "10.7 Km/h",
     "ritmo": "5:35 Min/km",
-    "pdf_page": 358,
+    "pdf_page": 315,
     "dorsal": "1298",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "JESSICA LAITON",
     "tiempo_diploma": "00:55:57",
-    "stats_diploma": "30. /310 560. /1597"
+    "stats_diploma": "29. /309 581. /1621"
   },
   {
-    "puesto": 561,
+    "puesto": 582,
     "placa": "1189",
     "nombre": "Diego Armando Prada Torres",
     "categoria": "10 K ABIERTA",
@@ -9529,15 +9886,15 @@ const RUNNERS_DATA = [
     "dif": "+38:46",
     "vel_prom": "10.7 Km/h",
     "ritmo": "5:35 Min/km",
-    "pdf_page": 776,
+    "pdf_page": 211,
     "dorsal": "1189",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Diego Armando Prada Torres",
     "tiempo_diploma": "00:55:58",
-    "stats_diploma": "138. /357 561. /1597"
+    "stats_diploma": "138. /357 582. /1621"
   },
   {
-    "puesto": 562,
+    "puesto": 583,
     "placa": "3075",
     "nombre": "Javier González",
     "categoria": "10 K MASTER A",
@@ -9546,15 +9903,15 @@ const RUNNERS_DATA = [
     "dif": "+38:46",
     "vel_prom": "10.7 Km/h",
     "ritmo": "5:35 Min/km",
-    "pdf_page": 1126,
+    "pdf_page": 1067,
     "dorsal": "3075",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Javier González",
     "tiempo_diploma": "00:55:58",
-    "stats_diploma": "44. /107 562. /1597"
+    "stats_diploma": "44. /107 583. /1621"
   },
   {
-    "puesto": 563,
+    "puesto": 584,
     "placa": "3131",
     "nombre": "María Paula Ordoñez",
     "categoria": "10 K MASTER A",
@@ -9563,32 +9920,15 @@ const RUNNERS_DATA = [
     "dif": "+38:50",
     "vel_prom": "10.7 Km/h",
     "ritmo": "5:36 Min/km",
-    "pdf_page": 1003,
+    "pdf_page": 1122,
     "dorsal": "3131",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "María Paula Ordoñez",
     "tiempo_diploma": "00:56:02",
-    "stats_diploma": "8. /87 563. /1597"
+    "stats_diploma": "8. /87 584. /1621"
   },
   {
-    "puesto": 564,
-    "placa": "1369",
-    "nombre": "Juan Sebastián Gómez Toscano",
-    "categoria": "10 K ABIERTA",
-    "ciudad": "Bucaramanga",
-    "tiempo": "0:56:02",
-    "dif": "+38:50",
-    "vel_prom": "10.7 Km/h",
-    "ritmo": "5:36 Min/km",
-    "pdf_page": 777,
-    "dorsal": "1369",
-    "categoria_diploma": "10 K ABIERTA",
-    "nombre_diploma": "Juan Sebastián Gómez Toscano",
-    "tiempo_diploma": "00:56:02",
-    "stats_diploma": "139. /357 564. /1597"
-  },
-  {
-    "puesto": 565,
+    "puesto": 585,
     "placa": "5186",
     "nombre": "mary yorley zapata delgado",
     "categoria": "5 K ABIERTA",
@@ -9597,15 +9937,49 @@ const RUNNERS_DATA = [
     "dif": "+38:50",
     "vel_prom": "5.3 Km/h",
     "ritmo": "11:12 Min/km",
-    "pdf_page": 1433,
+    "pdf_page": 1447,
     "dorsal": "5186",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "mary yorley zapata delgado",
     "tiempo_diploma": "00:56:02",
-    "stats_diploma": "155. /160 565. /1597"
+    "stats_diploma": "151. /156 585. /1621"
   },
   {
-    "puesto": 566,
+    "puesto": 586,
+    "placa": "1369",
+    "nombre": "Juan Sebastián Gómez Toscano",
+    "categoria": "10 K ABIERTA",
+    "ciudad": "Bucaramanga",
+    "tiempo": "0:56:02",
+    "dif": "+38:50",
+    "vel_prom": "10.7 Km/h",
+    "ritmo": "5:36 Min/km",
+    "pdf_page": 379,
+    "dorsal": "1369",
+    "categoria_diploma": "10 K ABIERTA",
+    "nombre_diploma": "Juan Sebastián Gómez Toscano",
+    "tiempo_diploma": "00:56:02",
+    "stats_diploma": "139. /357 586. /1621"
+  },
+  {
+    "puesto": 587,
+    "placa": "5507",
+    "nombre": "DORIS SAAVEDRA  PINEDA",
+    "categoria": "5 K MASTER B",
+    "ciudad": "",
+    "tiempo": "0:56:03",
+    "dif": "+38:51",
+    "vel_prom": "5.3 Km/h",
+    "ritmo": "11:12 Min/km",
+    "pdf_page": 1603,
+    "dorsal": "5507",
+    "categoria_diploma": "5 K MASTER B",
+    "nombre_diploma": "DORIS SAAVEDRA  PINEDA",
+    "tiempo_diploma": "00:56:03",
+    "stats_diploma": "18. /18 587. /1621"
+  },
+  {
+    "puesto": 588,
     "placa": "1580",
     "nombre": "Roberth Andreit Amaya",
     "categoria": "10 K ABIERTA",
@@ -9614,15 +9988,15 @@ const RUNNERS_DATA = [
     "dif": "+39:07",
     "vel_prom": "10.6 Km/h",
     "ritmo": "5:37 Min/km",
-    "pdf_page": 778,
+    "pdf_page": 557,
     "dorsal": "1580",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Roberth Andreit Amaya",
     "tiempo_diploma": "00:56:19",
-    "stats_diploma": "140. /357 566. /1597"
+    "stats_diploma": "140. /357 588. /1621"
   },
   {
-    "puesto": 567,
+    "puesto": 589,
     "placa": "1359",
     "nombre": "Juan Diego Diaz Silva",
     "categoria": "10 K ABIERTA",
@@ -9631,15 +10005,15 @@ const RUNNERS_DATA = [
     "dif": "+39:09",
     "vel_prom": "10.6 Km/h",
     "ritmo": "5:38 Min/km",
-    "pdf_page": 779,
+    "pdf_page": 370,
     "dorsal": "1359",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Juan Diego Diaz Silva",
     "tiempo_diploma": "00:56:21",
-    "stats_diploma": "141. /357 567. /1597"
+    "stats_diploma": "141. /357 589. /1621"
   },
   {
-    "puesto": 568,
+    "puesto": 590,
     "placa": "1178",
     "nombre": "Diana Marcela Solano Suárez",
     "categoria": "10 K ABIERTA",
@@ -9648,15 +10022,15 @@ const RUNNERS_DATA = [
     "dif": "+39:10",
     "vel_prom": "10.6 Km/h",
     "ritmo": "5:38 Min/km",
-    "pdf_page": 359,
+    "pdf_page": 200,
     "dorsal": "1178",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Diana Marcela Solano Suárez",
     "tiempo_diploma": "00:56:22",
-    "stats_diploma": "31. /310 568. /1597"
+    "stats_diploma": "30. /309 590. /1621"
   },
   {
-    "puesto": 569,
+    "puesto": 591,
     "placa": "5079",
     "nombre": "Esneider Rojas Jimenez",
     "categoria": "5 K ABIERTA",
@@ -9665,15 +10039,15 @@ const RUNNERS_DATA = [
     "dif": "+39:16",
     "vel_prom": "5.3 Km/h",
     "ritmo": "11:17 Min/km",
-    "pdf_page": 1526,
+    "pdf_page": 1355,
     "dorsal": "5079",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Esneider Rojas Jimenez",
     "tiempo_diploma": "00:56:28",
-    "stats_diploma": "88. /90 569. /1597"
+    "stats_diploma": "86. /88 591. /1621"
   },
   {
-    "puesto": 570,
+    "puesto": 592,
     "placa": "1274",
     "nombre": "Jahir Orlando Uribe Alzate",
     "categoria": "10 K ABIERTA",
@@ -9682,15 +10056,15 @@ const RUNNERS_DATA = [
     "dif": "+39:23",
     "vel_prom": "10.6 Km/h",
     "ritmo": "5:39 Min/km",
-    "pdf_page": 780,
+    "pdf_page": 291,
     "dorsal": "1274",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Jahir Orlando Uribe Alzate",
     "tiempo_diploma": "00:56:35",
-    "stats_diploma": "142. /357 570. /1597"
+    "stats_diploma": "142. /357 592. /1621"
   },
   {
-    "puesto": 571,
+    "puesto": 593,
     "placa": "1025",
     "nombre": "Alonso Enrique Quintana Colmenarez",
     "categoria": "10 K ABIERTA",
@@ -9699,15 +10073,15 @@ const RUNNERS_DATA = [
     "dif": "+39:27",
     "vel_prom": "10.5 Km/h",
     "ritmo": "5:39 Min/km",
-    "pdf_page": 781,
+    "pdf_page": 57,
     "dorsal": "1025",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Alonso Enrique Quintana Colmenarez",
     "tiempo_diploma": "00:56:39",
-    "stats_diploma": "143. /357 571. /1597"
+    "stats_diploma": "143. /357 593. /1621"
   },
   {
-    "puesto": 572,
+    "puesto": 594,
     "placa": "106",
     "nombre": "Edgar Andrés Castellano Quintero",
     "categoria": "10 K ELITE",
@@ -9716,15 +10090,15 @@ const RUNNERS_DATA = [
     "dif": "+39:28",
     "vel_prom": "10.5 Km/h",
     "ritmo": "5:40 Min/km",
-    "pdf_page": 323,
+    "pdf_page": 5,
     "dorsal": "106",
     "categoria_diploma": "10 K ELITE",
     "nombre_diploma": "Edgar Andrés Castellano Quintero",
     "tiempo_diploma": "00:56:40",
-    "stats_diploma": "5. /10 572. /1597"
+    "stats_diploma": "5. /10 594. /1621"
   },
   {
-    "puesto": 573,
+    "puesto": 595,
     "placa": "1085",
     "nombre": "Brayan Sneyder Sepulveda Villamizar",
     "categoria": "10 K ABIERTA",
@@ -9733,15 +10107,15 @@ const RUNNERS_DATA = [
     "dif": "+39:30",
     "vel_prom": "10.5 Km/h",
     "ritmo": "5:40 Min/km",
-    "pdf_page": 782,
+    "pdf_page": 115,
     "dorsal": "1085",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Brayan Sneyder Sepulveda Villamizar",
     "tiempo_diploma": "00:56:42",
-    "stats_diploma": "144. /357 573. /1597"
+    "stats_diploma": "144. /357 595. /1621"
   },
   {
-    "puesto": 574,
+    "puesto": 596,
     "placa": "1207",
     "nombre": "Edwin Alejandro Bermeo Olaya",
     "categoria": "10 K ABIERTA",
@@ -9750,15 +10124,15 @@ const RUNNERS_DATA = [
     "dif": "+39:30",
     "vel_prom": "10.5 Km/h",
     "ritmo": "5:40 Min/km",
-    "pdf_page": 783,
+    "pdf_page": 228,
     "dorsal": "1207",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Edwin Alejandro Bermeo Olaya",
     "tiempo_diploma": "00:56:42",
-    "stats_diploma": "145. /357 574. /1597"
+    "stats_diploma": "145. /357 596. /1621"
   },
   {
-    "puesto": 575,
+    "puesto": 597,
     "placa": "1012",
     "nombre": "Alejandro González",
     "categoria": "10 K ABIERTA",
@@ -9767,15 +10141,15 @@ const RUNNERS_DATA = [
     "dif": "+39:31",
     "vel_prom": "10.5 Km/h",
     "ritmo": "5:40 Min/km",
-    "pdf_page": 784,
+    "pdf_page": 47,
     "dorsal": "1012",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Alejandro González",
     "tiempo_diploma": "00:56:43",
-    "stats_diploma": "146. /357 575. /1597"
+    "stats_diploma": "146. /357 597. /1621"
   },
   {
-    "puesto": 576,
+    "puesto": 598,
     "placa": "1161",
     "nombre": "David Franco Suárez",
     "categoria": "10 K ABIERTA",
@@ -9784,15 +10158,15 @@ const RUNNERS_DATA = [
     "dif": "+39:34",
     "vel_prom": "10.5 Km/h",
     "ritmo": "5:40 Min/km",
-    "pdf_page": 785,
+    "pdf_page": 183,
     "dorsal": "1161",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "David Franco Suárez",
     "tiempo_diploma": "00:56:46",
-    "stats_diploma": "147. /357 576. /1597"
+    "stats_diploma": "147. /357 598. /1621"
   },
   {
-    "puesto": 577,
+    "puesto": 599,
     "placa": "109",
     "nombre": "Felix Pico Rincon",
     "categoria": "10 K ELITE",
@@ -9801,15 +10175,15 @@ const RUNNERS_DATA = [
     "dif": "+39:34",
     "vel_prom": "10.5 Km/h",
     "ritmo": "5:40 Min/km",
-    "pdf_page": 324,
+    "pdf_page": 8,
     "dorsal": "109",
     "categoria_diploma": "10 K ELITE",
     "nombre_diploma": "Felix Pico Rincon",
     "tiempo_diploma": "00:56:46",
-    "stats_diploma": "6. /10 577. /1597"
+    "stats_diploma": "6. /10 599. /1621"
   },
   {
-    "puesto": 578,
+    "puesto": 600,
     "placa": "1260",
     "nombre": "Hemersson Delgado Lopez",
     "categoria": "10 K ABIERTA",
@@ -9818,15 +10192,15 @@ const RUNNERS_DATA = [
     "dif": "+39:35",
     "vel_prom": "10.5 Km/h",
     "ritmo": "5:40 Min/km",
-    "pdf_page": 786,
+    "pdf_page": 278,
     "dorsal": "1260",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Hemersson Delgado Lopez",
     "tiempo_diploma": "00:56:47",
-    "stats_diploma": "148. /357 578. /1597"
+    "stats_diploma": "148. /357 600. /1621"
   },
   {
-    "puesto": 579,
+    "puesto": 601,
     "placa": "1123",
     "nombre": "Carolina Arenales",
     "categoria": "10 K ABIERTA",
@@ -9835,15 +10209,15 @@ const RUNNERS_DATA = [
     "dif": "+39:36",
     "vel_prom": "10.5 Km/h",
     "ritmo": "5:40 Min/km",
-    "pdf_page": 360,
+    "pdf_page": 149,
     "dorsal": "1123",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Carolina Arenales",
     "tiempo_diploma": "00:56:48",
-    "stats_diploma": "32. /310 579. /1597"
+    "stats_diploma": "31. /309 601. /1621"
   },
   {
-    "puesto": 580,
+    "puesto": 602,
     "placa": "1668",
     "nombre": "Yeison Lozano Rodríguez",
     "categoria": "10 K ABIERTA",
@@ -9852,15 +10226,15 @@ const RUNNERS_DATA = [
     "dif": "+39:38",
     "vel_prom": "10.5 Km/h",
     "ritmo": "5:41 Min/km",
-    "pdf_page": 787,
+    "pdf_page": 634,
     "dorsal": "1668",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Yeison Lozano Rodríguez",
     "tiempo_diploma": "00:56:50",
-    "stats_diploma": "149. /357 580. /1597"
+    "stats_diploma": "149. /357 602. /1621"
   },
   {
-    "puesto": 581,
+    "puesto": 603,
     "placa": "1560",
     "nombre": "PAOLA ANDREA BERNAL RODRÍGUEZ",
     "categoria": "10 K ABIERTA",
@@ -9869,15 +10243,15 @@ const RUNNERS_DATA = [
     "dif": "+39:40",
     "vel_prom": "10.5 Km/h",
     "ritmo": "5:41 Min/km",
-    "pdf_page": 361,
+    "pdf_page": 540,
     "dorsal": "1560",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "PAOLA ANDREA BERNAL RODRÍGUEZ",
     "tiempo_diploma": "00:56:52",
-    "stats_diploma": "33. /310 581. /1597"
+    "stats_diploma": "32. /309 603. /1621"
   },
   {
-    "puesto": 582,
+    "puesto": 604,
     "placa": "3052",
     "nombre": "Francesco Burzi",
     "categoria": "10 K MASTER A",
@@ -9886,15 +10260,15 @@ const RUNNERS_DATA = [
     "dif": "+39:40",
     "vel_prom": "10.5 Km/h",
     "ritmo": "5:41 Min/km",
-    "pdf_page": 1127,
+    "pdf_page": 1047,
     "dorsal": "3052",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Francesco Burzi",
     "tiempo_diploma": "00:56:52",
-    "stats_diploma": "45. /107 582. /1597"
+    "stats_diploma": "45. /107 604. /1621"
   },
   {
-    "puesto": 583,
+    "puesto": 605,
     "placa": "3001",
     "nombre": "Adalberto Romero",
     "categoria": "10 K MASTER A",
@@ -9903,15 +10277,15 @@ const RUNNERS_DATA = [
     "dif": "+39:41",
     "vel_prom": "10.5 Km/h",
     "ritmo": "5:41 Min/km",
-    "pdf_page": 1128,
+    "pdf_page": 1001,
     "dorsal": "3001",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Adalberto Romero",
     "tiempo_diploma": "00:56:53",
-    "stats_diploma": "46. /107 583. /1597"
+    "stats_diploma": "46. /107 605. /1621"
   },
   {
-    "puesto": 584,
+    "puesto": 606,
     "placa": "3108",
     "nombre": "Kelly Mantilla",
     "categoria": "10 K MASTER A",
@@ -9920,15 +10294,15 @@ const RUNNERS_DATA = [
     "dif": "+39:41",
     "vel_prom": "10.5 Km/h",
     "ritmo": "5:41 Min/km",
-    "pdf_page": 1004,
+    "pdf_page": 1099,
     "dorsal": "3108",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Kelly Mantilla",
     "tiempo_diploma": "00:56:53",
-    "stats_diploma": "9. /87 584. /1597"
+    "stats_diploma": "9. /87 606. /1621"
   },
   {
-    "puesto": 585,
+    "puesto": 607,
     "placa": "1641",
     "nombre": "Valentina Infante",
     "categoria": "10 K ABIERTA",
@@ -9937,15 +10311,15 @@ const RUNNERS_DATA = [
     "dif": "+39:41",
     "vel_prom": "10.5 Km/h",
     "ritmo": "5:41 Min/km",
-    "pdf_page": 362,
+    "pdf_page": 609,
     "dorsal": "1641",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Valentina Infante",
     "tiempo_diploma": "00:56:53",
-    "stats_diploma": "34. /310 585. /1597"
+    "stats_diploma": "33. /309 607. /1621"
   },
   {
-    "puesto": 586,
+    "puesto": 608,
     "placa": "1144",
     "nombre": "Daniel Baldrich Novoa",
     "categoria": "10 K ABIERTA",
@@ -9954,15 +10328,15 @@ const RUNNERS_DATA = [
     "dif": "+39:42",
     "vel_prom": "10.5 Km/h",
     "ritmo": "5:41 Min/km",
-    "pdf_page": 788,
+    "pdf_page": 169,
     "dorsal": "1144",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Daniel Baldrich Novoa",
     "tiempo_diploma": "00:56:54",
-    "stats_diploma": "150. /357 586. /1597"
+    "stats_diploma": "150. /357 608. /1621"
   },
   {
-    "puesto": 587,
+    "puesto": 609,
     "placa": "1337",
     "nombre": "José Torres",
     "categoria": "10 K ABIERTA",
@@ -9971,15 +10345,15 @@ const RUNNERS_DATA = [
     "dif": "+39:43",
     "vel_prom": "10.5 Km/h",
     "ritmo": "5:41 Min/km",
-    "pdf_page": 789,
+    "pdf_page": 349,
     "dorsal": "1337",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "José Torres",
     "tiempo_diploma": "00:56:55",
-    "stats_diploma": "151. /357 587. /1597"
+    "stats_diploma": "151. /357 609. /1621"
   },
   {
-    "puesto": 588,
+    "puesto": 610,
     "placa": "1514",
     "nombre": "Mayr Serpa",
     "categoria": "10 K ABIERTA",
@@ -9988,15 +10362,15 @@ const RUNNERS_DATA = [
     "dif": "+39:43",
     "vel_prom": "10.5 Km/h",
     "ritmo": "5:41 Min/km",
-    "pdf_page": 363,
+    "pdf_page": 499,
     "dorsal": "1514",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Mayr Serpa",
     "tiempo_diploma": "00:56:55",
-    "stats_diploma": "35. /310 588. /1597"
+    "stats_diploma": "34. /309 610. /1621"
   },
   {
-    "puesto": 589,
+    "puesto": 611,
     "placa": "1601",
     "nombre": "Sara Sofía Rivero Calderón",
     "categoria": "10 K ABIERTA",
@@ -10005,15 +10379,15 @@ const RUNNERS_DATA = [
     "dif": "+39:44",
     "vel_prom": "10.5 Km/h",
     "ritmo": "5:41 Min/km",
-    "pdf_page": 364,
+    "pdf_page": 573,
     "dorsal": "1601",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Sara Sofía Rivero Calderón",
     "tiempo_diploma": "00:56:56",
-    "stats_diploma": "36. /310 589. /1597"
+    "stats_diploma": "35. /309 611. /1621"
   },
   {
-    "puesto": 590,
+    "puesto": 612,
     "placa": "1341",
     "nombre": "Jose Luis Castillo Hernandez",
     "categoria": "10 K ABIERTA",
@@ -10022,15 +10396,15 @@ const RUNNERS_DATA = [
     "dif": "+39:44",
     "vel_prom": "10.5 Km/h",
     "ritmo": "5:41 Min/km",
-    "pdf_page": 790,
+    "pdf_page": 353,
     "dorsal": "1341",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Jose Luis Castillo Hernandez",
     "tiempo_diploma": "00:56:56",
-    "stats_diploma": "152. /357 590. /1597"
+    "stats_diploma": "152. /357 612. /1621"
   },
   {
-    "puesto": 591,
+    "puesto": 613,
     "placa": "1574",
     "nombre": "Ramón Larrota Murallas",
     "categoria": "10 K ABIERTA",
@@ -10039,15 +10413,15 @@ const RUNNERS_DATA = [
     "dif": "+39:46",
     "vel_prom": "10.5 Km/h",
     "ritmo": "5:41 Min/km",
-    "pdf_page": 791,
+    "pdf_page": 552,
     "dorsal": "1574",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Ramón Larrota Murallas",
     "tiempo_diploma": "00:56:58",
-    "stats_diploma": "153. /357 591. /1597"
+    "stats_diploma": "153. /357 613. /1621"
   },
   {
-    "puesto": 592,
+    "puesto": 614,
     "placa": "3303",
     "nombre": "Alexander Martinez Porras",
     "categoria": "10 K MASTER B",
@@ -10056,15 +10430,15 @@ const RUNNERS_DATA = [
     "dif": "+39:46",
     "vel_prom": "10.5 Km/h",
     "ritmo": "5:41 Min/km",
-    "pdf_page": 1245,
+    "pdf_page": 1197,
     "dorsal": "3303",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Alexander Martinez Porras",
     "tiempo_diploma": "00:56:58",
-    "stats_diploma": "23. /56 592. /1597"
+    "stats_diploma": "24. /57 614. /1621"
   },
   {
-    "puesto": 593,
+    "puesto": 615,
     "placa": "1651",
     "nombre": "Vladimir Sneyder Lozada Urbina",
     "categoria": "10 K ABIERTA",
@@ -10073,15 +10447,15 @@ const RUNNERS_DATA = [
     "dif": "+39:51",
     "vel_prom": "10.5 Km/h",
     "ritmo": "5:42 Min/km",
-    "pdf_page": 792,
+    "pdf_page": 618,
     "dorsal": "1651",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Vladimir Sneyder Lozada Urbina",
     "tiempo_diploma": "00:57:03",
-    "stats_diploma": "154. /357 593. /1597"
+    "stats_diploma": "154. /357 615. /1621"
   },
   {
-    "puesto": 594,
+    "puesto": 616,
     "placa": "3024",
     "nombre": "Luz Alba Serrano Sanchez",
     "categoria": "10 K MASTER A",
@@ -10090,15 +10464,15 @@ const RUNNERS_DATA = [
     "dif": "+39:55",
     "vel_prom": "10.5 Km/h",
     "ritmo": "5:42 Min/km",
-    "pdf_page": 1005,
+    "pdf_page": 1020,
     "dorsal": "3024",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Luz Alba Serrano Sanchez",
     "tiempo_diploma": "00:57:07",
-    "stats_diploma": "10. /87 594. /1597"
+    "stats_diploma": "10. /87 616. /1621"
   },
   {
-    "puesto": 595,
+    "puesto": 617,
     "placa": "1381",
     "nombre": "Julyus Cesar Romero Murillo",
     "categoria": "10 K ABIERTA",
@@ -10107,15 +10481,15 @@ const RUNNERS_DATA = [
     "dif": "+39:55",
     "vel_prom": "10.5 Km/h",
     "ritmo": "5:42 Min/km",
-    "pdf_page": 793,
+    "pdf_page": 391,
     "dorsal": "1381",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Julyus Cesar Romero Murillo",
     "tiempo_diploma": "00:57:07",
-    "stats_diploma": "155. /357 595. /1597"
+    "stats_diploma": "155. /357 617. /1621"
   },
   {
-    "puesto": 596,
+    "puesto": 618,
     "placa": "1462",
     "nombre": "MANUEL GUZMAN GUZMAN",
     "categoria": "10 K ABIERTA",
@@ -10124,15 +10498,15 @@ const RUNNERS_DATA = [
     "dif": "+39:57",
     "vel_prom": "10.4 Km/h",
     "ritmo": "5:42 Min/km",
-    "pdf_page": 794,
+    "pdf_page": 455,
     "dorsal": "1462",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "MANUEL GUZMAN GUZMAN",
     "tiempo_diploma": "00:57:09",
-    "stats_diploma": "156. /357 596. /1597"
+    "stats_diploma": "156. /357 618. /1621"
   },
   {
-    "puesto": 597,
+    "puesto": 619,
     "placa": "1219",
     "nombre": "Enna Melissa Rodríguez Cardenas",
     "categoria": "10 K ABIERTA",
@@ -10141,15 +10515,15 @@ const RUNNERS_DATA = [
     "dif": "+40:00",
     "vel_prom": "10.4 Km/h",
     "ritmo": "5:43 Min/km",
-    "pdf_page": 365,
+    "pdf_page": 240,
     "dorsal": "1219",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Enna Melissa Rodríguez Cardenas",
     "tiempo_diploma": "00:57:12",
-    "stats_diploma": "37. /310 597. /1597"
+    "stats_diploma": "36. /309 619. /1621"
   },
   {
-    "puesto": 598,
+    "puesto": 620,
     "placa": "3190",
     "nombre": "Yojhan Vargas Castro",
     "categoria": "10 K MASTER A",
@@ -10158,15 +10532,15 @@ const RUNNERS_DATA = [
     "dif": "+40:04",
     "vel_prom": "10.4 Km/h",
     "ritmo": "5:43 Min/km",
-    "pdf_page": 1129,
+    "pdf_page": 1175,
     "dorsal": "3190",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Yojhan Vargas Castro",
     "tiempo_diploma": "00:57:16",
-    "stats_diploma": "47. /107 598. /1597"
+    "stats_diploma": "47. /107 620. /1621"
   },
   {
-    "puesto": 599,
+    "puesto": 621,
     "placa": "1703",
     "nombre": "Christian David Mendoza Ramirez",
     "categoria": "10 K ABIERTA",
@@ -10175,15 +10549,15 @@ const RUNNERS_DATA = [
     "dif": "+40:04",
     "vel_prom": "10.4 Km/h",
     "ritmo": "5:43 Min/km",
-    "pdf_page": 795,
+    "pdf_page": 664,
     "dorsal": "1703",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Christian David Mendoza Ramirez",
     "tiempo_diploma": "00:57:16",
-    "stats_diploma": "157. /357 599. /1597"
+    "stats_diploma": "157. /357 621. /1621"
   },
   {
-    "puesto": 600,
+    "puesto": 622,
     "placa": "1525",
     "nombre": "Michell Arboleda Galeano",
     "categoria": "10 K ABIERTA",
@@ -10192,15 +10566,15 @@ const RUNNERS_DATA = [
     "dif": "+40:06",
     "vel_prom": "10.4 Km/h",
     "ritmo": "5:43 Min/km",
-    "pdf_page": 366,
+    "pdf_page": 508,
     "dorsal": "1525",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Michell Arboleda Galeano",
     "tiempo_diploma": "00:57:18",
-    "stats_diploma": "38. /310 600. /1597"
+    "stats_diploma": "37. /309 622. /1621"
   },
   {
-    "puesto": 601,
+    "puesto": 623,
     "placa": "1555",
     "nombre": "Oscar Fernando Benavides Calderon",
     "categoria": "10 K ABIERTA",
@@ -10209,15 +10583,15 @@ const RUNNERS_DATA = [
     "dif": "+40:17",
     "vel_prom": "10.4 Km/h",
     "ritmo": "5:44 Min/km",
-    "pdf_page": 796,
+    "pdf_page": 536,
     "dorsal": "1555",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Oscar Fernando Benavides Calderon",
     "tiempo_diploma": "00:57:29",
-    "stats_diploma": "158. /357 601. /1597"
+    "stats_diploma": "158. /357 623. /1621"
   },
   {
-    "puesto": 602,
+    "puesto": 624,
     "placa": "1037",
     "nombre": "Andrea Fernanda Gómez Galvis",
     "categoria": "10 K ABIERTA",
@@ -10226,15 +10600,15 @@ const RUNNERS_DATA = [
     "dif": "+40:18",
     "vel_prom": "10.4 Km/h",
     "ritmo": "5:45 Min/km",
-    "pdf_page": 367,
+    "pdf_page": 69,
     "dorsal": "1037",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Andrea Fernanda Gómez Galvis",
     "tiempo_diploma": "00:57:30",
-    "stats_diploma": "39. /310 602. /1597"
+    "stats_diploma": "38. /309 624. /1621"
   },
   {
-    "puesto": 603,
+    "puesto": 625,
     "placa": "3210",
     "nombre": "Pacho Campillo Tuiran",
     "categoria": "10 K MASTER A",
@@ -10243,15 +10617,15 @@ const RUNNERS_DATA = [
     "dif": "+40:19",
     "vel_prom": "10.4 Km/h",
     "ritmo": "5:45 Min/km",
-    "pdf_page": 1130,
+    "pdf_page": 1192,
     "dorsal": "3210",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Pacho Campillo Tuiran",
     "tiempo_diploma": "00:57:31",
-    "stats_diploma": "48. /107 603. /1597"
+    "stats_diploma": "48. /107 625. /1621"
   },
   {
-    "puesto": 604,
+    "puesto": 626,
     "placa": "5160",
     "nombre": "Luisa Fernanda Garzón Ochoa",
     "categoria": "5 K ABIERTA",
@@ -10260,15 +10634,15 @@ const RUNNERS_DATA = [
     "dif": "+40:21",
     "vel_prom": "5.2 Km/h",
     "ritmo": "11:30 Min/km",
-    "pdf_page": 1434,
+    "pdf_page": 1426,
     "dorsal": "5160",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Luisa Fernanda Garzón Ochoa",
     "tiempo_diploma": "00:57:33",
-    "stats_diploma": "156. /160 604. /1597"
+    "stats_diploma": "152. /156 626. /1621"
   },
   {
-    "puesto": 605,
+    "puesto": 627,
     "placa": "3377",
     "nombre": "Sandra Lucia Rueda Uribe",
     "categoria": "10 K MASTER B",
@@ -10277,15 +10651,15 @@ const RUNNERS_DATA = [
     "dif": "+40:22",
     "vel_prom": "10.4 Km/h",
     "ritmo": "5:45 Min/km",
-    "pdf_page": 1194,
+    "pdf_page": 1266,
     "dorsal": "3377",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Sandra Lucia Rueda Uribe",
     "tiempo_diploma": "00:57:34",
-    "stats_diploma": "5. /33 605. /1597"
+    "stats_diploma": "5. /33 627. /1621"
   },
   {
-    "puesto": 606,
+    "puesto": 628,
     "placa": "1191",
     "nombre": "Diego Armando Vergel Gelvez",
     "categoria": "10 K ABIERTA",
@@ -10294,15 +10668,15 @@ const RUNNERS_DATA = [
     "dif": "+40:22",
     "vel_prom": "10.4 Km/h",
     "ritmo": "5:45 Min/km",
-    "pdf_page": 797,
+    "pdf_page": 213,
     "dorsal": "1191",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Diego Armando Vergel Gelvez",
     "tiempo_diploma": "00:57:34",
-    "stats_diploma": "159. /357 606. /1597"
+    "stats_diploma": "159. /357 628. /1621"
   },
   {
-    "puesto": 607,
+    "puesto": 629,
     "placa": "3390",
     "nombre": "Alejandro Murillo roncancio",
     "categoria": "10 K MASTER B",
@@ -10311,15 +10685,15 @@ const RUNNERS_DATA = [
     "dif": "+40:22",
     "vel_prom": "10.4 Km/h",
     "ritmo": "5:45 Min/km",
-    "pdf_page": 1246,
+    "pdf_page": 1279,
     "dorsal": "3390",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Alejandro Murillo roncancio",
     "tiempo_diploma": "00:57:34",
-    "stats_diploma": "24. /56 607. /1597"
+    "stats_diploma": "25. /57 629. /1621"
   },
   {
-    "puesto": 608,
+    "puesto": 630,
     "placa": "1576",
     "nombre": "René Cordoba",
     "categoria": "10 K ABIERTA",
@@ -10328,15 +10702,15 @@ const RUNNERS_DATA = [
     "dif": "+40:23",
     "vel_prom": "10.4 Km/h",
     "ritmo": "5:45 Min/km",
-    "pdf_page": 798,
+    "pdf_page": 553,
     "dorsal": "1576",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "René Cordoba",
     "tiempo_diploma": "00:57:35",
-    "stats_diploma": "160. /357 608. /1597"
+    "stats_diploma": "160. /357 630. /1621"
   },
   {
-    "puesto": 609,
+    "puesto": 631,
     "placa": "5272",
     "nombre": "Sonia Smith Diaz Rojas",
     "categoria": "5 K ABIERTA",
@@ -10345,15 +10719,15 @@ const RUNNERS_DATA = [
     "dif": "+40:24",
     "vel_prom": "5.2 Km/h",
     "ritmo": "11:31 Min/km",
-    "pdf_page": 1435,
+    "pdf_page": 1517,
     "dorsal": "5272",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Sonia Smith Diaz Rojas",
     "tiempo_diploma": "00:57:36",
-    "stats_diploma": "157. /160 609. /1597"
+    "stats_diploma": "153. /156 631. /1621"
   },
   {
-    "puesto": 610,
+    "puesto": 632,
     "placa": "5204",
     "nombre": "Paula juliana Gamboa Toloza",
     "categoria": "5 K ABIERTA",
@@ -10362,15 +10736,15 @@ const RUNNERS_DATA = [
     "dif": "+40:24",
     "vel_prom": "5.2 Km/h",
     "ritmo": "11:31 Min/km",
-    "pdf_page": 1436,
+    "pdf_page": 1465,
     "dorsal": "5204",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Paula juliana Gamboa Toloza",
     "tiempo_diploma": "00:57:36",
-    "stats_diploma": "158. /160 610. /1597"
+    "stats_diploma": "154. /156 632. /1621"
   },
   {
-    "puesto": 611,
+    "puesto": 633,
     "placa": "1039",
     "nombre": "Andrea Viviana Ávila Cornejo",
     "categoria": "10 K ABIERTA",
@@ -10379,15 +10753,15 @@ const RUNNERS_DATA = [
     "dif": "+40:25",
     "vel_prom": "10.4 Km/h",
     "ritmo": "5:45 Min/km",
-    "pdf_page": 368,
+    "pdf_page": 71,
     "dorsal": "1039",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Andrea Viviana Ávila Cornejo",
     "tiempo_diploma": "00:57:37",
-    "stats_diploma": "40. /310 611. /1597"
+    "stats_diploma": "39. /309 633. /1621"
   },
   {
-    "puesto": 612,
+    "puesto": 634,
     "placa": "1116",
     "nombre": "Carlos Javier García Gutiérrez",
     "categoria": "10 K ABIERTA",
@@ -10396,15 +10770,15 @@ const RUNNERS_DATA = [
     "dif": "+40:26",
     "vel_prom": "10.4 Km/h",
     "ritmo": "5:45 Min/km",
-    "pdf_page": 799,
+    "pdf_page": 144,
     "dorsal": "1116",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Carlos Javier García Gutiérrez",
     "tiempo_diploma": "00:57:38",
-    "stats_diploma": "161. /357 612. /1597"
+    "stats_diploma": "161. /357 634. /1621"
   },
   {
-    "puesto": 613,
+    "puesto": 635,
     "placa": "1305",
     "nombre": "Jeyson Esteban Vargas Camargo",
     "categoria": "10 K ABIERTA",
@@ -10413,15 +10787,15 @@ const RUNNERS_DATA = [
     "dif": "+40:26",
     "vel_prom": "10.4 Km/h",
     "ritmo": "5:45 Min/km",
-    "pdf_page": 800,
+    "pdf_page": 322,
     "dorsal": "1305",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Jeyson Esteban Vargas Camargo",
     "tiempo_diploma": "00:57:38",
-    "stats_diploma": "162. /357 613. /1597"
+    "stats_diploma": "162. /357 635. /1621"
   },
   {
-    "puesto": 614,
+    "puesto": 636,
     "placa": "1689",
     "nombre": "Carlos Duran",
     "categoria": "10 K ABIERTA",
@@ -10430,15 +10804,15 @@ const RUNNERS_DATA = [
     "dif": "+40:30",
     "vel_prom": "10.3 Km/h",
     "ritmo": "5:46 Min/km",
-    "pdf_page": 801,
+    "pdf_page": 654,
     "dorsal": "1689",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Carlos Duran",
     "tiempo_diploma": "00:57:42",
-    "stats_diploma": "163. /357 614. /1597"
+    "stats_diploma": "163. /357 636. /1621"
   },
   {
-    "puesto": 615,
+    "puesto": 637,
     "placa": "1160",
     "nombre": "David Diaz",
     "categoria": "10 K ABIERTA",
@@ -10447,15 +10821,15 @@ const RUNNERS_DATA = [
     "dif": "+40:31",
     "vel_prom": "10.3 Km/h",
     "ritmo": "5:46 Min/km",
-    "pdf_page": 802,
+    "pdf_page": 182,
     "dorsal": "1160",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "David Diaz",
     "tiempo_diploma": "00:57:43",
-    "stats_diploma": "164. /357 615. /1597"
+    "stats_diploma": "164. /357 637. /1621"
   },
   {
-    "puesto": 616,
+    "puesto": 638,
     "placa": "3397",
     "nombre": "Carlos Arturo Niño Camargo",
     "categoria": "10 K MASTER B",
@@ -10464,15 +10838,15 @@ const RUNNERS_DATA = [
     "dif": "+40:35",
     "vel_prom": "10.3 Km/h",
     "ritmo": "5:46 Min/km",
-    "pdf_page": 1247,
+    "pdf_page": 1284,
     "dorsal": "3397",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Carlos Arturo Niño Camargo",
     "tiempo_diploma": "00:57:47",
-    "stats_diploma": "25. /56 616. /1597"
+    "stats_diploma": "26. /57 638. /1621"
   },
   {
-    "puesto": 617,
+    "puesto": 639,
     "placa": "3017",
     "nombre": "Armando Carreño Pacheco",
     "categoria": "10 K MASTER A",
@@ -10481,15 +10855,15 @@ const RUNNERS_DATA = [
     "dif": "+40:38",
     "vel_prom": "10.3 Km/h",
     "ritmo": "5:47 Min/km",
-    "pdf_page": 1131,
+    "pdf_page": 1015,
     "dorsal": "3017",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Armando Carreño Pacheco",
     "tiempo_diploma": "00:57:50",
-    "stats_diploma": "49. /107 617. /1597"
+    "stats_diploma": "49. /107 639. /1621"
   },
   {
-    "puesto": 618,
+    "puesto": 640,
     "placa": "3046",
     "nombre": "Edwin Caicedo Quintero",
     "categoria": "10 K MASTER A",
@@ -10498,15 +10872,15 @@ const RUNNERS_DATA = [
     "dif": "+40:38",
     "vel_prom": "10.3 Km/h",
     "ritmo": "5:47 Min/km",
-    "pdf_page": 1132,
+    "pdf_page": 1041,
     "dorsal": "3046",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Edwin Caicedo Quintero",
     "tiempo_diploma": "00:57:50",
-    "stats_diploma": "50. /107 618. /1597"
+    "stats_diploma": "50. /107 640. /1621"
   },
   {
-    "puesto": 619,
+    "puesto": 641,
     "placa": "1045",
     "nombre": "Andrés Rueda",
     "categoria": "10 K ABIERTA",
@@ -10515,15 +10889,15 @@ const RUNNERS_DATA = [
     "dif": "+40:39",
     "vel_prom": "10.3 Km/h",
     "ritmo": "5:47 Min/km",
-    "pdf_page": 803,
+    "pdf_page": 77,
     "dorsal": "1045",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Andrés Rueda",
     "tiempo_diploma": "00:57:51",
-    "stats_diploma": "165. /357 619. /1597"
+    "stats_diploma": "165. /357 641. /1621"
   },
   {
-    "puesto": 620,
+    "puesto": 642,
     "placa": "3374",
     "nombre": "Rosalba Infante",
     "categoria": "10 K MASTER B",
@@ -10532,15 +10906,15 @@ const RUNNERS_DATA = [
     "dif": "+40:39",
     "vel_prom": "10.3 Km/h",
     "ritmo": "5:47 Min/km",
-    "pdf_page": 1195,
+    "pdf_page": 1263,
     "dorsal": "3374",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Rosalba Infante",
     "tiempo_diploma": "00:57:51",
-    "stats_diploma": "6. /33 620. /1597"
+    "stats_diploma": "6. /33 642. /1621"
   },
   {
-    "puesto": 621,
+    "puesto": 643,
     "placa": "3072",
     "nombre": "Jaana Bernal",
     "categoria": "10 K MASTER A",
@@ -10549,15 +10923,15 @@ const RUNNERS_DATA = [
     "dif": "+40:42",
     "vel_prom": "10.3 Km/h",
     "ritmo": "5:47 Min/km",
-    "pdf_page": 1006,
+    "pdf_page": 1064,
     "dorsal": "3072",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Jaana Bernal",
     "tiempo_diploma": "00:57:54",
-    "stats_diploma": "11. /87 621. /1597"
+    "stats_diploma": "11. /87 643. /1621"
   },
   {
-    "puesto": 622,
+    "puesto": 644,
     "placa": "3021",
     "nombre": "Candy Selene Barbosa Monsalve",
     "categoria": "10 K MASTER A",
@@ -10566,15 +10940,15 @@ const RUNNERS_DATA = [
     "dif": "+40:44",
     "vel_prom": "10.3 Km/h",
     "ritmo": "5:47 Min/km",
-    "pdf_page": 1007,
+    "pdf_page": 1017,
     "dorsal": "3021",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Candy Selene Barbosa Monsalve",
     "tiempo_diploma": "00:57:56",
-    "stats_diploma": "12. /87 622. /1597"
+    "stats_diploma": "12. /87 644. /1621"
   },
   {
-    "puesto": 623,
+    "puesto": 645,
     "placa": "1373",
     "nombre": "Julian Andres Arias Pineda",
     "categoria": "10 K ABIERTA",
@@ -10583,15 +10957,15 @@ const RUNNERS_DATA = [
     "dif": "+40:46",
     "vel_prom": "10.3 Km/h",
     "ritmo": "5:47 Min/km",
-    "pdf_page": 804,
+    "pdf_page": 383,
     "dorsal": "1373",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Julian Andres Arias Pineda",
     "tiempo_diploma": "00:57:58",
-    "stats_diploma": "166. /357 623. /1597"
+    "stats_diploma": "166. /357 645. /1621"
   },
   {
-    "puesto": 624,
+    "puesto": 646,
     "placa": "1605",
     "nombre": "Sebastian Mojica",
     "categoria": "10 K ABIERTA",
@@ -10600,15 +10974,15 @@ const RUNNERS_DATA = [
     "dif": "+40:46",
     "vel_prom": "10.3 Km/h",
     "ritmo": "5:47 Min/km",
-    "pdf_page": 805,
+    "pdf_page": 577,
     "dorsal": "1605",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Sebastian Mojica",
     "tiempo_diploma": "00:57:58",
-    "stats_diploma": "167. /357 624. /1597"
+    "stats_diploma": "167. /357 646. /1621"
   },
   {
-    "puesto": 625,
+    "puesto": 647,
     "placa": "1258",
     "nombre": "Hannah Amado",
     "categoria": "10 K ABIERTA",
@@ -10617,15 +10991,15 @@ const RUNNERS_DATA = [
     "dif": "+40:47",
     "vel_prom": "10.3 Km/h",
     "ritmo": "5:47 Min/km",
-    "pdf_page": 369,
+    "pdf_page": 276,
     "dorsal": "1258",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Hannah Amado",
     "tiempo_diploma": "00:57:59",
-    "stats_diploma": "41. /310 625. /1597"
+    "stats_diploma": "40. /309 647. /1621"
   },
   {
-    "puesto": 626,
+    "puesto": 648,
     "placa": "1696",
     "nombre": "Ludwing Andrés Morales Mantilla",
     "categoria": "10 K ABIERTA",
@@ -10634,15 +11008,15 @@ const RUNNERS_DATA = [
     "dif": "+40:48",
     "vel_prom": "10.3 Km/h",
     "ritmo": "5:48 Min/km",
-    "pdf_page": 806,
+    "pdf_page": 659,
     "dorsal": "1696",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Ludwing Andrés Morales Mantilla",
     "tiempo_diploma": "00:58:00",
-    "stats_diploma": "168. /357 626. /1597"
+    "stats_diploma": "168. /357 648. /1621"
   },
   {
-    "puesto": 627,
+    "puesto": 649,
     "placa": "5107",
     "nombre": "johana milena sanguino pinzon",
     "categoria": "5 K ABIERTA",
@@ -10651,15 +11025,15 @@ const RUNNERS_DATA = [
     "dif": "+40:51",
     "vel_prom": "5.1 Km/h",
     "ritmo": "11:36 Min/km",
-    "pdf_page": 1437,
+    "pdf_page": 1379,
     "dorsal": "5107",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "johana milena sanguino pinzon",
     "tiempo_diploma": "00:16:09",
-    "stats_diploma": "159. /160 627. /1597"
+    "stats_diploma": "155. /156 649. /1621"
   },
   {
-    "puesto": 628,
+    "puesto": 650,
     "placa": "3309",
     "nombre": "Carlos Julio Puentes Rodríguez",
     "categoria": "10 K MASTER B",
@@ -10668,15 +11042,15 @@ const RUNNERS_DATA = [
     "dif": "+40:52",
     "vel_prom": "10.3 Km/h",
     "ritmo": "5:48 Min/km",
-    "pdf_page": 1248,
+    "pdf_page": 1202,
     "dorsal": "3309",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Carlos Julio Puentes Rodríguez",
     "tiempo_diploma": "00:58:04",
-    "stats_diploma": "26. /56 628. /1597"
+    "stats_diploma": "27. /57 650. /1621"
   },
   {
-    "puesto": 629,
+    "puesto": 651,
     "placa": "1167",
     "nombre": "David Santiago Escalante Beltran",
     "categoria": "10 K ABIERTA",
@@ -10685,15 +11059,15 @@ const RUNNERS_DATA = [
     "dif": "+40:53",
     "vel_prom": "10.3 Km/h",
     "ritmo": "5:48 Min/km",
-    "pdf_page": 807,
+    "pdf_page": 189,
     "dorsal": "1167",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "David Santiago Escalante Beltran",
     "tiempo_diploma": "00:58:05",
-    "stats_diploma": "169. /357 629. /1597"
+    "stats_diploma": "169. /357 651. /1621"
   },
   {
-    "puesto": 630,
+    "puesto": 652,
     "placa": "1003",
     "nombre": "Adriana Lucia Martinez Leon",
     "categoria": "10 K ABIERTA",
@@ -10702,15 +11076,15 @@ const RUNNERS_DATA = [
     "dif": "+40:53",
     "vel_prom": "10.3 Km/h",
     "ritmo": "5:48 Min/km",
-    "pdf_page": 370,
+    "pdf_page": 39,
     "dorsal": "1003",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Adriana Lucia Martinez Leon",
     "tiempo_diploma": "00:58:05",
-    "stats_diploma": "42. /310 630. /1597"
+    "stats_diploma": "41. /309 652. /1621"
   },
   {
-    "puesto": 631,
+    "puesto": 653,
     "placa": "1695",
     "nombre": "Deyanira Diaz barbosa",
     "categoria": "10 K ABIERTA",
@@ -10719,15 +11093,15 @@ const RUNNERS_DATA = [
     "dif": "+40:53",
     "vel_prom": "10.3 Km/h",
     "ritmo": "5:48 Min/km",
-    "pdf_page": 371,
+    "pdf_page": 658,
     "dorsal": "1695",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Deyanira Diaz barbosa",
     "tiempo_diploma": "00:58:05",
-    "stats_diploma": "43. /310 631. /1597"
+    "stats_diploma": "42. /309 653. /1621"
   },
   {
-    "puesto": 632,
+    "puesto": 654,
     "placa": "1351",
     "nombre": "Juan Andrés Duran",
     "categoria": "10 K ABIERTA",
@@ -10736,15 +11110,15 @@ const RUNNERS_DATA = [
     "dif": "+40:54",
     "vel_prom": "10.3 Km/h",
     "ritmo": "5:48 Min/km",
-    "pdf_page": 808,
+    "pdf_page": 362,
     "dorsal": "1351",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Juan Andrés Duran",
     "tiempo_diploma": "00:58:06",
-    "stats_diploma": "170. /357 632. /1597"
+    "stats_diploma": "170. /357 654. /1621"
   },
   {
-    "puesto": 633,
+    "puesto": 655,
     "placa": "1407",
     "nombre": "Laura Arias Luna",
     "categoria": "10 K ABIERTA",
@@ -10753,15 +11127,15 @@ const RUNNERS_DATA = [
     "dif": "+40:54",
     "vel_prom": "10.3 Km/h",
     "ritmo": "5:48 Min/km",
-    "pdf_page": 372,
+    "pdf_page": 410,
     "dorsal": "1407",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Laura Arias Luna",
     "tiempo_diploma": "00:58:06",
-    "stats_diploma": "44. /310 633. /1597"
+    "stats_diploma": "43. /309 655. /1621"
   },
   {
-    "puesto": 634,
+    "puesto": 656,
     "placa": "1142",
     "nombre": "Daniel Ortiz Cala",
     "categoria": "10 K ABIERTA",
@@ -10770,15 +11144,15 @@ const RUNNERS_DATA = [
     "dif": "+40:55",
     "vel_prom": "10.3 Km/h",
     "ritmo": "5:48 Min/km",
-    "pdf_page": 809,
+    "pdf_page": 167,
     "dorsal": "1142",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Daniel Ortiz Cala",
     "tiempo_diploma": "00:58:07",
-    "stats_diploma": "171. /357 634. /1597"
+    "stats_diploma": "171. /357 656. /1621"
   },
   {
-    "puesto": 635,
+    "puesto": 657,
     "placa": "3355",
     "nombre": "Maria Yolanda Bohorquez Jaimes",
     "categoria": "10 K MASTER B",
@@ -10787,15 +11161,15 @@ const RUNNERS_DATA = [
     "dif": "+40:56",
     "vel_prom": "10.3 Km/h",
     "ritmo": "5:48 Min/km",
-    "pdf_page": 1196,
+    "pdf_page": 1247,
     "dorsal": "3355",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Maria Yolanda Bohorquez Jaimes",
     "tiempo_diploma": "00:58:08",
-    "stats_diploma": "7. /33 635. /1597"
+    "stats_diploma": "7. /33 657. /1621"
   },
   {
-    "puesto": 636,
+    "puesto": 658,
     "placa": "3035",
     "nombre": "DIANA CAROLINA GUTIERREZ TORRES",
     "categoria": "10 K MASTER A",
@@ -10804,15 +11178,15 @@ const RUNNERS_DATA = [
     "dif": "+40:56",
     "vel_prom": "10.3 Km/h",
     "ritmo": "5:48 Min/km",
-    "pdf_page": 1008,
+    "pdf_page": 1031,
     "dorsal": "3035",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "DIANA CAROLINA GUTIERREZ TORRES",
     "tiempo_diploma": "00:58:08",
-    "stats_diploma": "13. /87 636. /1597"
+    "stats_diploma": "13. /87 658. /1621"
   },
   {
-    "puesto": 637,
+    "puesto": 659,
     "placa": "1543",
     "nombre": "Nathalia Basto Diaz",
     "categoria": "10 K ABIERTA",
@@ -10821,15 +11195,15 @@ const RUNNERS_DATA = [
     "dif": "+40:57",
     "vel_prom": "10.3 Km/h",
     "ritmo": "5:48 Min/km",
-    "pdf_page": 373,
+    "pdf_page": 525,
     "dorsal": "1543",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Nathalia Basto Diaz",
     "tiempo_diploma": "00:58:09",
-    "stats_diploma": "45. /310 637. /1597"
+    "stats_diploma": "44. /309 659. /1621"
   },
   {
-    "puesto": 638,
+    "puesto": 660,
     "placa": "1535",
     "nombre": "NALLELY DIAZ LOPEZ",
     "categoria": "10 K ABIERTA",
@@ -10838,15 +11212,15 @@ const RUNNERS_DATA = [
     "dif": "+40:58",
     "vel_prom": "10.3 Km/h",
     "ritmo": "5:49 Min/km",
-    "pdf_page": 374,
+    "pdf_page": 518,
     "dorsal": "1535",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "NALLELY DIAZ LOPEZ",
     "tiempo_diploma": "00:58:10",
-    "stats_diploma": "46. /310 638. /1597"
+    "stats_diploma": "45. /309 660. /1621"
   },
   {
-    "puesto": 639,
+    "puesto": 661,
     "placa": "3137",
     "nombre": "Mauricio Amado Rodríguez",
     "categoria": "10 K MASTER A",
@@ -10855,32 +11229,32 @@ const RUNNERS_DATA = [
     "dif": "+40:58",
     "vel_prom": "10.3 Km/h",
     "ritmo": "5:49 Min/km",
-    "pdf_page": 1133,
+    "pdf_page": 1128,
     "dorsal": "3137",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Mauricio Amado Rodríguez",
     "tiempo_diploma": "00:58:10",
-    "stats_diploma": "51. /107 639. /1597"
+    "stats_diploma": "51. /107 661. /1621"
   },
   {
-    "puesto": 640,
+    "puesto": 662,
     "placa": "1688",
     "nombre": "Brayan Arley Vera Ortiz",
     "categoria": "10 K ABIERTA",
-    "ciudad": "Sabana de Torres",
+    "ciudad": "Sabanan de Torres",
     "tiempo": "0:58:12",
     "dif": "+41:00",
     "vel_prom": "10.3 Km/h",
     "ritmo": "5:49 Min/km",
-    "pdf_page": 810,
+    "pdf_page": 653,
     "dorsal": "1688",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Brayan Arley Vera Ortiz",
     "tiempo_diploma": "00:58:12",
-    "stats_diploma": "172. /357 640. /1597"
+    "stats_diploma": "172. /357 662. /1621"
   },
   {
-    "puesto": 641,
+    "puesto": 663,
     "placa": "3085",
     "nombre": "Jhonny Pereira",
     "categoria": "10 K MASTER A",
@@ -10889,15 +11263,15 @@ const RUNNERS_DATA = [
     "dif": "+41:00",
     "vel_prom": "10.3 Km/h",
     "ritmo": "5:49 Min/km",
-    "pdf_page": 1134,
+    "pdf_page": 1077,
     "dorsal": "3085",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Jhonny Pereira",
     "tiempo_diploma": "00:58:12",
-    "stats_diploma": "52. /107 641. /1597"
+    "stats_diploma": "52. /107 663. /1621"
   },
   {
-    "puesto": 642,
+    "puesto": 664,
     "placa": "5040",
     "nombre": "Carolain Xamara Rojas Rocha",
     "categoria": "5 K ABIERTA",
@@ -10906,15 +11280,15 @@ const RUNNERS_DATA = [
     "dif": "+41:04",
     "vel_prom": "5.1 Km/h",
     "ritmo": "11:39 Min/km",
-    "pdf_page": 1527,
+    "pdf_page": 1320,
     "dorsal": "5040",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Carolain Xamara Rojas Rocha",
     "tiempo_diploma": "00:16:09",
-    "stats_diploma": "89. /90 642. /1597"
+    "stats_diploma": "87. /88 664. /1621"
   },
   {
-    "puesto": 643,
+    "puesto": 665,
     "placa": "3014",
     "nombre": "Angela Marcela Jerez Olago",
     "categoria": "10 K MASTER A",
@@ -10923,15 +11297,15 @@ const RUNNERS_DATA = [
     "dif": "+41:08",
     "vel_prom": "10.2 Km/h",
     "ritmo": "5:50 Min/km",
-    "pdf_page": 1009,
+    "pdf_page": 1012,
     "dorsal": "3014",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Angela Marcela Jerez Olago",
     "tiempo_diploma": "00:58:20",
-    "stats_diploma": "14. /87 643. /1597"
+    "stats_diploma": "14. /87 665. /1621"
   },
   {
-    "puesto": 644,
+    "puesto": 666,
     "placa": "1444",
     "nombre": "Luis Carlos Gómez Villar",
     "categoria": "10 K ABIERTA",
@@ -10940,15 +11314,15 @@ const RUNNERS_DATA = [
     "dif": "+41:10",
     "vel_prom": "10.2 Km/h",
     "ritmo": "5:50 Min/km",
-    "pdf_page": 811,
+    "pdf_page": 440,
     "dorsal": "1444",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Luis Carlos Gómez Villar",
     "tiempo_diploma": "00:58:22",
-    "stats_diploma": "173. /357 644. /1597"
+    "stats_diploma": "173. /357 666. /1621"
   },
   {
-    "puesto": 645,
+    "puesto": 667,
     "placa": "1058",
     "nombre": "Andrew Morales",
     "categoria": "10 K ABIERTA",
@@ -10957,15 +11331,15 @@ const RUNNERS_DATA = [
     "dif": "+41:10",
     "vel_prom": "10.2 Km/h",
     "ritmo": "5:50 Min/km",
-    "pdf_page": 812,
+    "pdf_page": 88,
     "dorsal": "1058",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Andrew Morales",
     "tiempo_diploma": "00:58:22",
-    "stats_diploma": "174. /357 645. /1597"
+    "stats_diploma": "174. /357 667. /1621"
   },
   {
-    "puesto": 646,
+    "puesto": 668,
     "placa": "1666",
     "nombre": "YEFERSON LOPEZ TOLOZA",
     "categoria": "10 K ABIERTA",
@@ -10974,15 +11348,15 @@ const RUNNERS_DATA = [
     "dif": "+41:12",
     "vel_prom": "10.2 Km/h",
     "ritmo": "5:50 Min/km",
-    "pdf_page": 813,
+    "pdf_page": 632,
     "dorsal": "1666",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "YEFERSON LOPEZ TOLOZA",
     "tiempo_diploma": "00:58:24",
-    "stats_diploma": "175. /357 646. /1597"
+    "stats_diploma": "175. /357 668. /1621"
   },
   {
-    "puesto": 647,
+    "puesto": 669,
     "placa": "3074",
     "nombre": "Jairo Gomez vera",
     "categoria": "10 K MASTER A",
@@ -10991,15 +11365,15 @@ const RUNNERS_DATA = [
     "dif": "+41:16",
     "vel_prom": "10.2 Km/h",
     "ritmo": "5:50 Min/km",
-    "pdf_page": 1135,
+    "pdf_page": 1066,
     "dorsal": "3074",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Jairo Gomez vera",
     "tiempo_diploma": "00:58:28",
-    "stats_diploma": "53. /107 647. /1597"
+    "stats_diploma": "53. /107 669. /1621"
   },
   {
-    "puesto": 648,
+    "puesto": 670,
     "placa": "1030",
     "nombre": "Ana Maria Oviedo Rojas",
     "categoria": "10 K ABIERTA",
@@ -11008,15 +11382,15 @@ const RUNNERS_DATA = [
     "dif": "+41:20",
     "vel_prom": "10.2 Km/h",
     "ritmo": "5:51 Min/km",
-    "pdf_page": 375,
+    "pdf_page": 62,
     "dorsal": "1030",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Ana Maria Oviedo Rojas",
     "tiempo_diploma": "00:58:32",
-    "stats_diploma": "47. /310 648. /1597"
+    "stats_diploma": "46. /309 670. /1621"
   },
   {
-    "puesto": 649,
+    "puesto": 671,
     "placa": "1691",
     "nombre": "Fernando Galvis",
     "categoria": "10 K ABIERTA",
@@ -11025,15 +11399,15 @@ const RUNNERS_DATA = [
     "dif": "+41:22",
     "vel_prom": "10.2 Km/h",
     "ritmo": "5:51 Min/km",
-    "pdf_page": 814,
+    "pdf_page": 656,
     "dorsal": "1691",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Fernando Galvis",
     "tiempo_diploma": "00:58:34",
-    "stats_diploma": "176. /357 649. /1597"
+    "stats_diploma": "176. /357 671. /1621"
   },
   {
-    "puesto": 650,
+    "puesto": 672,
     "placa": "1528",
     "nombre": "Miguel René Tuta Rueda",
     "categoria": "10 K ABIERTA",
@@ -11042,15 +11416,15 @@ const RUNNERS_DATA = [
     "dif": "+41:24",
     "vel_prom": "10.2 Km/h",
     "ritmo": "5:51 Min/km",
-    "pdf_page": 815,
+    "pdf_page": 511,
     "dorsal": "1528",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Miguel René Tuta Rueda",
     "tiempo_diploma": "00:58:36",
-    "stats_diploma": "177. /357 650. /1597"
+    "stats_diploma": "177. /357 672. /1621"
   },
   {
-    "puesto": 651,
+    "puesto": 673,
     "placa": "3096",
     "nombre": "JOSE JULIAN VESGA BARRERA",
     "categoria": "10 K MASTER A",
@@ -11059,15 +11433,15 @@ const RUNNERS_DATA = [
     "dif": "+41:26",
     "vel_prom": "10.2 Km/h",
     "ritmo": "5:51 Min/km",
-    "pdf_page": 1136,
+    "pdf_page": 1088,
     "dorsal": "3096",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "JOSE JULIAN VESGA BARRERA",
     "tiempo_diploma": "00:58:38",
-    "stats_diploma": "54. /107 651. /1597"
+    "stats_diploma": "54. /107 673. /1621"
   },
   {
-    "puesto": 652,
+    "puesto": 674,
     "placa": "3340",
     "nombre": "Juan Carlos Tello Cardozo",
     "categoria": "10 K MASTER B",
@@ -11076,15 +11450,15 @@ const RUNNERS_DATA = [
     "dif": "+41:27",
     "vel_prom": "10.2 Km/h",
     "ritmo": "5:51 Min/km",
-    "pdf_page": 1249,
+    "pdf_page": 1233,
     "dorsal": "3340",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Juan Carlos Tello Cardozo",
     "tiempo_diploma": "00:58:39",
-    "stats_diploma": "27. /56 652. /1597"
+    "stats_diploma": "28. /57 674. /1621"
   },
   {
-    "puesto": 653,
+    "puesto": 675,
     "placa": "3323",
     "nombre": "Facundo Cobos Mantilla",
     "categoria": "10 K MASTER B",
@@ -11093,15 +11467,15 @@ const RUNNERS_DATA = [
     "dif": "+41:30",
     "vel_prom": "10.2 Km/h",
     "ritmo": "5:52 Min/km",
-    "pdf_page": 1250,
+    "pdf_page": 1216,
     "dorsal": "3323",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Facundo Cobos Mantilla",
     "tiempo_diploma": "00:58:42",
-    "stats_diploma": "28. /56 653. /1597"
+    "stats_diploma": "29. /57 675. /1621"
   },
   {
-    "puesto": 654,
+    "puesto": 676,
     "placa": "3332",
     "nombre": "ISIDORO ROLÓN URIBE",
     "categoria": "10 K MASTER B",
@@ -11110,15 +11484,15 @@ const RUNNERS_DATA = [
     "dif": "+41:31",
     "vel_prom": "10.2 Km/h",
     "ritmo": "5:52 Min/km",
-    "pdf_page": 1251,
+    "pdf_page": 1225,
     "dorsal": "3332",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "ISIDORO ROLÓN URIBE",
     "tiempo_diploma": "00:58:43",
-    "stats_diploma": "29. /56 654. /1597"
+    "stats_diploma": "30. /57 676. /1621"
   },
   {
-    "puesto": 655,
+    "puesto": 677,
     "placa": "3127",
     "nombre": "Lyda Johanna Ruiz ortiz",
     "categoria": "10 K MASTER A",
@@ -11127,15 +11501,15 @@ const RUNNERS_DATA = [
     "dif": "+41:33",
     "vel_prom": "10.2 Km/h",
     "ritmo": "5:52 Min/km",
-    "pdf_page": 1010,
+    "pdf_page": 1118,
     "dorsal": "3127",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Lyda Johanna Ruiz ortiz",
     "tiempo_diploma": "00:58:45",
-    "stats_diploma": "15. /87 655. /1597"
+    "stats_diploma": "15. /87 677. /1621"
   },
   {
-    "puesto": 656,
+    "puesto": 678,
     "placa": "1296",
     "nombre": "Jerson Stiven García Picón",
     "categoria": "10 K ABIERTA",
@@ -11144,15 +11518,15 @@ const RUNNERS_DATA = [
     "dif": "+41:34",
     "vel_prom": "10.2 Km/h",
     "ritmo": "5:52 Min/km",
-    "pdf_page": 816,
+    "pdf_page": 313,
     "dorsal": "1296",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Jerson Stiven García Picón",
     "tiempo_diploma": "00:58:46",
-    "stats_diploma": "178. /357 656. /1597"
+    "stats_diploma": "178. /357 678. /1621"
   },
   {
-    "puesto": 657,
+    "puesto": 679,
     "placa": "1730",
     "nombre": "Andres Santiago Peña",
     "categoria": "10 K ABIERTA",
@@ -11161,15 +11535,15 @@ const RUNNERS_DATA = [
     "dif": "+41:36",
     "vel_prom": "10.2 Km/h",
     "ritmo": "5:52 Min/km",
-    "pdf_page": 817,
+    "pdf_page": 687,
     "dorsal": "1730",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Andres Santiago Peña",
     "tiempo_diploma": "00:58:48",
-    "stats_diploma": "179. /357 657. /1597"
+    "stats_diploma": "179. /357 679. /1621"
   },
   {
-    "puesto": 658,
+    "puesto": 680,
     "placa": "5150",
     "nombre": "Lina Maria Parra Duran",
     "categoria": "5 K ABIERTA",
@@ -11178,15 +11552,15 @@ const RUNNERS_DATA = [
     "dif": "+41:37",
     "vel_prom": "5.0 Km/h",
     "ritmo": "11:45 Min/km",
-    "pdf_page": 1438,
+    "pdf_page": 1417,
     "dorsal": "5150",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "Lina Maria Parra Duran",
     "tiempo_diploma": "00:58:49",
-    "stats_diploma": "160. /160 658. /1597"
+    "stats_diploma": "156. /156 680. /1621"
   },
   {
-    "puesto": 659,
+    "puesto": 681,
     "placa": "1282",
     "nombre": "Javier Dario Gómez Rodríguez",
     "categoria": "10 K ABIERTA",
@@ -11195,15 +11569,15 @@ const RUNNERS_DATA = [
     "dif": "+41:39",
     "vel_prom": "10.1 Km/h",
     "ritmo": "5:53 Min/km",
-    "pdf_page": 818,
+    "pdf_page": 299,
     "dorsal": "1282",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Javier Dario Gómez Rodríguez",
     "tiempo_diploma": "00:58:51",
-    "stats_diploma": "180. /357 659. /1597"
+    "stats_diploma": "180. /357 681. /1621"
   },
   {
-    "puesto": 660,
+    "puesto": 682,
     "placa": "1122",
     "nombre": "Carolina Blanco",
     "categoria": "10 K ABIERTA",
@@ -11212,15 +11586,15 @@ const RUNNERS_DATA = [
     "dif": "+41:40",
     "vel_prom": "10.1 Km/h",
     "ritmo": "5:53 Min/km",
-    "pdf_page": 819,
+    "pdf_page": 148,
     "dorsal": "1122",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Carolina Blanco",
     "tiempo_diploma": "00:58:52",
-    "stats_diploma": "181. /357 660. /1597"
+    "stats_diploma": "181. /357 682. /1621"
   },
   {
-    "puesto": 661,
+    "puesto": 683,
     "placa": "1612",
     "nombre": "Sergio Alejandro Martínez Romero",
     "categoria": "10 K ABIERTA",
@@ -11229,15 +11603,15 @@ const RUNNERS_DATA = [
     "dif": "+41:40",
     "vel_prom": "10.1 Km/h",
     "ritmo": "5:53 Min/km",
-    "pdf_page": 820,
+    "pdf_page": 583,
     "dorsal": "1612",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Sergio Alejandro Martínez Romero",
     "tiempo_diploma": "00:58:52",
-    "stats_diploma": "182. /357 661. /1597"
+    "stats_diploma": "182. /357 683. /1621"
   },
   {
-    "puesto": 662,
+    "puesto": 684,
     "placa": "1257",
     "nombre": "HAMILTON ANDRES CORREA ROSAS",
     "categoria": "10 K ABIERTA",
@@ -11246,15 +11620,15 @@ const RUNNERS_DATA = [
     "dif": "+41:41",
     "vel_prom": "10.1 Km/h",
     "ritmo": "5:53 Min/km",
-    "pdf_page": 821,
+    "pdf_page": 275,
     "dorsal": "1257",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "HAMILTON ANDRES CORREA ROSAS",
     "tiempo_diploma": "00:58:53",
-    "stats_diploma": "183. /357 662. /1597"
+    "stats_diploma": "183. /357 684. /1621"
   },
   {
-    "puesto": 663,
+    "puesto": 685,
     "placa": "1135",
     "nombre": "Cristian Giraldo",
     "categoria": "10 K ABIERTA",
@@ -11263,15 +11637,15 @@ const RUNNERS_DATA = [
     "dif": "+41:42",
     "vel_prom": "10.1 Km/h",
     "ritmo": "5:53 Min/km",
-    "pdf_page": 822,
+    "pdf_page": 160,
     "dorsal": "1135",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Cristian Giraldo",
     "tiempo_diploma": "00:58:54",
-    "stats_diploma": "184. /357 663. /1597"
+    "stats_diploma": "184. /357 685. /1621"
   },
   {
-    "puesto": 664,
+    "puesto": 686,
     "placa": "3187",
     "nombre": "Yanilse Solano Pinzon",
     "categoria": "10 K MASTER A",
@@ -11280,15 +11654,15 @@ const RUNNERS_DATA = [
     "dif": "+41:43",
     "vel_prom": "10.1 Km/h",
     "ritmo": "5:53 Min/km",
-    "pdf_page": 1011,
+    "pdf_page": 1172,
     "dorsal": "3187",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Yanilse Solano Pinzon",
     "tiempo_diploma": "00:58:55",
-    "stats_diploma": "16. /87 664. /1597"
+    "stats_diploma": "16. /87 686. /1621"
   },
   {
-    "puesto": 665,
+    "puesto": 687,
     "placa": "1355",
     "nombre": "Juan David Sierra Hernandez",
     "categoria": "10 K ABIERTA",
@@ -11297,15 +11671,15 @@ const RUNNERS_DATA = [
     "dif": "+41:43",
     "vel_prom": "10.1 Km/h",
     "ritmo": "5:53 Min/km",
-    "pdf_page": 823,
+    "pdf_page": 366,
     "dorsal": "1355",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Juan David Sierra Hernandez",
     "tiempo_diploma": "00:58:55",
-    "stats_diploma": "185. /357 665. /1597"
+    "stats_diploma": "185. /357 687. /1621"
   },
   {
-    "puesto": 666,
+    "puesto": 688,
     "placa": "1548",
     "nombre": "Nicolás Morantes Mojica",
     "categoria": "10 K ABIERTA",
@@ -11314,15 +11688,15 @@ const RUNNERS_DATA = [
     "dif": "+41:50",
     "vel_prom": "10.1 Km/h",
     "ritmo": "5:54 Min/km",
-    "pdf_page": 824,
+    "pdf_page": 529,
     "dorsal": "1548",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Nicolás Morantes Mojica",
     "tiempo_diploma": "00:59:02",
-    "stats_diploma": "186. /357 666. /1597"
+    "stats_diploma": "186. /357 688. /1621"
   },
   {
-    "puesto": 667,
+    "puesto": 689,
     "placa": "1327",
     "nombre": "Johana Romero",
     "categoria": "10 K ABIERTA",
@@ -11331,15 +11705,15 @@ const RUNNERS_DATA = [
     "dif": "+41:54",
     "vel_prom": "10.1 Km/h",
     "ritmo": "5:54 Min/km",
-    "pdf_page": 376,
+    "pdf_page": 340,
     "dorsal": "1327",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Johana Romero",
     "tiempo_diploma": "00:59:06",
-    "stats_diploma": "48. /310 667. /1597"
+    "stats_diploma": "47. /309 689. /1621"
   },
   {
-    "puesto": 668,
+    "puesto": 690,
     "placa": "1270",
     "nombre": "Ileana Rocio Bautista Parada",
     "categoria": "10 K ABIERTA",
@@ -11348,15 +11722,15 @@ const RUNNERS_DATA = [
     "dif": "+41:56",
     "vel_prom": "10.1 Km/h",
     "ritmo": "5:54 Min/km",
-    "pdf_page": 377,
+    "pdf_page": 287,
     "dorsal": "1270",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Ileana Rocio Bautista Parada",
     "tiempo_diploma": "00:59:08",
-    "stats_diploma": "49. /310 668. /1597"
+    "stats_diploma": "48. /309 690. /1621"
   },
   {
-    "puesto": 669,
+    "puesto": 691,
     "placa": "3147",
     "nombre": "Néstor González Álvarez",
     "categoria": "10 K MASTER A",
@@ -11365,15 +11739,15 @@ const RUNNERS_DATA = [
     "dif": "+41:57",
     "vel_prom": "10.1 Km/h",
     "ritmo": "5:54 Min/km",
-    "pdf_page": 1137,
+    "pdf_page": 1138,
     "dorsal": "3147",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Néstor González Álvarez",
     "tiempo_diploma": "00:59:09",
-    "stats_diploma": "55. /107 669. /1597"
+    "stats_diploma": "55. /107 691. /1621"
   },
   {
-    "puesto": 670,
+    "puesto": 692,
     "placa": "1291",
     "nombre": "Jeniffer Vargas",
     "categoria": "10 K ABIERTA",
@@ -11382,15 +11756,15 @@ const RUNNERS_DATA = [
     "dif": "+41:58",
     "vel_prom": "10.1 Km/h",
     "ritmo": "5:55 Min/km",
-    "pdf_page": 378,
+    "pdf_page": 308,
     "dorsal": "1291",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Jeniffer Vargas",
     "tiempo_diploma": "00:59:10",
-    "stats_diploma": "50. /310 670. /1597"
+    "stats_diploma": "49. /309 692. /1621"
   },
   {
-    "puesto": 671,
+    "puesto": 693,
     "placa": "1638",
     "nombre": "Thomas Pulgarin",
     "categoria": "10 K ABIERTA",
@@ -11399,15 +11773,15 @@ const RUNNERS_DATA = [
     "dif": "+42:02",
     "vel_prom": "10.1 Km/h",
     "ritmo": "5:55 Min/km",
-    "pdf_page": 825,
+    "pdf_page": 606,
     "dorsal": "1638",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Thomas Pulgarin",
     "tiempo_diploma": "00:59:14",
-    "stats_diploma": "187. /357 671. /1597"
+    "stats_diploma": "187. /357 693. /1621"
   },
   {
-    "puesto": 672,
+    "puesto": 694,
     "placa": "1321",
     "nombre": "Johan Isaza",
     "categoria": "10 K ABIERTA",
@@ -11416,15 +11790,15 @@ const RUNNERS_DATA = [
     "dif": "+42:03",
     "vel_prom": "10.1 Km/h",
     "ritmo": "5:55 Min/km",
-    "pdf_page": 826,
+    "pdf_page": 335,
     "dorsal": "1321",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Johan Isaza",
     "tiempo_diploma": "00:59:15",
-    "stats_diploma": "188. /357 672. /1597"
+    "stats_diploma": "188. /357 694. /1621"
   },
   {
-    "puesto": 673,
+    "puesto": 695,
     "placa": "3011",
     "nombre": "Andres Cristobal Villalobos Gomez",
     "categoria": "10 K MASTER A",
@@ -11433,15 +11807,15 @@ const RUNNERS_DATA = [
     "dif": "+42:08",
     "vel_prom": "10.1 Km/h",
     "ritmo": "5:56 Min/km",
-    "pdf_page": 1138,
+    "pdf_page": 1010,
     "dorsal": "3011",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Andres Cristobal Villalobos Gomez",
     "tiempo_diploma": "00:59:20",
-    "stats_diploma": "56. /107 673. /1597"
+    "stats_diploma": "56. /107 695. /1621"
   },
   {
-    "puesto": 674,
+    "puesto": 696,
     "placa": "3382",
     "nombre": "Vladimir De Moya Garcés",
     "categoria": "10 K MASTER B",
@@ -11450,15 +11824,15 @@ const RUNNERS_DATA = [
     "dif": "+42:13",
     "vel_prom": "10.0 Km/h",
     "ritmo": "5:56 Min/km",
-    "pdf_page": 1252,
+    "pdf_page": 1271,
     "dorsal": "3382",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Vladimir De Moya Garcés",
     "tiempo_diploma": "00:59:25",
-    "stats_diploma": "30. /56 674. /1597"
+    "stats_diploma": "31. /57 696. /1621"
   },
   {
-    "puesto": 675,
+    "puesto": 697,
     "placa": "3211",
     "nombre": "Ludy Archila Duran",
     "categoria": "10 K MASTER A",
@@ -11467,15 +11841,15 @@ const RUNNERS_DATA = [
     "dif": "+42:18",
     "vel_prom": "10.0 Km/h",
     "ritmo": "5:57 Min/km",
-    "pdf_page": 1012,
+    "pdf_page": 1193,
     "dorsal": "3211",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Ludy Archila Duran",
     "tiempo_diploma": "00:59:30",
-    "stats_diploma": "17. /87 675. /1597"
+    "stats_diploma": "17. /87 697. /1621"
   },
   {
-    "puesto": 676,
+    "puesto": 698,
     "placa": "1446",
     "nombre": "Luis Eduardo Duarte Perdomo",
     "categoria": "10 K ABIERTA",
@@ -11484,15 +11858,15 @@ const RUNNERS_DATA = [
     "dif": "+42:19",
     "vel_prom": "10.0 Km/h",
     "ritmo": "5:57 Min/km",
-    "pdf_page": 827,
+    "pdf_page": 442,
     "dorsal": "1446",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Luis Eduardo Duarte Perdomo",
     "tiempo_diploma": "00:59:31",
-    "stats_diploma": "189. /357 676. /1597"
+    "stats_diploma": "189. /357 698. /1621"
   },
   {
-    "puesto": 677,
+    "puesto": 699,
     "placa": "1155",
     "nombre": "Dario Gonzalez",
     "categoria": "10 K ABIERTA",
@@ -11501,15 +11875,15 @@ const RUNNERS_DATA = [
     "dif": "+42:22",
     "vel_prom": "10.0 Km/h",
     "ritmo": "5:57 Min/km",
-    "pdf_page": 828,
+    "pdf_page": 178,
     "dorsal": "1155",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Dario Gonzalez",
     "tiempo_diploma": "00:59:34",
-    "stats_diploma": "190. /357 677. /1597"
+    "stats_diploma": "190. /357 699. /1621"
   },
   {
-    "puesto": 678,
+    "puesto": 700,
     "placa": "1076",
     "nombre": "Arlei Favian Valderrama Osma",
     "categoria": "10 K ABIERTA",
@@ -11518,15 +11892,15 @@ const RUNNERS_DATA = [
     "dif": "+42:26",
     "vel_prom": "10.0 Km/h",
     "ritmo": "5:57 Min/km",
-    "pdf_page": 829,
+    "pdf_page": 106,
     "dorsal": "1076",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Arlei Favian Valderrama Osma",
     "tiempo_diploma": "00:59:38",
-    "stats_diploma": "191. /357 678. /1597"
+    "stats_diploma": "191. /357 700. /1621"
   },
   {
-    "puesto": 679,
+    "puesto": 701,
     "placa": "1230",
     "nombre": "Fabio Andres Rueda Castro",
     "categoria": "10 K ABIERTA",
@@ -11535,15 +11909,15 @@ const RUNNERS_DATA = [
     "dif": "+42:27",
     "vel_prom": "10.0 Km/h",
     "ritmo": "5:57 Min/km",
-    "pdf_page": 830,
+    "pdf_page": 251,
     "dorsal": "1230",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Fabio Andres Rueda Castro",
     "tiempo_diploma": "00:59:39",
-    "stats_diploma": "192. /357 679. /1597"
+    "stats_diploma": "192. /357 701. /1621"
   },
   {
-    "puesto": 680,
+    "puesto": 702,
     "placa": "3301",
     "nombre": "Adelaida Mojica Jaimes",
     "categoria": "10 K MASTER B",
@@ -11552,15 +11926,15 @@ const RUNNERS_DATA = [
     "dif": "+42:28",
     "vel_prom": "10.0 Km/h",
     "ritmo": "5:58 Min/km",
-    "pdf_page": 1197,
+    "pdf_page": 1195,
     "dorsal": "3301",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Adelaida Mojica Jaimes",
     "tiempo_diploma": "00:59:40",
-    "stats_diploma": "8. /33 680. /1597"
+    "stats_diploma": "8. /33 702. /1621"
   },
   {
-    "puesto": 681,
+    "puesto": 703,
     "placa": "3037",
     "nombre": "Diana Teresa Godoy Bautista",
     "categoria": "10 K MASTER A",
@@ -11569,15 +11943,15 @@ const RUNNERS_DATA = [
     "dif": "+42:29",
     "vel_prom": "10.0 Km/h",
     "ritmo": "5:58 Min/km",
-    "pdf_page": 1013,
+    "pdf_page": 1032,
     "dorsal": "3037",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Diana Teresa Godoy Bautista",
     "tiempo_diploma": "00:59:41",
-    "stats_diploma": "18. /87 681. /1597"
+    "stats_diploma": "18. /87 703. /1621"
   },
   {
-    "puesto": 682,
+    "puesto": 704,
     "placa": "1022",
     "nombre": "Alexis Sulbaran Uzcategui",
     "categoria": "10 K ABIERTA",
@@ -11586,15 +11960,15 @@ const RUNNERS_DATA = [
     "dif": "+42:29",
     "vel_prom": "10.0 Km/h",
     "ritmo": "5:58 Min/km",
-    "pdf_page": 831,
+    "pdf_page": 55,
     "dorsal": "1022",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Alexis Sulbaran Uzcategui",
     "tiempo_diploma": "00:59:41",
-    "stats_diploma": "193. /357 682. /1597"
+    "stats_diploma": "193. /357 704. /1621"
   },
   {
-    "puesto": 683,
+    "puesto": 705,
     "placa": "3358",
     "nombre": "MARTHA LILIANA LOPEZ RUEDA",
     "categoria": "10 K MASTER B",
@@ -11603,15 +11977,15 @@ const RUNNERS_DATA = [
     "dif": "+42:29",
     "vel_prom": "10.0 Km/h",
     "ritmo": "5:58 Min/km",
-    "pdf_page": 1198,
+    "pdf_page": 1250,
     "dorsal": "3358",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "MARTHA LILIANA LOPEZ RUEDA",
     "tiempo_diploma": "00:59:41",
-    "stats_diploma": "9. /33 683. /1597"
+    "stats_diploma": "9. /33 705. /1621"
   },
   {
-    "puesto": 684,
+    "puesto": 706,
     "placa": "3346",
     "nombre": "LUIS ALBERTO SANCHEZ SILVA",
     "categoria": "10 K MASTER B",
@@ -11620,15 +11994,15 @@ const RUNNERS_DATA = [
     "dif": "+42:30",
     "vel_prom": "10.0 Km/h",
     "ritmo": "5:58 Min/km",
-    "pdf_page": 1253,
+    "pdf_page": 1239,
     "dorsal": "3346",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "LUIS ALBERTO SANCHEZ SILVA",
     "tiempo_diploma": "00:59:42",
-    "stats_diploma": "31. /56 684. /1597"
+    "stats_diploma": "32. /57 706. /1621"
   },
   {
-    "puesto": 685,
+    "puesto": 707,
     "placa": "1062",
     "nombre": "Angelica Barajas",
     "categoria": "10 K ABIERTA",
@@ -11637,15 +12011,15 @@ const RUNNERS_DATA = [
     "dif": "+42:33",
     "vel_prom": "10.0 Km/h",
     "ritmo": "5:58 Min/km",
-    "pdf_page": 379,
+    "pdf_page": 92,
     "dorsal": "1062",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Angelica Barajas",
     "tiempo_diploma": "00:59:45",
-    "stats_diploma": "51. /310 685. /1597"
+    "stats_diploma": "50. /309 707. /1621"
   },
   {
-    "puesto": 686,
+    "puesto": 708,
     "placa": "1620",
     "nombre": "Silvia Sanchez Saavedra",
     "categoria": "10 K ABIERTA",
@@ -11654,15 +12028,15 @@ const RUNNERS_DATA = [
     "dif": "+42:36",
     "vel_prom": "10.0 Km/h",
     "ritmo": "5:58 Min/km",
-    "pdf_page": 380,
+    "pdf_page": 590,
     "dorsal": "1620",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Silvia Sanchez Saavedra",
     "tiempo_diploma": "00:59:48",
-    "stats_diploma": "52. /310 686. /1597"
+    "stats_diploma": "51. /309 708. /1621"
   },
   {
-    "puesto": 687,
+    "puesto": 709,
     "placa": "1569",
     "nombre": "Paula Andrea Cala Torres",
     "categoria": "10 K ABIERTA",
@@ -11671,15 +12045,15 @@ const RUNNERS_DATA = [
     "dif": "+42:39",
     "vel_prom": "10.0 Km/h",
     "ritmo": "5:59 Min/km",
-    "pdf_page": 381,
+    "pdf_page": 548,
     "dorsal": "1569",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Paula Andrea Cala Torres",
     "tiempo_diploma": "00:59:51",
-    "stats_diploma": "53. /310 687. /1597"
+    "stats_diploma": "52. /309 709. /1621"
   },
   {
-    "puesto": 688,
+    "puesto": 710,
     "placa": "1607",
     "nombre": "Sebastián Arenas",
     "categoria": "10 K ABIERTA",
@@ -11688,15 +12062,15 @@ const RUNNERS_DATA = [
     "dif": "+42:39",
     "vel_prom": "10.0 Km/h",
     "ritmo": "5:59 Min/km",
-    "pdf_page": 832,
+    "pdf_page": 579,
     "dorsal": "1607",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Sebastián Arenas",
     "tiempo_diploma": "00:59:51",
-    "stats_diploma": "194. /357 688. /1597"
+    "stats_diploma": "194. /357 710. /1621"
   },
   {
-    "puesto": 689,
+    "puesto": 711,
     "placa": "1371",
     "nombre": "Julian Ochoa Oviedo",
     "categoria": "10 K ABIERTA",
@@ -11705,15 +12079,15 @@ const RUNNERS_DATA = [
     "dif": "+42:49",
     "vel_prom": "9.9 Km/h",
     "ritmo": "6:00 Min/km",
-    "pdf_page": 833,
+    "pdf_page": 381,
     "dorsal": "1371",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Julian Ochoa Oviedo",
     "tiempo_diploma": "01:00:01",
-    "stats_diploma": "195. /357 689. /1597"
+    "stats_diploma": "195. /357 711. /1621"
   },
   {
-    "puesto": 690,
+    "puesto": 712,
     "placa": "1224",
     "nombre": "Estefania Bedoya",
     "categoria": "10 K ABIERTA",
@@ -11722,15 +12096,15 @@ const RUNNERS_DATA = [
     "dif": "+42:50",
     "vel_prom": "9.9 Km/h",
     "ritmo": "6:00 Min/km",
-    "pdf_page": 382,
+    "pdf_page": 245,
     "dorsal": "1224",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Estefania Bedoya",
     "tiempo_diploma": "01:00:02",
-    "stats_diploma": "54. /310 690. /1597"
+    "stats_diploma": "53. /309 712. /1621"
   },
   {
-    "puesto": 691,
+    "puesto": 713,
     "placa": "1344",
     "nombre": "Joseph Cubillos",
     "categoria": "10 K ABIERTA",
@@ -11739,15 +12113,15 @@ const RUNNERS_DATA = [
     "dif": "+42:56",
     "vel_prom": "9.9 Km/h",
     "ritmo": "6:00 Min/km",
-    "pdf_page": 834,
+    "pdf_page": 356,
     "dorsal": "1344",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Joseph Cubillos",
     "tiempo_diploma": "01:00:08",
-    "stats_diploma": "196. /357 691. /1597"
+    "stats_diploma": "196. /357 713. /1621"
   },
   {
-    "puesto": 692,
+    "puesto": 714,
     "placa": "1126",
     "nombre": "Cesar Dallos",
     "categoria": "10 K ABIERTA",
@@ -11756,15 +12130,15 @@ const RUNNERS_DATA = [
     "dif": "+42:58",
     "vel_prom": "9.9 Km/h",
     "ritmo": "6:01 Min/km",
-    "pdf_page": 835,
+    "pdf_page": 151,
     "dorsal": "1126",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Cesar Dallos",
     "tiempo_diploma": "01:00:10",
-    "stats_diploma": "197. /357 692. /1597"
+    "stats_diploma": "197. /357 714. /1621"
   },
   {
-    "puesto": 693,
+    "puesto": 715,
     "placa": "1010",
     "nombre": "Alejandra Velasquez",
     "categoria": "10 K ABIERTA",
@@ -11773,15 +12147,15 @@ const RUNNERS_DATA = [
     "dif": "+43:02",
     "vel_prom": "9.9 Km/h",
     "ritmo": "6:01 Min/km",
-    "pdf_page": 383,
+    "pdf_page": 45,
     "dorsal": "1010",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Alejandra Velasquez",
     "tiempo_diploma": "01:00:14",
-    "stats_diploma": "55. /310 693. /1597"
+    "stats_diploma": "54. /309 715. /1621"
   },
   {
-    "puesto": 694,
+    "puesto": 716,
     "placa": "1262",
     "nombre": "HENRY ALBERTO PAREDES CORREDOR",
     "categoria": "10 K ABIERTA",
@@ -11790,15 +12164,15 @@ const RUNNERS_DATA = [
     "dif": "+43:03",
     "vel_prom": "9.9 Km/h",
     "ritmo": "6:01 Min/km",
-    "pdf_page": 836,
+    "pdf_page": 280,
     "dorsal": "1262",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "HENRY ALBERTO PAREDES CORREDOR",
     "tiempo_diploma": "01:00:15",
-    "stats_diploma": "198. /357 694. /1597"
+    "stats_diploma": "198. /357 716. /1621"
   },
   {
-    "puesto": 695,
+    "puesto": 717,
     "placa": "1173",
     "nombre": "Deymar Ayala Villamizar",
     "categoria": "10 K ABIERTA",
@@ -11807,15 +12181,15 @@ const RUNNERS_DATA = [
     "dif": "+43:12",
     "vel_prom": "9.9 Km/h",
     "ritmo": "6:02 Min/km",
-    "pdf_page": 837,
+    "pdf_page": 195,
     "dorsal": "1173",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Deymar Ayala Villamizar",
     "tiempo_diploma": "01:00:24",
-    "stats_diploma": "199. /357 695. /1597"
+    "stats_diploma": "199. /357 717. /1621"
   },
   {
-    "puesto": 696,
+    "puesto": 718,
     "placa": "1240",
     "nombre": "Fredy Torres",
     "categoria": "10 K ABIERTA",
@@ -11824,15 +12198,15 @@ const RUNNERS_DATA = [
     "dif": "+43:20",
     "vel_prom": "9.9 Km/h",
     "ritmo": "6:03 Min/km",
-    "pdf_page": 838,
+    "pdf_page": 260,
     "dorsal": "1240",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Fredy Torres",
     "tiempo_diploma": "01:00:32",
-    "stats_diploma": "200. /357 696. /1597"
+    "stats_diploma": "200. /357 718. /1621"
   },
   {
-    "puesto": 697,
+    "puesto": 719,
     "placa": "1272",
     "nombre": "Isai Eliud Delgado Reyes",
     "categoria": "10 K ABIERTA",
@@ -11841,15 +12215,15 @@ const RUNNERS_DATA = [
     "dif": "+43:20",
     "vel_prom": "9.9 Km/h",
     "ritmo": "6:03 Min/km",
-    "pdf_page": 839,
+    "pdf_page": 289,
     "dorsal": "1272",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Isai Eliud Delgado Reyes",
     "tiempo_diploma": "01:00:32",
-    "stats_diploma": "201. /357 697. /1597"
+    "stats_diploma": "201. /357 719. /1621"
   },
   {
-    "puesto": 698,
+    "puesto": 720,
     "placa": "1354",
     "nombre": "Juan Carlos Tejera Rodriguez",
     "categoria": "10 K ABIERTA",
@@ -11858,15 +12232,15 @@ const RUNNERS_DATA = [
     "dif": "+43:22",
     "vel_prom": "9.9 Km/h",
     "ritmo": "6:03 Min/km",
-    "pdf_page": 840,
+    "pdf_page": 365,
     "dorsal": "1354",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Juan Carlos Tejera Rodriguez",
     "tiempo_diploma": "01:00:34",
-    "stats_diploma": "202. /357 698. /1597"
+    "stats_diploma": "202. /357 720. /1621"
   },
   {
-    "puesto": 699,
+    "puesto": 721,
     "placa": "3356",
     "nombre": "MARTHA BUENO Q",
     "categoria": "10 K MASTER B",
@@ -11875,15 +12249,15 @@ const RUNNERS_DATA = [
     "dif": "+43:22",
     "vel_prom": "9.9 Km/h",
     "ritmo": "6:03 Min/km",
-    "pdf_page": 1199,
+    "pdf_page": 1248,
     "dorsal": "3356",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "MARTHA BUENO Q",
     "tiempo_diploma": "01:00:34",
-    "stats_diploma": "10. /33 699. /1597"
+    "stats_diploma": "10. /33 721. /1621"
   },
   {
-    "puesto": 700,
+    "puesto": 722,
     "placa": "1320",
     "nombre": "Johan Anaya",
     "categoria": "10 K ABIERTA",
@@ -11892,15 +12266,15 @@ const RUNNERS_DATA = [
     "dif": "+43:26",
     "vel_prom": "9.8 Km/h",
     "ritmo": "6:03 Min/km",
-    "pdf_page": 841,
+    "pdf_page": 334,
     "dorsal": "1320",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Johan Anaya",
     "tiempo_diploma": "01:00:38",
-    "stats_diploma": "203. /357 700. /1597"
+    "stats_diploma": "203. /357 722. /1621"
   },
   {
-    "puesto": 701,
+    "puesto": 723,
     "placa": "1742",
     "nombre": "Juan Camilo Moreno Martinez",
     "categoria": "10 K ABIERTA",
@@ -11909,15 +12283,15 @@ const RUNNERS_DATA = [
     "dif": "+43:29",
     "vel_prom": "9.8 Km/h",
     "ritmo": "6:04 Min/km",
-    "pdf_page": 842,
+    "pdf_page": 698,
     "dorsal": "1742",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Juan Camilo Moreno Martinez",
     "tiempo_diploma": "01:00:41",
-    "stats_diploma": "204. /357 701. /1597"
+    "stats_diploma": "204. /357 723. /1621"
   },
   {
-    "puesto": 702,
+    "puesto": 724,
     "placa": "1023",
     "nombre": "Alfredo Jose Noche Ovalle",
     "categoria": "10 K ABIERTA",
@@ -11926,15 +12300,15 @@ const RUNNERS_DATA = [
     "dif": "+43:32",
     "vel_prom": "9.8 Km/h",
     "ritmo": "6:04 Min/km",
-    "pdf_page": 843,
+    "pdf_page": 56,
     "dorsal": "1023",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Alfredo Jose Noche Ovalle",
     "tiempo_diploma": "01:00:44",
-    "stats_diploma": "205. /357 702. /1597"
+    "stats_diploma": "205. /357 724. /1621"
   },
   {
-    "puesto": 703,
+    "puesto": 725,
     "placa": "3149",
     "nombre": "Olga Cecilia Luna Rojas",
     "categoria": "10 K MASTER A",
@@ -11943,15 +12317,15 @@ const RUNNERS_DATA = [
     "dif": "+43:37",
     "vel_prom": "9.8 Km/h",
     "ritmo": "6:04 Min/km",
-    "pdf_page": 1014,
+    "pdf_page": 1140,
     "dorsal": "3149",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Olga Cecilia Luna Rojas",
     "tiempo_diploma": "01:00:49",
-    "stats_diploma": "19. /87 703. /1597"
+    "stats_diploma": "19. /87 725. /1621"
   },
   {
-    "puesto": 704,
+    "puesto": 726,
     "placa": "1283",
     "nombre": "Javier José Plata Soto",
     "categoria": "10 K ABIERTA",
@@ -11960,15 +12334,15 @@ const RUNNERS_DATA = [
     "dif": "+43:38",
     "vel_prom": "9.8 Km/h",
     "ritmo": "6:05 Min/km",
-    "pdf_page": 844,
+    "pdf_page": 300,
     "dorsal": "1283",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Javier José Plata Soto",
     "tiempo_diploma": "01:00:50",
-    "stats_diploma": "206. /357 704. /1597"
+    "stats_diploma": "206. /357 726. /1621"
   },
   {
-    "puesto": 705,
+    "puesto": 727,
     "placa": "1704",
     "nombre": "Daniela Pineda",
     "categoria": "10 K ABIERTA",
@@ -11977,15 +12351,15 @@ const RUNNERS_DATA = [
     "dif": "+43:39",
     "vel_prom": "9.8 Km/h",
     "ritmo": "6:05 Min/km",
-    "pdf_page": 384,
+    "pdf_page": 665,
     "dorsal": "1704",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Daniela Pineda",
     "tiempo_diploma": "00:15:28",
-    "stats_diploma": "56. /310 705. /1597"
+    "stats_diploma": "55. /309 727. /1621"
   },
   {
-    "puesto": 706,
+    "puesto": 728,
     "placa": "1410",
     "nombre": "LAURA LISSETH LIZARAZO SOLANO",
     "categoria": "10 K ABIERTA",
@@ -11994,15 +12368,15 @@ const RUNNERS_DATA = [
     "dif": "+43:41",
     "vel_prom": "9.8 Km/h",
     "ritmo": "6:05 Min/km",
-    "pdf_page": 385,
+    "pdf_page": 413,
     "dorsal": "1410",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "LAURA LISSETH LIZARAZO SOLANO",
     "tiempo_diploma": "01:00:53",
-    "stats_diploma": "57. /310 706. /1597"
+    "stats_diploma": "56. /309 728. /1621"
   },
   {
-    "puesto": 707,
+    "puesto": 729,
     "placa": "1561",
     "nombre": "Cristián Fernando Parra Jauregui",
     "categoria": "10 K ABIERTA",
@@ -12011,15 +12385,15 @@ const RUNNERS_DATA = [
     "dif": "+43:45",
     "vel_prom": "9.8 Km/h",
     "ritmo": "6:05 Min/km",
-    "pdf_page": 845,
+    "pdf_page": 541,
     "dorsal": "1561",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Cristián Fernando Parra Jauregui",
     "tiempo_diploma": "01:00:57",
-    "stats_diploma": "207. /357 707. /1597"
+    "stats_diploma": "207. /357 729. /1621"
   },
   {
-    "puesto": 708,
+    "puesto": 730,
     "placa": "3201",
     "nombre": "German Morales",
     "categoria": "10 K MASTER A",
@@ -12028,15 +12402,15 @@ const RUNNERS_DATA = [
     "dif": "+43:47",
     "vel_prom": "9.8 Km/h",
     "ritmo": "6:05 Min/km",
-    "pdf_page": 1139,
+    "pdf_page": 1184,
     "dorsal": "3201",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "German Morales",
     "tiempo_diploma": "01:00:59",
-    "stats_diploma": "57. /107 708. /1597"
+    "stats_diploma": "57. /107 730. /1621"
   },
   {
-    "puesto": 709,
+    "puesto": 731,
     "placa": "3141",
     "nombre": "Miguel jose Prada pinzon",
     "categoria": "10 K MASTER A",
@@ -12045,15 +12419,15 @@ const RUNNERS_DATA = [
     "dif": "+43:49",
     "vel_prom": "9.8 Km/h",
     "ritmo": "6:06 Min/km",
-    "pdf_page": 1140,
+    "pdf_page": 1132,
     "dorsal": "3141",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Miguel jose Prada pinzon",
     "tiempo_diploma": "01:01:01",
-    "stats_diploma": "58. /107 709. /1597"
+    "stats_diploma": "58. /107 731. /1621"
   },
   {
-    "puesto": 710,
+    "puesto": 732,
     "placa": "1028",
     "nombre": "Amanda Lucia Perez Meza",
     "categoria": "10 K ABIERTA",
@@ -12062,15 +12436,15 @@ const RUNNERS_DATA = [
     "dif": "+43:50",
     "vel_prom": "9.8 Km/h",
     "ritmo": "6:06 Min/km",
-    "pdf_page": 386,
+    "pdf_page": 60,
     "dorsal": "1028",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Amanda Lucia Perez Meza",
     "tiempo_diploma": "01:01:02",
-    "stats_diploma": "58. /310 710. /1597"
+    "stats_diploma": "57. /309 732. /1621"
   },
   {
-    "puesto": 711,
+    "puesto": 733,
     "placa": "3066",
     "nombre": "Henry López Trujillo",
     "categoria": "10 K MASTER A",
@@ -12079,15 +12453,15 @@ const RUNNERS_DATA = [
     "dif": "+43:53",
     "vel_prom": "9.8 Km/h",
     "ritmo": "6:06 Min/km",
-    "pdf_page": 1141,
+    "pdf_page": 1058,
     "dorsal": "3066",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Henry López Trujillo",
     "tiempo_diploma": "01:01:05",
-    "stats_diploma": "59. /107 711. /1597"
+    "stats_diploma": "59. /107 733. /1621"
   },
   {
-    "puesto": 712,
+    "puesto": 734,
     "placa": "5473",
     "nombre": "Miguel Lozano",
     "categoria": "5 K MASTER A",
@@ -12101,10 +12475,10 @@ const RUNNERS_DATA = [
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Miguel Lozano",
     "tiempo_diploma": "01:01:05",
-    "stats_diploma": "31. /32 712. /1597"
+    "stats_diploma": "31. /32 734. /1621"
   },
   {
-    "puesto": 713,
+    "puesto": 735,
     "placa": "1069",
     "nombre": "Angelica Maria Salcedo Guarin",
     "categoria": "10 K ABIERTA",
@@ -12113,15 +12487,15 @@ const RUNNERS_DATA = [
     "dif": "+43:56",
     "vel_prom": "9.8 Km/h",
     "ritmo": "6:06 Min/km",
-    "pdf_page": 387,
+    "pdf_page": 99,
     "dorsal": "1069",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Angelica Maria Salcedo Guarin",
     "tiempo_diploma": "01:01:08",
-    "stats_diploma": "59. /310 713. /1597"
+    "stats_diploma": "58. /309 735. /1621"
   },
   {
-    "puesto": 714,
+    "puesto": 736,
     "placa": "1729",
     "nombre": "Ana Yisel Cabrera",
     "categoria": "10 K ABIERTA",
@@ -12130,15 +12504,15 @@ const RUNNERS_DATA = [
     "dif": "+43:58",
     "vel_prom": "9.8 Km/h",
     "ritmo": "6:07 Min/km",
-    "pdf_page": 388,
+    "pdf_page": 686,
     "dorsal": "1729",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Ana Yisel Cabrera",
     "tiempo_diploma": "01:01:10",
-    "stats_diploma": "60. /310 714. /1597"
+    "stats_diploma": "59. /309 736. /1621"
   },
   {
-    "puesto": 715,
+    "puesto": 737,
     "placa": "1538",
     "nombre": "Natalia Melo",
     "categoria": "10 K ABIERTA",
@@ -12147,15 +12521,15 @@ const RUNNERS_DATA = [
     "dif": "+43:58",
     "vel_prom": "9.8 Km/h",
     "ritmo": "6:07 Min/km",
-    "pdf_page": 389,
+    "pdf_page": 521,
     "dorsal": "1538",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Natalia Melo",
     "tiempo_diploma": "01:01:10",
-    "stats_diploma": "61. /310 715. /1597"
+    "stats_diploma": "60. /309 737. /1621"
   },
   {
-    "puesto": 716,
+    "puesto": 738,
     "placa": "1447",
     "nombre": "Luis Eduardo Garcia",
     "categoria": "10 K ABIERTA",
@@ -12164,15 +12538,15 @@ const RUNNERS_DATA = [
     "dif": "+43:59",
     "vel_prom": "9.8 Km/h",
     "ritmo": "6:07 Min/km",
-    "pdf_page": 846,
+    "pdf_page": 443,
     "dorsal": "1447",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Luis Eduardo Garcia",
     "tiempo_diploma": "01:01:11",
-    "stats_diploma": "208. /357 716. /1597"
+    "stats_diploma": "208. /357 738. /1621"
   },
   {
-    "puesto": 717,
+    "puesto": 739,
     "placa": "1134",
     "nombre": "Cristhian Andrés Rincón González",
     "categoria": "10 K ABIERTA",
@@ -12181,15 +12555,15 @@ const RUNNERS_DATA = [
     "dif": "+44:03",
     "vel_prom": "9.7 Km/h",
     "ritmo": "6:07 Min/km",
-    "pdf_page": 847,
+    "pdf_page": 159,
     "dorsal": "1134",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Cristhian Andrés Rincón González",
     "tiempo_diploma": "01:01:15",
-    "stats_diploma": "209. /357 717. /1597"
+    "stats_diploma": "209. /357 739. /1621"
   },
   {
-    "puesto": 718,
+    "puesto": 740,
     "placa": "3136",
     "nombre": "MARYEN MARCELA TORRES MEJIA",
     "categoria": "10 K MASTER A",
@@ -12198,15 +12572,15 @@ const RUNNERS_DATA = [
     "dif": "+44:07",
     "vel_prom": "9.7 Km/h",
     "ritmo": "6:07 Min/km",
-    "pdf_page": 1015,
+    "pdf_page": 1127,
     "dorsal": "3136",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "MARYEN MARCELA TORRES MEJIA",
     "tiempo_diploma": "01:01:19",
-    "stats_diploma": "20. /87 718. /1597"
+    "stats_diploma": "20. /87 740. /1621"
   },
   {
-    "puesto": 719,
+    "puesto": 741,
     "placa": "1146",
     "nombre": "Daniel Fernando Castellanos",
     "categoria": "10 K ABIERTA",
@@ -12215,15 +12589,15 @@ const RUNNERS_DATA = [
     "dif": "+44:07",
     "vel_prom": "9.7 Km/h",
     "ritmo": "6:07 Min/km",
-    "pdf_page": 848,
+    "pdf_page": 171,
     "dorsal": "1146",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Daniel Fernando Castellanos",
     "tiempo_diploma": "01:01:19",
-    "stats_diploma": "210. /357 719. /1597"
+    "stats_diploma": "210. /357 741. /1621"
   },
   {
-    "puesto": 720,
+    "puesto": 742,
     "placa": "3023",
     "nombre": "Carlos  Francisco Vargas barajas",
     "categoria": "10 K MASTER A",
@@ -12232,15 +12606,15 @@ const RUNNERS_DATA = [
     "dif": "+44:09",
     "vel_prom": "9.7 Km/h",
     "ritmo": "6:08 Min/km",
-    "pdf_page": 1142,
+    "pdf_page": 1019,
     "dorsal": "3023",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Carlos  Francisco Vargas barajas",
     "tiempo_diploma": "01:01:21",
-    "stats_diploma": "60. /107 720. /1597"
+    "stats_diploma": "60. /107 742. /1621"
   },
   {
-    "puesto": 721,
+    "puesto": 743,
     "placa": "1593",
     "nombre": "Salome Picón García",
     "categoria": "10 K ABIERTA",
@@ -12249,15 +12623,15 @@ const RUNNERS_DATA = [
     "dif": "+44:13",
     "vel_prom": "9.7 Km/h",
     "ritmo": "6:08 Min/km",
-    "pdf_page": 390,
+    "pdf_page": 568,
     "dorsal": "1593",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Salome Picón García",
     "tiempo_diploma": "01:01:25",
-    "stats_diploma": "62. /310 721. /1597"
+    "stats_diploma": "61. /309 743. /1621"
   },
   {
-    "puesto": 722,
+    "puesto": 744,
     "placa": "3107",
     "nombre": "Karoll García",
     "categoria": "10 K MASTER A",
@@ -12266,15 +12640,15 @@ const RUNNERS_DATA = [
     "dif": "+44:14",
     "vel_prom": "9.7 Km/h",
     "ritmo": "6:08 Min/km",
-    "pdf_page": 1016,
+    "pdf_page": 1098,
     "dorsal": "3107",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Karoll García",
     "tiempo_diploma": "01:01:26",
-    "stats_diploma": "21. /87 722. /1597"
+    "stats_diploma": "21. /87 744. /1621"
   },
   {
-    "puesto": 723,
+    "puesto": 745,
     "placa": "3033",
     "nombre": "DIANA DIAZ",
     "categoria": "10 K MASTER A",
@@ -12283,15 +12657,15 @@ const RUNNERS_DATA = [
     "dif": "+44:14",
     "vel_prom": "9.7 Km/h",
     "ritmo": "6:08 Min/km",
-    "pdf_page": 1017,
+    "pdf_page": 1029,
     "dorsal": "3033",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "DIANA DIAZ",
     "tiempo_diploma": "01:01:26",
-    "stats_diploma": "22. /87 723. /1597"
+    "stats_diploma": "22. /87 745. /1621"
   },
   {
-    "puesto": 724,
+    "puesto": 746,
     "placa": "1416",
     "nombre": "LEIDY PAOLA BASTO",
     "categoria": "10 K ABIERTA",
@@ -12300,15 +12674,15 @@ const RUNNERS_DATA = [
     "dif": "+44:14",
     "vel_prom": "9.7 Km/h",
     "ritmo": "6:08 Min/km",
-    "pdf_page": 391,
+    "pdf_page": 417,
     "dorsal": "1416",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "LEIDY PAOLA BASTO",
     "tiempo_diploma": "01:01:26",
-    "stats_diploma": "63. /310 724. /1597"
+    "stats_diploma": "62. /309 746. /1621"
   },
   {
-    "puesto": 725,
+    "puesto": 747,
     "placa": "1358",
     "nombre": "Juan Diego Bernal",
     "categoria": "10 K ABIERTA",
@@ -12317,15 +12691,15 @@ const RUNNERS_DATA = [
     "dif": "+44:16",
     "vel_prom": "9.7 Km/h",
     "ritmo": "6:08 Min/km",
-    "pdf_page": 849,
+    "pdf_page": 369,
     "dorsal": "1358",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Juan Diego Bernal",
     "tiempo_diploma": "01:01:28",
-    "stats_diploma": "211. /357 725. /1597"
+    "stats_diploma": "211. /357 747. /1621"
   },
   {
-    "puesto": 726,
+    "puesto": 748,
     "placa": "1136",
     "nombre": "Cristian  Fabian Torres Sanchez",
     "categoria": "10 K ABIERTA",
@@ -12334,15 +12708,15 @@ const RUNNERS_DATA = [
     "dif": "+44:17",
     "vel_prom": "9.7 Km/h",
     "ritmo": "6:08 Min/km",
-    "pdf_page": 850,
+    "pdf_page": 161,
     "dorsal": "1136",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Cristian  Fabian Torres Sanchez",
     "tiempo_diploma": "01:01:29",
-    "stats_diploma": "212. /357 726. /1597"
+    "stats_diploma": "212. /357 748. /1621"
   },
   {
-    "puesto": 727,
+    "puesto": 749,
     "placa": "3385",
     "nombre": "Yaneth Porras Diaz",
     "categoria": "10 K MASTER B",
@@ -12351,15 +12725,15 @@ const RUNNERS_DATA = [
     "dif": "+44:20",
     "vel_prom": "9.7 Km/h",
     "ritmo": "6:09 Min/km",
-    "pdf_page": 1200,
+    "pdf_page": 1274,
     "dorsal": "3385",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Yaneth Porras Diaz",
     "tiempo_diploma": "01:01:32",
-    "stats_diploma": "11. /33 727. /1597"
+    "stats_diploma": "11. /33 749. /1621"
   },
   {
-    "puesto": 728,
+    "puesto": 750,
     "placa": "1531",
     "nombre": "Milton Ruiz Porras",
     "categoria": "10 K ABIERTA",
@@ -12368,15 +12742,15 @@ const RUNNERS_DATA = [
     "dif": "+44:20",
     "vel_prom": "9.7 Km/h",
     "ritmo": "6:09 Min/km",
-    "pdf_page": 851,
+    "pdf_page": 514,
     "dorsal": "1531",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Milton Ruiz Porras",
     "tiempo_diploma": "01:01:32",
-    "stats_diploma": "213. /357 728. /1597"
+    "stats_diploma": "213. /357 750. /1621"
   },
   {
-    "puesto": 729,
+    "puesto": 751,
     "placa": "3063",
     "nombre": "HECTOR GARCIA",
     "categoria": "10 K MASTER A",
@@ -12385,15 +12759,15 @@ const RUNNERS_DATA = [
     "dif": "+44:20",
     "vel_prom": "9.7 Km/h",
     "ritmo": "6:09 Min/km",
-    "pdf_page": 1143,
+    "pdf_page": 1056,
     "dorsal": "3063",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "HECTOR GARCIA",
     "tiempo_diploma": "01:01:32",
-    "stats_diploma": "61. /107 729. /1597"
+    "stats_diploma": "61. /107 751. /1621"
   },
   {
-    "puesto": 730,
+    "puesto": 752,
     "placa": "3022",
     "nombre": "Carlos Trillos Barón",
     "categoria": "10 K MASTER A",
@@ -12402,15 +12776,15 @@ const RUNNERS_DATA = [
     "dif": "+44:23",
     "vel_prom": "9.7 Km/h",
     "ritmo": "6:09 Min/km",
-    "pdf_page": 1144,
+    "pdf_page": 1018,
     "dorsal": "3022",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Carlos Trillos Barón",
     "tiempo_diploma": "01:01:35",
-    "stats_diploma": "62. /107 730. /1597"
+    "stats_diploma": "62. /107 752. /1621"
   },
   {
-    "puesto": 731,
+    "puesto": 753,
     "placa": "1038",
     "nombre": "Andrea Juliana Navarro Calderón",
     "categoria": "10 K ABIERTA",
@@ -12419,15 +12793,15 @@ const RUNNERS_DATA = [
     "dif": "+44:25",
     "vel_prom": "9.7 Km/h",
     "ritmo": "6:09 Min/km",
-    "pdf_page": 392,
+    "pdf_page": 70,
     "dorsal": "1038",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Andrea Juliana Navarro Calderón",
     "tiempo_diploma": "01:01:37",
-    "stats_diploma": "64. /310 731. /1597"
+    "stats_diploma": "63. /309 753. /1621"
   },
   {
-    "puesto": 732,
+    "puesto": 754,
     "placa": "3393",
     "nombre": "MAIRA JOSEFINA DIAZ",
     "categoria": "10 K MASTER B",
@@ -12436,15 +12810,15 @@ const RUNNERS_DATA = [
     "dif": "+44:26",
     "vel_prom": "9.7 Km/h",
     "ritmo": "6:09 Min/km",
-    "pdf_page": 1201,
+    "pdf_page": 1281,
     "dorsal": "3393",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "MAIRA JOSEFINA DIAZ",
     "tiempo_diploma": "01:01:38",
-    "stats_diploma": "12. /33 732. /1597"
+    "stats_diploma": "12. /33 754. /1621"
   },
   {
-    "puesto": 733,
+    "puesto": 755,
     "placa": "3350",
     "nombre": "Luis Hernando Castañeda Nieto",
     "categoria": "10 K MASTER B",
@@ -12453,15 +12827,15 @@ const RUNNERS_DATA = [
     "dif": "+44:31",
     "vel_prom": "9.7 Km/h",
     "ritmo": "6:10 Min/km",
-    "pdf_page": 1254,
+    "pdf_page": 1243,
     "dorsal": "3350",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Luis Hernando Castañeda Nieto",
     "tiempo_diploma": "01:01:43",
-    "stats_diploma": "32. /56 733. /1597"
+    "stats_diploma": "33. /57 755. /1621"
   },
   {
-    "puesto": 734,
+    "puesto": 756,
     "placa": "3378",
     "nombre": "Santiago Vanegas Umaña",
     "categoria": "10 K MASTER B",
@@ -12470,15 +12844,15 @@ const RUNNERS_DATA = [
     "dif": "+44:35",
     "vel_prom": "9.7 Km/h",
     "ritmo": "6:10 Min/km",
-    "pdf_page": 1255,
+    "pdf_page": 1267,
     "dorsal": "3378",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Santiago Vanegas Umaña",
     "tiempo_diploma": "01:01:47",
-    "stats_diploma": "33. /56 734. /1597"
+    "stats_diploma": "34. /57 756. /1621"
   },
   {
-    "puesto": 735,
+    "puesto": 757,
     "placa": "3153",
     "nombre": "Paola andrea Fonseca",
     "categoria": "10 K MASTER A",
@@ -12487,15 +12861,15 @@ const RUNNERS_DATA = [
     "dif": "+44:36",
     "vel_prom": "9.7 Km/h",
     "ritmo": "6:10 Min/km",
-    "pdf_page": 1018,
+    "pdf_page": 1143,
     "dorsal": "3153",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Paola andrea Fonseca",
     "tiempo_diploma": "01:01:48",
-    "stats_diploma": "23. /87 735. /1597"
+    "stats_diploma": "23. /87 757. /1621"
   },
   {
-    "puesto": 736,
+    "puesto": 758,
     "placa": "1250",
     "nombre": "Gladymir Darimar Gomez Labrador",
     "categoria": "10 K ABIERTA",
@@ -12504,15 +12878,15 @@ const RUNNERS_DATA = [
     "dif": "+44:37",
     "vel_prom": "9.7 Km/h",
     "ritmo": "6:10 Min/km",
-    "pdf_page": 393,
+    "pdf_page": 268,
     "dorsal": "1250",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Gladymir Darimar Gomez Labrador",
     "tiempo_diploma": "01:01:49",
-    "stats_diploma": "65. /310 736. /1597"
+    "stats_diploma": "64. /309 758. /1621"
   },
   {
-    "puesto": 737,
+    "puesto": 759,
     "placa": "1397",
     "nombre": "Kevin Duvan Leal Espinosa",
     "categoria": "10 K ABIERTA",
@@ -12521,15 +12895,15 @@ const RUNNERS_DATA = [
     "dif": "+44:38",
     "vel_prom": "9.7 Km/h",
     "ritmo": "6:11 Min/km",
-    "pdf_page": 852,
+    "pdf_page": 404,
     "dorsal": "1397",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Kevin Duvan Leal Espinosa",
     "tiempo_diploma": "01:01:50",
-    "stats_diploma": "214. /357 737. /1597"
+    "stats_diploma": "214. /357 759. /1621"
   },
   {
-    "puesto": 738,
+    "puesto": 760,
     "placa": "1733",
     "nombre": "Camilo Andres Morales Sandoval",
     "categoria": "10 K ABIERTA",
@@ -12538,15 +12912,15 @@ const RUNNERS_DATA = [
     "dif": "+44:40",
     "vel_prom": "9.6 Km/h",
     "ritmo": "6:11 Min/km",
-    "pdf_page": 853,
+    "pdf_page": 690,
     "dorsal": "1733",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Camilo Andres Morales Sandoval",
     "tiempo_diploma": "01:01:52",
-    "stats_diploma": "215. /357 738. /1597"
+    "stats_diploma": "215. /357 760. /1621"
   },
   {
-    "puesto": 739,
+    "puesto": 761,
     "placa": "1587",
     "nombre": "Ronaldo Antonio Oviedo Pinzon",
     "categoria": "10 K ABIERTA",
@@ -12555,15 +12929,15 @@ const RUNNERS_DATA = [
     "dif": "+44:41",
     "vel_prom": "9.6 Km/h",
     "ritmo": "6:11 Min/km",
-    "pdf_page": 854,
+    "pdf_page": 563,
     "dorsal": "1587",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Ronaldo Antonio Oviedo Pinzon",
     "tiempo_diploma": "01:01:53",
-    "stats_diploma": "216. /357 739. /1597"
+    "stats_diploma": "216. /357 761. /1621"
   },
   {
-    "puesto": 740,
+    "puesto": 762,
     "placa": "3189",
     "nombre": "Yenny Carolina Salinas",
     "categoria": "10 K MASTER A",
@@ -12572,15 +12946,15 @@ const RUNNERS_DATA = [
     "dif": "+44:42",
     "vel_prom": "9.6 Km/h",
     "ritmo": "6:11 Min/km",
-    "pdf_page": 1019,
+    "pdf_page": 1174,
     "dorsal": "3189",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Yenny Carolina Salinas",
     "tiempo_diploma": "01:01:54",
-    "stats_diploma": "24. /87 740. /1597"
+    "stats_diploma": "24. /87 762. /1621"
   },
   {
-    "puesto": 741,
+    "puesto": 763,
     "placa": "1223",
     "nombre": "Esteban Arenas Ortiz",
     "categoria": "10 K ABIERTA",
@@ -12589,15 +12963,15 @@ const RUNNERS_DATA = [
     "dif": "+44:43",
     "vel_prom": "9.6 Km/h",
     "ritmo": "6:11 Min/km",
-    "pdf_page": 855,
+    "pdf_page": 244,
     "dorsal": "1223",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Esteban Arenas Ortiz",
     "tiempo_diploma": "01:01:55",
-    "stats_diploma": "217. /357 741. /1597"
+    "stats_diploma": "217. /357 763. /1621"
   },
   {
-    "puesto": 742,
+    "puesto": 764,
     "placa": "1170",
     "nombre": "Dayanna Gómez Gómez",
     "categoria": "10 K ABIERTA",
@@ -12606,15 +12980,15 @@ const RUNNERS_DATA = [
     "dif": "+44:46",
     "vel_prom": "9.6 Km/h",
     "ritmo": "6:11 Min/km",
-    "pdf_page": 394,
+    "pdf_page": 192,
     "dorsal": "1170",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Dayanna Gómez Gómez",
     "tiempo_diploma": "01:01:58",
-    "stats_diploma": "66. /310 742. /1597"
+    "stats_diploma": "65. /309 764. /1621"
   },
   {
-    "puesto": 743,
+    "puesto": 765,
     "placa": "1476",
     "nombre": "María Angélica Arrieta Ferrer",
     "categoria": "10 K ABIERTA",
@@ -12623,15 +12997,15 @@ const RUNNERS_DATA = [
     "dif": "+44:46",
     "vel_prom": "9.6 Km/h",
     "ritmo": "6:11 Min/km",
-    "pdf_page": 395,
+    "pdf_page": 466,
     "dorsal": "1476",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "María Angélica Arrieta Ferrer",
     "tiempo_diploma": "01:01:58",
-    "stats_diploma": "67. /310 743. /1597"
+    "stats_diploma": "66. /309 765. /1621"
   },
   {
-    "puesto": 744,
+    "puesto": 766,
     "placa": "3019",
     "nombre": "Camilo Álvarez",
     "categoria": "10 K MASTER A",
@@ -12640,15 +13014,15 @@ const RUNNERS_DATA = [
     "dif": "+44:46",
     "vel_prom": "9.6 Km/h",
     "ritmo": "6:11 Min/km",
-    "pdf_page": 1145,
+    "pdf_page": 1016,
     "dorsal": "3019",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Camilo Álvarez",
     "tiempo_diploma": "01:01:58",
-    "stats_diploma": "63. /107 744. /1597"
+    "stats_diploma": "63. /107 766. /1621"
   },
   {
-    "puesto": 745,
+    "puesto": 767,
     "placa": "1649",
     "nombre": "Victor Jose quintero martinez",
     "categoria": "10 K ABIERTA",
@@ -12657,15 +13031,15 @@ const RUNNERS_DATA = [
     "dif": "+44:47",
     "vel_prom": "9.6 Km/h",
     "ritmo": "6:11 Min/km",
-    "pdf_page": 856,
+    "pdf_page": 616,
     "dorsal": "1649",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Victor Jose quintero martinez",
     "tiempo_diploma": "01:01:59",
-    "stats_diploma": "218. /357 745. /1597"
+    "stats_diploma": "218. /357 767. /1621"
   },
   {
-    "puesto": 746,
+    "puesto": 768,
     "placa": "1370",
     "nombre": "Juan Sebastián Rodríguez Bohórquez",
     "categoria": "10 K ABIERTA",
@@ -12674,15 +13048,15 @@ const RUNNERS_DATA = [
     "dif": "+44:51",
     "vel_prom": "9.6 Km/h",
     "ritmo": "6:12 Min/km",
-    "pdf_page": 857,
+    "pdf_page": 380,
     "dorsal": "1370",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Juan Sebastián Rodríguez Bohórquez",
     "tiempo_diploma": "01:02:03",
-    "stats_diploma": "219. /357 746. /1597"
+    "stats_diploma": "219. /357 768. /1621"
   },
   {
-    "puesto": 747,
+    "puesto": 769,
     "placa": "1557",
     "nombre": "Paola Galván",
     "categoria": "10 K ABIERTA",
@@ -12691,15 +13065,15 @@ const RUNNERS_DATA = [
     "dif": "+44:55",
     "vel_prom": "9.6 Km/h",
     "ritmo": "6:12 Min/km",
-    "pdf_page": 396,
+    "pdf_page": 538,
     "dorsal": "1557",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Paola Galván",
     "tiempo_diploma": "01:02:07",
-    "stats_diploma": "68. /310 747. /1597"
+    "stats_diploma": "67. /309 769. /1621"
   },
   {
-    "puesto": 748,
+    "puesto": 770,
     "placa": "1091",
     "nombre": "Camila Navarro Suárez",
     "categoria": "10 K ABIERTA",
@@ -12708,15 +13082,15 @@ const RUNNERS_DATA = [
     "dif": "+44:57",
     "vel_prom": "9.6 Km/h",
     "ritmo": "6:12 Min/km",
-    "pdf_page": 397,
+    "pdf_page": 121,
     "dorsal": "1091",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Camila Navarro Suárez",
     "tiempo_diploma": "01:02:09",
-    "stats_diploma": "69. /310 748. /1597"
+    "stats_diploma": "68. /309 770. /1621"
   },
   {
-    "puesto": 749,
+    "puesto": 771,
     "placa": "103",
     "nombre": "Brandon Isaías Florez Pinzon",
     "categoria": "10 K ELITE",
@@ -12725,15 +13099,15 @@ const RUNNERS_DATA = [
     "dif": "+44:58",
     "vel_prom": "9.6 Km/h",
     "ritmo": "6:13 Min/km",
-    "pdf_page": 325,
+    "pdf_page": 2,
     "dorsal": "103",
     "categoria_diploma": "10 K ELITE",
     "nombre_diploma": "Brandon Isaías Florez Pinzon",
     "tiempo_diploma": "01:02:10",
-    "stats_diploma": "7. /10 749. /1597"
+    "stats_diploma": "7. /10 771. /1621"
   },
   {
-    "puesto": 750,
+    "puesto": 772,
     "placa": "1743",
     "nombre": "Raul Ariza",
     "categoria": "10 K ABIERTA",
@@ -12742,15 +13116,15 @@ const RUNNERS_DATA = [
     "dif": "+44:59",
     "vel_prom": "9.6 Km/h",
     "ritmo": "6:13 Min/km",
-    "pdf_page": 858,
+    "pdf_page": 699,
     "dorsal": "1743",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Raul Ariza",
     "tiempo_diploma": "01:02:11",
-    "stats_diploma": "220. /357 750. /1597"
+    "stats_diploma": "220. /357 772. /1621"
   },
   {
-    "puesto": 751,
+    "puesto": 773,
     "placa": "3311",
     "nombre": "Cesar Garcia",
     "categoria": "10 K MASTER B",
@@ -12759,15 +13133,15 @@ const RUNNERS_DATA = [
     "dif": "+45:01",
     "vel_prom": "9.6 Km/h",
     "ritmo": "6:13 Min/km",
-    "pdf_page": 1256,
+    "pdf_page": 1204,
     "dorsal": "3311",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Cesar Garcia",
     "tiempo_diploma": "01:02:13",
-    "stats_diploma": "34. /56 751. /1597"
+    "stats_diploma": "35. /57 773. /1621"
   },
   {
-    "puesto": 752,
+    "puesto": 774,
     "placa": "3184",
     "nombre": "Xiomara Isleny Fino Tello",
     "categoria": "10 K MASTER A",
@@ -12776,15 +13150,15 @@ const RUNNERS_DATA = [
     "dif": "+45:03",
     "vel_prom": "9.6 Km/h",
     "ritmo": "6:13 Min/km",
-    "pdf_page": 1020,
+    "pdf_page": 1169,
     "dorsal": "3184",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Xiomara Isleny Fino Tello",
     "tiempo_diploma": "01:02:15",
-    "stats_diploma": "25. /87 752. /1597"
+    "stats_diploma": "25. /87 774. /1621"
   },
   {
-    "puesto": 753,
+    "puesto": 775,
     "placa": "1158",
     "nombre": "David Solano",
     "categoria": "10 K ABIERTA",
@@ -12793,15 +13167,15 @@ const RUNNERS_DATA = [
     "dif": "+45:03",
     "vel_prom": "9.6 Km/h",
     "ritmo": "6:13 Min/km",
-    "pdf_page": 859,
+    "pdf_page": 181,
     "dorsal": "1158",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "David Solano",
     "tiempo_diploma": "01:02:15",
-    "stats_diploma": "221. /357 753. /1597"
+    "stats_diploma": "221. /357 775. /1621"
   },
   {
-    "puesto": 754,
+    "puesto": 776,
     "placa": "1549",
     "nombre": "NICOLAS SANTIAGO FUENTES FLOREZ",
     "categoria": "10 K ABIERTA",
@@ -12810,15 +13184,15 @@ const RUNNERS_DATA = [
     "dif": "+45:03",
     "vel_prom": "9.6 Km/h",
     "ritmo": "6:13 Min/km",
-    "pdf_page": 860,
+    "pdf_page": 530,
     "dorsal": "1549",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "NICOLAS SANTIAGO FUENTES FLOREZ",
     "tiempo_diploma": "01:02:15",
-    "stats_diploma": "222. /357 754. /1597"
+    "stats_diploma": "222. /357 776. /1621"
   },
   {
-    "puesto": 755,
+    "puesto": 777,
     "placa": "3015",
     "nombre": "Angélica Pacheco",
     "categoria": "10 K MASTER A",
@@ -12827,15 +13201,15 @@ const RUNNERS_DATA = [
     "dif": "+45:07",
     "vel_prom": "9.6 Km/h",
     "ritmo": "6:13 Min/km",
-    "pdf_page": 1021,
+    "pdf_page": 1013,
     "dorsal": "3015",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Angélica Pacheco",
     "tiempo_diploma": "01:02:19",
-    "stats_diploma": "26. /87 755. /1597"
+    "stats_diploma": "26. /87 777. /1621"
   },
   {
-    "puesto": 756,
+    "puesto": 778,
     "placa": "1139",
     "nombre": "Daniel Oviedo M",
     "categoria": "10 K ABIERTA",
@@ -12844,15 +13218,15 @@ const RUNNERS_DATA = [
     "dif": "+45:07",
     "vel_prom": "9.6 Km/h",
     "ritmo": "6:13 Min/km",
-    "pdf_page": 861,
+    "pdf_page": 164,
     "dorsal": "1139",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Daniel Oviedo M",
     "tiempo_diploma": "01:02:19",
-    "stats_diploma": "223. /357 756. /1597"
+    "stats_diploma": "223. /357 778. /1621"
   },
   {
-    "puesto": 757,
+    "puesto": 779,
     "placa": "3054",
     "nombre": "Gabriel Martinez Calderon",
     "categoria": "10 K MASTER A",
@@ -12861,15 +13235,15 @@ const RUNNERS_DATA = [
     "dif": "+45:13",
     "vel_prom": "9.6 Km/h",
     "ritmo": "6:14 Min/km",
-    "pdf_page": 1146,
+    "pdf_page": 1048,
     "dorsal": "3054",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Gabriel Martinez Calderon",
     "tiempo_diploma": "01:02:25",
-    "stats_diploma": "64. /107 757. /1597"
+    "stats_diploma": "64. /107 779. /1621"
   },
   {
-    "puesto": 758,
+    "puesto": 780,
     "placa": "3157",
     "nombre": "Rafael Cruz Casado",
     "categoria": "10 K MASTER A",
@@ -12883,10 +13257,10 @@ const RUNNERS_DATA = [
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Rafael Cruz Casado",
     "tiempo_diploma": "01:02:28",
-    "stats_diploma": "65. /107 758. /1597"
+    "stats_diploma": "65. /107 780. /1621"
   },
   {
-    "puesto": 759,
+    "puesto": 781,
     "placa": "1658",
     "nombre": "Wilfran Navarro",
     "categoria": "10 K ABIERTA",
@@ -12895,15 +13269,15 @@ const RUNNERS_DATA = [
     "dif": "+45:18",
     "vel_prom": "9.5 Km/h",
     "ritmo": "6:15 Min/km",
-    "pdf_page": 862,
+    "pdf_page": 625,
     "dorsal": "1658",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Wilfran Navarro",
     "tiempo_diploma": "01:02:30",
-    "stats_diploma": "224. /357 759. /1597"
+    "stats_diploma": "224. /357 781. /1621"
   },
   {
-    "puesto": 760,
+    "puesto": 782,
     "placa": "1645",
     "nombre": "Valery Sofía Noriega Ortiz",
     "categoria": "10 K ABIERTA",
@@ -12912,15 +13286,15 @@ const RUNNERS_DATA = [
     "dif": "+45:18",
     "vel_prom": "9.5 Km/h",
     "ritmo": "6:15 Min/km",
-    "pdf_page": 398,
+    "pdf_page": 612,
     "dorsal": "1645",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Valery Sofía Noriega Ortiz",
     "tiempo_diploma": "01:02:30",
-    "stats_diploma": "70. /310 760. /1597"
+    "stats_diploma": "69. /309 782. /1621"
   },
   {
-    "puesto": 761,
+    "puesto": 783,
     "placa": "1185",
     "nombre": "Diego Andres Toloza Monsalve",
     "categoria": "10 K ABIERTA",
@@ -12929,15 +13303,15 @@ const RUNNERS_DATA = [
     "dif": "+45:21",
     "vel_prom": "9.5 Km/h",
     "ritmo": "6:15 Min/km",
-    "pdf_page": 863,
+    "pdf_page": 207,
     "dorsal": "1185",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Diego Andres Toloza Monsalve",
     "tiempo_diploma": "01:02:33",
-    "stats_diploma": "225. /357 761. /1597"
+    "stats_diploma": "225. /357 783. /1621"
   },
   {
-    "puesto": 762,
+    "puesto": 784,
     "placa": "1280",
     "nombre": "Jashley Alejandra Florez Quintero",
     "categoria": "10 K ABIERTA",
@@ -12946,15 +13320,15 @@ const RUNNERS_DATA = [
     "dif": "+45:21",
     "vel_prom": "9.5 Km/h",
     "ritmo": "6:15 Min/km",
-    "pdf_page": 399,
+    "pdf_page": 297,
     "dorsal": "1280",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Jashley Alejandra Florez Quintero",
     "tiempo_diploma": "01:02:33",
-    "stats_diploma": "71. /310 762. /1597"
+    "stats_diploma": "70. /309 784. /1621"
   },
   {
-    "puesto": 763,
+    "puesto": 785,
     "placa": "1539",
     "nombre": "Natalia Herrera Manrique",
     "categoria": "10 K ABIERTA",
@@ -12963,15 +13337,15 @@ const RUNNERS_DATA = [
     "dif": "+45:22",
     "vel_prom": "9.5 Km/h",
     "ritmo": "6:15 Min/km",
-    "pdf_page": 400,
+    "pdf_page": 522,
     "dorsal": "1539",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Natalia Herrera Manrique",
     "tiempo_diploma": "01:02:34",
-    "stats_diploma": "72. /310 763. /1597"
+    "stats_diploma": "71. /309 785. /1621"
   },
   {
-    "puesto": 764,
+    "puesto": 786,
     "placa": "1507",
     "nombre": "Marlon Yesid Sepulveda Ortiz",
     "categoria": "10 K ABIERTA",
@@ -12980,15 +13354,15 @@ const RUNNERS_DATA = [
     "dif": "+45:23",
     "vel_prom": "9.5 Km/h",
     "ritmo": "6:15 Min/km",
-    "pdf_page": 864,
+    "pdf_page": 492,
     "dorsal": "1507",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Marlon Yesid Sepulveda Ortiz",
     "tiempo_diploma": "01:02:35",
-    "stats_diploma": "226. /357 764. /1597"
+    "stats_diploma": "226. /357 786. /1621"
   },
   {
-    "puesto": 765,
+    "puesto": 787,
     "placa": "3368",
     "nombre": "Orlando Alfonso Contreras Cotera",
     "categoria": "10 K MASTER B",
@@ -12997,15 +13371,15 @@ const RUNNERS_DATA = [
     "dif": "+45:24",
     "vel_prom": "9.5 Km/h",
     "ritmo": "6:15 Min/km",
-    "pdf_page": 1257,
+    "pdf_page": 1259,
     "dorsal": "3368",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Orlando Alfonso Contreras Cotera",
     "tiempo_diploma": "01:02:36",
-    "stats_diploma": "35. /56 765. /1597"
+    "stats_diploma": "36. /57 787. /1621"
   },
   {
-    "puesto": 766,
+    "puesto": 788,
     "placa": "1424",
     "nombre": "Leslie Patiño",
     "categoria": "10 K ABIERTA",
@@ -13014,15 +13388,15 @@ const RUNNERS_DATA = [
     "dif": "+45:25",
     "vel_prom": "9.5 Km/h",
     "ritmo": "6:15 Min/km",
-    "pdf_page": 401,
+    "pdf_page": 425,
     "dorsal": "1424",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Leslie Patiño",
     "tiempo_diploma": "01:02:37",
-    "stats_diploma": "73. /310 766. /1597"
+    "stats_diploma": "72. /309 788. /1621"
   },
   {
-    "puesto": 767,
+    "puesto": 789,
     "placa": "1343",
     "nombre": "JOSE MANUEL ORTIZ ZABALA",
     "categoria": "10 K ABIERTA",
@@ -13031,15 +13405,15 @@ const RUNNERS_DATA = [
     "dif": "+45:26",
     "vel_prom": "9.5 Km/h",
     "ritmo": "6:15 Min/km",
-    "pdf_page": 865,
+    "pdf_page": 355,
     "dorsal": "1343",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "JOSE MANUEL ORTIZ ZABALA",
     "tiempo_diploma": "01:02:38",
-    "stats_diploma": "227. /357 767. /1597"
+    "stats_diploma": "227. /357 789. /1621"
   },
   {
-    "puesto": 768,
+    "puesto": 790,
     "placa": "1174",
     "nombre": "Diana Parra",
     "categoria": "10 K ABIERTA",
@@ -13048,15 +13422,15 @@ const RUNNERS_DATA = [
     "dif": "+45:28",
     "vel_prom": "9.5 Km/h",
     "ritmo": "6:16 Min/km",
-    "pdf_page": 402,
+    "pdf_page": 196,
     "dorsal": "1174",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Diana Parra",
     "tiempo_diploma": "01:02:40",
-    "stats_diploma": "74. /310 768. /1597"
+    "stats_diploma": "73. /309 790. /1621"
   },
   {
-    "puesto": 769,
+    "puesto": 791,
     "placa": "1304",
     "nombre": "Jesus Gabriel Botello García",
     "categoria": "10 K ABIERTA",
@@ -13065,15 +13439,15 @@ const RUNNERS_DATA = [
     "dif": "+45:28",
     "vel_prom": "9.5 Km/h",
     "ritmo": "6:16 Min/km",
-    "pdf_page": 866,
+    "pdf_page": 321,
     "dorsal": "1304",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Jesus Gabriel Botello García",
     "tiempo_diploma": "01:02:40",
-    "stats_diploma": "228. /357 769. /1597"
+    "stats_diploma": "228. /357 791. /1621"
   },
   {
-    "puesto": 770,
+    "puesto": 792,
     "placa": "1145",
     "nombre": "Daniel Alejandro Loaiza Rueda",
     "categoria": "10 K ABIERTA",
@@ -13082,15 +13456,15 @@ const RUNNERS_DATA = [
     "dif": "+45:30",
     "vel_prom": "9.5 Km/h",
     "ritmo": "6:16 Min/km",
-    "pdf_page": 867,
+    "pdf_page": 170,
     "dorsal": "1145",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Daniel Alejandro Loaiza Rueda",
     "tiempo_diploma": "01:02:42",
-    "stats_diploma": "229. /357 770. /1597"
+    "stats_diploma": "229. /357 792. /1621"
   },
   {
-    "puesto": 771,
+    "puesto": 793,
     "placa": "1572",
     "nombre": "Rafael Velasco Rodríguez",
     "categoria": "10 K ABIERTA",
@@ -13099,15 +13473,15 @@ const RUNNERS_DATA = [
     "dif": "+45:36",
     "vel_prom": "9.5 Km/h",
     "ritmo": "6:16 Min/km",
-    "pdf_page": 868,
+    "pdf_page": 551,
     "dorsal": "1572",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Rafael Velasco Rodríguez",
     "tiempo_diploma": "01:02:48",
-    "stats_diploma": "230. /357 771. /1597"
+    "stats_diploma": "230. /357 793. /1621"
   },
   {
-    "puesto": 772,
+    "puesto": 794,
     "placa": "3100",
     "nombre": "JUAN ANDRES SUÁREZ GUTIÉRREZ",
     "categoria": "10 K MASTER A",
@@ -13116,15 +13490,15 @@ const RUNNERS_DATA = [
     "dif": "+45:38",
     "vel_prom": "9.5 Km/h",
     "ritmo": "6:17 Min/km",
-    "pdf_page": 1148,
+    "pdf_page": 1092,
     "dorsal": "3100",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "JUAN ANDRES SUÁREZ GUTIÉRREZ",
     "tiempo_diploma": "01:02:50",
-    "stats_diploma": "66. /107 772. /1597"
+    "stats_diploma": "66. /107 794. /1621"
   },
   {
-    "puesto": 773,
+    "puesto": 795,
     "placa": "1655",
     "nombre": "Wendy Carolina Rivera Rodriguez",
     "categoria": "10 K ABIERTA",
@@ -13133,15 +13507,15 @@ const RUNNERS_DATA = [
     "dif": "+45:38",
     "vel_prom": "9.5 Km/h",
     "ritmo": "6:17 Min/km",
-    "pdf_page": 869,
+    "pdf_page": 622,
     "dorsal": "1655",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Wendy Carolina Rivera Rodriguez",
     "tiempo_diploma": "01:02:50",
-    "stats_diploma": "231. /357 773. /1597"
+    "stats_diploma": "231. /357 795. /1621"
   },
   {
-    "puesto": 774,
+    "puesto": 796,
     "placa": "1404",
     "nombre": "Laura Mayorga Cáceres",
     "categoria": "10 K ABIERTA",
@@ -13150,15 +13524,15 @@ const RUNNERS_DATA = [
     "dif": "+45:46",
     "vel_prom": "9.5 Km/h",
     "ritmo": "6:17 Min/km",
-    "pdf_page": 403,
+    "pdf_page": 409,
     "dorsal": "1404",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Laura Mayorga Cáceres",
     "tiempo_diploma": "01:02:58",
-    "stats_diploma": "75. /310 774. /1597"
+    "stats_diploma": "74. /309 796. /1621"
   },
   {
-    "puesto": 775,
+    "puesto": 797,
     "placa": "1619",
     "nombre": "Shirley Ramirez",
     "categoria": "10 K ABIERTA",
@@ -13167,15 +13541,15 @@ const RUNNERS_DATA = [
     "dif": "+45:47",
     "vel_prom": "9.5 Km/h",
     "ritmo": "6:17 Min/km",
-    "pdf_page": 404,
+    "pdf_page": 589,
     "dorsal": "1619",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Shirley Ramirez",
     "tiempo_diploma": "01:02:59",
-    "stats_diploma": "76. /310 775. /1597"
+    "stats_diploma": "75. /309 797. /1621"
   },
   {
-    "puesto": 776,
+    "puesto": 798,
     "placa": "1200",
     "nombre": "Edinho Aldahir Mejia Cristancho",
     "categoria": "10 K ABIERTA",
@@ -13184,15 +13558,15 @@ const RUNNERS_DATA = [
     "dif": "+45:47",
     "vel_prom": "9.5 Km/h",
     "ritmo": "6:17 Min/km",
-    "pdf_page": 870,
+    "pdf_page": 222,
     "dorsal": "1200",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Edinho Aldahir Mejia Cristancho",
     "tiempo_diploma": "01:02:59",
-    "stats_diploma": "232. /357 776. /1597"
+    "stats_diploma": "232. /357 798. /1621"
   },
   {
-    "puesto": 777,
+    "puesto": 799,
     "placa": "3327",
     "nombre": "Gerardo Naranjo Garcia",
     "categoria": "10 K MASTER B",
@@ -13201,15 +13575,15 @@ const RUNNERS_DATA = [
     "dif": "+45:48",
     "vel_prom": "9.5 Km/h",
     "ritmo": "6:18 Min/km",
-    "pdf_page": 1258,
+    "pdf_page": 1220,
     "dorsal": "3327",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Gerardo Naranjo Garcia",
     "tiempo_diploma": "01:03:00",
-    "stats_diploma": "36. /56 777. /1597"
+    "stats_diploma": "37. /57 799. /1621"
   },
   {
-    "puesto": 778,
+    "puesto": 800,
     "placa": "1011",
     "nombre": "Alejandro Cortes Arango",
     "categoria": "10 K ABIERTA",
@@ -13218,15 +13592,15 @@ const RUNNERS_DATA = [
     "dif": "+45:49",
     "vel_prom": "9.5 Km/h",
     "ritmo": "6:18 Min/km",
-    "pdf_page": 871,
+    "pdf_page": 46,
     "dorsal": "1011",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Alejandro Cortes Arango",
     "tiempo_diploma": "01:03:01",
-    "stats_diploma": "233. /357 778. /1597"
+    "stats_diploma": "233. /357 800. /1621"
   },
   {
-    "puesto": 779,
+    "puesto": 801,
     "placa": "1201",
     "nombre": "Edinson Fabián Saavedra ortiz",
     "categoria": "10 K ABIERTA",
@@ -13235,15 +13609,15 @@ const RUNNERS_DATA = [
     "dif": "+45:51",
     "vel_prom": "9.5 Km/h",
     "ritmo": "6:18 Min/km",
-    "pdf_page": 872,
+    "pdf_page": 223,
     "dorsal": "1201",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Edinson Fabián Saavedra ortiz",
     "tiempo_diploma": "01:03:03",
-    "stats_diploma": "234. /357 779. /1597"
+    "stats_diploma": "234. /357 801. /1621"
   },
   {
-    "puesto": 780,
+    "puesto": 802,
     "placa": "1026",
     "nombre": "Alvaro Campos",
     "categoria": "10 K ABIERTA",
@@ -13252,15 +13626,15 @@ const RUNNERS_DATA = [
     "dif": "+45:53",
     "vel_prom": "9.5 Km/h",
     "ritmo": "6:18 Min/km",
-    "pdf_page": 873,
+    "pdf_page": 58,
     "dorsal": "1026",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Alvaro Campos",
     "tiempo_diploma": "01:03:05",
-    "stats_diploma": "235. /357 780. /1597"
+    "stats_diploma": "235. /357 802. /1621"
   },
   {
-    "puesto": 781,
+    "puesto": 803,
     "placa": "1669",
     "nombre": "Yeison Danuil Ascanio Ascanio",
     "categoria": "10 K ABIERTA",
@@ -13269,15 +13643,15 @@ const RUNNERS_DATA = [
     "dif": "+45:54",
     "vel_prom": "9.5 Km/h",
     "ritmo": "6:18 Min/km",
-    "pdf_page": 874,
+    "pdf_page": 635,
     "dorsal": "1669",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Yeison Danuil Ascanio Ascanio",
     "tiempo_diploma": "01:03:06",
-    "stats_diploma": "236. /357 781. /1597"
+    "stats_diploma": "236. /357 803. /1621"
   },
   {
-    "puesto": 782,
+    "puesto": 804,
     "placa": "3376",
     "nombre": "samuel prada cobos",
     "categoria": "10 K MASTER B",
@@ -13286,15 +13660,15 @@ const RUNNERS_DATA = [
     "dif": "+45:59",
     "vel_prom": "9.4 Km/h",
     "ritmo": "6:19 Min/km",
-    "pdf_page": 1259,
+    "pdf_page": 1265,
     "dorsal": "3376",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "samuel prada cobos",
     "tiempo_diploma": "01:03:11",
-    "stats_diploma": "37. /56 782. /1597"
+    "stats_diploma": "38. /57 804. /1621"
   },
   {
-    "puesto": 783,
+    "puesto": 805,
     "placa": "1709",
     "nombre": "Alvaro Andres Villamizar Barragan",
     "categoria": "10 K ABIERTA",
@@ -13303,15 +13677,15 @@ const RUNNERS_DATA = [
     "dif": "+46:03",
     "vel_prom": "9.4 Km/h",
     "ritmo": "6:19 Min/km",
-    "pdf_page": 875,
+    "pdf_page": 669,
     "dorsal": "1709",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Alvaro Andres Villamizar Barragan",
     "tiempo_diploma": "01:03:15",
-    "stats_diploma": "237. /357 783. /1597"
+    "stats_diploma": "237. /357 805. /1621"
   },
   {
-    "puesto": 784,
+    "puesto": 806,
     "placa": "1613",
     "nombre": "Sergio Andres Morales Garcia",
     "categoria": "10 K ABIERTA",
@@ -13320,15 +13694,15 @@ const RUNNERS_DATA = [
     "dif": "+46:04",
     "vel_prom": "9.4 Km/h",
     "ritmo": "6:19 Min/km",
-    "pdf_page": 876,
+    "pdf_page": 584,
     "dorsal": "1613",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Sergio Andres Morales Garcia",
     "tiempo_diploma": "01:03:16",
-    "stats_diploma": "238. /357 784. /1597"
+    "stats_diploma": "238. /357 806. /1621"
   },
   {
-    "puesto": 785,
+    "puesto": 807,
     "placa": "1615",
     "nombre": "Sergio Andres Suarez Florez",
     "categoria": "10 K ABIERTA",
@@ -13337,15 +13711,15 @@ const RUNNERS_DATA = [
     "dif": "+46:06",
     "vel_prom": "9.4 Km/h",
     "ritmo": "6:19 Min/km",
-    "pdf_page": 877,
+    "pdf_page": 586,
     "dorsal": "1615",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Sergio Andres Suarez Florez",
     "tiempo_diploma": "01:03:18",
-    "stats_diploma": "239. /357 785. /1597"
+    "stats_diploma": "239. /357 807. /1621"
   },
   {
-    "puesto": 786,
+    "puesto": 808,
     "placa": "1269",
     "nombre": "Hugo andres Ocampo Barragán",
     "categoria": "10 K ABIERTA",
@@ -13354,15 +13728,15 @@ const RUNNERS_DATA = [
     "dif": "+46:09",
     "vel_prom": "9.4 Km/h",
     "ritmo": "6:20 Min/km",
-    "pdf_page": 878,
+    "pdf_page": 286,
     "dorsal": "1269",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Hugo andres Ocampo Barragán",
     "tiempo_diploma": "01:03:21",
-    "stats_diploma": "240. /357 786. /1597"
+    "stats_diploma": "240. /357 808. /1621"
   },
   {
-    "puesto": 787,
+    "puesto": 809,
     "placa": "1186",
     "nombre": "Diego Andres Avila Ortiz",
     "categoria": "10 K ABIERTA",
@@ -13371,15 +13745,15 @@ const RUNNERS_DATA = [
     "dif": "+46:10",
     "vel_prom": "9.4 Km/h",
     "ritmo": "6:20 Min/km",
-    "pdf_page": 879,
+    "pdf_page": 208,
     "dorsal": "1186",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Diego Andres Avila Ortiz",
     "tiempo_diploma": "01:03:22",
-    "stats_diploma": "241. /357 787. /1597"
+    "stats_diploma": "241. /357 809. /1621"
   },
   {
-    "puesto": 788,
+    "puesto": 810,
     "placa": "3209",
     "nombre": "Myriam Pineda Saavedra",
     "categoria": "10 K MASTER A",
@@ -13388,15 +13762,15 @@ const RUNNERS_DATA = [
     "dif": "+46:11",
     "vel_prom": "9.4 Km/h",
     "ritmo": "6:20 Min/km",
-    "pdf_page": 1022,
+    "pdf_page": 1191,
     "dorsal": "3209",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Myriam Pineda Saavedra",
     "tiempo_diploma": "01:03:23",
-    "stats_diploma": "27. /87 788. /1597"
+    "stats_diploma": "27. /87 810. /1621"
   },
   {
-    "puesto": 789,
+    "puesto": 811,
     "placa": "1493",
     "nombre": "María Juliana Villamizar Macías",
     "categoria": "10 K ABIERTA",
@@ -13405,15 +13779,15 @@ const RUNNERS_DATA = [
     "dif": "+46:11",
     "vel_prom": "9.4 Km/h",
     "ritmo": "6:20 Min/km",
-    "pdf_page": 405,
+    "pdf_page": 479,
     "dorsal": "1493",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "María Juliana Villamizar Macías",
     "tiempo_diploma": "01:03:23",
-    "stats_diploma": "77. /310 789. /1597"
+    "stats_diploma": "76. /309 811. /1621"
   },
   {
-    "puesto": 790,
+    "puesto": 812,
     "placa": "1301",
     "nombre": "Jessica Daniela Guevara Salazar",
     "categoria": "10 K ABIERTA",
@@ -13422,15 +13796,15 @@ const RUNNERS_DATA = [
     "dif": "+46:12",
     "vel_prom": "9.4 Km/h",
     "ritmo": "6:20 Min/km",
-    "pdf_page": 406,
+    "pdf_page": 318,
     "dorsal": "1301",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Jessica Daniela Guevara Salazar",
     "tiempo_diploma": "01:03:24",
-    "stats_diploma": "78. /310 790. /1597"
+    "stats_diploma": "77. /309 812. /1621"
   },
   {
-    "puesto": 791,
+    "puesto": 813,
     "placa": "1064",
     "nombre": "Angelica Leal",
     "categoria": "10 K ABIERTA",
@@ -13439,15 +13813,15 @@ const RUNNERS_DATA = [
     "dif": "+46:12",
     "vel_prom": "9.4 Km/h",
     "ritmo": "6:20 Min/km",
-    "pdf_page": 407,
+    "pdf_page": 94,
     "dorsal": "1064",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Angelica Leal",
     "tiempo_diploma": "01:03:24",
-    "stats_diploma": "79. /310 791. /1597"
+    "stats_diploma": "78. /309 813. /1621"
   },
   {
-    "puesto": 792,
+    "puesto": 814,
     "placa": "1340",
     "nombre": "JOSE DAVID BLANCO ORTEGA",
     "categoria": "10 K ABIERTA",
@@ -13456,15 +13830,15 @@ const RUNNERS_DATA = [
     "dif": "+46:17",
     "vel_prom": "9.4 Km/h",
     "ritmo": "6:20 Min/km",
-    "pdf_page": 880,
+    "pdf_page": 352,
     "dorsal": "1340",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "JOSE DAVID BLANCO ORTEGA",
     "tiempo_diploma": "01:03:29",
-    "stats_diploma": "242. /357 792. /1597"
+    "stats_diploma": "242. /357 814. /1621"
   },
   {
-    "puesto": 793,
+    "puesto": 815,
     "placa": "107",
     "nombre": "Erik Martínez",
     "categoria": "10 K ELITE",
@@ -13473,15 +13847,15 @@ const RUNNERS_DATA = [
     "dif": "+46:18",
     "vel_prom": "9.4 Km/h",
     "ritmo": "6:21 Min/km",
-    "pdf_page": 326,
+    "pdf_page": 6,
     "dorsal": "107",
     "categoria_diploma": "10 K ELITE",
     "nombre_diploma": "Erik Martínez",
     "tiempo_diploma": "01:03:30",
-    "stats_diploma": "8. /10 793. /1597"
+    "stats_diploma": "8. /10 815. /1621"
   },
   {
-    "puesto": 794,
+    "puesto": 816,
     "placa": "1395",
     "nombre": "Katlin Valentina Carrillo Caceres",
     "categoria": "10 K ABIERTA",
@@ -13490,15 +13864,15 @@ const RUNNERS_DATA = [
     "dif": "+46:20",
     "vel_prom": "9.4 Km/h",
     "ritmo": "6:21 Min/km",
-    "pdf_page": 881,
+    "pdf_page": 402,
     "dorsal": "1395",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Katlin Valentina Carrillo Caceres",
     "tiempo_diploma": "01:03:32",
-    "stats_diploma": "243. /357 794. /1597"
+    "stats_diploma": "243. /357 816. /1621"
   },
   {
-    "puesto": 795,
+    "puesto": 817,
     "placa": "1562",
     "nombre": "Patricia Morales",
     "categoria": "10 K ABIERTA",
@@ -13507,15 +13881,15 @@ const RUNNERS_DATA = [
     "dif": "+46:23",
     "vel_prom": "9.4 Km/h",
     "ritmo": "6:21 Min/km",
-    "pdf_page": 408,
+    "pdf_page": 542,
     "dorsal": "1562",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Patricia Morales",
     "tiempo_diploma": "01:03:35",
-    "stats_diploma": "80. /310 795. /1597"
+    "stats_diploma": "79. /309 817. /1621"
   },
   {
-    "puesto": 796,
+    "puesto": 818,
     "placa": "1053",
     "nombre": "Andrés Felipe Amorocho Bravo",
     "categoria": "10 K ABIERTA",
@@ -13524,15 +13898,15 @@ const RUNNERS_DATA = [
     "dif": "+46:24",
     "vel_prom": "9.4 Km/h",
     "ritmo": "6:21 Min/km",
-    "pdf_page": 882,
+    "pdf_page": 85,
     "dorsal": "1053",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Andrés Felipe Amorocho Bravo",
     "tiempo_diploma": "01:03:36",
-    "stats_diploma": "244. /357 796. /1597"
+    "stats_diploma": "244. /357 818. /1621"
   },
   {
-    "puesto": 797,
+    "puesto": 819,
     "placa": "1633",
     "nombre": "Sulay Angelica Muñoz Galvan",
     "categoria": "10 K ABIERTA",
@@ -13541,15 +13915,15 @@ const RUNNERS_DATA = [
     "dif": "+46:29",
     "vel_prom": "9.4 Km/h",
     "ritmo": "6:22 Min/km",
-    "pdf_page": 409,
+    "pdf_page": 601,
     "dorsal": "1633",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Sulay Angelica Muñoz Galvan",
     "tiempo_diploma": "01:03:41",
-    "stats_diploma": "81. /310 797. /1597"
+    "stats_diploma": "80. /309 819. /1621"
   },
   {
-    "puesto": 798,
+    "puesto": 820,
     "placa": "3042",
     "nombre": "Edinson Javier Osma Corzo",
     "categoria": "10 K MASTER A",
@@ -13558,15 +13932,15 @@ const RUNNERS_DATA = [
     "dif": "+46:36",
     "vel_prom": "9.4 Km/h",
     "ritmo": "6:22 Min/km",
-    "pdf_page": 1149,
+    "pdf_page": 1037,
     "dorsal": "3042",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Edinson Javier Osma Corzo",
     "tiempo_diploma": "01:03:48",
-    "stats_diploma": "67. /107 798. /1597"
+    "stats_diploma": "67. /107 820. /1621"
   },
   {
-    "puesto": 799,
+    "puesto": 821,
     "placa": "1303",
     "nombre": "Jessica Tatiana Amador Ortega",
     "categoria": "10 K ABIERTA",
@@ -13575,15 +13949,15 @@ const RUNNERS_DATA = [
     "dif": "+46:40",
     "vel_prom": "9.3 Km/h",
     "ritmo": "6:23 Min/km",
-    "pdf_page": 410,
+    "pdf_page": 320,
     "dorsal": "1303",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Jessica Tatiana Amador Ortega",
     "tiempo_diploma": "01:03:52",
-    "stats_diploma": "82. /310 799. /1597"
+    "stats_diploma": "81. /309 821. /1621"
   },
   {
-    "puesto": 800,
+    "puesto": 822,
     "placa": "3386",
     "nombre": "Yazmine Barbosa Orduz",
     "categoria": "10 K MASTER B",
@@ -13592,15 +13966,15 @@ const RUNNERS_DATA = [
     "dif": "+46:40",
     "vel_prom": "9.3 Km/h",
     "ritmo": "6:23 Min/km",
-    "pdf_page": 1202,
+    "pdf_page": 1275,
     "dorsal": "3386",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Yazmine Barbosa Orduz",
     "tiempo_diploma": "01:03:52",
-    "stats_diploma": "13. /33 800. /1597"
+    "stats_diploma": "13. /33 822. /1621"
   },
   {
-    "puesto": 801,
+    "puesto": 823,
     "placa": "1379",
     "nombre": "Juliana Peñaloza",
     "categoria": "10 K ABIERTA",
@@ -13609,15 +13983,15 @@ const RUNNERS_DATA = [
     "dif": "+46:41",
     "vel_prom": "9.3 Km/h",
     "ritmo": "6:23 Min/km",
-    "pdf_page": 411,
+    "pdf_page": 389,
     "dorsal": "1379",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Juliana Peñaloza",
     "tiempo_diploma": "01:03:53",
-    "stats_diploma": "83. /310 801. /1597"
+    "stats_diploma": "82. /309 823. /1621"
   },
   {
-    "puesto": 802,
+    "puesto": 824,
     "placa": "1713",
     "nombre": "Harold David Mercado Benitez",
     "categoria": "10 K ABIERTA",
@@ -13626,15 +14000,15 @@ const RUNNERS_DATA = [
     "dif": "+46:43",
     "vel_prom": "9.3 Km/h",
     "ritmo": "6:23 Min/km",
-    "pdf_page": 883,
+    "pdf_page": 673,
     "dorsal": "1713",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Harold David Mercado Benitez",
     "tiempo_diploma": "01:03:55",
-    "stats_diploma": "245. /357 802. /1597"
+    "stats_diploma": "245. /357 824. /1621"
   },
   {
-    "puesto": 803,
+    "puesto": 825,
     "placa": "3119",
     "nombre": "Liliana Patricia Duarte Camacho",
     "categoria": "10 K MASTER A",
@@ -13643,15 +14017,15 @@ const RUNNERS_DATA = [
     "dif": "+46:44",
     "vel_prom": "9.3 Km/h",
     "ritmo": "6:23 Min/km",
-    "pdf_page": 1023,
+    "pdf_page": 1110,
     "dorsal": "3119",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Liliana Patricia Duarte Camacho",
     "tiempo_diploma": "01:03:56",
-    "stats_diploma": "28. /87 803. /1597"
+    "stats_diploma": "28. /87 825. /1621"
   },
   {
-    "puesto": 804,
+    "puesto": 826,
     "placa": "1148",
     "nombre": "Daniela Jaime Duran",
     "categoria": "10 K ABIERTA",
@@ -13660,15 +14034,15 @@ const RUNNERS_DATA = [
     "dif": "+46:46",
     "vel_prom": "9.3 Km/h",
     "ritmo": "6:23 Min/km",
-    "pdf_page": 412,
+    "pdf_page": 172,
     "dorsal": "1148",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Daniela Jaime Duran",
     "tiempo_diploma": "01:03:58",
-    "stats_diploma": "84. /310 804. /1597"
+    "stats_diploma": "83. /309 826. /1621"
   },
   {
-    "puesto": 805,
+    "puesto": 827,
     "placa": "1452",
     "nombre": "Luisa Fernanda Quintero Perez",
     "categoria": "10 K ABIERTA",
@@ -13677,15 +14051,15 @@ const RUNNERS_DATA = [
     "dif": "+46:48",
     "vel_prom": "9.3 Km/h",
     "ritmo": "6:24 Min/km",
-    "pdf_page": 413,
+    "pdf_page": 446,
     "dorsal": "1452",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Luisa Fernanda Quintero Perez",
     "tiempo_diploma": "01:04:00",
-    "stats_diploma": "85. /310 805. /1597"
+    "stats_diploma": "84. /309 827. /1621"
   },
   {
-    "puesto": 806,
+    "puesto": 828,
     "placa": "1005",
     "nombre": "Alejandra Soto",
     "categoria": "10 K ABIERTA",
@@ -13694,15 +14068,15 @@ const RUNNERS_DATA = [
     "dif": "+46:52",
     "vel_prom": "9.3 Km/h",
     "ritmo": "6:24 Min/km",
-    "pdf_page": 414,
+    "pdf_page": 41,
     "dorsal": "1005",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Alejandra Soto",
     "tiempo_diploma": "01:04:04",
-    "stats_diploma": "86. /310 806. /1597"
+    "stats_diploma": "85. /309 828. /1621"
   },
   {
-    "puesto": 807,
+    "puesto": 829,
     "placa": "3138",
     "nombre": "Mauricio Cabrales",
     "categoria": "10 K MASTER A",
@@ -13711,15 +14085,15 @@ const RUNNERS_DATA = [
     "dif": "+46:54",
     "vel_prom": "9.3 Km/h",
     "ritmo": "6:24 Min/km",
-    "pdf_page": 1150,
+    "pdf_page": 1129,
     "dorsal": "3138",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Mauricio Cabrales",
     "tiempo_diploma": "01:04:06",
-    "stats_diploma": "68. /107 807. /1597"
+    "stats_diploma": "68. /107 829. /1621"
   },
   {
-    "puesto": 808,
+    "puesto": 830,
     "placa": "1520",
     "nombre": "Melissa Gómez",
     "categoria": "10 K ABIERTA",
@@ -13728,15 +14102,15 @@ const RUNNERS_DATA = [
     "dif": "+46:54",
     "vel_prom": "9.3 Km/h",
     "ritmo": "6:24 Min/km",
-    "pdf_page": 415,
+    "pdf_page": 505,
     "dorsal": "1520",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Melissa Gómez",
     "tiempo_diploma": "01:04:06",
-    "stats_diploma": "87. /310 808. /1597"
+    "stats_diploma": "86. /309 830. /1621"
   },
   {
-    "puesto": 809,
+    "puesto": 831,
     "placa": "1361",
     "nombre": "Juan manuel Sandoval ojeda",
     "categoria": "10 K ABIERTA",
@@ -13745,15 +14119,15 @@ const RUNNERS_DATA = [
     "dif": "+46:55",
     "vel_prom": "9.3 Km/h",
     "ritmo": "6:24 Min/km",
-    "pdf_page": 884,
+    "pdf_page": 372,
     "dorsal": "1361",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Juan manuel Sandoval ojeda",
     "tiempo_diploma": "01:04:07",
-    "stats_diploma": "246. /357 809. /1597"
+    "stats_diploma": "246. /357 831. /1621"
   },
   {
-    "puesto": 810,
+    "puesto": 832,
     "placa": "1678",
     "nombre": "Yonatan Escobar Ayala",
     "categoria": "10 K ABIERTA",
@@ -13762,15 +14136,15 @@ const RUNNERS_DATA = [
     "dif": "+46:58",
     "vel_prom": "9.3 Km/h",
     "ritmo": "6:25 Min/km",
-    "pdf_page": 885,
+    "pdf_page": 644,
     "dorsal": "1678",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Yonatan Escobar Ayala",
     "tiempo_diploma": "01:04:10",
-    "stats_diploma": "247. /357 810. /1597"
+    "stats_diploma": "247. /357 832. /1621"
   },
   {
-    "puesto": 811,
+    "puesto": 833,
     "placa": "1129",
     "nombre": "Christian Stiven Muñoz",
     "categoria": "10 K ABIERTA",
@@ -13779,15 +14153,15 @@ const RUNNERS_DATA = [
     "dif": "+46:59",
     "vel_prom": "9.3 Km/h",
     "ritmo": "6:25 Min/km",
-    "pdf_page": 886,
+    "pdf_page": 154,
     "dorsal": "1129",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Christian Stiven Muñoz",
     "tiempo_diploma": "01:04:11",
-    "stats_diploma": "248. /357 811. /1597"
+    "stats_diploma": "248. /357 833. /1621"
   },
   {
-    "puesto": 812,
+    "puesto": 834,
     "placa": "121",
     "nombre": "Maribel Castañeda",
     "categoria": "10 K ELITE",
@@ -13796,15 +14170,15 @@ const RUNNERS_DATA = [
     "dif": "+46:59",
     "vel_prom": "9.3 Km/h",
     "ritmo": "6:25 Min/km",
-    "pdf_page": 307,
+    "pdf_page": 17,
     "dorsal": "121",
     "categoria_diploma": "10 K ELITE",
     "nombre_diploma": "Maribel Castañeda",
     "tiempo_diploma": "01:04:11",
-    "stats_diploma": "6. /17 812. /1597"
+    "stats_diploma": "6. /17 834. /1621"
   },
   {
-    "puesto": 813,
+    "puesto": 835,
     "placa": "1684",
     "nombre": "Yury Casadiegos Garzon",
     "categoria": "10 K ABIERTA",
@@ -13813,15 +14187,15 @@ const RUNNERS_DATA = [
     "dif": "+47:01",
     "vel_prom": "9.3 Km/h",
     "ritmo": "6:25 Min/km",
-    "pdf_page": 887,
+    "pdf_page": 649,
     "dorsal": "1684",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Yury Casadiegos Garzon",
     "tiempo_diploma": "01:04:13",
-    "stats_diploma": "249. /357 813. /1597"
+    "stats_diploma": "249. /357 835. /1621"
   },
   {
-    "puesto": 814,
+    "puesto": 836,
     "placa": "1033",
     "nombre": "Andrea Arenas Garces",
     "categoria": "10 K ABIERTA",
@@ -13830,15 +14204,15 @@ const RUNNERS_DATA = [
     "dif": "+47:01",
     "vel_prom": "9.3 Km/h",
     "ritmo": "6:25 Min/km",
-    "pdf_page": 416,
+    "pdf_page": 65,
     "dorsal": "1033",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Andrea Arenas Garces",
     "tiempo_diploma": "01:04:13",
-    "stats_diploma": "88. /310 814. /1597"
+    "stats_diploma": "87. /309 836. /1621"
   },
   {
-    "puesto": 815,
+    "puesto": 837,
     "placa": "3112",
     "nombre": "Laura Milena Sanchez Martinez",
     "categoria": "10 K MASTER A",
@@ -13847,15 +14221,15 @@ const RUNNERS_DATA = [
     "dif": "+47:04",
     "vel_prom": "9.3 Km/h",
     "ritmo": "6:25 Min/km",
-    "pdf_page": 1024,
+    "pdf_page": 1103,
     "dorsal": "3112",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Laura Milena Sanchez Martinez",
     "tiempo_diploma": "01:04:16",
-    "stats_diploma": "29. /87 815. /1597"
+    "stats_diploma": "29. /87 837. /1621"
   },
   {
-    "puesto": 816,
+    "puesto": 838,
     "placa": "3347",
     "nombre": "Luis Alberto Leal Atencia",
     "categoria": "10 K MASTER B",
@@ -13864,15 +14238,15 @@ const RUNNERS_DATA = [
     "dif": "+47:04",
     "vel_prom": "9.3 Km/h",
     "ritmo": "6:25 Min/km",
-    "pdf_page": 1260,
+    "pdf_page": 1240,
     "dorsal": "3347",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Luis Alberto Leal Atencia",
     "tiempo_diploma": "01:04:16",
-    "stats_diploma": "38. /56 816. /1597"
+    "stats_diploma": "39. /57 838. /1621"
   },
   {
-    "puesto": 817,
+    "puesto": 839,
     "placa": "1243",
     "nombre": "Gaby Ramirez Guerrero",
     "categoria": "10 K ABIERTA",
@@ -13881,15 +14255,15 @@ const RUNNERS_DATA = [
     "dif": "+47:05",
     "vel_prom": "9.3 Km/h",
     "ritmo": "6:25 Min/km",
-    "pdf_page": 417,
+    "pdf_page": 262,
     "dorsal": "1243",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Gaby Ramirez Guerrero",
     "tiempo_diploma": "01:04:17",
-    "stats_diploma": "89. /310 817. /1597"
+    "stats_diploma": "88. /309 839. /1621"
   },
   {
-    "puesto": 818,
+    "puesto": 840,
     "placa": "1196",
     "nombre": "Edgar Villam",
     "categoria": "10 K ABIERTA",
@@ -13898,15 +14272,15 @@ const RUNNERS_DATA = [
     "dif": "+47:06",
     "vel_prom": "9.3 Km/h",
     "ritmo": "6:25 Min/km",
-    "pdf_page": 888,
+    "pdf_page": 218,
     "dorsal": "1196",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Edgar Villam",
     "tiempo_diploma": "01:04:18",
-    "stats_diploma": "250. /357 818. /1597"
+    "stats_diploma": "250. /357 840. /1621"
   },
   {
-    "puesto": 819,
+    "puesto": 841,
     "placa": "1725",
     "nombre": "Carolina Celis",
     "categoria": "10 K ABIERTA",
@@ -13915,15 +14289,15 @@ const RUNNERS_DATA = [
     "dif": "+47:07",
     "vel_prom": "9.3 Km/h",
     "ritmo": "6:25 Min/km",
-    "pdf_page": 418,
+    "pdf_page": 682,
     "dorsal": "1725",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Carolina Celis",
     "tiempo_diploma": "01:04:19",
-    "stats_diploma": "90. /310 819. /1597"
+    "stats_diploma": "89. /309 841. /1621"
   },
   {
-    "puesto": 820,
+    "puesto": 842,
     "placa": "1121",
     "nombre": "Carolina Velasco Orduz",
     "categoria": "10 K ABIERTA",
@@ -13932,15 +14306,15 @@ const RUNNERS_DATA = [
     "dif": "+47:07",
     "vel_prom": "9.3 Km/h",
     "ritmo": "6:25 Min/km",
-    "pdf_page": 419,
+    "pdf_page": 147,
     "dorsal": "1121",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Carolina Velasco Orduz",
     "tiempo_diploma": "01:04:19",
-    "stats_diploma": "91. /310 820. /1597"
+    "stats_diploma": "90. /309 842. /1621"
   },
   {
-    "puesto": 821,
+    "puesto": 843,
     "placa": "1422",
     "nombre": "Leonardo Oliveros",
     "categoria": "10 K ABIERTA",
@@ -13949,15 +14323,15 @@ const RUNNERS_DATA = [
     "dif": "+47:12",
     "vel_prom": "9.3 Km/h",
     "ritmo": "6:26 Min/km",
-    "pdf_page": 889,
+    "pdf_page": 423,
     "dorsal": "1422",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Leonardo Oliveros",
     "tiempo_diploma": "01:04:24",
-    "stats_diploma": "251. /357 821. /1597"
+    "stats_diploma": "251. /357 843. /1621"
   },
   {
-    "puesto": 822,
+    "puesto": 844,
     "placa": "1004",
     "nombre": "Alejandra Reyes Garcia",
     "categoria": "10 K ABIERTA",
@@ -13966,15 +14340,15 @@ const RUNNERS_DATA = [
     "dif": "+47:13",
     "vel_prom": "9.3 Km/h",
     "ritmo": "6:26 Min/km",
-    "pdf_page": 420,
+    "pdf_page": 40,
     "dorsal": "1004",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Alejandra Reyes Garcia",
     "tiempo_diploma": "01:04:25",
-    "stats_diploma": "92. /310 822. /1597"
+    "stats_diploma": "91. /309 844. /1621"
   },
   {
-    "puesto": 823,
+    "puesto": 845,
     "placa": "1205",
     "nombre": "Edwin García",
     "categoria": "10 K ABIERTA",
@@ -13983,15 +14357,15 @@ const RUNNERS_DATA = [
     "dif": "+47:14",
     "vel_prom": "9.3 Km/h",
     "ritmo": "6:26 Min/km",
-    "pdf_page": 890,
+    "pdf_page": 226,
     "dorsal": "1205",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Edwin García",
     "tiempo_diploma": "01:04:26",
-    "stats_diploma": "252. /357 823. /1597"
+    "stats_diploma": "252. /357 845. /1621"
   },
   {
-    "puesto": 824,
+    "puesto": 846,
     "placa": "1166",
     "nombre": "David Mauricio Gomez Chacon",
     "categoria": "10 K ABIERTA",
@@ -14000,15 +14374,15 @@ const RUNNERS_DATA = [
     "dif": "+47:14",
     "vel_prom": "9.3 Km/h",
     "ritmo": "6:26 Min/km",
-    "pdf_page": 891,
+    "pdf_page": 188,
     "dorsal": "1166",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "David Mauricio Gomez Chacon",
     "tiempo_diploma": "01:04:26",
-    "stats_diploma": "253. /357 824. /1597"
+    "stats_diploma": "253. /357 846. /1621"
   },
   {
-    "puesto": 825,
+    "puesto": 847,
     "placa": "1600",
     "nombre": "Santiago José Gutiérrez Rojas",
     "categoria": "10 K ABIERTA",
@@ -14017,15 +14391,15 @@ const RUNNERS_DATA = [
     "dif": "+47:16",
     "vel_prom": "9.3 Km/h",
     "ritmo": "6:26 Min/km",
-    "pdf_page": 892,
+    "pdf_page": 572,
     "dorsal": "1600",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Santiago José Gutiérrez Rojas",
     "tiempo_diploma": "01:04:28",
-    "stats_diploma": "254. /357 825. /1597"
+    "stats_diploma": "254. /357 847. /1621"
   },
   {
-    "puesto": 826,
+    "puesto": 848,
     "placa": "3175",
     "nombre": "Victor Blanco Giraldo",
     "categoria": "10 K MASTER A",
@@ -14034,15 +14408,15 @@ const RUNNERS_DATA = [
     "dif": "+47:19",
     "vel_prom": "9.2 Km/h",
     "ritmo": "6:27 Min/km",
-    "pdf_page": 1151,
+    "pdf_page": 1162,
     "dorsal": "3175",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Victor Blanco Giraldo",
     "tiempo_diploma": "01:04:31",
-    "stats_diploma": "69. /107 826. /1597"
+    "stats_diploma": "69. /107 848. /1621"
   },
   {
-    "puesto": 827,
+    "puesto": 849,
     "placa": "1179",
     "nombre": "Diana Marcela Romero Alvernia",
     "categoria": "10 K ABIERTA",
@@ -14051,15 +14425,15 @@ const RUNNERS_DATA = [
     "dif": "+47:21",
     "vel_prom": "9.2 Km/h",
     "ritmo": "6:27 Min/km",
-    "pdf_page": 421,
+    "pdf_page": 201,
     "dorsal": "1179",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Diana Marcela Romero Alvernia",
     "tiempo_diploma": "01:04:33",
-    "stats_diploma": "93. /310 827. /1597"
+    "stats_diploma": "92. /309 849. /1621"
   },
   {
-    "puesto": 828,
+    "puesto": 850,
     "placa": "1021",
     "nombre": "Alexandra Garzon fuentes",
     "categoria": "10 K ABIERTA",
@@ -14068,15 +14442,15 @@ const RUNNERS_DATA = [
     "dif": "+47:24",
     "vel_prom": "9.2 Km/h",
     "ritmo": "6:27 Min/km",
-    "pdf_page": 422,
+    "pdf_page": 54,
     "dorsal": "1021",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Alexandra Garzon fuentes",
     "tiempo_diploma": "01:04:36",
-    "stats_diploma": "94. /310 828. /1597"
+    "stats_diploma": "93. /309 850. /1621"
   },
   {
-    "puesto": 829,
+    "puesto": 851,
     "placa": "1532",
     "nombre": "Milton Santiago Torres Barreto",
     "categoria": "10 K ABIERTA",
@@ -14085,15 +14459,15 @@ const RUNNERS_DATA = [
     "dif": "+47:27",
     "vel_prom": "9.2 Km/h",
     "ritmo": "6:27 Min/km",
-    "pdf_page": 893,
+    "pdf_page": 515,
     "dorsal": "1532",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Milton Santiago Torres Barreto",
     "tiempo_diploma": "01:04:39",
-    "stats_diploma": "255. /357 829. /1597"
+    "stats_diploma": "255. /357 851. /1621"
   },
   {
-    "puesto": 830,
+    "puesto": 852,
     "placa": "3155",
     "nombre": "Paola susana Vesga Gomez",
     "categoria": "10 K MASTER A",
@@ -14102,15 +14476,15 @@ const RUNNERS_DATA = [
     "dif": "+47:30",
     "vel_prom": "9.2 Km/h",
     "ritmo": "6:28 Min/km",
-    "pdf_page": 1025,
+    "pdf_page": 1145,
     "dorsal": "3155",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Paola susana Vesga Gomez",
     "tiempo_diploma": "01:04:42",
-    "stats_diploma": "30. /87 830. /1597"
+    "stats_diploma": "30. /87 852. /1621"
   },
   {
-    "puesto": 831,
+    "puesto": 853,
     "placa": "1434",
     "nombre": "LINETTE DANIELA FLOREZ DELGADO",
     "categoria": "10 K ABIERTA",
@@ -14119,15 +14493,15 @@ const RUNNERS_DATA = [
     "dif": "+47:33",
     "vel_prom": "9.2 Km/h",
     "ritmo": "6:28 Min/km",
-    "pdf_page": 423,
+    "pdf_page": 434,
     "dorsal": "1434",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "LINETTE DANIELA FLOREZ DELGADO",
     "tiempo_diploma": "01:04:45",
-    "stats_diploma": "95. /310 831. /1597"
+    "stats_diploma": "94. /309 853. /1621"
   },
   {
-    "puesto": 832,
+    "puesto": 854,
     "placa": "1606",
     "nombre": "Sebastian Bonilla Alvarez",
     "categoria": "10 K ABIERTA",
@@ -14136,15 +14510,15 @@ const RUNNERS_DATA = [
     "dif": "+47:41",
     "vel_prom": "9.2 Km/h",
     "ritmo": "6:29 Min/km",
-    "pdf_page": 894,
+    "pdf_page": 578,
     "dorsal": "1606",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Sebastian Bonilla Alvarez",
     "tiempo_diploma": "01:04:53",
-    "stats_diploma": "256. /357 832. /1597"
+    "stats_diploma": "256. /357 854. /1621"
   },
   {
-    "puesto": 833,
+    "puesto": 855,
     "placa": "1292",
     "nombre": "Jennifer laguna",
     "categoria": "10 K ABIERTA",
@@ -14153,15 +14527,15 @@ const RUNNERS_DATA = [
     "dif": "+47:44",
     "vel_prom": "9.2 Km/h",
     "ritmo": "6:29 Min/km",
-    "pdf_page": 424,
+    "pdf_page": 309,
     "dorsal": "1292",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Jennifer laguna",
     "tiempo_diploma": "01:04:56",
-    "stats_diploma": "96. /310 833. /1597"
+    "stats_diploma": "95. /309 855. /1621"
   },
   {
-    "puesto": 834,
+    "puesto": 856,
     "placa": "1093",
     "nombre": "Camila Andrea Remolina Sanabria",
     "categoria": "10 K ABIERTA",
@@ -14170,15 +14544,15 @@ const RUNNERS_DATA = [
     "dif": "+47:46",
     "vel_prom": "9.2 Km/h",
     "ritmo": "6:29 Min/km",
-    "pdf_page": 425,
+    "pdf_page": 123,
     "dorsal": "1093",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Camila Andrea Remolina Sanabria",
     "tiempo_diploma": "01:04:58",
-    "stats_diploma": "97. /310 834. /1597"
+    "stats_diploma": "96. /309 856. /1621"
   },
   {
-    "puesto": 835,
+    "puesto": 857,
     "placa": "1550",
     "nombre": "Nicolle Marcela Hernández Peña",
     "categoria": "10 K ABIERTA",
@@ -14187,15 +14561,15 @@ const RUNNERS_DATA = [
     "dif": "+47:47",
     "vel_prom": "9.2 Km/h",
     "ritmo": "6:29 Min/km",
-    "pdf_page": 426,
+    "pdf_page": 531,
     "dorsal": "1550",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Nicolle Marcela Hernández Peña",
     "tiempo_diploma": "01:04:59",
-    "stats_diploma": "98. /310 835. /1597"
+    "stats_diploma": "97. /309 857. /1621"
   },
   {
-    "puesto": 836,
+    "puesto": 858,
     "placa": "1436",
     "nombre": "Lizeth Garcia",
     "categoria": "10 K ABIERTA",
@@ -14204,15 +14578,15 @@ const RUNNERS_DATA = [
     "dif": "+47:50",
     "vel_prom": "9.2 Km/h",
     "ritmo": "6:30 Min/km",
-    "pdf_page": 427,
+    "pdf_page": 435,
     "dorsal": "1436",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Lizeth Garcia",
     "tiempo_diploma": "01:05:02",
-    "stats_diploma": "99. /310 836. /1597"
+    "stats_diploma": "98. /309 858. /1621"
   },
   {
-    "puesto": 837,
+    "puesto": 859,
     "placa": "3344",
     "nombre": "LILI Serrano Sanchez",
     "categoria": "10 K MASTER B",
@@ -14221,15 +14595,15 @@ const RUNNERS_DATA = [
     "dif": "+47:50",
     "vel_prom": "9.2 Km/h",
     "ritmo": "6:30 Min/km",
-    "pdf_page": 1203,
+    "pdf_page": 1237,
     "dorsal": "3344",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "LILI Serrano Sanchez",
     "tiempo_diploma": "01:05:02",
-    "stats_diploma": "14. /33 837. /1597"
+    "stats_diploma": "14. /33 859. /1621"
   },
   {
-    "puesto": 838,
+    "puesto": 860,
     "placa": "1084",
     "nombre": "Brayan Leonardo Romero Ortiz",
     "categoria": "10 K ABIERTA",
@@ -14238,15 +14612,15 @@ const RUNNERS_DATA = [
     "dif": "+47:53",
     "vel_prom": "9.2 Km/h",
     "ritmo": "6:30 Min/km",
-    "pdf_page": 895,
+    "pdf_page": 114,
     "dorsal": "1084",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Brayan Leonardo Romero Ortiz",
     "tiempo_diploma": "01:05:05",
-    "stats_diploma": "257. /357 838. /1597"
+    "stats_diploma": "257. /357 860. /1621"
   },
   {
-    "puesto": 839,
+    "puesto": 861,
     "placa": "1563",
     "nombre": "Paula Garcia",
     "categoria": "10 K ABIERTA",
@@ -14255,15 +14629,15 @@ const RUNNERS_DATA = [
     "dif": "+47:57",
     "vel_prom": "9.2 Km/h",
     "ritmo": "6:30 Min/km",
-    "pdf_page": 428,
+    "pdf_page": 543,
     "dorsal": "1563",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Paula Garcia",
     "tiempo_diploma": "01:05:09",
-    "stats_diploma": "100. /310 839. /1597"
+    "stats_diploma": "99. /309 861. /1621"
   },
   {
-    "puesto": 840,
+    "puesto": 862,
     "placa": "1414",
     "nombre": "Lauren Florez Guerrero",
     "categoria": "10 K ABIERTA",
@@ -14272,15 +14646,15 @@ const RUNNERS_DATA = [
     "dif": "+47:57",
     "vel_prom": "9.2 Km/h",
     "ritmo": "6:30 Min/km",
-    "pdf_page": 429,
+    "pdf_page": 415,
     "dorsal": "1414",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Lauren Florez Guerrero",
     "tiempo_diploma": "01:05:09",
-    "stats_diploma": "101. /310 840. /1597"
+    "stats_diploma": "100. /309 862. /1621"
   },
   {
-    "puesto": 841,
+    "puesto": 863,
     "placa": "1744",
     "nombre": "Juliana Velasco",
     "categoria": "10 K ABIERTA",
@@ -14289,15 +14663,15 @@ const RUNNERS_DATA = [
     "dif": "+47:59",
     "vel_prom": "9.2 Km/h",
     "ritmo": "6:31 Min/km",
-    "pdf_page": 430,
+    "pdf_page": 700,
     "dorsal": "1744",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Juliana Velasco",
     "tiempo_diploma": "01:05:11",
-    "stats_diploma": "102. /310 841. /1597"
+    "stats_diploma": "101. /309 863. /1621"
   },
   {
-    "puesto": 842,
+    "puesto": 864,
     "placa": "1581",
     "nombre": "Robinson Ariza Sanchez",
     "categoria": "10 K ABIERTA",
@@ -14306,15 +14680,15 @@ const RUNNERS_DATA = [
     "dif": "+48:02",
     "vel_prom": "9.1 Km/h",
     "ritmo": "6:31 Min/km",
-    "pdf_page": 896,
+    "pdf_page": 558,
     "dorsal": "1581",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Robinson Ariza Sanchez",
     "tiempo_diploma": "01:05:14",
-    "stats_diploma": "258. /357 842. /1597"
+    "stats_diploma": "258. /357 864. /1621"
   },
   {
-    "puesto": 843,
+    "puesto": 865,
     "placa": "3339",
     "nombre": "Joselin Barrios",
     "categoria": "10 K MASTER B",
@@ -14323,15 +14697,15 @@ const RUNNERS_DATA = [
     "dif": "+48:03",
     "vel_prom": "9.1 Km/h",
     "ritmo": "6:31 Min/km",
-    "pdf_page": 1261,
+    "pdf_page": 1232,
     "dorsal": "3339",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Joselin Barrios",
     "tiempo_diploma": "01:05:15",
-    "stats_diploma": "39. /56 843. /1597"
+    "stats_diploma": "40. /57 865. /1621"
   },
   {
-    "puesto": 844,
+    "puesto": 866,
     "placa": "1603",
     "nombre": "Saraluz Helena Suárez Aguilar",
     "categoria": "10 K ABIERTA",
@@ -14340,15 +14714,15 @@ const RUNNERS_DATA = [
     "dif": "+48:03",
     "vel_prom": "9.1 Km/h",
     "ritmo": "6:31 Min/km",
-    "pdf_page": 431,
+    "pdf_page": 575,
     "dorsal": "1603",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Saraluz Helena Suárez Aguilar",
     "tiempo_diploma": "01:05:15",
-    "stats_diploma": "103. /310 844. /1597"
+    "stats_diploma": "102. /309 866. /1621"
   },
   {
-    "puesto": 845,
+    "puesto": 867,
     "placa": "1516",
     "nombre": "Mayra Alejandra Lagos Hurtado",
     "categoria": "10 K ABIERTA",
@@ -14357,15 +14731,15 @@ const RUNNERS_DATA = [
     "dif": "+48:03",
     "vel_prom": "9.1 Km/h",
     "ritmo": "6:31 Min/km",
-    "pdf_page": 432,
+    "pdf_page": 501,
     "dorsal": "1516",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Mayra Alejandra Lagos Hurtado",
     "tiempo_diploma": "01:05:15",
-    "stats_diploma": "104. /310 845. /1597"
+    "stats_diploma": "103. /309 867. /1621"
   },
   {
-    "puesto": 846,
+    "puesto": 868,
     "placa": "3188",
     "nombre": "Yasmyry Acevedo",
     "categoria": "10 K MASTER A",
@@ -14374,15 +14748,15 @@ const RUNNERS_DATA = [
     "dif": "+48:05",
     "vel_prom": "9.1 Km/h",
     "ritmo": "6:31 Min/km",
-    "pdf_page": 1026,
+    "pdf_page": 1173,
     "dorsal": "3188",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Yasmyry Acevedo",
     "tiempo_diploma": "01:05:17",
-    "stats_diploma": "31. /87 846. /1597"
+    "stats_diploma": "31. /87 868. /1621"
   },
   {
-    "puesto": 847,
+    "puesto": 869,
     "placa": "1175",
     "nombre": "Diana C Sarmiento Solano",
     "categoria": "10 K ABIERTA",
@@ -14391,15 +14765,15 @@ const RUNNERS_DATA = [
     "dif": "+48:07",
     "vel_prom": "9.1 Km/h",
     "ritmo": "6:31 Min/km",
-    "pdf_page": 897,
+    "pdf_page": 197,
     "dorsal": "1175",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Diana C Sarmiento Solano",
     "tiempo_diploma": "01:05:19",
-    "stats_diploma": "259. /357 847. /1597"
+    "stats_diploma": "259. /357 869. /1621"
   },
   {
-    "puesto": 848,
+    "puesto": 870,
     "placa": "1061",
     "nombre": "Angela Maria Romero",
     "categoria": "10 K ABIERTA",
@@ -14408,15 +14782,15 @@ const RUNNERS_DATA = [
     "dif": "+48:10",
     "vel_prom": "9.1 Km/h",
     "ritmo": "6:32 Min/km",
-    "pdf_page": 433,
+    "pdf_page": 91,
     "dorsal": "1061",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Angela Maria Romero",
     "tiempo_diploma": "01:05:22",
-    "stats_diploma": "105. /310 848. /1597"
+    "stats_diploma": "104. /309 870. /1621"
   },
   {
-    "puesto": 849,
+    "puesto": 871,
     "placa": "108",
     "nombre": "Fabio Alberto Perez Caballero",
     "categoria": "10 K ELITE",
@@ -14425,15 +14799,15 @@ const RUNNERS_DATA = [
     "dif": "+48:12",
     "vel_prom": "9.1 Km/h",
     "ritmo": "6:32 Min/km",
-    "pdf_page": 327,
+    "pdf_page": 7,
     "dorsal": "108",
     "categoria_diploma": "10 K ELITE",
     "nombre_diploma": "Fabio Alberto Perez Caballero",
     "tiempo_diploma": "01:05:24",
-    "stats_diploma": "9. /10 849. /1597"
+    "stats_diploma": "9. /10 871. /1621"
   },
   {
-    "puesto": 850,
+    "puesto": 872,
     "placa": "1329",
     "nombre": "JOHN VARGAS",
     "categoria": "10 K ABIERTA",
@@ -14442,15 +14816,15 @@ const RUNNERS_DATA = [
     "dif": "+48:13",
     "vel_prom": "9.1 Km/h",
     "ritmo": "6:32 Min/km",
-    "pdf_page": 898,
+    "pdf_page": 342,
     "dorsal": "1329",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "JOHN VARGAS",
     "tiempo_diploma": "01:05:25",
-    "stats_diploma": "260. /357 850. /1597"
+    "stats_diploma": "260. /357 872. /1621"
   },
   {
-    "puesto": 851,
+    "puesto": 873,
     "placa": "1571",
     "nombre": "Paula Andrea Pinto Parra",
     "categoria": "10 K ABIERTA",
@@ -14459,15 +14833,15 @@ const RUNNERS_DATA = [
     "dif": "+48:14",
     "vel_prom": "9.1 Km/h",
     "ritmo": "6:32 Min/km",
-    "pdf_page": 434,
+    "pdf_page": 550,
     "dorsal": "1571",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Paula Andrea Pinto Parra",
     "tiempo_diploma": "01:05:26",
-    "stats_diploma": "106. /310 851. /1597"
+    "stats_diploma": "105. /309 873. /1621"
   },
   {
-    "puesto": 852,
+    "puesto": 874,
     "placa": "1418",
     "nombre": "Leidy Valentina Barreto Manrique",
     "categoria": "10 K ABIERTA",
@@ -14476,15 +14850,15 @@ const RUNNERS_DATA = [
     "dif": "+48:14",
     "vel_prom": "9.1 Km/h",
     "ritmo": "6:32 Min/km",
-    "pdf_page": 435,
+    "pdf_page": 419,
     "dorsal": "1418",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Leidy Valentina Barreto Manrique",
     "tiempo_diploma": "01:05:26",
-    "stats_diploma": "107. /310 852. /1597"
+    "stats_diploma": "106. /309 874. /1621"
   },
   {
-    "puesto": 853,
+    "puesto": 875,
     "placa": "1644",
     "nombre": "VALERIA Arévalo amaya",
     "categoria": "10 K ABIERTA",
@@ -14493,15 +14867,15 @@ const RUNNERS_DATA = [
     "dif": "+48:16",
     "vel_prom": "9.1 Km/h",
     "ritmo": "6:32 Min/km",
-    "pdf_page": 436,
+    "pdf_page": 611,
     "dorsal": "1644",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "VALERIA Arévalo amaya",
     "tiempo_diploma": "01:05:28",
-    "stats_diploma": "108. /310 853. /1597"
+    "stats_diploma": "107. /309 875. /1621"
   },
   {
-    "puesto": 854,
+    "puesto": 876,
     "placa": "1385",
     "nombre": "Karen Arenas",
     "categoria": "10 K ABIERTA",
@@ -14510,15 +14884,15 @@ const RUNNERS_DATA = [
     "dif": "+48:17",
     "vel_prom": "9.1 Km/h",
     "ritmo": "6:32 Min/km",
-    "pdf_page": 437,
+    "pdf_page": 395,
     "dorsal": "1385",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Karen Arenas",
     "tiempo_diploma": "01:05:29",
-    "stats_diploma": "109. /310 854. /1597"
+    "stats_diploma": "108. /309 876. /1621"
   },
   {
-    "puesto": 855,
+    "puesto": 877,
     "placa": "1594",
     "nombre": "Samara Serrano",
     "categoria": "10 K ABIERTA",
@@ -14527,15 +14901,15 @@ const RUNNERS_DATA = [
     "dif": "+48:18",
     "vel_prom": "9.1 Km/h",
     "ritmo": "6:33 Min/km",
-    "pdf_page": 438,
+    "pdf_page": 569,
     "dorsal": "1594",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Samara Serrano",
     "tiempo_diploma": "01:05:30",
-    "stats_diploma": "110. /310 855. /1597"
+    "stats_diploma": "109. /309 877. /1621"
   },
   {
-    "puesto": 856,
+    "puesto": 878,
     "placa": "1716",
     "nombre": "Luis Alfredo Arenas Ardila",
     "categoria": "10 K ABIERTA",
@@ -14544,15 +14918,15 @@ const RUNNERS_DATA = [
     "dif": "+48:19",
     "vel_prom": "9.1 Km/h",
     "ritmo": "6:33 Min/km",
-    "pdf_page": 899,
+    "pdf_page": 675,
     "dorsal": "1716",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Luis Alfredo Arenas Ardila",
     "tiempo_diploma": "01:05:31",
-    "stats_diploma": "261. /357 856. /1597"
+    "stats_diploma": "261. /357 878. /1621"
   },
   {
-    "puesto": 857,
+    "puesto": 879,
     "placa": "1734",
     "nombre": "Sirley Dallana Romero Cuadros",
     "categoria": "10 K ABIERTA",
@@ -14561,15 +14935,15 @@ const RUNNERS_DATA = [
     "dif": "+48:19",
     "vel_prom": "9.1 Km/h",
     "ritmo": "6:33 Min/km",
-    "pdf_page": 439,
+    "pdf_page": 691,
     "dorsal": "1734",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Sirley Dallana Romero Cuadros",
     "tiempo_diploma": "01:05:31",
-    "stats_diploma": "111. /310 857. /1597"
+    "stats_diploma": "110. /309 879. /1621"
   },
   {
-    "puesto": 858,
+    "puesto": 880,
     "placa": "1536",
     "nombre": "Narly Rodriguez",
     "categoria": "10 K ABIERTA",
@@ -14578,15 +14952,15 @@ const RUNNERS_DATA = [
     "dif": "+48:22",
     "vel_prom": "9.1 Km/h",
     "ritmo": "6:33 Min/km",
-    "pdf_page": 440,
+    "pdf_page": 519,
     "dorsal": "1536",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Narly Rodriguez",
     "tiempo_diploma": "01:05:34",
-    "stats_diploma": "112. /310 858. /1597"
+    "stats_diploma": "111. /309 880. /1621"
   },
   {
-    "puesto": 859,
+    "puesto": 881,
     "placa": "3048",
     "nombre": "elvira mantilla forero",
     "categoria": "10 K MASTER A",
@@ -14595,15 +14969,15 @@ const RUNNERS_DATA = [
     "dif": "+48:22",
     "vel_prom": "9.1 Km/h",
     "ritmo": "6:33 Min/km",
-    "pdf_page": 1027,
+    "pdf_page": 1043,
     "dorsal": "3048",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "elvira mantilla forero",
     "tiempo_diploma": "01:05:34",
-    "stats_diploma": "32. /87 859. /1597"
+    "stats_diploma": "32. /87 881. /1621"
   },
   {
-    "puesto": 860,
+    "puesto": 882,
     "placa": "3192",
     "nombre": "Yuly sulay Núñez lancheros",
     "categoria": "10 K MASTER A",
@@ -14612,15 +14986,15 @@ const RUNNERS_DATA = [
     "dif": "+48:22",
     "vel_prom": "9.1 Km/h",
     "ritmo": "6:33 Min/km",
-    "pdf_page": 1028,
+    "pdf_page": 1177,
     "dorsal": "3192",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Yuly sulay Núñez lancheros",
     "tiempo_diploma": "01:05:34",
-    "stats_diploma": "33. /87 860. /1597"
+    "stats_diploma": "33. /87 882. /1621"
   },
   {
-    "puesto": 861,
+    "puesto": 883,
     "placa": "3156",
     "nombre": "Rafael Nuñez Ticora",
     "categoria": "10 K MASTER A",
@@ -14629,15 +15003,15 @@ const RUNNERS_DATA = [
     "dif": "+48:22",
     "vel_prom": "9.1 Km/h",
     "ritmo": "6:33 Min/km",
-    "pdf_page": 1152,
+    "pdf_page": 1146,
     "dorsal": "3156",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Rafael Nuñez Ticora",
     "tiempo_diploma": "01:05:34",
-    "stats_diploma": "70. /107 861. /1597"
+    "stats_diploma": "70. /107 883. /1621"
   },
   {
-    "puesto": 862,
+    "puesto": 884,
     "placa": "3133",
     "nombre": "MARIA CAMILA VILLAMIZAR VELEZ",
     "categoria": "10 K MASTER A",
@@ -14646,15 +15020,15 @@ const RUNNERS_DATA = [
     "dif": "+48:25",
     "vel_prom": "9.1 Km/h",
     "ritmo": "6:33 Min/km",
-    "pdf_page": 1029,
+    "pdf_page": 1124,
     "dorsal": "3133",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "MARIA CAMILA VILLAMIZAR VELEZ",
     "tiempo_diploma": "01:05:37",
-    "stats_diploma": "34. /87 862. /1597"
+    "stats_diploma": "34. /87 884. /1621"
   },
   {
-    "puesto": 863,
+    "puesto": 885,
     "placa": "1740",
     "nombre": "Juan Jose Ruiz Moreno",
     "categoria": "10 K ABIERTA",
@@ -14663,15 +15037,15 @@ const RUNNERS_DATA = [
     "dif": "+48:26",
     "vel_prom": "9.1 Km/h",
     "ritmo": "6:33 Min/km",
-    "pdf_page": 900,
+    "pdf_page": 696,
     "dorsal": "1740",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Juan Jose Ruiz Moreno",
     "tiempo_diploma": "01:05:38",
-    "stats_diploma": "262. /357 863. /1597"
+    "stats_diploma": "262. /357 885. /1621"
   },
   {
-    "puesto": 864,
+    "puesto": 886,
     "placa": "1699",
     "nombre": "Nicole Rodriguez Uribe",
     "categoria": "10 K ABIERTA",
@@ -14680,15 +15054,15 @@ const RUNNERS_DATA = [
     "dif": "+48:29",
     "vel_prom": "9.1 Km/h",
     "ritmo": "6:34 Min/km",
-    "pdf_page": 441,
+    "pdf_page": 660,
     "dorsal": "1699",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Nicole Rodriguez Uribe",
     "tiempo_diploma": "01:05:41",
-    "stats_diploma": "113. /310 864. /1597"
+    "stats_diploma": "112. /309 886. /1621"
   },
   {
-    "puesto": 865,
+    "puesto": 887,
     "placa": "3121",
     "nombre": "Lucy Lopez",
     "categoria": "10 K MASTER A",
@@ -14697,15 +15071,15 @@ const RUNNERS_DATA = [
     "dif": "+48:31",
     "vel_prom": "9.1 Km/h",
     "ritmo": "6:34 Min/km",
-    "pdf_page": 1030,
+    "pdf_page": 1112,
     "dorsal": "3121",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Lucy Lopez",
     "tiempo_diploma": "01:05:43",
-    "stats_diploma": "35. /87 865. /1597"
+    "stats_diploma": "35. /87 887. /1621"
   },
   {
-    "puesto": 866,
+    "puesto": 888,
     "placa": "1419",
     "nombre": "Leidy Yohanna Rodriguez Palacios",
     "categoria": "10 K ABIERTA",
@@ -14714,15 +15088,15 @@ const RUNNERS_DATA = [
     "dif": "+48:35",
     "vel_prom": "9.1 Km/h",
     "ritmo": "6:34 Min/km",
-    "pdf_page": 442,
+    "pdf_page": 420,
     "dorsal": "1419",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Leidy Yohanna Rodriguez Palacios",
     "tiempo_diploma": "01:05:47",
-    "stats_diploma": "114. /310 866. /1597"
+    "stats_diploma": "113. /309 888. /1621"
   },
   {
-    "puesto": 867,
+    "puesto": 889,
     "placa": "1014",
     "nombre": "Álex Alvarino",
     "categoria": "10 K ABIERTA",
@@ -14731,15 +15105,15 @@ const RUNNERS_DATA = [
     "dif": "+48:36",
     "vel_prom": "9.1 Km/h",
     "ritmo": "6:34 Min/km",
-    "pdf_page": 901,
+    "pdf_page": 48,
     "dorsal": "1014",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Álex Alvarino",
     "tiempo_diploma": "01:05:48",
-    "stats_diploma": "263. /357 867. /1597"
+    "stats_diploma": "263. /357 889. /1621"
   },
   {
-    "puesto": 868,
+    "puesto": 890,
     "placa": "1060",
     "nombre": "Angel Castro",
     "categoria": "10 K ABIERTA",
@@ -14748,15 +15122,15 @@ const RUNNERS_DATA = [
     "dif": "+48:36",
     "vel_prom": "9.1 Km/h",
     "ritmo": "6:34 Min/km",
-    "pdf_page": 902,
+    "pdf_page": 90,
     "dorsal": "1060",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Angel Castro",
     "tiempo_diploma": "01:05:48",
-    "stats_diploma": "264. /357 868. /1597"
+    "stats_diploma": "264. /357 890. /1621"
   },
   {
-    "puesto": 869,
+    "puesto": 891,
     "placa": "1494",
     "nombre": "MARIA PAULA VELOZA AREVALO",
     "categoria": "10 K ABIERTA",
@@ -14765,15 +15139,15 @@ const RUNNERS_DATA = [
     "dif": "+48:37",
     "vel_prom": "9.1 Km/h",
     "ritmo": "6:34 Min/km",
-    "pdf_page": 443,
+    "pdf_page": 480,
     "dorsal": "1494",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "MARIA PAULA VELOZA AREVALO",
     "tiempo_diploma": "01:05:49",
-    "stats_diploma": "115. /310 869. /1597"
+    "stats_diploma": "114. /309 891. /1621"
   },
   {
-    "puesto": 870,
+    "puesto": 892,
     "placa": "3325",
     "nombre": "Gabriel Andrés Veloza Veloza",
     "categoria": "10 K MASTER B",
@@ -14782,15 +15156,15 @@ const RUNNERS_DATA = [
     "dif": "+48:37",
     "vel_prom": "9.1 Km/h",
     "ritmo": "6:34 Min/km",
-    "pdf_page": 1262,
+    "pdf_page": 1218,
     "dorsal": "3325",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Gabriel Andrés Veloza Veloza",
     "tiempo_diploma": "01:05:49",
-    "stats_diploma": "40. /56 870. /1597"
+    "stats_diploma": "41. /57 892. /1621"
   },
   {
-    "puesto": 871,
+    "puesto": 893,
     "placa": "1299",
     "nombre": "Jessica Monterrosa Díaz",
     "categoria": "10 K ABIERTA",
@@ -14799,15 +15173,15 @@ const RUNNERS_DATA = [
     "dif": "+48:38",
     "vel_prom": "9.1 Km/h",
     "ritmo": "6:35 Min/km",
-    "pdf_page": 444,
+    "pdf_page": 316,
     "dorsal": "1299",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Jessica Monterrosa Díaz",
     "tiempo_diploma": "01:05:50",
-    "stats_diploma": "116. /310 871. /1597"
+    "stats_diploma": "115. /309 893. /1621"
   },
   {
-    "puesto": 872,
+    "puesto": 894,
     "placa": "3349",
     "nombre": "Luis eduardo Ávila castelblanco",
     "categoria": "10 K MASTER B",
@@ -14816,15 +15190,15 @@ const RUNNERS_DATA = [
     "dif": "+48:42",
     "vel_prom": "9.1 Km/h",
     "ritmo": "6:35 Min/km",
-    "pdf_page": 1263,
+    "pdf_page": 1242,
     "dorsal": "3349",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Luis eduardo Ávila castelblanco",
     "tiempo_diploma": "01:05:54",
-    "stats_diploma": "41. /56 872. /1597"
+    "stats_diploma": "42. /57 894. /1621"
   },
   {
-    "puesto": 873,
+    "puesto": 895,
     "placa": "1102",
     "nombre": "Carlos Prada",
     "categoria": "10 K ABIERTA",
@@ -14833,15 +15207,15 @@ const RUNNERS_DATA = [
     "dif": "+48:44",
     "vel_prom": "9.0 Km/h",
     "ritmo": "6:35 Min/km",
-    "pdf_page": 903,
+    "pdf_page": 131,
     "dorsal": "1102",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Carlos Prada",
     "tiempo_diploma": "01:05:56",
-    "stats_diploma": "265. /357 873. /1597"
+    "stats_diploma": "265. /357 895. /1621"
   },
   {
-    "puesto": 874,
+    "puesto": 896,
     "placa": "3032",
     "nombre": "Deyra isabel Márquez Sarmiento",
     "categoria": "10 K MASTER A",
@@ -14850,15 +15224,15 @@ const RUNNERS_DATA = [
     "dif": "+48:48",
     "vel_prom": "9.0 Km/h",
     "ritmo": "6:36 Min/km",
-    "pdf_page": 1031,
+    "pdf_page": 1028,
     "dorsal": "3032",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Deyra isabel Márquez Sarmiento",
     "tiempo_diploma": "01:06:00",
-    "stats_diploma": "36. /87 874. /1597"
+    "stats_diploma": "36. /87 896. /1621"
   },
   {
-    "puesto": 875,
+    "puesto": 897,
     "placa": "1211",
     "nombre": "Eliana Castro",
     "categoria": "10 K ABIERTA",
@@ -14867,15 +15241,15 @@ const RUNNERS_DATA = [
     "dif": "+48:57",
     "vel_prom": "9.0 Km/h",
     "ritmo": "6:36 Min/km",
-    "pdf_page": 445,
+    "pdf_page": 232,
     "dorsal": "1211",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Eliana Castro",
     "tiempo_diploma": "01:06:09",
-    "stats_diploma": "117. /310 875. /1597"
+    "stats_diploma": "116. /309 897. /1621"
   },
   {
-    "puesto": 876,
+    "puesto": 898,
     "placa": "1676",
     "nombre": "Yoherlin Mildred Corona Lopez",
     "categoria": "10 K ABIERTA",
@@ -14884,15 +15258,15 @@ const RUNNERS_DATA = [
     "dif": "+48:59",
     "vel_prom": "9.0 Km/h",
     "ritmo": "6:37 Min/km",
-    "pdf_page": 446,
+    "pdf_page": 642,
     "dorsal": "1676",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Yoherlin Mildred Corona Lopez",
     "tiempo_diploma": "01:06:11",
-    "stats_diploma": "118. /310 876. /1597"
+    "stats_diploma": "117. /309 898. /1621"
   },
   {
-    "puesto": 877,
+    "puesto": 899,
     "placa": "1515",
     "nombre": "Mayra Pinto",
     "categoria": "10 K ABIERTA",
@@ -14901,15 +15275,15 @@ const RUNNERS_DATA = [
     "dif": "+48:59",
     "vel_prom": "9.0 Km/h",
     "ritmo": "6:37 Min/km",
-    "pdf_page": 447,
+    "pdf_page": 500,
     "dorsal": "1515",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Mayra Pinto",
     "tiempo_diploma": "01:06:11",
-    "stats_diploma": "119. /310 877. /1597"
+    "stats_diploma": "118. /309 899. /1621"
   },
   {
-    "puesto": 878,
+    "puesto": 900,
     "placa": "1077",
     "nombre": "Aura Cristina Arias Ferreira",
     "categoria": "10 K ABIERTA",
@@ -14918,15 +15292,15 @@ const RUNNERS_DATA = [
     "dif": "+49:00",
     "vel_prom": "9.0 Km/h",
     "ritmo": "6:37 Min/km",
-    "pdf_page": 448,
+    "pdf_page": 107,
     "dorsal": "1077",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Aura Cristina Arias Ferreira",
     "tiempo_diploma": "01:06:12",
-    "stats_diploma": "120. /310 878. /1597"
+    "stats_diploma": "119. /309 900. /1621"
   },
   {
-    "puesto": 879,
+    "puesto": 901,
     "placa": "1256",
     "nombre": "Gustavo Andres Hernandez Urrea",
     "categoria": "10 K ABIERTA",
@@ -14935,15 +15309,15 @@ const RUNNERS_DATA = [
     "dif": "+49:04",
     "vel_prom": "9.0 Km/h",
     "ritmo": "6:37 Min/km",
-    "pdf_page": 904,
+    "pdf_page": 274,
     "dorsal": "1256",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Gustavo Andres Hernandez Urrea",
     "tiempo_diploma": "01:06:16",
-    "stats_diploma": "266. /357 879. /1597"
+    "stats_diploma": "266. /357 901. /1621"
   },
   {
-    "puesto": 880,
+    "puesto": 902,
     "placa": "1502",
     "nombre": "Mariangela Moyeja Alzuru",
     "categoria": "10 K ABIERTA",
@@ -14952,15 +15326,15 @@ const RUNNERS_DATA = [
     "dif": "+49:07",
     "vel_prom": "9.0 Km/h",
     "ritmo": "6:37 Min/km",
-    "pdf_page": 449,
+    "pdf_page": 487,
     "dorsal": "1502",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Mariangela Moyeja Alzuru",
     "tiempo_diploma": "01:06:19",
-    "stats_diploma": "121. /310 880. /1597"
+    "stats_diploma": "120. /309 902. /1621"
   },
   {
-    "puesto": 881,
+    "puesto": 903,
     "placa": "3067",
     "nombre": "Hugo Andrés Becerra Cristancho",
     "categoria": "10 K MASTER A",
@@ -14969,15 +15343,15 @@ const RUNNERS_DATA = [
     "dif": "+49:08",
     "vel_prom": "9.0 Km/h",
     "ritmo": "6:38 Min/km",
-    "pdf_page": 1153,
+    "pdf_page": 1059,
     "dorsal": "3067",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Hugo Andrés Becerra Cristancho",
     "tiempo_diploma": "01:06:20",
-    "stats_diploma": "71. /107 881. /1597"
+    "stats_diploma": "71. /107 903. /1621"
   },
   {
-    "puesto": 882,
+    "puesto": 904,
     "placa": "1396",
     "nombre": "Kevin García",
     "categoria": "10 K ABIERTA",
@@ -14986,15 +15360,15 @@ const RUNNERS_DATA = [
     "dif": "+49:12",
     "vel_prom": "9.0 Km/h",
     "ritmo": "6:38 Min/km",
-    "pdf_page": 905,
+    "pdf_page": 403,
     "dorsal": "1396",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Kevin García",
     "tiempo_diploma": "01:06:24",
-    "stats_diploma": "267. /357 882. /1597"
+    "stats_diploma": "267. /357 904. /1621"
   },
   {
-    "puesto": 883,
+    "puesto": 905,
     "placa": "3071",
     "nombre": "Ivan Rodríguez",
     "categoria": "10 K MASTER A",
@@ -15003,15 +15377,15 @@ const RUNNERS_DATA = [
     "dif": "+49:12",
     "vel_prom": "9.0 Km/h",
     "ritmo": "6:38 Min/km",
-    "pdf_page": 1154,
+    "pdf_page": 1063,
     "dorsal": "3071",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Ivan Rodríguez",
     "tiempo_diploma": "01:06:24",
-    "stats_diploma": "72. /107 883. /1597"
+    "stats_diploma": "72. /107 905. /1621"
   },
   {
-    "puesto": 884,
+    "puesto": 906,
     "placa": "3095",
     "nombre": "Jose alberto Velasquez carrero",
     "categoria": "10 K MASTER A",
@@ -15020,15 +15394,15 @@ const RUNNERS_DATA = [
     "dif": "+49:17",
     "vel_prom": "9.0 Km/h",
     "ritmo": "6:38 Min/km",
-    "pdf_page": 1155,
+    "pdf_page": 1087,
     "dorsal": "3095",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Jose alberto Velasquez carrero",
     "tiempo_diploma": "01:06:29",
-    "stats_diploma": "73. /107 884. /1597"
+    "stats_diploma": "73. /107 906. /1621"
   },
   {
-    "puesto": 885,
+    "puesto": 907,
     "placa": "1065",
     "nombre": "Angelica Mejia",
     "categoria": "10 K ABIERTA",
@@ -15037,15 +15411,15 @@ const RUNNERS_DATA = [
     "dif": "+49:17",
     "vel_prom": "9.0 Km/h",
     "ritmo": "6:38 Min/km",
-    "pdf_page": 450,
+    "pdf_page": 95,
     "dorsal": "1065",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Angelica Mejia",
     "tiempo_diploma": "01:06:29",
-    "stats_diploma": "122. /310 885. /1597"
+    "stats_diploma": "121. /309 907. /1621"
   },
   {
-    "puesto": 886,
+    "puesto": 908,
     "placa": "1635",
     "nombre": "Tania Yirey Sanabria Pinilla",
     "categoria": "10 K ABIERTA",
@@ -15054,15 +15428,15 @@ const RUNNERS_DATA = [
     "dif": "+49:30",
     "vel_prom": "8.9 Km/h",
     "ritmo": "6:40 Min/km",
-    "pdf_page": 451,
+    "pdf_page": 603,
     "dorsal": "1635",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Tania Yirey Sanabria Pinilla",
     "tiempo_diploma": "01:06:42",
-    "stats_diploma": "123. /310 886. /1597"
+    "stats_diploma": "122. /309 908. /1621"
   },
   {
-    "puesto": 887,
+    "puesto": 909,
     "placa": "3159",
     "nombre": "Raúl Gilberto Murillo Rojas",
     "categoria": "10 K MASTER A",
@@ -15071,15 +15445,15 @@ const RUNNERS_DATA = [
     "dif": "+49:34",
     "vel_prom": "8.9 Km/h",
     "ritmo": "6:40 Min/km",
-    "pdf_page": 1156,
+    "pdf_page": 1149,
     "dorsal": "3159",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Raúl Gilberto Murillo Rojas",
     "tiempo_diploma": "01:06:46",
-    "stats_diploma": "74. /107 887. /1597"
+    "stats_diploma": "74. /107 909. /1621"
   },
   {
-    "puesto": 888,
+    "puesto": 910,
     "placa": "3114",
     "nombre": "Leidy Marcela Goyeneche Soto",
     "categoria": "10 K MASTER A",
@@ -15088,15 +15462,15 @@ const RUNNERS_DATA = [
     "dif": "+49:36",
     "vel_prom": "8.9 Km/h",
     "ritmo": "6:40 Min/km",
-    "pdf_page": 1032,
+    "pdf_page": 1105,
     "dorsal": "3114",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Leidy Marcela Goyeneche Soto",
     "tiempo_diploma": "01:06:48",
-    "stats_diploma": "37. /87 888. /1597"
+    "stats_diploma": "37. /87 910. /1621"
   },
   {
-    "puesto": 889,
+    "puesto": 911,
     "placa": "115",
     "nombre": "Katherine Colmenares",
     "categoria": "10 K ELITE",
@@ -15105,15 +15479,15 @@ const RUNNERS_DATA = [
     "dif": "+49:38",
     "vel_prom": "8.9 Km/h",
     "ritmo": "6:41 Min/km",
-    "pdf_page": 308,
+    "pdf_page": 13,
     "dorsal": "115",
     "categoria_diploma": "10 K ELITE",
     "nombre_diploma": "Katherine Colmenares",
     "tiempo_diploma": "01:06:50",
-    "stats_diploma": "7. /17 889. /1597"
+    "stats_diploma": "7. /17 911. /1621"
   },
   {
-    "puesto": 890,
+    "puesto": 912,
     "placa": "3304",
     "nombre": "Alvaro Malagon Reyes",
     "categoria": "10 K MASTER B",
@@ -15122,15 +15496,15 @@ const RUNNERS_DATA = [
     "dif": "+49:41",
     "vel_prom": "8.9 Km/h",
     "ritmo": "6:41 Min/km",
-    "pdf_page": 1264,
+    "pdf_page": 1198,
     "dorsal": "3304",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Alvaro Malagon Reyes",
     "tiempo_diploma": "01:06:53",
-    "stats_diploma": "42. /56 890. /1597"
+    "stats_diploma": "43. /57 912. /1621"
   },
   {
-    "puesto": 891,
+    "puesto": 913,
     "placa": "1652",
     "nombre": "Walter yecid Fabre reyes",
     "categoria": "10 K ABIERTA",
@@ -15139,15 +15513,15 @@ const RUNNERS_DATA = [
     "dif": "+49:42",
     "vel_prom": "8.9 Km/h",
     "ritmo": "6:41 Min/km",
-    "pdf_page": 906,
+    "pdf_page": 619,
     "dorsal": "1652",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Walter yecid Fabre reyes",
     "tiempo_diploma": "01:06:54",
-    "stats_diploma": "268. /357 891. /1597"
+    "stats_diploma": "268. /357 913. /1621"
   },
   {
-    "puesto": 892,
+    "puesto": 914,
     "placa": "1119",
     "nombre": "Carlos Mario Santander",
     "categoria": "10 K ABIERTA",
@@ -15156,15 +15530,15 @@ const RUNNERS_DATA = [
     "dif": "+49:45",
     "vel_prom": "8.9 Km/h",
     "ritmo": "6:41 Min/km",
-    "pdf_page": 907,
+    "pdf_page": 146,
     "dorsal": "1119",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Carlos Mario Santander",
     "tiempo_diploma": "01:06:57",
-    "stats_diploma": "269. /357 892. /1597"
+    "stats_diploma": "269. /357 914. /1621"
   },
   {
-    "puesto": 893,
+    "puesto": 915,
     "placa": "1018",
     "nombre": "Alexandra Rodriguez Uribe",
     "categoria": "10 K ABIERTA",
@@ -15173,15 +15547,15 @@ const RUNNERS_DATA = [
     "dif": "+49:48",
     "vel_prom": "8.9 Km/h",
     "ritmo": "6:42 Min/km",
-    "pdf_page": 452,
+    "pdf_page": 52,
     "dorsal": "1018",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Alexandra Rodriguez Uribe",
     "tiempo_diploma": "01:07:00",
-    "stats_diploma": "124. /310 893. /1597"
+    "stats_diploma": "123. /309 915. /1621"
   },
   {
-    "puesto": 894,
+    "puesto": 916,
     "placa": "3060",
     "nombre": "Gloria isabel Prada pinzon",
     "categoria": "10 K MASTER A",
@@ -15190,15 +15564,15 @@ const RUNNERS_DATA = [
     "dif": "+49:48",
     "vel_prom": "8.9 Km/h",
     "ritmo": "6:42 Min/km",
-    "pdf_page": 1157,
+    "pdf_page": 1054,
     "dorsal": "3060",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Gloria isabel Prada pinzon",
     "tiempo_diploma": "01:07:00",
-    "stats_diploma": "75. /107 894. /1597"
+    "stats_diploma": "75. /107 916. /1621"
   },
   {
-    "puesto": 895,
+    "puesto": 917,
     "placa": "1015",
     "nombre": "Alexander Diaz Silva",
     "categoria": "10 K ABIERTA",
@@ -15207,15 +15581,15 @@ const RUNNERS_DATA = [
     "dif": "+49:50",
     "vel_prom": "8.9 Km/h",
     "ritmo": "6:42 Min/km",
-    "pdf_page": 908,
+    "pdf_page": 49,
     "dorsal": "1015",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Alexander Diaz Silva",
     "tiempo_diploma": "01:07:02",
-    "stats_diploma": "270. /357 895. /1597"
+    "stats_diploma": "270. /357 917. /1621"
   },
   {
-    "puesto": 896,
+    "puesto": 918,
     "placa": "1707",
     "nombre": "Nicole Vanessa Nagles Garcia",
     "categoria": "10 K ABIERTA",
@@ -15224,15 +15598,15 @@ const RUNNERS_DATA = [
     "dif": "+49:51",
     "vel_prom": "8.9 Km/h",
     "ritmo": "6:42 Min/km",
-    "pdf_page": 453,
+    "pdf_page": 667,
     "dorsal": "1707",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Nicole Vanessa Nagles Garcia",
     "tiempo_diploma": "01:07:03",
-    "stats_diploma": "125. /310 896. /1597"
+    "stats_diploma": "124. /309 918. /1621"
   },
   {
-    "puesto": 897,
+    "puesto": 919,
     "placa": "3334",
     "nombre": "Jaime Mauricio Bernal Gaitan",
     "categoria": "10 K MASTER B",
@@ -15241,15 +15615,15 @@ const RUNNERS_DATA = [
     "dif": "+49:53",
     "vel_prom": "8.9 Km/h",
     "ritmo": "6:42 Min/km",
-    "pdf_page": 1265,
+    "pdf_page": 1227,
     "dorsal": "3334",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Jaime Mauricio Bernal Gaitan",
     "tiempo_diploma": "01:07:05",
-    "stats_diploma": "43. /56 897. /1597"
+    "stats_diploma": "44. /57 919. /1621"
   },
   {
-    "puesto": 898,
+    "puesto": 920,
     "placa": "1017",
     "nombre": "Alexander Fabian Rueda Benavides",
     "categoria": "10 K ABIERTA",
@@ -15258,15 +15632,15 @@ const RUNNERS_DATA = [
     "dif": "+49:54",
     "vel_prom": "8.9 Km/h",
     "ritmo": "6:42 Min/km",
-    "pdf_page": 909,
+    "pdf_page": 51,
     "dorsal": "1017",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Alexander Fabian Rueda Benavides",
     "tiempo_diploma": "01:07:06",
-    "stats_diploma": "271. /357 898. /1597"
+    "stats_diploma": "271. /357 920. /1621"
   },
   {
-    "puesto": 899,
+    "puesto": 921,
     "placa": "3177",
     "nombre": "VICTOR HUGO Ordoñez Villamizar",
     "categoria": "10 K MASTER A",
@@ -15275,15 +15649,15 @@ const RUNNERS_DATA = [
     "dif": "+49:54",
     "vel_prom": "8.9 Km/h",
     "ritmo": "6:42 Min/km",
-    "pdf_page": 1158,
+    "pdf_page": 1164,
     "dorsal": "3177",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "VICTOR HUGO Ordoñez Villamizar",
     "tiempo_diploma": "00:15:08",
-    "stats_diploma": "76. /107 899. /1597"
+    "stats_diploma": "76. /107 921. /1621"
   },
   {
-    "puesto": 900,
+    "puesto": 922,
     "placa": "1461",
     "nombre": "Maira Alejandra Tarazona Lopez",
     "categoria": "10 K ABIERTA",
@@ -15297,10 +15671,10 @@ const RUNNERS_DATA = [
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Maira Alejandra Tarazona Lopez",
     "tiempo_diploma": "01:07:07",
-    "stats_diploma": "126. /310 900. /1597"
+    "stats_diploma": "125. /309 922. /1621"
   },
   {
-    "puesto": 901,
+    "puesto": 923,
     "placa": "1721",
     "nombre": "Andrea Roa Jaimes",
     "categoria": "10 K ABIERTA",
@@ -15309,15 +15683,15 @@ const RUNNERS_DATA = [
     "dif": "+49:56",
     "vel_prom": "8.9 Km/h",
     "ritmo": "6:42 Min/km",
-    "pdf_page": 455,
+    "pdf_page": 678,
     "dorsal": "1721",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Andrea Roa Jaimes",
     "tiempo_diploma": "01:07:08",
-    "stats_diploma": "127. /310 901. /1597"
+    "stats_diploma": "126. /309 923. /1621"
   },
   {
-    "puesto": 902,
+    "puesto": 924,
     "placa": "1400",
     "nombre": "Keyla JULIETH González González",
     "categoria": "10 K ABIERTA",
@@ -15326,15 +15700,15 @@ const RUNNERS_DATA = [
     "dif": "+49:57",
     "vel_prom": "8.9 Km/h",
     "ritmo": "6:42 Min/km",
-    "pdf_page": 456,
+    "pdf_page": 406,
     "dorsal": "1400",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Keyla JULIETH González González",
     "tiempo_diploma": "01:07:09",
-    "stats_diploma": "128. /310 902. /1597"
+    "stats_diploma": "127. /309 924. /1621"
   },
   {
-    "puesto": 903,
+    "puesto": 925,
     "placa": "3101",
     "nombre": "Juan Carlos Patiño Pabón",
     "categoria": "10 K MASTER A",
@@ -15343,15 +15717,15 @@ const RUNNERS_DATA = [
     "dif": "+49:58",
     "vel_prom": "8.9 Km/h",
     "ritmo": "6:43 Min/km",
-    "pdf_page": 1159,
+    "pdf_page": 1093,
     "dorsal": "3101",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Juan Carlos Patiño Pabón",
     "tiempo_diploma": "01:07:10",
-    "stats_diploma": "77. /107 903. /1597"
+    "stats_diploma": "77. /107 925. /1621"
   },
   {
-    "puesto": 904,
+    "puesto": 926,
     "placa": "1428",
     "nombre": "LILIANA MARCELA OSORIO SANTOS",
     "categoria": "10 K ABIERTA",
@@ -15360,15 +15734,15 @@ const RUNNERS_DATA = [
     "dif": "+50:02",
     "vel_prom": "8.9 Km/h",
     "ritmo": "6:43 Min/km",
-    "pdf_page": 457,
+    "pdf_page": 428,
     "dorsal": "1428",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "LILIANA MARCELA OSORIO SANTOS",
     "tiempo_diploma": "01:07:14",
-    "stats_diploma": "129. /310 904. /1597"
+    "stats_diploma": "128. /309 926. /1621"
   },
   {
-    "puesto": 905,
+    "puesto": 927,
     "placa": "1227",
     "nombre": "Evelyn Alejandra Rodriguez Mosquera",
     "categoria": "10 K ABIERTA",
@@ -15377,15 +15751,15 @@ const RUNNERS_DATA = [
     "dif": "+50:04",
     "vel_prom": "8.9 Km/h",
     "ritmo": "6:43 Min/km",
-    "pdf_page": 458,
+    "pdf_page": 248,
     "dorsal": "1227",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Evelyn Alejandra Rodriguez Mosquera",
     "tiempo_diploma": "01:07:16",
-    "stats_diploma": "130. /310 905. /1597"
+    "stats_diploma": "129. /309 927. /1621"
   },
   {
-    "puesto": 906,
+    "puesto": 928,
     "placa": "1378",
     "nombre": "Juliana Cruz",
     "categoria": "10 K ABIERTA",
@@ -15394,15 +15768,15 @@ const RUNNERS_DATA = [
     "dif": "+50:06",
     "vel_prom": "8.9 Km/h",
     "ritmo": "6:43 Min/km",
-    "pdf_page": 459,
+    "pdf_page": 388,
     "dorsal": "1378",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Juliana Cruz",
     "tiempo_diploma": "01:07:18",
-    "stats_diploma": "131. /310 906. /1597"
+    "stats_diploma": "130. /309 928. /1621"
   },
   {
-    "puesto": 907,
+    "puesto": 929,
     "placa": "1317",
     "nombre": "Joan Fernando Rojas Rivera",
     "categoria": "10 K ABIERTA",
@@ -15411,15 +15785,15 @@ const RUNNERS_DATA = [
     "dif": "+50:06",
     "vel_prom": "8.9 Km/h",
     "ritmo": "6:43 Min/km",
-    "pdf_page": 910,
+    "pdf_page": 331,
     "dorsal": "1317",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Joan Fernando Rojas Rivera",
     "tiempo_diploma": "01:07:18",
-    "stats_diploma": "272. /357 907. /1597"
+    "stats_diploma": "272. /357 929. /1621"
   },
   {
-    "puesto": 908,
+    "puesto": 930,
     "placa": "3050",
     "nombre": "Erika Reales",
     "categoria": "10 K MASTER A",
@@ -15428,15 +15802,15 @@ const RUNNERS_DATA = [
     "dif": "+50:07",
     "vel_prom": "8.9 Km/h",
     "ritmo": "6:43 Min/km",
-    "pdf_page": 1033,
+    "pdf_page": 1045,
     "dorsal": "3050",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Erika Reales",
     "tiempo_diploma": "01:07:19",
-    "stats_diploma": "38. /87 908. /1597"
+    "stats_diploma": "38. /87 930. /1621"
   },
   {
-    "puesto": 909,
+    "puesto": 931,
     "placa": "1393",
     "nombre": "Katherine Esparza Rojas",
     "categoria": "10 K ABIERTA",
@@ -15445,15 +15819,15 @@ const RUNNERS_DATA = [
     "dif": "+50:07",
     "vel_prom": "8.9 Km/h",
     "ritmo": "6:43 Min/km",
-    "pdf_page": 460,
+    "pdf_page": 401,
     "dorsal": "1393",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Katherine Esparza Rojas",
     "tiempo_diploma": "01:07:19",
-    "stats_diploma": "132. /310 909. /1597"
+    "stats_diploma": "131. /309 931. /1621"
   },
   {
-    "puesto": 910,
+    "puesto": 932,
     "placa": "3317",
     "nombre": "Edgar Ignacio Barrera Gonzalez",
     "categoria": "10 K MASTER B",
@@ -15462,15 +15836,15 @@ const RUNNERS_DATA = [
     "dif": "+50:08",
     "vel_prom": "8.9 Km/h",
     "ritmo": "6:44 Min/km",
-    "pdf_page": 1266,
+    "pdf_page": 1210,
     "dorsal": "3317",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Edgar Ignacio Barrera Gonzalez",
     "tiempo_diploma": "01:07:20",
-    "stats_diploma": "44. /56 910. /1597"
+    "stats_diploma": "45. /57 932. /1621"
   },
   {
-    "puesto": 911,
+    "puesto": 933,
     "placa": "1290",
     "nombre": "Jeison Arley Jiménez Camacho",
     "categoria": "10 K ABIERTA",
@@ -15479,15 +15853,15 @@ const RUNNERS_DATA = [
     "dif": "+50:14",
     "vel_prom": "8.8 Km/h",
     "ritmo": "6:44 Min/km",
-    "pdf_page": 911,
+    "pdf_page": 307,
     "dorsal": "1290",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Jeison Arley Jiménez Camacho",
     "tiempo_diploma": "01:07:26",
-    "stats_diploma": "273. /357 911. /1597"
+    "stats_diploma": "273. /357 933. /1621"
   },
   {
-    "puesto": 912,
+    "puesto": 934,
     "placa": "1622",
     "nombre": "Silvia Alejandra Hernández Roa",
     "categoria": "10 K ABIERTA",
@@ -15496,15 +15870,15 @@ const RUNNERS_DATA = [
     "dif": "+50:21",
     "vel_prom": "8.8 Km/h",
     "ritmo": "6:45 Min/km",
-    "pdf_page": 461,
+    "pdf_page": 592,
     "dorsal": "1622",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Silvia Alejandra Hernández Roa",
     "tiempo_diploma": "01:07:33",
-    "stats_diploma": "133. /310 912. /1597"
+    "stats_diploma": "132. /309 934. /1621"
   },
   {
-    "puesto": 913,
+    "puesto": 935,
     "placa": "1710",
     "nombre": "Margely Castiblanco",
     "categoria": "10 K ABIERTA",
@@ -15513,15 +15887,15 @@ const RUNNERS_DATA = [
     "dif": "+50:21",
     "vel_prom": "8.8 Km/h",
     "ritmo": "6:45 Min/km",
-    "pdf_page": 462,
+    "pdf_page": 670,
     "dorsal": "1710",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Margely Castiblanco",
     "tiempo_diploma": "01:07:33",
-    "stats_diploma": "134. /310 913. /1597"
+    "stats_diploma": "133. /309 935. /1621"
   },
   {
-    "puesto": 914,
+    "puesto": 936,
     "placa": "1150",
     "nombre": "Daniela Estupiñan",
     "categoria": "10 K ABIERTA",
@@ -15530,15 +15904,15 @@ const RUNNERS_DATA = [
     "dif": "+50:22",
     "vel_prom": "8.8 Km/h",
     "ritmo": "6:45 Min/km",
-    "pdf_page": 463,
+    "pdf_page": 173,
     "dorsal": "1150",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Daniela Estupiñan",
     "tiempo_diploma": "01:07:34",
-    "stats_diploma": "135. /310 914. /1597"
+    "stats_diploma": "134. /309 936. /1621"
   },
   {
-    "puesto": 915,
+    "puesto": 937,
     "placa": "1331",
     "nombre": "JONATHAN FABIAN ACOSTA GARCÍA",
     "categoria": "10 K ABIERTA",
@@ -15547,15 +15921,15 @@ const RUNNERS_DATA = [
     "dif": "+50:22",
     "vel_prom": "8.8 Km/h",
     "ritmo": "6:45 Min/km",
-    "pdf_page": 912,
+    "pdf_page": 344,
     "dorsal": "1331",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "JONATHAN FABIAN ACOSTA GARCÍA",
     "tiempo_diploma": "01:07:34",
-    "stats_diploma": "274. /357 915. /1597"
+    "stats_diploma": "274. /357 937. /1621"
   },
   {
-    "puesto": 916,
+    "puesto": 938,
     "placa": "3080",
     "nombre": "Jeferson Alexander Triana Berdugo",
     "categoria": "10 K MASTER A",
@@ -15564,15 +15938,15 @@ const RUNNERS_DATA = [
     "dif": "+50:23",
     "vel_prom": "8.8 Km/h",
     "ritmo": "6:45 Min/km",
-    "pdf_page": 1160,
+    "pdf_page": 1072,
     "dorsal": "3080",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Jeferson Alexander Triana Berdugo",
     "tiempo_diploma": "01:07:35",
-    "stats_diploma": "78. /107 916. /1597"
+    "stats_diploma": "78. /107 938. /1621"
   },
   {
-    "puesto": 917,
+    "puesto": 939,
     "placa": "1036",
     "nombre": "Andrea Angarita Gomez",
     "categoria": "10 K ABIERTA",
@@ -15581,15 +15955,15 @@ const RUNNERS_DATA = [
     "dif": "+50:23",
     "vel_prom": "8.8 Km/h",
     "ritmo": "6:45 Min/km",
-    "pdf_page": 464,
+    "pdf_page": 68,
     "dorsal": "1036",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Andrea Angarita Gomez",
     "tiempo_diploma": "01:07:35",
-    "stats_diploma": "136. /310 917. /1597"
+    "stats_diploma": "135. /309 939. /1621"
   },
   {
-    "puesto": 918,
+    "puesto": 940,
     "placa": "120",
     "nombre": "María Carolina Gómez Gámez",
     "categoria": "10 K ELITE",
@@ -15598,15 +15972,15 @@ const RUNNERS_DATA = [
     "dif": "+50:23",
     "vel_prom": "8.8 Km/h",
     "ritmo": "6:45 Min/km",
-    "pdf_page": 309,
+    "pdf_page": 16,
     "dorsal": "120",
     "categoria_diploma": "10 K ELITE",
     "nombre_diploma": "María Carolina Gómez Gámez",
     "tiempo_diploma": "01:07:35",
-    "stats_diploma": "8. /17 918. /1597"
+    "stats_diploma": "8. /17 940. /1621"
   },
   {
-    "puesto": 919,
+    "puesto": 941,
     "placa": "3058",
     "nombre": "Gloria Gonzalez Roman",
     "categoria": "10 K MASTER A",
@@ -15615,15 +15989,15 @@ const RUNNERS_DATA = [
     "dif": "+50:29",
     "vel_prom": "8.8 Km/h",
     "ritmo": "6:46 Min/km",
-    "pdf_page": 1034,
+    "pdf_page": 1052,
     "dorsal": "3058",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Gloria Gonzalez Roman",
     "tiempo_diploma": "01:07:41",
-    "stats_diploma": "39. /87 919. /1597"
+    "stats_diploma": "39. /87 941. /1621"
   },
   {
-    "puesto": 920,
+    "puesto": 942,
     "placa": "3104",
     "nombre": "Julian Andres Londoño Arango",
     "categoria": "10 K MASTER A",
@@ -15632,15 +16006,15 @@ const RUNNERS_DATA = [
     "dif": "+50:30",
     "vel_prom": "8.8 Km/h",
     "ritmo": "6:46 Min/km",
-    "pdf_page": 1161,
+    "pdf_page": 1096,
     "dorsal": "3104",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Julian Andres Londoño Arango",
     "tiempo_diploma": "01:07:42",
-    "stats_diploma": "79. /107 920. /1597"
+    "stats_diploma": "79. /107 942. /1621"
   },
   {
-    "puesto": 921,
+    "puesto": 943,
     "placa": "1501",
     "nombre": "Mariana Torres Pérez",
     "categoria": "10 K ABIERTA",
@@ -15649,15 +16023,15 @@ const RUNNERS_DATA = [
     "dif": "+50:30",
     "vel_prom": "8.8 Km/h",
     "ritmo": "6:46 Min/km",
-    "pdf_page": 465,
+    "pdf_page": 486,
     "dorsal": "1501",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Mariana Torres Pérez",
     "tiempo_diploma": "01:07:42",
-    "stats_diploma": "137. /310 921. /1597"
+    "stats_diploma": "136. /309 943. /1621"
   },
   {
-    "puesto": 922,
+    "puesto": 944,
     "placa": "3051",
     "nombre": "Erwin Giovanni Beltran Espitia",
     "categoria": "10 K MASTER A",
@@ -15666,15 +16040,15 @@ const RUNNERS_DATA = [
     "dif": "+50:32",
     "vel_prom": "8.8 Km/h",
     "ritmo": "6:46 Min/km",
-    "pdf_page": 1162,
+    "pdf_page": 1046,
     "dorsal": "3051",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Erwin Giovanni Beltran Espitia",
     "tiempo_diploma": "01:07:44",
-    "stats_diploma": "80. /107 922. /1597"
+    "stats_diploma": "80. /107 944. /1621"
   },
   {
-    "puesto": 923,
+    "puesto": 945,
     "placa": "1169",
     "nombre": "Dayana Marcela Contreras Carrillo",
     "categoria": "10 K ABIERTA",
@@ -15683,15 +16057,15 @@ const RUNNERS_DATA = [
     "dif": "+50:34",
     "vel_prom": "8.8 Km/h",
     "ritmo": "6:46 Min/km",
-    "pdf_page": 466,
+    "pdf_page": 191,
     "dorsal": "1169",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Dayana Marcela Contreras Carrillo",
     "tiempo_diploma": "01:07:46",
-    "stats_diploma": "138. /310 923. /1597"
+    "stats_diploma": "137. /309 945. /1621"
   },
   {
-    "puesto": 924,
+    "puesto": 946,
     "placa": "3097",
     "nombre": "Jose Luis Torres Castiblanco",
     "categoria": "10 K MASTER A",
@@ -15700,15 +16074,15 @@ const RUNNERS_DATA = [
     "dif": "+50:37",
     "vel_prom": "8.8 Km/h",
     "ritmo": "6:46 Min/km",
-    "pdf_page": 1163,
+    "pdf_page": 1089,
     "dorsal": "3097",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Jose Luis Torres Castiblanco",
     "tiempo_diploma": "01:07:49",
-    "stats_diploma": "81. /107 924. /1597"
+    "stats_diploma": "81. /107 946. /1621"
   },
   {
-    "puesto": 925,
+    "puesto": 947,
     "placa": "1326",
     "nombre": "Johana Andrea",
     "categoria": "10 K ABIERTA",
@@ -15717,15 +16091,15 @@ const RUNNERS_DATA = [
     "dif": "+50:38",
     "vel_prom": "8.8 Km/h",
     "ritmo": "6:47 Min/km",
-    "pdf_page": 467,
+    "pdf_page": 339,
     "dorsal": "1326",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Johana Andrea",
     "tiempo_diploma": "01:07:50",
-    "stats_diploma": "139. /310 925. /1597"
+    "stats_diploma": "138. /309 947. /1621"
   },
   {
-    "puesto": 926,
+    "puesto": 948,
     "placa": "3057",
     "nombre": "GINNA PAOLA MALDONADO MACIAS",
     "categoria": "10 K MASTER A",
@@ -15734,15 +16108,15 @@ const RUNNERS_DATA = [
     "dif": "+50:38",
     "vel_prom": "8.8 Km/h",
     "ritmo": "6:47 Min/km",
-    "pdf_page": 1035,
+    "pdf_page": 1051,
     "dorsal": "3057",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "GINNA PAOLA MALDONADO MACIAS",
     "tiempo_diploma": "01:07:50",
-    "stats_diploma": "40. /87 926. /1597"
+    "stats_diploma": "40. /87 948. /1621"
   },
   {
-    "puesto": 927,
+    "puesto": 949,
     "placa": "1309",
     "nombre": "Jhoan Sebastian Vega Martinez",
     "categoria": "10 K ABIERTA",
@@ -15751,15 +16125,15 @@ const RUNNERS_DATA = [
     "dif": "+50:42",
     "vel_prom": "8.8 Km/h",
     "ritmo": "6:47 Min/km",
-    "pdf_page": 913,
+    "pdf_page": 325,
     "dorsal": "1309",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Jhoan Sebastian Vega Martinez",
     "tiempo_diploma": "01:07:54",
-    "stats_diploma": "275. /357 927. /1597"
+    "stats_diploma": "275. /357 949. /1621"
   },
   {
-    "puesto": 928,
+    "puesto": 950,
     "placa": "3077",
     "nombre": "Javier Ardila camacho",
     "categoria": "10 K MASTER A",
@@ -15768,15 +16142,15 @@ const RUNNERS_DATA = [
     "dif": "+50:43",
     "vel_prom": "8.8 Km/h",
     "ritmo": "6:47 Min/km",
-    "pdf_page": 1164,
+    "pdf_page": 1069,
     "dorsal": "3077",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Javier Ardila camacho",
     "tiempo_diploma": "01:07:55",
-    "stats_diploma": "82. /107 928. /1597"
+    "stats_diploma": "82. /107 950. /1621"
   },
   {
-    "puesto": 929,
+    "puesto": 951,
     "placa": "1063",
     "nombre": "Angelica Poveda",
     "categoria": "10 K ABIERTA",
@@ -15785,15 +16159,15 @@ const RUNNERS_DATA = [
     "dif": "+50:47",
     "vel_prom": "8.8 Km/h",
     "ritmo": "6:47 Min/km",
-    "pdf_page": 468,
+    "pdf_page": 93,
     "dorsal": "1063",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Angelica Poveda",
     "tiempo_diploma": "01:07:59",
-    "stats_diploma": "140. /310 929. /1597"
+    "stats_diploma": "139. /309 951. /1621"
   },
   {
-    "puesto": 930,
+    "puesto": 952,
     "placa": "1714",
     "nombre": "Tatyana Caballero",
     "categoria": "10 K ABIERTA",
@@ -15802,15 +16176,15 @@ const RUNNERS_DATA = [
     "dif": "+50:48",
     "vel_prom": "8.8 Km/h",
     "ritmo": "6:48 Min/km",
-    "pdf_page": 469,
+    "pdf_page": 674,
     "dorsal": "1714",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Tatyana Caballero",
     "tiempo_diploma": "01:08:00",
-    "stats_diploma": "141. /310 930. /1597"
+    "stats_diploma": "140. /309 952. /1621"
   },
   {
-    "puesto": 931,
+    "puesto": 953,
     "placa": "3212",
     "nombre": "Leonardo Fabio Carreño Rodriguez",
     "categoria": "10 K MASTER A",
@@ -15819,15 +16193,15 @@ const RUNNERS_DATA = [
     "dif": "+50:49",
     "vel_prom": "8.8 Km/h",
     "ritmo": "6:48 Min/km",
-    "pdf_page": 1165,
+    "pdf_page": 1194,
     "dorsal": "3212",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Leonardo Fabio Carreño Rodriguez",
     "tiempo_diploma": "01:08:01",
-    "stats_diploma": "83. /107 931. /1597"
+    "stats_diploma": "83. /107 953. /1621"
   },
   {
-    "puesto": 932,
+    "puesto": 954,
     "placa": "3142",
     "nombre": "Mónica Bretón García",
     "categoria": "10 K MASTER A",
@@ -15836,15 +16210,15 @@ const RUNNERS_DATA = [
     "dif": "+50:50",
     "vel_prom": "8.8 Km/h",
     "ritmo": "6:48 Min/km",
-    "pdf_page": 1036,
+    "pdf_page": 1133,
     "dorsal": "3142",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Mónica Bretón García",
     "tiempo_diploma": "01:08:02",
-    "stats_diploma": "41. /87 932. /1597"
+    "stats_diploma": "41. /87 954. /1621"
   },
   {
-    "puesto": 933,
+    "puesto": 955,
     "placa": "3099",
     "nombre": "Juan Pedroza",
     "categoria": "10 K MASTER A",
@@ -15853,15 +16227,15 @@ const RUNNERS_DATA = [
     "dif": "+50:51",
     "vel_prom": "8.8 Km/h",
     "ritmo": "6:48 Min/km",
-    "pdf_page": 1166,
+    "pdf_page": 1091,
     "dorsal": "3099",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Juan Pedroza",
     "tiempo_diploma": "01:08:03",
-    "stats_diploma": "84. /107 933. /1597"
+    "stats_diploma": "84. /107 955. /1621"
   },
   {
-    "puesto": 934,
+    "puesto": 956,
     "placa": "3034",
     "nombre": "DIANA FAJARDO LESMES",
     "categoria": "10 K MASTER A",
@@ -15870,15 +16244,15 @@ const RUNNERS_DATA = [
     "dif": "+50:53",
     "vel_prom": "8.8 Km/h",
     "ritmo": "6:48 Min/km",
-    "pdf_page": 1037,
+    "pdf_page": 1030,
     "dorsal": "3034",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "DIANA FAJARDO LESMES",
     "tiempo_diploma": "01:08:05",
-    "stats_diploma": "42. /87 934. /1597"
+    "stats_diploma": "42. /87 956. /1621"
   },
   {
-    "puesto": 935,
+    "puesto": 957,
     "placa": "3002",
     "nombre": "Adriana Oviedo Carrillo",
     "categoria": "10 K MASTER A",
@@ -15887,15 +16261,15 @@ const RUNNERS_DATA = [
     "dif": "+50:54",
     "vel_prom": "8.8 Km/h",
     "ritmo": "6:48 Min/km",
-    "pdf_page": 1038,
+    "pdf_page": 1002,
     "dorsal": "3002",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Adriana Oviedo Carrillo",
     "tiempo_diploma": "01:08:06",
-    "stats_diploma": "43. /87 935. /1597"
+    "stats_diploma": "43. /87 957. /1621"
   },
   {
-    "puesto": 936,
+    "puesto": 958,
     "placa": "117",
     "nombre": "Lorena Lopez Ardila",
     "categoria": "10 K ELITE",
@@ -15904,15 +16278,15 @@ const RUNNERS_DATA = [
     "dif": "+50:57",
     "vel_prom": "8.8 Km/h",
     "ritmo": "6:48 Min/km",
-    "pdf_page": 310,
+    "pdf_page": 14,
     "dorsal": "117",
     "categoria_diploma": "10 K ELITE",
     "nombre_diploma": "Lorena Lopez Ardila",
     "tiempo_diploma": "01:08:09",
-    "stats_diploma": "9. /17 936. /1597"
+    "stats_diploma": "9. /17 958. /1621"
   },
   {
-    "puesto": 937,
+    "puesto": 959,
     "placa": "1504",
     "nombre": "ANDRES FABIAN Gómez",
     "categoria": "10 K ABIERTA",
@@ -15921,15 +16295,15 @@ const RUNNERS_DATA = [
     "dif": "+51:02",
     "vel_prom": "8.7 Km/h",
     "ritmo": "6:49 Min/km",
-    "pdf_page": 914,
+    "pdf_page": 489,
     "dorsal": "1504",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "ANDRES FABIAN Gómez",
     "tiempo_diploma": "01:08:14",
-    "stats_diploma": "276. /357 937. /1597"
+    "stats_diploma": "276. /357 959. /1621"
   },
   {
-    "puesto": 938,
+    "puesto": 960,
     "placa": "1503",
     "nombre": "Marilyn Teran",
     "categoria": "10 K ABIERTA",
@@ -15938,15 +16312,15 @@ const RUNNERS_DATA = [
     "dif": "+51:02",
     "vel_prom": "8.7 Km/h",
     "ritmo": "6:49 Min/km",
-    "pdf_page": 470,
+    "pdf_page": 488,
     "dorsal": "1503",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Marilyn Teran",
     "tiempo_diploma": "01:08:14",
-    "stats_diploma": "142. /310 938. /1597"
+    "stats_diploma": "141. /309 960. /1621"
   },
   {
-    "puesto": 939,
+    "puesto": 961,
     "placa": "3315",
     "nombre": "Diana Rojas Rojas",
     "categoria": "10 K MASTER B",
@@ -15955,15 +16329,15 @@ const RUNNERS_DATA = [
     "dif": "+51:06",
     "vel_prom": "8.7 Km/h",
     "ritmo": "6:49 Min/km",
-    "pdf_page": 1204,
+    "pdf_page": 1208,
     "dorsal": "3315",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Diana Rojas Rojas",
     "tiempo_diploma": "01:08:18",
-    "stats_diploma": "15. /33 939. /1597"
+    "stats_diploma": "15. /33 961. /1621"
   },
   {
-    "puesto": 940,
+    "puesto": 962,
     "placa": "1293",
     "nombre": "Jenny Vasquez",
     "categoria": "10 K ABIERTA",
@@ -15972,15 +16346,15 @@ const RUNNERS_DATA = [
     "dif": "+51:06",
     "vel_prom": "8.7 Km/h",
     "ritmo": "6:49 Min/km",
-    "pdf_page": 471,
+    "pdf_page": 310,
     "dorsal": "1293",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Jenny Vasquez",
     "tiempo_diploma": "01:08:18",
-    "stats_diploma": "143. /310 940. /1597"
+    "stats_diploma": "142. /309 962. /1621"
   },
   {
-    "puesto": 941,
+    "puesto": 963,
     "placa": "1456",
     "nombre": "Luz Dary Alarcón Hernández",
     "categoria": "10 K ABIERTA",
@@ -15989,15 +16363,15 @@ const RUNNERS_DATA = [
     "dif": "+51:08",
     "vel_prom": "8.7 Km/h",
     "ritmo": "6:50 Min/km",
-    "pdf_page": 472,
+    "pdf_page": 449,
     "dorsal": "1456",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Luz Dary Alarcón Hernández",
     "tiempo_diploma": "01:08:20",
-    "stats_diploma": "144. /310 941. /1597"
+    "stats_diploma": "143. /309 963. /1621"
   },
   {
-    "puesto": 942,
+    "puesto": 964,
     "placa": "1518",
     "nombre": "MAYRA FERNANDA GUARIN PINEDA",
     "categoria": "10 K ABIERTA",
@@ -16006,15 +16380,15 @@ const RUNNERS_DATA = [
     "dif": "+51:08",
     "vel_prom": "8.7 Km/h",
     "ritmo": "6:50 Min/km",
-    "pdf_page": 473,
+    "pdf_page": 503,
     "dorsal": "1518",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "MAYRA FERNANDA GUARIN PINEDA",
     "tiempo_diploma": "01:08:20",
-    "stats_diploma": "145. /310 942. /1597"
+    "stats_diploma": "144. /309 964. /1621"
   },
   {
-    "puesto": 943,
+    "puesto": 965,
     "placa": "1541",
     "nombre": "Natalia Mantilla Angarita",
     "categoria": "10 K ABIERTA",
@@ -16023,15 +16397,15 @@ const RUNNERS_DATA = [
     "dif": "+51:10",
     "vel_prom": "8.7 Km/h",
     "ritmo": "6:50 Min/km",
-    "pdf_page": 474,
+    "pdf_page": 523,
     "dorsal": "1541",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Natalia Mantilla Angarita",
     "tiempo_diploma": "01:08:22",
-    "stats_diploma": "146. /310 943. /1597"
+    "stats_diploma": "145. /309 965. /1621"
   },
   {
-    "puesto": 944,
+    "puesto": 966,
     "placa": "1463",
     "nombre": "Manuel David Gomez Niño",
     "categoria": "10 K ABIERTA",
@@ -16040,15 +16414,15 @@ const RUNNERS_DATA = [
     "dif": "+51:16",
     "vel_prom": "8.7 Km/h",
     "ritmo": "6:50 Min/km",
-    "pdf_page": 915,
+    "pdf_page": 456,
     "dorsal": "1463",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Manuel David Gomez Niño",
     "tiempo_diploma": "01:08:28",
-    "stats_diploma": "277. /357 944. /1597"
+    "stats_diploma": "277. /357 966. /1621"
   },
   {
-    "puesto": 945,
+    "puesto": 967,
     "placa": "1646",
     "nombre": "Vanessa Pianeta",
     "categoria": "10 K ABIERTA",
@@ -16057,15 +16431,15 @@ const RUNNERS_DATA = [
     "dif": "+51:19",
     "vel_prom": "8.7 Km/h",
     "ritmo": "6:51 Min/km",
-    "pdf_page": 475,
+    "pdf_page": 613,
     "dorsal": "1646",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Vanessa Pianeta",
     "tiempo_diploma": "01:08:31",
-    "stats_diploma": "147. /310 945. /1597"
+    "stats_diploma": "146. /309 967. /1621"
   },
   {
-    "puesto": 946,
+    "puesto": 968,
     "placa": "3328",
     "nombre": "Graciela Calderon Leon",
     "categoria": "10 K MASTER B",
@@ -16074,15 +16448,15 @@ const RUNNERS_DATA = [
     "dif": "+51:22",
     "vel_prom": "8.7 Km/h",
     "ritmo": "6:51 Min/km",
-    "pdf_page": 1205,
+    "pdf_page": 1221,
     "dorsal": "3328",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Graciela Calderon Leon",
     "tiempo_diploma": "01:08:34",
-    "stats_diploma": "16. /33 946. /1597"
+    "stats_diploma": "16. /33 968. /1621"
   },
   {
-    "puesto": 947,
+    "puesto": 969,
     "placa": "1222",
     "nombre": "Erika Xiomara Rojas Chaparro",
     "categoria": "10 K ABIERTA",
@@ -16091,15 +16465,15 @@ const RUNNERS_DATA = [
     "dif": "+51:23",
     "vel_prom": "8.7 Km/h",
     "ritmo": "6:51 Min/km",
-    "pdf_page": 476,
+    "pdf_page": 243,
     "dorsal": "1222",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Erika Xiomara Rojas Chaparro",
     "tiempo_diploma": "01:08:35",
-    "stats_diploma": "148. /310 947. /1597"
+    "stats_diploma": "147. /309 969. /1621"
   },
   {
-    "puesto": 948,
+    "puesto": 970,
     "placa": "1489",
     "nombre": "MARIA FERNANDA CASALLAS MATEUS",
     "categoria": "10 K ABIERTA",
@@ -16108,15 +16482,15 @@ const RUNNERS_DATA = [
     "dif": "+51:25",
     "vel_prom": "8.7 Km/h",
     "ritmo": "6:51 Min/km",
-    "pdf_page": 477,
+    "pdf_page": 476,
     "dorsal": "1489",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "MARIA FERNANDA CASALLAS MATEUS",
     "tiempo_diploma": "01:08:37",
-    "stats_diploma": "149. /310 948. /1597"
+    "stats_diploma": "148. /309 970. /1621"
   },
   {
-    "puesto": 949,
+    "puesto": 971,
     "placa": "1311",
     "nombre": "Jhoao Andres Heredia Uribe",
     "categoria": "10 K ABIERTA",
@@ -16125,15 +16499,15 @@ const RUNNERS_DATA = [
     "dif": "+51:26",
     "vel_prom": "8.7 Km/h",
     "ritmo": "6:51 Min/km",
-    "pdf_page": 916,
+    "pdf_page": 326,
     "dorsal": "1311",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Jhoao Andres Heredia Uribe",
     "tiempo_diploma": "01:08:38",
-    "stats_diploma": "278. /357 949. /1597"
+    "stats_diploma": "278. /357 971. /1621"
   },
   {
-    "puesto": 950,
+    "puesto": 972,
     "placa": "1477",
     "nombre": "Maria camila duran diaz",
     "categoria": "10 K ABIERTA",
@@ -16142,15 +16516,15 @@ const RUNNERS_DATA = [
     "dif": "+51:26",
     "vel_prom": "8.7 Km/h",
     "ritmo": "6:51 Min/km",
-    "pdf_page": 478,
+    "pdf_page": 467,
     "dorsal": "1477",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Maria camila duran diaz",
     "tiempo_diploma": "01:08:38",
-    "stats_diploma": "150. /310 950. /1597"
+    "stats_diploma": "149. /309 972. /1621"
   },
   {
-    "puesto": 951,
+    "puesto": 973,
     "placa": "1567",
     "nombre": "PAULA ALEJANDRA CHAVEZ CARREÑO",
     "categoria": "10 K ABIERTA",
@@ -16159,15 +16533,15 @@ const RUNNERS_DATA = [
     "dif": "+51:27",
     "vel_prom": "8.7 Km/h",
     "ritmo": "6:51 Min/km",
-    "pdf_page": 479,
+    "pdf_page": 546,
     "dorsal": "1567",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "PAULA ALEJANDRA CHAVEZ CARREÑO",
     "tiempo_diploma": "01:08:39",
-    "stats_diploma": "151. /310 951. /1597"
+    "stats_diploma": "150. /309 973. /1621"
   },
   {
-    "puesto": 952,
+    "puesto": 974,
     "placa": "3178",
     "nombre": "Vivian Lopez",
     "categoria": "10 K MASTER A",
@@ -16176,15 +16550,15 @@ const RUNNERS_DATA = [
     "dif": "+51:34",
     "vel_prom": "8.7 Km/h",
     "ritmo": "6:52 Min/km",
-    "pdf_page": 1039,
+    "pdf_page": 1165,
     "dorsal": "3178",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Vivian Lopez",
     "tiempo_diploma": "01:08:46",
-    "stats_diploma": "44. /87 952. /1597"
+    "stats_diploma": "44. /87 974. /1621"
   },
   {
-    "puesto": 953,
+    "puesto": 975,
     "placa": "1035",
     "nombre": "Andrea Cala",
     "categoria": "10 K ABIERTA",
@@ -16193,15 +16567,15 @@ const RUNNERS_DATA = [
     "dif": "+51:37",
     "vel_prom": "8.7 Km/h",
     "ritmo": "6:52 Min/km",
-    "pdf_page": 480,
+    "pdf_page": 67,
     "dorsal": "1035",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Andrea Cala",
     "tiempo_diploma": "01:08:49",
-    "stats_diploma": "152. /310 953. /1597"
+    "stats_diploma": "151. /309 975. /1621"
   },
   {
-    "puesto": 954,
+    "puesto": 976,
     "placa": "1229",
     "nombre": "Fabián Quiroga",
     "categoria": "10 K ABIERTA",
@@ -16210,15 +16584,15 @@ const RUNNERS_DATA = [
     "dif": "+51:38",
     "vel_prom": "8.7 Km/h",
     "ritmo": "6:53 Min/km",
-    "pdf_page": 917,
+    "pdf_page": 250,
     "dorsal": "1229",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Fabián Quiroga",
     "tiempo_diploma": "01:08:50",
-    "stats_diploma": "279. /357 954. /1597"
+    "stats_diploma": "279. /357 976. /1621"
   },
   {
-    "puesto": 955,
+    "puesto": 977,
     "placa": "1472",
     "nombre": "Maria Alejandra Vasquez Rodriguez",
     "categoria": "10 K ABIERTA",
@@ -16227,15 +16601,15 @@ const RUNNERS_DATA = [
     "dif": "+51:39",
     "vel_prom": "8.7 Km/h",
     "ritmo": "6:53 Min/km",
-    "pdf_page": 481,
+    "pdf_page": 462,
     "dorsal": "1472",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Maria Alejandra Vasquez Rodriguez",
     "tiempo_diploma": "01:08:51",
-    "stats_diploma": "153. /310 955. /1597"
+    "stats_diploma": "152. /309 977. /1621"
   },
   {
-    "puesto": 956,
+    "puesto": 978,
     "placa": "3154",
     "nombre": "Paola Fernanda Velandia",
     "categoria": "10 K MASTER A",
@@ -16244,15 +16618,15 @@ const RUNNERS_DATA = [
     "dif": "+51:40",
     "vel_prom": "8.7 Km/h",
     "ritmo": "6:53 Min/km",
-    "pdf_page": 1040,
+    "pdf_page": 1144,
     "dorsal": "3154",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Paola Fernanda Velandia",
     "tiempo_diploma": "01:08:52",
-    "stats_diploma": "45. /87 956. /1597"
+    "stats_diploma": "45. /87 978. /1621"
   },
   {
-    "puesto": 957,
+    "puesto": 979,
     "placa": "1253",
     "nombre": "Gustavo Adolfo Cuadros Naycir",
     "categoria": "10 K ABIERTA",
@@ -16261,15 +16635,15 @@ const RUNNERS_DATA = [
     "dif": "+51:42",
     "vel_prom": "8.7 Km/h",
     "ritmo": "6:53 Min/km",
-    "pdf_page": 918,
+    "pdf_page": 271,
     "dorsal": "1253",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Gustavo Adolfo Cuadros Naycir",
     "tiempo_diploma": "01:08:54",
-    "stats_diploma": "280. /357 957. /1597"
+    "stats_diploma": "280. /357 979. /1621"
   },
   {
-    "puesto": 958,
+    "puesto": 980,
     "placa": "1226",
     "nombre": "Evelin Juliana Sandoval Serrano",
     "categoria": "10 K ABIERTA",
@@ -16278,15 +16652,15 @@ const RUNNERS_DATA = [
     "dif": "+51:43",
     "vel_prom": "8.7 Km/h",
     "ritmo": "6:53 Min/km",
-    "pdf_page": 482,
+    "pdf_page": 247,
     "dorsal": "1226",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Evelin Juliana Sandoval Serrano",
     "tiempo_diploma": "01:08:55",
-    "stats_diploma": "154. /310 958. /1597"
+    "stats_diploma": "153. /309 980. /1621"
   },
   {
-    "puesto": 959,
+    "puesto": 981,
     "placa": "131",
     "nombre": "Elsy Herrera",
     "categoria": "10 K ELITE",
@@ -16295,15 +16669,15 @@ const RUNNERS_DATA = [
     "dif": "+51:47",
     "vel_prom": "8.6 Km/h",
     "ritmo": "6:53 Min/km",
-    "pdf_page": 311,
+    "pdf_page": 24,
     "dorsal": "131",
     "categoria_diploma": "10 K ELITE",
     "nombre_diploma": "Elsy Herrera",
     "tiempo_diploma": "01:08:59",
-    "stats_diploma": "10. /17 959. /1597"
+    "stats_diploma": "10. /17 981. /1621"
   },
   {
-    "puesto": 960,
+    "puesto": 982,
     "placa": "1517",
     "nombre": "mayra alejandra leon alvarado",
     "categoria": "10 K ABIERTA",
@@ -16312,15 +16686,15 @@ const RUNNERS_DATA = [
     "dif": "+51:48",
     "vel_prom": "8.6 Km/h",
     "ritmo": "6:54 Min/km",
-    "pdf_page": 483,
+    "pdf_page": 502,
     "dorsal": "1517",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "mayra alejandra leon alvarado",
     "tiempo_diploma": "01:09:00",
-    "stats_diploma": "155. /310 960. /1597"
+    "stats_diploma": "154. /309 982. /1621"
   },
   {
-    "puesto": 961,
+    "puesto": 983,
     "placa": "3387",
     "nombre": "Yoveibi Maya",
     "categoria": "10 K MASTER B",
@@ -16329,15 +16703,15 @@ const RUNNERS_DATA = [
     "dif": "+51:50",
     "vel_prom": "8.6 Km/h",
     "ritmo": "6:54 Min/km",
-    "pdf_page": 1206,
+    "pdf_page": 1276,
     "dorsal": "3387",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Yoveibi Maya",
     "tiempo_diploma": "01:09:02",
-    "stats_diploma": "17. /33 961. /1597"
+    "stats_diploma": "17. /33 983. /1621"
   },
   {
-    "puesto": 962,
+    "puesto": 984,
     "placa": "1437",
     "nombre": "Lizeth Teresa Rueda Calderon",
     "categoria": "10 K ABIERTA",
@@ -16346,15 +16720,15 @@ const RUNNERS_DATA = [
     "dif": "+51:56",
     "vel_prom": "8.6 Km/h",
     "ritmo": "6:54 Min/km",
-    "pdf_page": 484,
+    "pdf_page": 436,
     "dorsal": "1437",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Lizeth Teresa Rueda Calderon",
     "tiempo_diploma": "01:09:08",
-    "stats_diploma": "156. /310 962. /1597"
+    "stats_diploma": "155. /309 984. /1621"
   },
   {
-    "puesto": 963,
+    "puesto": 985,
     "placa": "3026",
     "nombre": "Carolina Galvis",
     "categoria": "10 K MASTER A",
@@ -16363,15 +16737,15 @@ const RUNNERS_DATA = [
     "dif": "+51:59",
     "vel_prom": "8.6 Km/h",
     "ritmo": "6:55 Min/km",
-    "pdf_page": 1167,
+    "pdf_page": 1022,
     "dorsal": "3026",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Carolina Galvis",
     "tiempo_diploma": "01:09:11",
-    "stats_diploma": "85. /107 963. /1597"
+    "stats_diploma": "85. /107 985. /1621"
   },
   {
-    "puesto": 964,
+    "puesto": 986,
     "placa": "1068",
     "nombre": "Angélica Cepeda Rodríguez",
     "categoria": "10 K ABIERTA",
@@ -16380,15 +16754,15 @@ const RUNNERS_DATA = [
     "dif": "+51:59",
     "vel_prom": "8.6 Km/h",
     "ritmo": "6:55 Min/km",
-    "pdf_page": 485,
+    "pdf_page": 98,
     "dorsal": "1068",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Angélica Cepeda Rodríguez",
     "tiempo_diploma": "01:09:11",
-    "stats_diploma": "157. /310 964. /1597"
+    "stats_diploma": "156. /309 986. /1621"
   },
   {
-    "puesto": 965,
+    "puesto": 987,
     "placa": "1131",
     "nombre": "Claudia Camila Stiles",
     "categoria": "10 K ABIERTA",
@@ -16397,15 +16771,15 @@ const RUNNERS_DATA = [
     "dif": "+52:05",
     "vel_prom": "8.6 Km/h",
     "ritmo": "6:55 Min/km",
-    "pdf_page": 486,
+    "pdf_page": 156,
     "dorsal": "1131",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Claudia Camila Stiles",
     "tiempo_diploma": "01:09:17",
-    "stats_diploma": "158. /310 965. /1597"
+    "stats_diploma": "157. /309 987. /1621"
   },
   {
-    "puesto": 966,
+    "puesto": 988,
     "placa": "1545",
     "nombre": "NATHALIA ANDREA CORONEL GRANADOS",
     "categoria": "10 K ABIERTA",
@@ -16414,15 +16788,15 @@ const RUNNERS_DATA = [
     "dif": "+52:05",
     "vel_prom": "8.6 Km/h",
     "ritmo": "6:55 Min/km",
-    "pdf_page": 487,
+    "pdf_page": 527,
     "dorsal": "1545",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "NATHALIA ANDREA CORONEL GRANADOS",
     "tiempo_diploma": "01:09:17",
-    "stats_diploma": "159. /310 966. /1597"
+    "stats_diploma": "158. /309 988. /1621"
   },
   {
-    "puesto": 967,
+    "puesto": 989,
     "placa": "1454",
     "nombre": "Deiby Ochoa",
     "categoria": "10 K ABIERTA",
@@ -16431,15 +16805,15 @@ const RUNNERS_DATA = [
     "dif": "+52:07",
     "vel_prom": "8.6 Km/h",
     "ritmo": "6:55 Min/km",
-    "pdf_page": 488,
+    "pdf_page": 448,
     "dorsal": "1454",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Deiby Ochoa",
     "tiempo_diploma": "01:09:19",
-    "stats_diploma": "160. /310 967. /1597"
+    "stats_diploma": "159. /309 989. /1621"
   },
   {
-    "puesto": 968,
+    "puesto": 990,
     "placa": "3351",
     "nombre": "Luz Stella",
     "categoria": "10 K MASTER B",
@@ -16448,15 +16822,15 @@ const RUNNERS_DATA = [
     "dif": "+52:10",
     "vel_prom": "8.6 Km/h",
     "ritmo": "6:56 Min/km",
-    "pdf_page": 1207,
+    "pdf_page": 1244,
     "dorsal": "3351",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Luz Stella",
     "tiempo_diploma": "01:09:22",
-    "stats_diploma": "18. /33 968. /1597"
+    "stats_diploma": "18. /33 990. /1621"
   },
   {
-    "puesto": 969,
+    "puesto": 991,
     "placa": "1271",
     "nombre": "Ingrid Jazmin Ochoa cáceres",
     "categoria": "10 K ABIERTA",
@@ -16465,15 +16839,15 @@ const RUNNERS_DATA = [
     "dif": "+52:10",
     "vel_prom": "8.6 Km/h",
     "ritmo": "6:56 Min/km",
-    "pdf_page": 489,
+    "pdf_page": 288,
     "dorsal": "1271",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Ingrid Jazmin Ochoa cáceres",
     "tiempo_diploma": "01:09:22",
-    "stats_diploma": "161. /310 969. /1597"
+    "stats_diploma": "160. /309 991. /1621"
   },
   {
-    "puesto": 970,
+    "puesto": 992,
     "placa": "1692",
     "nombre": "Sandra Yazmín Velandia Gutiérrez",
     "categoria": "10 K ABIERTA",
@@ -16482,15 +16856,15 @@ const RUNNERS_DATA = [
     "dif": "+52:13",
     "vel_prom": "8.6 Km/h",
     "ritmo": "6:56 Min/km",
-    "pdf_page": 490,
+    "pdf_page": 657,
     "dorsal": "1692",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Sandra Yazmín Velandia Gutiérrez",
     "tiempo_diploma": "01:09:25",
-    "stats_diploma": "162. /310 970. /1597"
+    "stats_diploma": "161. /309 992. /1621"
   },
   {
-    "puesto": 971,
+    "puesto": 993,
     "placa": "3134",
     "nombre": "María Vanessa Riobo Perez",
     "categoria": "10 K MASTER A",
@@ -16499,15 +16873,15 @@ const RUNNERS_DATA = [
     "dif": "+52:14",
     "vel_prom": "8.6 Km/h",
     "ritmo": "6:56 Min/km",
-    "pdf_page": 1041,
+    "pdf_page": 1125,
     "dorsal": "3134",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "María Vanessa Riobo Perez",
     "tiempo_diploma": "01:09:26",
-    "stats_diploma": "46. /87 971. /1597"
+    "stats_diploma": "46. /87 993. /1621"
   },
   {
-    "puesto": 972,
+    "puesto": 994,
     "placa": "1376",
     "nombre": "Julian David Medina Toloza",
     "categoria": "10 K ABIERTA",
@@ -16516,15 +16890,15 @@ const RUNNERS_DATA = [
     "dif": "+52:15",
     "vel_prom": "8.6 Km/h",
     "ritmo": "6:56 Min/km",
-    "pdf_page": 919,
+    "pdf_page": 386,
     "dorsal": "1376",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Julian David Medina Toloza",
     "tiempo_diploma": "01:09:27",
-    "stats_diploma": "281. /357 972. /1597"
+    "stats_diploma": "281. /357 994. /1621"
   },
   {
-    "puesto": 973,
+    "puesto": 995,
     "placa": "1295",
     "nombre": "Jeronimo Pinzon Salazar",
     "categoria": "10 K ABIERTA",
@@ -16533,15 +16907,15 @@ const RUNNERS_DATA = [
     "dif": "+52:16",
     "vel_prom": "8.6 Km/h",
     "ritmo": "6:56 Min/km",
-    "pdf_page": 920,
+    "pdf_page": 312,
     "dorsal": "1295",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Jeronimo Pinzon Salazar",
     "tiempo_diploma": "01:09:28",
-    "stats_diploma": "282. /357 973. /1597"
+    "stats_diploma": "282. /357 995. /1621"
   },
   {
-    "puesto": 974,
+    "puesto": 996,
     "placa": "206",
     "nombre": "Joseph Kiprono Kiptum",
     "categoria": "21 K ELITE",
@@ -16550,15 +16924,15 @@ const RUNNERS_DATA = [
     "dif": "+52:17",
     "vel_prom": "18.1 Km/h",
     "ritmo": "3:18 Min/km",
-    "pdf_page": 1,
+    "pdf_page": 32,
     "dorsal": "206",
     "categoria_diploma": "21 K ELITE",
     "nombre_diploma": "Joseph Kiprono Kiptum",
     "tiempo_diploma": "01:09:29",
-    "stats_diploma": "1. /11 974. /1597"
+    "stats_diploma": "1. /11 996. /1621"
   },
   {
-    "puesto": 975,
+    "puesto": 997,
     "placa": "102",
     "nombre": "Angelica Nova",
     "categoria": "10 K ELITE",
@@ -16567,15 +16941,15 @@ const RUNNERS_DATA = [
     "dif": "+52:19",
     "vel_prom": "8.6 Km/h",
     "ritmo": "6:57 Min/km",
-    "pdf_page": 312,
+    "pdf_page": 1,
     "dorsal": "102",
     "categoria_diploma": "10 K ELITE",
     "nombre_diploma": "Angelica Nova",
     "tiempo_diploma": "01:09:31",
-    "stats_diploma": "11. /17 975. /1597"
+    "stats_diploma": "11. /17 997. /1621"
   },
   {
-    "puesto": 976,
+    "puesto": 998,
     "placa": "1237",
     "nombre": "Francy Vargas",
     "categoria": "10 K ABIERTA",
@@ -16584,15 +16958,15 @@ const RUNNERS_DATA = [
     "dif": "+52:19",
     "vel_prom": "8.6 Km/h",
     "ritmo": "6:57 Min/km",
-    "pdf_page": 491,
+    "pdf_page": 257,
     "dorsal": "1237",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Francy Vargas",
     "tiempo_diploma": "01:09:31",
-    "stats_diploma": "163. /310 976. /1597"
+    "stats_diploma": "162. /309 998. /1621"
   },
   {
-    "puesto": 977,
+    "puesto": 999,
     "placa": "1401",
     "nombre": "Laudy Milena Florez Ortiz",
     "categoria": "10 K ABIERTA",
@@ -16601,15 +16975,15 @@ const RUNNERS_DATA = [
     "dif": "+52:21",
     "vel_prom": "8.6 Km/h",
     "ritmo": "6:57 Min/km",
-    "pdf_page": 492,
+    "pdf_page": 407,
     "dorsal": "1401",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Laudy Milena Florez Ortiz",
     "tiempo_diploma": "01:09:33",
-    "stats_diploma": "164. /310 977. /1597"
+    "stats_diploma": "163. /309 999. /1621"
   },
   {
-    "puesto": 978,
+    "puesto": 1000,
     "placa": "3086",
     "nombre": "Johan Manuel Alexander Carreño lopez",
     "categoria": "10 K MASTER A",
@@ -16618,15 +16992,15 @@ const RUNNERS_DATA = [
     "dif": "+52:21",
     "vel_prom": "8.6 Km/h",
     "ritmo": "6:57 Min/km",
-    "pdf_page": 1168,
+    "pdf_page": 1078,
     "dorsal": "3086",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Johan Manuel Alexander Carreño lopez",
     "tiempo_diploma": "01:09:33",
-    "stats_diploma": "86. /107 978. /1597"
+    "stats_diploma": "86. /107 1000. /1621"
   },
   {
-    "puesto": 979,
+    "puesto": 1001,
     "placa": "3314",
     "nombre": "Claudia Yanira Fino Tello",
     "categoria": "10 K MASTER B",
@@ -16635,15 +17009,15 @@ const RUNNERS_DATA = [
     "dif": "+52:24",
     "vel_prom": "8.6 Km/h",
     "ritmo": "6:57 Min/km",
-    "pdf_page": 1208,
+    "pdf_page": 1207,
     "dorsal": "3314",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Claudia Yanira Fino Tello",
     "tiempo_diploma": "01:09:36",
-    "stats_diploma": "19. /33 979. /1597"
+    "stats_diploma": "19. /33 1001. /1621"
   },
   {
-    "puesto": 980,
+    "puesto": 1002,
     "placa": "1673",
     "nombre": "Yertsin arley villamizar cardenas",
     "categoria": "10 K ABIERTA",
@@ -16652,15 +17026,15 @@ const RUNNERS_DATA = [
     "dif": "+52:27",
     "vel_prom": "8.6 Km/h",
     "ritmo": "6:57 Min/km",
-    "pdf_page": 921,
+    "pdf_page": 639,
     "dorsal": "1673",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Yertsin arley villamizar cardenas",
     "tiempo_diploma": "01:09:39",
-    "stats_diploma": "283. /357 980. /1597"
+    "stats_diploma": "283. /357 1002. /1621"
   },
   {
-    "puesto": 981,
+    "puesto": 1003,
     "placa": "1415",
     "nombre": "Layla Fadia Assiz  Lizarazo",
     "categoria": "10 K ABIERTA",
@@ -16669,15 +17043,15 @@ const RUNNERS_DATA = [
     "dif": "+52:28",
     "vel_prom": "8.6 Km/h",
     "ritmo": "6:58 Min/km",
-    "pdf_page": 493,
+    "pdf_page": 416,
     "dorsal": "1415",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Layla Fadia Assiz  Lizarazo",
     "tiempo_diploma": "01:09:40",
-    "stats_diploma": "165. /310 981. /1597"
+    "stats_diploma": "164. /309 1003. /1621"
   },
   {
-    "puesto": 982,
+    "puesto": 1004,
     "placa": "209",
     "nombre": "Rolando Gabriel Ortiz Ronceria",
     "categoria": "21 K ELITE",
@@ -16686,15 +17060,15 @@ const RUNNERS_DATA = [
     "dif": "+52:29",
     "vel_prom": "18.0 Km/h",
     "ritmo": "3:19 Min/km",
-    "pdf_page": 2,
+    "pdf_page": 35,
     "dorsal": "209",
     "categoria_diploma": "21 K ELITE",
     "nombre_diploma": "Rolando Gabriel Ortiz Ronceria",
     "tiempo_diploma": "01:09:41",
-    "stats_diploma": "2. /11 982. /1597"
+    "stats_diploma": "2. /11 1004. /1621"
   },
   {
-    "puesto": 983,
+    "puesto": 1005,
     "placa": "1034",
     "nombre": "Andrea Ortiz Barragán",
     "categoria": "10 K ABIERTA",
@@ -16703,15 +17077,15 @@ const RUNNERS_DATA = [
     "dif": "+52:36",
     "vel_prom": "8.5 Km/h",
     "ritmo": "6:58 Min/km",
-    "pdf_page": 494,
+    "pdf_page": 66,
     "dorsal": "1034",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Andrea Ortiz Barragán",
     "tiempo_diploma": "01:09:48",
-    "stats_diploma": "166. /310 983. /1597"
+    "stats_diploma": "165. /309 1005. /1621"
   },
   {
-    "puesto": 984,
+    "puesto": 1006,
     "placa": "1586",
     "nombre": "Romario Guiza Pardo",
     "categoria": "10 K ABIERTA",
@@ -16720,15 +17094,15 @@ const RUNNERS_DATA = [
     "dif": "+52:37",
     "vel_prom": "8.5 Km/h",
     "ritmo": "6:58 Min/km",
-    "pdf_page": 922,
+    "pdf_page": 562,
     "dorsal": "1586",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Romario Guiza Pardo",
     "tiempo_diploma": "01:09:49",
-    "stats_diploma": "284. /357 984. /1597"
+    "stats_diploma": "284. /357 1006. /1621"
   },
   {
-    "puesto": 985,
+    "puesto": 1007,
     "placa": "1083",
     "nombre": "Brayan Fuentes",
     "categoria": "10 K ABIERTA",
@@ -16737,15 +17111,15 @@ const RUNNERS_DATA = [
     "dif": "+52:37",
     "vel_prom": "8.5 Km/h",
     "ritmo": "6:58 Min/km",
-    "pdf_page": 923,
+    "pdf_page": 113,
     "dorsal": "1083",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Brayan Fuentes",
     "tiempo_diploma": "01:09:49",
-    "stats_diploma": "285. /357 985. /1597"
+    "stats_diploma": "285. /357 1007. /1621"
   },
   {
-    "puesto": 986,
+    "puesto": 1008,
     "placa": "1302",
     "nombre": "Jessica Paola Pérez Pedrozo",
     "categoria": "10 K ABIERTA",
@@ -16754,15 +17128,15 @@ const RUNNERS_DATA = [
     "dif": "+52:41",
     "vel_prom": "8.5 Km/h",
     "ritmo": "6:59 Min/km",
-    "pdf_page": 495,
+    "pdf_page": 319,
     "dorsal": "1302",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Jessica Paola Pérez Pedrozo",
     "tiempo_diploma": "01:09:53",
-    "stats_diploma": "167. /310 986. /1597"
+    "stats_diploma": "166. /309 1008. /1621"
   },
   {
-    "puesto": 987,
+    "puesto": 1009,
     "placa": "3009",
     "nombre": "Andrea Juliana Arciniegas",
     "categoria": "10 K MASTER A",
@@ -16771,15 +17145,15 @@ const RUNNERS_DATA = [
     "dif": "+52:43",
     "vel_prom": "8.5 Km/h",
     "ritmo": "6:59 Min/km",
-    "pdf_page": 1042,
+    "pdf_page": 1008,
     "dorsal": "3009",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Andrea Juliana Arciniegas",
     "tiempo_diploma": "01:09:55",
-    "stats_diploma": "47. /87 987. /1597"
+    "stats_diploma": "47. /87 1009. /1621"
   },
   {
-    "puesto": 988,
+    "puesto": 1010,
     "placa": "1672",
     "nombre": "Yenny Paola Vasquez Garcia",
     "categoria": "10 K ABIERTA",
@@ -16788,15 +17162,15 @@ const RUNNERS_DATA = [
     "dif": "+52:45",
     "vel_prom": "8.5 Km/h",
     "ritmo": "6:59 Min/km",
-    "pdf_page": 496,
+    "pdf_page": 638,
     "dorsal": "1672",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Yenny Paola Vasquez Garcia",
     "tiempo_diploma": "01:09:57",
-    "stats_diploma": "168. /310 988. /1597"
+    "stats_diploma": "167. /309 1010. /1621"
   },
   {
-    "puesto": 989,
+    "puesto": 1011,
     "placa": "1384",
     "nombre": "Karen Rodríguez Sáenz",
     "categoria": "10 K ABIERTA",
@@ -16805,15 +17179,15 @@ const RUNNERS_DATA = [
     "dif": "+52:46",
     "vel_prom": "8.5 Km/h",
     "ritmo": "6:59 Min/km",
-    "pdf_page": 497,
+    "pdf_page": 394,
     "dorsal": "1384",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Karen Rodríguez Sáenz",
     "tiempo_diploma": "01:09:58",
-    "stats_diploma": "169. /310 989. /1597"
+    "stats_diploma": "168. /309 1011. /1621"
   },
   {
-    "puesto": 990,
+    "puesto": 1012,
     "placa": "210",
     "nombre": "Sergio Rodríguez Restrepo",
     "categoria": "21 K ELITE",
@@ -16822,15 +17196,15 @@ const RUNNERS_DATA = [
     "dif": "+52:47",
     "vel_prom": "18.0 Km/h",
     "ritmo": "3:19 Min/km",
-    "pdf_page": 3,
+    "pdf_page": 36,
     "dorsal": "210",
     "categoria_diploma": "21 K ELITE",
     "nombre_diploma": "Sergio Rodríguez Restrepo",
     "tiempo_diploma": "01:09:59",
-    "stats_diploma": "3. /11 990. /1597"
+    "stats_diploma": "3. /11 1012. /1621"
   },
   {
-    "puesto": 991,
+    "puesto": 1013,
     "placa": "1640",
     "nombre": "Valentina Bueno Fonseca",
     "categoria": "10 K ABIERTA",
@@ -16839,15 +17213,15 @@ const RUNNERS_DATA = [
     "dif": "+52:50",
     "vel_prom": "8.5 Km/h",
     "ritmo": "7:00 Min/km",
-    "pdf_page": 498,
+    "pdf_page": 608,
     "dorsal": "1640",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Valentina Bueno Fonseca",
     "tiempo_diploma": "01:10:02",
-    "stats_diploma": "170. /310 991. /1597"
+    "stats_diploma": "169. /309 1013. /1621"
   },
   {
-    "puesto": 992,
+    "puesto": 1014,
     "placa": "3139",
     "nombre": "Mayerlin Yesenia Quintero Prada",
     "categoria": "10 K MASTER A",
@@ -16856,15 +17230,15 @@ const RUNNERS_DATA = [
     "dif": "+52:52",
     "vel_prom": "8.5 Km/h",
     "ritmo": "7:00 Min/km",
-    "pdf_page": 1043,
+    "pdf_page": 1130,
     "dorsal": "3139",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Mayerlin Yesenia Quintero Prada",
     "tiempo_diploma": "01:10:04",
-    "stats_diploma": "48. /87 992. /1597"
+    "stats_diploma": "48. /87 1014. /1621"
   },
   {
-    "puesto": 993,
+    "puesto": 1015,
     "placa": "1636",
     "nombre": "Tatiana Gonzalez Galvis",
     "categoria": "10 K ABIERTA",
@@ -16873,15 +17247,15 @@ const RUNNERS_DATA = [
     "dif": "+52:59",
     "vel_prom": "8.5 Km/h",
     "ritmo": "7:01 Min/km",
-    "pdf_page": 499,
+    "pdf_page": 604,
     "dorsal": "1636",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Tatiana Gonzalez Galvis",
     "tiempo_diploma": "01:10:11",
-    "stats_diploma": "171. /310 993. /1597"
+    "stats_diploma": "170. /309 1015. /1621"
   },
   {
-    "puesto": 994,
+    "puesto": 1016,
     "placa": "3326",
     "nombre": "Gabriel Manuel Vargas Grau",
     "categoria": "10 K MASTER B",
@@ -16890,15 +17264,15 @@ const RUNNERS_DATA = [
     "dif": "+53:01",
     "vel_prom": "8.5 Km/h",
     "ritmo": "7:01 Min/km",
-    "pdf_page": 1267,
+    "pdf_page": 1219,
     "dorsal": "3326",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Gabriel Manuel Vargas Grau",
     "tiempo_diploma": "01:10:13",
-    "stats_diploma": "45. /56 994. /1597"
+    "stats_diploma": "46. /57 1016. /1621"
   },
   {
-    "puesto": 995,
+    "puesto": 1017,
     "placa": "1682",
     "nombre": "Yuri Natalia Ramírez Rico",
     "categoria": "10 K ABIERTA",
@@ -16907,15 +17281,15 @@ const RUNNERS_DATA = [
     "dif": "+53:05",
     "vel_prom": "8.5 Km/h",
     "ritmo": "7:01 Min/km",
-    "pdf_page": 500,
+    "pdf_page": 647,
     "dorsal": "1682",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Yuri Natalia Ramírez Rico",
     "tiempo_diploma": "01:10:17",
-    "stats_diploma": "172. /310 995. /1597"
+    "stats_diploma": "171. /309 1017. /1621"
   },
   {
-    "puesto": 996,
+    "puesto": 1018,
     "placa": "1473",
     "nombre": "Maria Alejandra Osorio Romero",
     "categoria": "10 K ABIERTA",
@@ -16924,15 +17298,15 @@ const RUNNERS_DATA = [
     "dif": "+53:09",
     "vel_prom": "8.5 Km/h",
     "ritmo": "7:02 Min/km",
-    "pdf_page": 501,
+    "pdf_page": 463,
     "dorsal": "1473",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Maria Alejandra Osorio Romero",
     "tiempo_diploma": "01:10:21",
-    "stats_diploma": "173. /310 996. /1597"
+    "stats_diploma": "172. /309 1018. /1621"
   },
   {
-    "puesto": 997,
+    "puesto": 1019,
     "placa": "1187",
     "nombre": "Diego Andres Roa Sierra",
     "categoria": "10 K ABIERTA",
@@ -16941,15 +17315,15 @@ const RUNNERS_DATA = [
     "dif": "+53:16",
     "vel_prom": "8.5 Km/h",
     "ritmo": "7:02 Min/km",
-    "pdf_page": 924,
+    "pdf_page": 209,
     "dorsal": "1187",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Diego Andres Roa Sierra",
     "tiempo_diploma": "01:10:28",
-    "stats_diploma": "286. /357 997. /1597"
+    "stats_diploma": "286. /357 1019. /1621"
   },
   {
-    "puesto": 998,
+    "puesto": 1020,
     "placa": "3158",
     "nombre": "Raul Cardozo",
     "categoria": "10 K MASTER A",
@@ -16958,15 +17332,15 @@ const RUNNERS_DATA = [
     "dif": "+53:20",
     "vel_prom": "8.5 Km/h",
     "ritmo": "7:03 Min/km",
-    "pdf_page": 1169,
+    "pdf_page": 1148,
     "dorsal": "3158",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Raul Cardozo",
     "tiempo_diploma": "01:10:32",
-    "stats_diploma": "87. /107 998. /1597"
+    "stats_diploma": "87. /107 1020. /1621"
   },
   {
-    "puesto": 999,
+    "puesto": 1021,
     "placa": "1192",
     "nombre": "Diego Orlando Rodríguez Ortiz",
     "categoria": "10 K ABIERTA",
@@ -16975,15 +17349,15 @@ const RUNNERS_DATA = [
     "dif": "+53:22",
     "vel_prom": "8.5 Km/h",
     "ritmo": "7:03 Min/km",
-    "pdf_page": 925,
+    "pdf_page": 214,
     "dorsal": "1192",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Diego Orlando Rodríguez Ortiz",
     "tiempo_diploma": "01:10:34",
-    "stats_diploma": "287. /357 999. /1597"
+    "stats_diploma": "287. /357 1021. /1621"
   },
   {
-    "puesto": 1000,
+    "puesto": 1022,
     "placa": "1685",
     "nombre": "Marlon Felipe Blanco Vega",
     "categoria": "10 K ABIERTA",
@@ -16992,15 +17366,15 @@ const RUNNERS_DATA = [
     "dif": "+53:24",
     "vel_prom": "8.4 Km/h",
     "ritmo": "7:03 Min/km",
-    "pdf_page": 926,
+    "pdf_page": 650,
     "dorsal": "1685",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Marlon Felipe Blanco Vega",
     "tiempo_diploma": "01:10:36",
-    "stats_diploma": "288. /357 1000. /1597"
+    "stats_diploma": "288. /357 1022. /1621"
   },
   {
-    "puesto": 1001,
+    "puesto": 1023,
     "placa": "204",
     "nombre": "Jeisson Alexander Suarez Bocanegra",
     "categoria": "21 K ELITE",
@@ -17009,15 +17383,15 @@ const RUNNERS_DATA = [
     "dif": "+53:24",
     "vel_prom": "17.8 Km/h",
     "ritmo": "3:21 Min/km",
-    "pdf_page": 4,
+    "pdf_page": 30,
     "dorsal": "204",
     "categoria_diploma": "21 K ELITE",
     "nombre_diploma": "Jeisson Alexander Suarez Bocanegra",
     "tiempo_diploma": "01:10:36",
-    "stats_diploma": "4. /11 1001. /1597"
+    "stats_diploma": "4. /11 1023. /1621"
   },
   {
-    "puesto": 1002,
+    "puesto": 1024,
     "placa": "1457",
     "nombre": "Luz Marlyn Mujica Rojas",
     "categoria": "10 K ABIERTA",
@@ -17026,15 +17400,15 @@ const RUNNERS_DATA = [
     "dif": "+53:25",
     "vel_prom": "8.4 Km/h",
     "ritmo": "7:03 Min/km",
-    "pdf_page": 502,
+    "pdf_page": 450,
     "dorsal": "1457",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Luz Marlyn Mujica Rojas",
     "tiempo_diploma": "01:10:37",
-    "stats_diploma": "174. /310 1002. /1597"
+    "stats_diploma": "173. /309 1024. /1621"
   },
   {
-    "puesto": 1003,
+    "puesto": 1025,
     "placa": "1133",
     "nombre": "Claudia Vanessa Camacho Martinez",
     "categoria": "10 K ABIERTA",
@@ -17043,15 +17417,15 @@ const RUNNERS_DATA = [
     "dif": "+53:26",
     "vel_prom": "8.4 Km/h",
     "ritmo": "7:03 Min/km",
-    "pdf_page": 503,
+    "pdf_page": 158,
     "dorsal": "1133",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Claudia Vanessa Camacho Martinez",
     "tiempo_diploma": "01:10:38",
-    "stats_diploma": "175. /310 1003. /1597"
+    "stats_diploma": "174. /309 1025. /1621"
   },
   {
-    "puesto": 1004,
+    "puesto": 1026,
     "placa": "3150",
     "nombre": "OMAR EDUARDO JIMENEZ NIETO",
     "categoria": "10 K MASTER A",
@@ -17060,15 +17434,15 @@ const RUNNERS_DATA = [
     "dif": "+53:28",
     "vel_prom": "8.4 Km/h",
     "ritmo": "7:04 Min/km",
-    "pdf_page": 1170,
+    "pdf_page": 1141,
     "dorsal": "3150",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "OMAR EDUARDO JIMENEZ NIETO",
     "tiempo_diploma": "01:10:40",
-    "stats_diploma": "88. /107 1004. /1597"
+    "stats_diploma": "88. /107 1026. /1621"
   },
   {
-    "puesto": 1005,
+    "puesto": 1027,
     "placa": "3330",
     "nombre": "Hernando Ramírez Corzo",
     "categoria": "10 K MASTER B",
@@ -17077,15 +17451,15 @@ const RUNNERS_DATA = [
     "dif": "+53:31",
     "vel_prom": "8.4 Km/h",
     "ritmo": "7:04 Min/km",
-    "pdf_page": 1268,
+    "pdf_page": 1223,
     "dorsal": "3330",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Hernando Ramírez Corzo",
     "tiempo_diploma": "01:10:43",
-    "stats_diploma": "46. /56 1005. /1597"
+    "stats_diploma": "47. /57 1027. /1621"
   },
   {
-    "puesto": 1006,
+    "puesto": 1028,
     "placa": "3128",
     "nombre": "MARCELA PATRICIA BERBESI PARALES",
     "categoria": "10 K MASTER A",
@@ -17094,15 +17468,15 @@ const RUNNERS_DATA = [
     "dif": "+53:33",
     "vel_prom": "8.4 Km/h",
     "ritmo": "7:04 Min/km",
-    "pdf_page": 1044,
+    "pdf_page": 1119,
     "dorsal": "3128",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "MARCELA PATRICIA BERBESI PARALES",
     "tiempo_diploma": "01:10:45",
-    "stats_diploma": "49. /87 1006. /1597"
+    "stats_diploma": "49. /87 1028. /1621"
   },
   {
-    "puesto": 1007,
+    "puesto": 1029,
     "placa": "1328",
     "nombre": "Johanna Cala Villanoba",
     "categoria": "10 K ABIERTA",
@@ -17111,15 +17485,15 @@ const RUNNERS_DATA = [
     "dif": "+53:38",
     "vel_prom": "8.4 Km/h",
     "ritmo": "7:05 Min/km",
-    "pdf_page": 504,
+    "pdf_page": 341,
     "dorsal": "1328",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Johanna Cala Villanoba",
     "tiempo_diploma": "01:10:50",
-    "stats_diploma": "176. /310 1007. /1597"
+    "stats_diploma": "175. /309 1029. /1621"
   },
   {
-    "puesto": 1008,
+    "puesto": 1030,
     "placa": "3379",
     "nombre": "Sonia Maria Toro Chavez",
     "categoria": "10 K MASTER B",
@@ -17128,15 +17502,15 @@ const RUNNERS_DATA = [
     "dif": "+53:39",
     "vel_prom": "8.4 Km/h",
     "ritmo": "7:05 Min/km",
-    "pdf_page": 1209,
+    "pdf_page": 1268,
     "dorsal": "3379",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Sonia Maria Toro Chavez",
     "tiempo_diploma": "01:10:51",
-    "stats_diploma": "20. /33 1008. /1597"
+    "stats_diploma": "20. /33 1030. /1621"
   },
   {
-    "puesto": 1009,
+    "puesto": 1031,
     "placa": "1332",
     "nombre": "Jonnathan Romero",
     "categoria": "10 K ABIERTA",
@@ -17145,15 +17519,15 @@ const RUNNERS_DATA = [
     "dif": "+53:40",
     "vel_prom": "8.4 Km/h",
     "ritmo": "7:05 Min/km",
-    "pdf_page": 927,
+    "pdf_page": 345,
     "dorsal": "1332",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Jonnathan Romero",
     "tiempo_diploma": "01:10:52",
-    "stats_diploma": "289. /357 1009. /1597"
+    "stats_diploma": "289. /357 1031. /1621"
   },
   {
-    "puesto": 1010,
+    "puesto": 1032,
     "placa": "1117",
     "nombre": "Carlos José Duarte Aceros",
     "categoria": "10 K ABIERTA",
@@ -17162,15 +17536,15 @@ const RUNNERS_DATA = [
     "dif": "+53:41",
     "vel_prom": "8.4 Km/h",
     "ritmo": "7:05 Min/km",
-    "pdf_page": 928,
+    "pdf_page": 145,
     "dorsal": "1117",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Carlos José Duarte Aceros",
     "tiempo_diploma": "01:10:53",
-    "stats_diploma": "290. /357 1010. /1597"
+    "stats_diploma": "290. /357 1032. /1621"
   },
   {
-    "puesto": 1011,
+    "puesto": 1033,
     "placa": "1286",
     "nombre": "Jean Michael Quintero landazabal",
     "categoria": "10 K ABIERTA",
@@ -17179,15 +17553,15 @@ const RUNNERS_DATA = [
     "dif": "+53:48",
     "vel_prom": "8.4 Km/h",
     "ritmo": "7:06 Min/km",
-    "pdf_page": 929,
+    "pdf_page": 303,
     "dorsal": "1286",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Jean Michael Quintero landazabal",
     "tiempo_diploma": "01:11:00",
-    "stats_diploma": "291. /357 1011. /1597"
+    "stats_diploma": "291. /357 1033. /1621"
   },
   {
-    "puesto": 1012,
+    "puesto": 1034,
     "placa": "1324",
     "nombre": "Johan Esneider Mesa Rios",
     "categoria": "10 K ABIERTA",
@@ -17196,15 +17570,15 @@ const RUNNERS_DATA = [
     "dif": "+53:49",
     "vel_prom": "8.4 Km/h",
     "ritmo": "7:06 Min/km",
-    "pdf_page": 930,
+    "pdf_page": 337,
     "dorsal": "1324",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Johan Esneider Mesa Rios",
     "tiempo_diploma": "01:11:01",
-    "stats_diploma": "292. /357 1012. /1597"
+    "stats_diploma": "292. /357 1034. /1621"
   },
   {
-    "puesto": 1013,
+    "puesto": 1035,
     "placa": "3312",
     "nombre": "Claudia Lucia Quintero Delgado",
     "categoria": "10 K MASTER B",
@@ -17213,15 +17587,15 @@ const RUNNERS_DATA = [
     "dif": "+53:53",
     "vel_prom": "8.4 Km/h",
     "ritmo": "7:06 Min/km",
-    "pdf_page": 1210,
+    "pdf_page": 1205,
     "dorsal": "3312",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Claudia Lucia Quintero Delgado",
     "tiempo_diploma": "01:11:05",
-    "stats_diploma": "21. /33 1013. /1597"
+    "stats_diploma": "21. /33 1035. /1621"
   },
   {
-    "puesto": 1014,
+    "puesto": 1036,
     "placa": "3041",
     "nombre": "Diego Fernando Alcid Perez",
     "categoria": "10 K MASTER A",
@@ -17230,15 +17604,15 @@ const RUNNERS_DATA = [
     "dif": "+53:56",
     "vel_prom": "8.4 Km/h",
     "ritmo": "7:06 Min/km",
-    "pdf_page": 1171,
+    "pdf_page": 1036,
     "dorsal": "3041",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Diego Fernando Alcid Perez",
     "tiempo_diploma": "01:11:08",
-    "stats_diploma": "89. /107 1014. /1597"
+    "stats_diploma": "89. /107 1036. /1621"
   },
   {
-    "puesto": 1015,
+    "puesto": 1037,
     "placa": "1656",
     "nombre": "wendy vanessa gonzalez roman",
     "categoria": "10 K ABIERTA",
@@ -17247,15 +17621,15 @@ const RUNNERS_DATA = [
     "dif": "+54:01",
     "vel_prom": "8.4 Km/h",
     "ritmo": "7:07 Min/km",
-    "pdf_page": 505,
+    "pdf_page": 623,
     "dorsal": "1656",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "wendy vanessa gonzalez roman",
     "tiempo_diploma": "01:11:13",
-    "stats_diploma": "177. /310 1015. /1597"
+    "stats_diploma": "176. /309 1037. /1621"
   },
   {
-    "puesto": 1016,
+    "puesto": 1038,
     "placa": "1199",
     "nombre": "Edimer Ramos",
     "categoria": "10 K ABIERTA",
@@ -17264,15 +17638,15 @@ const RUNNERS_DATA = [
     "dif": "+54:02",
     "vel_prom": "8.4 Km/h",
     "ritmo": "7:07 Min/km",
-    "pdf_page": 931,
+    "pdf_page": 221,
     "dorsal": "1199",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Edimer Ramos",
     "tiempo_diploma": "01:11:14",
-    "stats_diploma": "293. /357 1016. /1597"
+    "stats_diploma": "293. /357 1038. /1621"
   },
   {
-    "puesto": 1017,
+    "puesto": 1039,
     "placa": "3091",
     "nombre": "John Jairo Moreno Lizarazo",
     "categoria": "10 K MASTER A",
@@ -17281,15 +17655,15 @@ const RUNNERS_DATA = [
     "dif": "+54:03",
     "vel_prom": "8.4 Km/h",
     "ritmo": "7:07 Min/km",
-    "pdf_page": 1172,
+    "pdf_page": 1083,
     "dorsal": "3091",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "John Jairo Moreno Lizarazo",
     "tiempo_diploma": "01:11:15",
-    "stats_diploma": "90. /107 1017. /1597"
+    "stats_diploma": "90. /107 1039. /1621"
   },
   {
-    "puesto": 1018,
+    "puesto": 1040,
     "placa": "1723",
     "nombre": "Esteban Téllez",
     "categoria": "10 K ABIERTA",
@@ -17298,15 +17672,15 @@ const RUNNERS_DATA = [
     "dif": "+54:05",
     "vel_prom": "8.4 Km/h",
     "ritmo": "7:07 Min/km",
-    "pdf_page": 932,
+    "pdf_page": 680,
     "dorsal": "1723",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Esteban Téllez",
     "tiempo_diploma": "01:11:17",
-    "stats_diploma": "294. /357 1018. /1597"
+    "stats_diploma": "294. /357 1040. /1621"
   },
   {
-    "puesto": 1019,
+    "puesto": 1041,
     "placa": "3180",
     "nombre": "William Cobos Mesa",
     "categoria": "10 K MASTER A",
@@ -17315,15 +17689,15 @@ const RUNNERS_DATA = [
     "dif": "+54:10",
     "vel_prom": "8.4 Km/h",
     "ritmo": "7:08 Min/km",
-    "pdf_page": 1173,
+    "pdf_page": 1166,
     "dorsal": "3180",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "William Cobos Mesa",
     "tiempo_diploma": "01:11:22",
-    "stats_diploma": "91. /107 1019. /1597"
+    "stats_diploma": "91. /107 1041. /1621"
   },
   {
-    "puesto": 1020,
+    "puesto": 1042,
     "placa": "1220",
     "nombre": "Erica Katerine Paredes Corredor",
     "categoria": "10 K ABIERTA",
@@ -17332,15 +17706,15 @@ const RUNNERS_DATA = [
     "dif": "+54:11",
     "vel_prom": "8.4 Km/h",
     "ritmo": "7:08 Min/km",
-    "pdf_page": 506,
+    "pdf_page": 241,
     "dorsal": "1220",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Erica Katerine Paredes Corredor",
     "tiempo_diploma": "01:11:23",
-    "stats_diploma": "178. /310 1020. /1597"
+    "stats_diploma": "177. /309 1042. /1621"
   },
   {
-    "puesto": 1021,
+    "puesto": 1043,
     "placa": "1664",
     "nombre": "Yadiri García Landazabal",
     "categoria": "10 K ABIERTA",
@@ -17349,15 +17723,15 @@ const RUNNERS_DATA = [
     "dif": "+54:13",
     "vel_prom": "8.4 Km/h",
     "ritmo": "7:08 Min/km",
-    "pdf_page": 507,
+    "pdf_page": 630,
     "dorsal": "1664",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Yadiri García Landazabal",
     "tiempo_diploma": "01:11:25",
-    "stats_diploma": "179. /310 1021. /1597"
+    "stats_diploma": "178. /309 1043. /1621"
   },
   {
-    "puesto": 1022,
+    "puesto": 1044,
     "placa": "1718",
     "nombre": "Daniela Caicedo",
     "categoria": "10 K ABIERTA",
@@ -17366,15 +17740,15 @@ const RUNNERS_DATA = [
     "dif": "+54:15",
     "vel_prom": "8.3 Km/h",
     "ritmo": "7:08 Min/km",
-    "pdf_page": 508,
+    "pdf_page": 676,
     "dorsal": "1718",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Daniela Caicedo",
     "tiempo_diploma": "00:15:31",
-    "stats_diploma": "180. /310 1022. /1597"
+    "stats_diploma": "179. /309 1044. /1621"
   },
   {
-    "puesto": 1023,
+    "puesto": 1045,
     "placa": "3146",
     "nombre": "Nelson Enrique Perez Calderon",
     "categoria": "10 K MASTER A",
@@ -17383,15 +17757,15 @@ const RUNNERS_DATA = [
     "dif": "+54:19",
     "vel_prom": "8.3 Km/h",
     "ritmo": "7:09 Min/km",
-    "pdf_page": 1174,
+    "pdf_page": 1137,
     "dorsal": "3146",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Nelson Enrique Perez Calderon",
     "tiempo_diploma": "01:11:31",
-    "stats_diploma": "92. /107 1023. /1597"
+    "stats_diploma": "92. /107 1045. /1621"
   },
   {
-    "puesto": 1024,
+    "puesto": 1046,
     "placa": "1482",
     "nombre": "María Camila Rojas Vega",
     "categoria": "10 K ABIERTA",
@@ -17400,15 +17774,15 @@ const RUNNERS_DATA = [
     "dif": "+54:20",
     "vel_prom": "8.3 Km/h",
     "ritmo": "7:09 Min/km",
-    "pdf_page": 509,
+    "pdf_page": 470,
     "dorsal": "1482",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "María Camila Rojas Vega",
     "tiempo_diploma": "01:11:32",
-    "stats_diploma": "181. /310 1024. /1597"
+    "stats_diploma": "180. /309 1046. /1621"
   },
   {
-    "puesto": 1025,
+    "puesto": 1047,
     "placa": "3013",
     "nombre": "angela patricia",
     "categoria": "10 K MASTER A",
@@ -17417,15 +17791,15 @@ const RUNNERS_DATA = [
     "dif": "+54:20",
     "vel_prom": "8.3 Km/h",
     "ritmo": "7:09 Min/km",
-    "pdf_page": 1045,
+    "pdf_page": 1011,
     "dorsal": "3013",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "angela patricia",
     "tiempo_diploma": "01:11:32",
-    "stats_diploma": "50. /87 1025. /1597"
+    "stats_diploma": "50. /87 1047. /1621"
   },
   {
-    "puesto": 1026,
+    "puesto": 1048,
     "placa": "1425",
     "nombre": "Leydi Andrea Pabón Rivera",
     "categoria": "10 K ABIERTA",
@@ -17434,15 +17808,15 @@ const RUNNERS_DATA = [
     "dif": "+54:22",
     "vel_prom": "8.3 Km/h",
     "ritmo": "7:09 Min/km",
-    "pdf_page": 510,
+    "pdf_page": 426,
     "dorsal": "1425",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Leydi Andrea Pabón Rivera",
     "tiempo_diploma": "01:11:34",
-    "stats_diploma": "182. /310 1026. /1597"
+    "stats_diploma": "181. /309 1048. /1621"
   },
   {
-    "puesto": 1027,
+    "puesto": 1049,
     "placa": "3354",
     "nombre": "Maria Teresa Rivera Vargas",
     "categoria": "10 K MASTER B",
@@ -17451,15 +17825,15 @@ const RUNNERS_DATA = [
     "dif": "+54:23",
     "vel_prom": "8.3 Km/h",
     "ritmo": "7:09 Min/km",
-    "pdf_page": 1211,
+    "pdf_page": 1246,
     "dorsal": "3354",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Maria Teresa Rivera Vargas",
     "tiempo_diploma": "01:11:35",
-    "stats_diploma": "22. /33 1027. /1597"
+    "stats_diploma": "22. /33 1049. /1621"
   },
   {
-    "puesto": 1028,
+    "puesto": 1050,
     "placa": "1346",
     "nombre": "JOSSUE DAVID ORTIZ VILLAMIZAR",
     "categoria": "10 K ABIERTA",
@@ -17468,15 +17842,15 @@ const RUNNERS_DATA = [
     "dif": "+54:25",
     "vel_prom": "8.3 Km/h",
     "ritmo": "7:09 Min/km",
-    "pdf_page": 933,
+    "pdf_page": 357,
     "dorsal": "1346",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "JOSSUE DAVID ORTIZ VILLAMIZAR",
     "tiempo_diploma": "01:11:37",
-    "stats_diploma": "295. /357 1028. /1597"
+    "stats_diploma": "295. /357 1050. /1621"
   },
   {
-    "puesto": 1029,
+    "puesto": 1051,
     "placa": "1617",
     "nombre": "Sergio Augusto Caballero Perez",
     "categoria": "10 K ABIERTA",
@@ -17485,15 +17859,15 @@ const RUNNERS_DATA = [
     "dif": "+54:31",
     "vel_prom": "8.3 Km/h",
     "ritmo": "7:10 Min/km",
-    "pdf_page": 934,
+    "pdf_page": 588,
     "dorsal": "1617",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Sergio Augusto Caballero Perez",
     "tiempo_diploma": "01:11:43",
-    "stats_diploma": "296. /357 1029. /1597"
+    "stats_diploma": "296. /357 1051. /1621"
   },
   {
-    "puesto": 1030,
+    "puesto": 1052,
     "placa": "1029",
     "nombre": "Ana Carolina Melendez Herrer",
     "categoria": "10 K ABIERTA",
@@ -17502,15 +17876,15 @@ const RUNNERS_DATA = [
     "dif": "+54:38",
     "vel_prom": "8.3 Km/h",
     "ritmo": "7:11 Min/km",
-    "pdf_page": 511,
+    "pdf_page": 61,
     "dorsal": "1029",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Ana Carolina Melendez Herrer",
     "tiempo_diploma": "01:11:50",
-    "stats_diploma": "183. /310 1030. /1597"
+    "stats_diploma": "182. /309 1052. /1621"
   },
   {
-    "puesto": 1031,
+    "puesto": 1053,
     "placa": "1634",
     "nombre": "Tania Lasso",
     "categoria": "10 K ABIERTA",
@@ -17519,15 +17893,15 @@ const RUNNERS_DATA = [
     "dif": "+54:39",
     "vel_prom": "8.3 Km/h",
     "ritmo": "7:11 Min/km",
-    "pdf_page": 512,
+    "pdf_page": 602,
     "dorsal": "1634",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Tania Lasso",
     "tiempo_diploma": "01:11:51",
-    "stats_diploma": "184. /310 1031. /1597"
+    "stats_diploma": "183. /309 1053. /1621"
   },
   {
-    "puesto": 1032,
+    "puesto": 1054,
     "placa": "3055",
     "nombre": "GERMAN AUGUSTO ZAMBRANO ARIZA",
     "categoria": "10 K MASTER A",
@@ -17536,15 +17910,15 @@ const RUNNERS_DATA = [
     "dif": "+54:46",
     "vel_prom": "8.3 Km/h",
     "ritmo": "7:11 Min/km",
-    "pdf_page": 1175,
+    "pdf_page": 1049,
     "dorsal": "3055",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "GERMAN AUGUSTO ZAMBRANO ARIZA",
     "tiempo_diploma": "01:11:58",
-    "stats_diploma": "93. /107 1032. /1597"
+    "stats_diploma": "93. /107 1054. /1621"
   },
   {
-    "puesto": 1033,
+    "puesto": 1055,
     "placa": "3185",
     "nombre": "Yamith Yovani Fajardo carrillo",
     "categoria": "10 K MASTER A",
@@ -17553,15 +17927,15 @@ const RUNNERS_DATA = [
     "dif": "+54:51",
     "vel_prom": "8.3 Km/h",
     "ritmo": "7:12 Min/km",
-    "pdf_page": 1176,
+    "pdf_page": 1170,
     "dorsal": "3185",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Yamith Yovani Fajardo carrillo",
     "tiempo_diploma": "01:12:03",
-    "stats_diploma": "94. /107 1033. /1597"
+    "stats_diploma": "94. /107 1055. /1621"
   },
   {
-    "puesto": 1034,
+    "puesto": 1056,
     "placa": "3047",
     "nombre": "Elizabeth Puentes Peña",
     "categoria": "10 K MASTER A",
@@ -17570,15 +17944,15 @@ const RUNNERS_DATA = [
     "dif": "+54:52",
     "vel_prom": "8.3 Km/h",
     "ritmo": "7:12 Min/km",
-    "pdf_page": 1046,
+    "pdf_page": 1042,
     "dorsal": "3047",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Elizabeth Puentes Peña",
     "tiempo_diploma": "01:12:04",
-    "stats_diploma": "51. /87 1034. /1597"
+    "stats_diploma": "51. /87 1056. /1621"
   },
   {
-    "puesto": 1035,
+    "puesto": 1057,
     "placa": "1268",
     "nombre": "Heyling Paola Vera Esquivel",
     "categoria": "10 K ABIERTA",
@@ -17587,15 +17961,15 @@ const RUNNERS_DATA = [
     "dif": "+54:55",
     "vel_prom": "8.3 Km/h",
     "ritmo": "7:12 Min/km",
-    "pdf_page": 513,
+    "pdf_page": 285,
     "dorsal": "1268",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Heyling Paola Vera Esquivel",
     "tiempo_diploma": "01:12:07",
-    "stats_diploma": "185. /310 1035. /1597"
+    "stats_diploma": "184. /309 1057. /1621"
   },
   {
-    "puesto": 1036,
+    "puesto": 1058,
     "placa": "1556",
     "nombre": "Pablo Santamaria",
     "categoria": "10 K ABIERTA",
@@ -17604,15 +17978,15 @@ const RUNNERS_DATA = [
     "dif": "+54:56",
     "vel_prom": "8.3 Km/h",
     "ritmo": "7:12 Min/km",
-    "pdf_page": 935,
+    "pdf_page": 537,
     "dorsal": "1556",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Pablo Santamaria",
     "tiempo_diploma": "01:12:08",
-    "stats_diploma": "297. /357 1036. /1597"
+    "stats_diploma": "297. /357 1058. /1621"
   },
   {
-    "puesto": 1037,
+    "puesto": 1059,
     "placa": "1318",
     "nombre": "Joan salomon Galvis aparicio",
     "categoria": "10 K ABIERTA",
@@ -17621,15 +17995,15 @@ const RUNNERS_DATA = [
     "dif": "+54:58",
     "vel_prom": "8.3 Km/h",
     "ritmo": "7:13 Min/km",
-    "pdf_page": 936,
+    "pdf_page": 332,
     "dorsal": "1318",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Joan salomon Galvis aparicio",
     "tiempo_diploma": "01:12:10",
-    "stats_diploma": "298. /357 1037. /1597"
+    "stats_diploma": "298. /357 1059. /1621"
   },
   {
-    "puesto": 1038,
+    "puesto": 1060,
     "placa": "3010",
     "nombre": "ANDRES DELGADO",
     "categoria": "10 K MASTER A",
@@ -17638,15 +18012,15 @@ const RUNNERS_DATA = [
     "dif": "+54:59",
     "vel_prom": "8.3 Km/h",
     "ritmo": "7:13 Min/km",
-    "pdf_page": 1177,
+    "pdf_page": 1009,
     "dorsal": "3010",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "ANDRES DELGADO",
     "tiempo_diploma": "01:12:11",
-    "stats_diploma": "95. /107 1038. /1597"
+    "stats_diploma": "95. /107 1060. /1621"
   },
   {
-    "puesto": 1039,
+    "puesto": 1061,
     "placa": "1629",
     "nombre": "Sofia Moscote",
     "categoria": "10 K ABIERTA",
@@ -17655,15 +18029,15 @@ const RUNNERS_DATA = [
     "dif": "+55:07",
     "vel_prom": "8.2 Km/h",
     "ritmo": "7:13 Min/km",
-    "pdf_page": 514,
+    "pdf_page": 598,
     "dorsal": "1629",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Sofia Moscote",
     "tiempo_diploma": "01:12:19",
-    "stats_diploma": "186. /310 1039. /1597"
+    "stats_diploma": "185. /309 1061. /1621"
   },
   {
-    "puesto": 1040,
+    "puesto": 1062,
     "placa": "1306",
     "nombre": "Jeysson Camilo Pinzon Castillo",
     "categoria": "10 K ABIERTA",
@@ -17672,15 +18046,15 @@ const RUNNERS_DATA = [
     "dif": "+55:08",
     "vel_prom": "8.2 Km/h",
     "ritmo": "7:14 Min/km",
-    "pdf_page": 937,
+    "pdf_page": 323,
     "dorsal": "1306",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Jeysson Camilo Pinzon Castillo",
     "tiempo_diploma": "01:12:20",
-    "stats_diploma": "299. /357 1040. /1597"
+    "stats_diploma": "299. /357 1062. /1621"
   },
   {
-    "puesto": 1041,
+    "puesto": 1063,
     "placa": "1097",
     "nombre": "Camilo Andres Manrique Sandoval",
     "categoria": "10 K ABIERTA",
@@ -17689,15 +18063,15 @@ const RUNNERS_DATA = [
     "dif": "+55:09",
     "vel_prom": "8.2 Km/h",
     "ritmo": "7:14 Min/km",
-    "pdf_page": 938,
+    "pdf_page": 126,
     "dorsal": "1097",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Camilo Andres Manrique Sandoval",
     "tiempo_diploma": "01:12:21",
-    "stats_diploma": "300. /357 1041. /1597"
+    "stats_diploma": "300. /357 1063. /1621"
   },
   {
-    "puesto": 1042,
+    "puesto": 1064,
     "placa": "1380",
     "nombre": "Juliana Isabela Jaimes Socarras",
     "categoria": "10 K ABIERTA",
@@ -17706,15 +18080,15 @@ const RUNNERS_DATA = [
     "dif": "+55:12",
     "vel_prom": "8.2 Km/h",
     "ritmo": "7:14 Min/km",
-    "pdf_page": 515,
+    "pdf_page": 390,
     "dorsal": "1380",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Juliana Isabela Jaimes Socarras",
     "tiempo_diploma": "01:12:24",
-    "stats_diploma": "187. /310 1042. /1597"
+    "stats_diploma": "186. /309 1064. /1621"
   },
   {
-    "puesto": 1043,
+    "puesto": 1065,
     "placa": "3197",
     "nombre": "ANDREA AUSECHA",
     "categoria": "10 K MASTER A",
@@ -17723,15 +18097,15 @@ const RUNNERS_DATA = [
     "dif": "+55:13",
     "vel_prom": "8.2 Km/h",
     "ritmo": "7:14 Min/km",
-    "pdf_page": 1047,
+    "pdf_page": 1181,
     "dorsal": "3197",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "ANDREA AUSECHA",
     "tiempo_diploma": "01:12:25",
-    "stats_diploma": "52. /87 1043. /1597"
+    "stats_diploma": "52. /87 1065. /1621"
   },
   {
-    "puesto": 1044,
+    "puesto": 1066,
     "placa": "1235",
     "nombre": "Felipe Rodriguez",
     "categoria": "10 K ABIERTA",
@@ -17740,15 +18114,15 @@ const RUNNERS_DATA = [
     "dif": "+55:14",
     "vel_prom": "8.2 Km/h",
     "ritmo": "7:14 Min/km",
-    "pdf_page": 939,
+    "pdf_page": 255,
     "dorsal": "1235",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Felipe Rodriguez",
     "tiempo_diploma": "01:12:26",
-    "stats_diploma": "301. /357 1044. /1597"
+    "stats_diploma": "301. /357 1066. /1621"
   },
   {
-    "puesto": 1045,
+    "puesto": 1067,
     "placa": "1484",
     "nombre": "María camila Barraza arevalo",
     "categoria": "10 K ABIERTA",
@@ -17757,15 +18131,15 @@ const RUNNERS_DATA = [
     "dif": "+55:14",
     "vel_prom": "8.2 Km/h",
     "ritmo": "7:14 Min/km",
-    "pdf_page": 516,
+    "pdf_page": 472,
     "dorsal": "1484",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "María camila Barraza arevalo",
     "tiempo_diploma": "01:12:26",
-    "stats_diploma": "188. /310 1045. /1597"
+    "stats_diploma": "187. /309 1067. /1621"
   },
   {
-    "puesto": 1046,
+    "puesto": 1068,
     "placa": "1300",
     "nombre": "Jessica Alexandra Pimiento Sierra",
     "categoria": "10 K ABIERTA",
@@ -17774,15 +18148,15 @@ const RUNNERS_DATA = [
     "dif": "+55:15",
     "vel_prom": "8.2 Km/h",
     "ritmo": "7:14 Min/km",
-    "pdf_page": 517,
+    "pdf_page": 317,
     "dorsal": "1300",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Jessica Alexandra Pimiento Sierra",
     "tiempo_diploma": "01:12:27",
-    "stats_diploma": "189. /310 1046. /1597"
+    "stats_diploma": "188. /309 1068. /1621"
   },
   {
-    "puesto": 1047,
+    "puesto": 1069,
     "placa": "3059",
     "nombre": "Gloria Inés Sánchez Martínez",
     "categoria": "10 K MASTER A",
@@ -17791,15 +18165,15 @@ const RUNNERS_DATA = [
     "dif": "+55:19",
     "vel_prom": "8.2 Km/h",
     "ritmo": "7:15 Min/km",
-    "pdf_page": 1048,
+    "pdf_page": 1053,
     "dorsal": "3059",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Gloria Inés Sánchez Martínez",
     "tiempo_diploma": "01:12:31",
-    "stats_diploma": "53. /87 1047. /1597"
+    "stats_diploma": "53. /87 1069. /1621"
   },
   {
-    "puesto": 1048,
+    "puesto": 1070,
     "placa": "3171",
     "nombre": "Sergio Alonso Bueno Marin",
     "categoria": "10 K MASTER A",
@@ -17808,15 +18182,15 @@ const RUNNERS_DATA = [
     "dif": "+55:27",
     "vel_prom": "8.2 Km/h",
     "ritmo": "7:15 Min/km",
-    "pdf_page": 1178,
+    "pdf_page": 1159,
     "dorsal": "3171",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Sergio Alonso Bueno Marin",
     "tiempo_diploma": "01:12:39",
-    "stats_diploma": "96. /107 1048. /1597"
+    "stats_diploma": "96. /107 1070. /1621"
   },
   {
-    "puesto": 1049,
+    "puesto": 1071,
     "placa": "1218",
     "nombre": "Emerson Giovanny Suárez Caicedo",
     "categoria": "10 K ABIERTA",
@@ -17825,15 +18199,15 @@ const RUNNERS_DATA = [
     "dif": "+55:27",
     "vel_prom": "8.2 Km/h",
     "ritmo": "7:15 Min/km",
-    "pdf_page": 940,
+    "pdf_page": 239,
     "dorsal": "1218",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Emerson Giovanny Suárez Caicedo",
     "tiempo_diploma": "01:12:39",
-    "stats_diploma": "302. /357 1049. /1597"
+    "stats_diploma": "302. /357 1071. /1621"
   },
   {
-    "puesto": 1050,
+    "puesto": 1072,
     "placa": "3193",
     "nombre": "Yuri Romero",
     "categoria": "10 K MASTER A",
@@ -17842,15 +18216,15 @@ const RUNNERS_DATA = [
     "dif": "+55:28",
     "vel_prom": "8.2 Km/h",
     "ritmo": "7:16 Min/km",
-    "pdf_page": 1049,
+    "pdf_page": 1178,
     "dorsal": "3193",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Yuri Romero",
     "tiempo_diploma": "01:12:40",
-    "stats_diploma": "54. /87 1050. /1597"
+    "stats_diploma": "54. /87 1072. /1621"
   },
   {
-    "puesto": 1051,
+    "puesto": 1073,
     "placa": "1382",
     "nombre": "Karen Banesa Mendoza",
     "categoria": "10 K ABIERTA",
@@ -17859,15 +18233,15 @@ const RUNNERS_DATA = [
     "dif": "+55:28",
     "vel_prom": "8.2 Km/h",
     "ritmo": "7:16 Min/km",
-    "pdf_page": 518,
+    "pdf_page": 392,
     "dorsal": "1382",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Karen Banesa Mendoza",
     "tiempo_diploma": "01:12:40",
-    "stats_diploma": "190. /310 1051. /1597"
+    "stats_diploma": "189. /309 1073. /1621"
   },
   {
-    "puesto": 1052,
+    "puesto": 1074,
     "placa": "1264",
     "nombre": "Herly Garcés",
     "categoria": "10 K ABIERTA",
@@ -17876,15 +18250,15 @@ const RUNNERS_DATA = [
     "dif": "+55:29",
     "vel_prom": "8.2 Km/h",
     "ritmo": "7:16 Min/km",
-    "pdf_page": 519,
+    "pdf_page": 282,
     "dorsal": "1264",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Herly Garcés",
     "tiempo_diploma": "01:12:41",
-    "stats_diploma": "191. /310 1052. /1597"
+    "stats_diploma": "190. /309 1074. /1621"
   },
   {
-    "puesto": 1053,
+    "puesto": 1075,
     "placa": "3027",
     "nombre": "Christian Merchan ladino",
     "categoria": "10 K MASTER A",
@@ -17893,15 +18267,15 @@ const RUNNERS_DATA = [
     "dif": "+55:29",
     "vel_prom": "8.2 Km/h",
     "ritmo": "7:16 Min/km",
-    "pdf_page": 1179,
+    "pdf_page": 1023,
     "dorsal": "3027",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Christian Merchan ladino",
     "tiempo_diploma": "01:12:41",
-    "stats_diploma": "97. /107 1053. /1597"
+    "stats_diploma": "97. /107 1075. /1621"
   },
   {
-    "puesto": 1054,
+    "puesto": 1076,
     "placa": "3106",
     "nombre": "Julieth paola Castillo carreño",
     "categoria": "10 K MASTER A",
@@ -17910,15 +18284,15 @@ const RUNNERS_DATA = [
     "dif": "+55:29",
     "vel_prom": "8.2 Km/h",
     "ritmo": "7:16 Min/km",
-    "pdf_page": 1050,
+    "pdf_page": 1097,
     "dorsal": "3106",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Julieth paola Castillo carreño",
     "tiempo_diploma": "01:12:41",
-    "stats_diploma": "55. /87 1054. /1597"
+    "stats_diploma": "55. /87 1076. /1621"
   },
   {
-    "puesto": 1055,
+    "puesto": 1077,
     "placa": "1663",
     "nombre": "Yacira Mildred Sepúlveda Ardila",
     "categoria": "10 K ABIERTA",
@@ -17927,15 +18301,15 @@ const RUNNERS_DATA = [
     "dif": "+55:29",
     "vel_prom": "8.2 Km/h",
     "ritmo": "7:16 Min/km",
-    "pdf_page": 520,
+    "pdf_page": 629,
     "dorsal": "1663",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Yacira Mildred Sepúlveda Ardila",
     "tiempo_diploma": "01:12:41",
-    "stats_diploma": "192. /310 1055. /1597"
+    "stats_diploma": "191. /309 1077. /1621"
   },
   {
-    "puesto": 1056,
+    "puesto": 1078,
     "placa": "3195",
     "nombre": "Adriana Marcela Merchan Salgado",
     "categoria": "10 K MASTER A",
@@ -17944,15 +18318,15 @@ const RUNNERS_DATA = [
     "dif": "+55:32",
     "vel_prom": "8.2 Km/h",
     "ritmo": "7:16 Min/km",
-    "pdf_page": 1051,
+    "pdf_page": 1179,
     "dorsal": "3195",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Adriana Marcela Merchan Salgado",
     "tiempo_diploma": "01:12:44",
-    "stats_diploma": "56. /87 1056. /1597"
+    "stats_diploma": "56. /87 1078. /1621"
   },
   {
-    "puesto": 1057,
+    "puesto": 1079,
     "placa": "1554",
     "nombre": "Óscar Andrés Serrano",
     "categoria": "10 K ABIERTA",
@@ -17961,15 +18335,15 @@ const RUNNERS_DATA = [
     "dif": "+55:50",
     "vel_prom": "8.2 Km/h",
     "ritmo": "7:18 Min/km",
-    "pdf_page": 941,
+    "pdf_page": 535,
     "dorsal": "1554",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Óscar Andrés Serrano",
     "tiempo_diploma": "01:13:02",
-    "stats_diploma": "303. /357 1057. /1597"
+    "stats_diploma": "303. /357 1079. /1621"
   },
   {
-    "puesto": 1058,
+    "puesto": 1080,
     "placa": "1114",
     "nombre": "Carlos Felipe Martinez Suarez",
     "categoria": "10 K ABIERTA",
@@ -17978,15 +18352,15 @@ const RUNNERS_DATA = [
     "dif": "+55:55",
     "vel_prom": "8.2 Km/h",
     "ritmo": "7:18 Min/km",
-    "pdf_page": 942,
+    "pdf_page": 142,
     "dorsal": "1114",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Carlos Felipe Martinez Suarez",
     "tiempo_diploma": "01:13:07",
-    "stats_diploma": "304. /357 1058. /1597"
+    "stats_diploma": "304. /357 1080. /1621"
   },
   {
-    "puesto": 1059,
+    "puesto": 1081,
     "placa": "1075",
     "nombre": "Angie Sarith Leal Porras",
     "categoria": "10 K ABIERTA",
@@ -17995,15 +18369,15 @@ const RUNNERS_DATA = [
     "dif": "+55:57",
     "vel_prom": "8.2 Km/h",
     "ritmo": "7:18 Min/km",
-    "pdf_page": 521,
+    "pdf_page": 105,
     "dorsal": "1075",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Angie Sarith Leal Porras",
     "tiempo_diploma": "01:13:09",
-    "stats_diploma": "193. /310 1059. /1597"
+    "stats_diploma": "192. /309 1081. /1621"
   },
   {
-    "puesto": 1060,
+    "puesto": 1082,
     "placa": "1637",
     "nombre": "Tatiana CRISTANCHO",
     "categoria": "10 K ABIERTA",
@@ -18012,15 +18386,15 @@ const RUNNERS_DATA = [
     "dif": "+56:00",
     "vel_prom": "8.1 Km/h",
     "ritmo": "7:19 Min/km",
-    "pdf_page": 522,
+    "pdf_page": 605,
     "dorsal": "1637",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Tatiana CRISTANCHO",
     "tiempo_diploma": "01:13:12",
-    "stats_diploma": "194. /310 1060. /1597"
+    "stats_diploma": "193. /309 1082. /1621"
   },
   {
-    "puesto": 1061,
+    "puesto": 1083,
     "placa": "1403",
     "nombre": "Laura Pico",
     "categoria": "10 K ABIERTA",
@@ -18029,15 +18403,15 @@ const RUNNERS_DATA = [
     "dif": "+56:01",
     "vel_prom": "8.1 Km/h",
     "ritmo": "7:19 Min/km",
-    "pdf_page": 523,
+    "pdf_page": 408,
     "dorsal": "1403",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Laura Pico",
     "tiempo_diploma": "01:13:13",
-    "stats_diploma": "195. /310 1061. /1597"
+    "stats_diploma": "194. /309 1083. /1621"
   },
   {
-    "puesto": 1062,
+    "puesto": 1084,
     "placa": "1392",
     "nombre": "KATHERINE QUIROGA VELASCO",
     "categoria": "10 K ABIERTA",
@@ -18046,15 +18420,15 @@ const RUNNERS_DATA = [
     "dif": "+56:01",
     "vel_prom": "8.1 Km/h",
     "ritmo": "7:19 Min/km",
-    "pdf_page": 524,
+    "pdf_page": 400,
     "dorsal": "1392",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "KATHERINE QUIROGA VELASCO",
     "tiempo_diploma": "01:13:13",
-    "stats_diploma": "196. /310 1062. /1597"
+    "stats_diploma": "195. /309 1084. /1621"
   },
   {
-    "puesto": 1063,
+    "puesto": 1085,
     "placa": "1642",
     "nombre": "VALENTINA VARGAS CAICEDO",
     "categoria": "10 K ABIERTA",
@@ -18063,15 +18437,15 @@ const RUNNERS_DATA = [
     "dif": "+56:05",
     "vel_prom": "8.1 Km/h",
     "ritmo": "7:19 Min/km",
-    "pdf_page": 943,
+    "pdf_page": 610,
     "dorsal": "1642",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "VALENTINA VARGAS CAICEDO",
     "tiempo_diploma": "01:13:17",
-    "stats_diploma": "305. /357 1063. /1597"
+    "stats_diploma": "305. /357 1085. /1621"
   },
   {
-    "puesto": 1064,
+    "puesto": 1086,
     "placa": "3302",
     "nombre": "Alba Muñoz Galvis",
     "categoria": "10 K MASTER B",
@@ -18080,15 +18454,15 @@ const RUNNERS_DATA = [
     "dif": "+56:10",
     "vel_prom": "8.1 Km/h",
     "ritmo": "7:20 Min/km",
-    "pdf_page": 1212,
+    "pdf_page": 1196,
     "dorsal": "3302",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Alba Muñoz Galvis",
     "tiempo_diploma": "01:13:22",
-    "stats_diploma": "23. /33 1064. /1597"
+    "stats_diploma": "23. /33 1086. /1621"
   },
   {
-    "puesto": 1065,
+    "puesto": 1087,
     "placa": "1115",
     "nombre": "Carlos Gabriel Angarita Garcia",
     "categoria": "10 K ABIERTA",
@@ -18097,15 +18471,15 @@ const RUNNERS_DATA = [
     "dif": "+56:13",
     "vel_prom": "8.1 Km/h",
     "ritmo": "7:20 Min/km",
-    "pdf_page": 944,
+    "pdf_page": 143,
     "dorsal": "1115",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Carlos Gabriel Angarita Garcia",
     "tiempo_diploma": "01:13:25",
-    "stats_diploma": "306. /357 1065. /1597"
+    "stats_diploma": "306. /357 1087. /1621"
   },
   {
-    "puesto": 1066,
+    "puesto": 1088,
     "placa": "3064",
     "nombre": "hector fabio badillo sanchez",
     "categoria": "10 K MASTER A",
@@ -18114,15 +18488,15 @@ const RUNNERS_DATA = [
     "dif": "+56:15",
     "vel_prom": "8.1 Km/h",
     "ritmo": "7:20 Min/km",
-    "pdf_page": 1180,
+    "pdf_page": 1057,
     "dorsal": "3064",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "hector fabio badillo sanchez",
     "tiempo_diploma": "01:13:27",
-    "stats_diploma": "98. /107 1066. /1597"
+    "stats_diploma": "98. /107 1088. /1621"
   },
   {
-    "puesto": 1067,
+    "puesto": 1089,
     "placa": "1031",
     "nombre": "Anais Valentina Toro",
     "categoria": "10 K ABIERTA",
@@ -18131,15 +18505,15 @@ const RUNNERS_DATA = [
     "dif": "+56:18",
     "vel_prom": "8.1 Km/h",
     "ritmo": "7:21 Min/km",
-    "pdf_page": 525,
+    "pdf_page": 63,
     "dorsal": "1031",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Anais Valentina Toro",
     "tiempo_diploma": "01:13:30",
-    "stats_diploma": "197. /310 1067. /1597"
+    "stats_diploma": "196. /309 1089. /1621"
   },
   {
-    "puesto": 1068,
+    "puesto": 1090,
     "placa": "3031",
     "nombre": "Claudia Tatiana Angarita",
     "categoria": "10 K MASTER A",
@@ -18148,15 +18522,15 @@ const RUNNERS_DATA = [
     "dif": "+56:24",
     "vel_prom": "8.1 Km/h",
     "ritmo": "7:21 Min/km",
-    "pdf_page": 1052,
+    "pdf_page": 1027,
     "dorsal": "3031",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Claudia Tatiana Angarita",
     "tiempo_diploma": "01:13:36",
-    "stats_diploma": "57. /87 1068. /1597"
+    "stats_diploma": "57. /87 1090. /1621"
   },
   {
-    "puesto": 1069,
+    "puesto": 1091,
     "placa": "2379",
     "nombre": "Pedro jesus Mora suescun",
     "categoria": "21 K MASTER A",
@@ -18165,15 +18539,15 @@ const RUNNERS_DATA = [
     "dif": "+56:26",
     "vel_prom": "17.1 Km/h",
     "ritmo": "3:30 Min/km",
-    "pdf_page": 204,
+    "pdf_page": 948,
     "dorsal": "2379",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Pedro jesus Mora suescun",
     "tiempo_diploma": "01:13:38",
-    "stats_diploma": "1. /66 1069. /1597"
+    "stats_diploma": "1. /66 1091. /1621"
   },
   {
-    "puesto": 1070,
+    "puesto": 1092,
     "placa": "3068",
     "nombre": "Hugo Armando Serrano Carreño",
     "categoria": "10 K MASTER A",
@@ -18182,15 +18556,15 @@ const RUNNERS_DATA = [
     "dif": "+56:27",
     "vel_prom": "8.1 Km/h",
     "ritmo": "7:21 Min/km",
-    "pdf_page": 1181,
+    "pdf_page": 1060,
     "dorsal": "3068",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Hugo Armando Serrano Carreño",
     "tiempo_diploma": "01:13:39",
-    "stats_diploma": "99. /107 1070. /1597"
+    "stats_diploma": "99. /107 1092. /1621"
   },
   {
-    "puesto": 1071,
+    "puesto": 1093,
     "placa": "1267",
     "nombre": "Heydi Bibiana Pabon Rodriguez",
     "categoria": "10 K ABIERTA",
@@ -18199,15 +18573,15 @@ const RUNNERS_DATA = [
     "dif": "+56:27",
     "vel_prom": "8.1 Km/h",
     "ritmo": "7:21 Min/km",
-    "pdf_page": 526,
+    "pdf_page": 284,
     "dorsal": "1267",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Heydi Bibiana Pabon Rodriguez",
     "tiempo_diploma": "01:13:39",
-    "stats_diploma": "198. /310 1071. /1597"
+    "stats_diploma": "197. /309 1093. /1621"
   },
   {
-    "puesto": 1072,
+    "puesto": 1094,
     "placa": "1213",
     "nombre": "Eliana Lissethe del Pilar Muñoz Hernandez",
     "categoria": "10 K ABIERTA",
@@ -18216,15 +18590,15 @@ const RUNNERS_DATA = [
     "dif": "+56:31",
     "vel_prom": "8.1 Km/h",
     "ritmo": "7:22 Min/km",
-    "pdf_page": 527,
+    "pdf_page": 234,
     "dorsal": "1213",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Eliana Lissethe del Pilar Muñoz Hernandez",
     "tiempo_diploma": "01:13:43",
-    "stats_diploma": "199. /310 1072. /1597"
+    "stats_diploma": "198. /309 1094. /1621"
   },
   {
-    "puesto": 1073,
+    "puesto": 1095,
     "placa": "1511",
     "nombre": "Mayerlis Vergara",
     "categoria": "10 K ABIERTA",
@@ -18233,15 +18607,15 @@ const RUNNERS_DATA = [
     "dif": "+56:32",
     "vel_prom": "8.1 Km/h",
     "ritmo": "7:22 Min/km",
-    "pdf_page": 528,
+    "pdf_page": 496,
     "dorsal": "1511",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Mayerlis Vergara",
     "tiempo_diploma": "01:13:44",
-    "stats_diploma": "200. /310 1073. /1597"
+    "stats_diploma": "199. /309 1095. /1621"
   },
   {
-    "puesto": 1074,
+    "puesto": 1096,
     "placa": "3132",
     "nombre": "Maria Bernarda Payares",
     "categoria": "10 K MASTER A",
@@ -18250,15 +18624,15 @@ const RUNNERS_DATA = [
     "dif": "+56:32",
     "vel_prom": "8.1 Km/h",
     "ritmo": "7:22 Min/km",
-    "pdf_page": 1053,
+    "pdf_page": 1123,
     "dorsal": "3132",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Maria Bernarda Payares",
     "tiempo_diploma": "01:13:44",
-    "stats_diploma": "58. /87 1074. /1597"
+    "stats_diploma": "58. /87 1096. /1621"
   },
   {
-    "puesto": 1075,
+    "puesto": 1097,
     "placa": "1736",
     "nombre": "Noel Ricardo Calderon Rodriguez",
     "categoria": "10 K ABIERTA",
@@ -18267,15 +18641,15 @@ const RUNNERS_DATA = [
     "dif": "+56:34",
     "vel_prom": "8.1 Km/h",
     "ritmo": "7:22 Min/km",
-    "pdf_page": 945,
+    "pdf_page": 693,
     "dorsal": "1736",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Noel Ricardo Calderon Rodriguez",
     "tiempo_diploma": "01:13:46",
-    "stats_diploma": "307. /357 1075. /1597"
+    "stats_diploma": "307. /357 1097. /1621"
   },
   {
-    "puesto": 1076,
+    "puesto": 1098,
     "placa": "1466",
     "nombre": "Marco Fidel Bautista",
     "categoria": "10 K ABIERTA",
@@ -18284,15 +18658,15 @@ const RUNNERS_DATA = [
     "dif": "+56:37",
     "vel_prom": "8.1 Km/h",
     "ritmo": "7:22 Min/km",
-    "pdf_page": 946,
+    "pdf_page": 457,
     "dorsal": "1466",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Marco Fidel Bautista",
     "tiempo_diploma": "01:13:49",
-    "stats_diploma": "308. /357 1076. /1597"
+    "stats_diploma": "308. /357 1098. /1621"
   },
   {
-    "puesto": 1077,
+    "puesto": 1099,
     "placa": "1468",
     "nombre": "Margy Eleeyn Ureña Rodriguez",
     "categoria": "10 K ABIERTA",
@@ -18301,15 +18675,15 @@ const RUNNERS_DATA = [
     "dif": "+56:45",
     "vel_prom": "8.1 Km/h",
     "ritmo": "7:23 Min/km",
-    "pdf_page": 529,
+    "pdf_page": 459,
     "dorsal": "1468",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Margy Eleeyn Ureña Rodriguez",
     "tiempo_diploma": "01:13:57",
-    "stats_diploma": "201. /310 1077. /1597"
+    "stats_diploma": "200. /309 1099. /1621"
   },
   {
-    "puesto": 1078,
+    "puesto": 1100,
     "placa": "1336",
     "nombre": "Jose Rondon sanchez",
     "categoria": "10 K ABIERTA",
@@ -18318,15 +18692,15 @@ const RUNNERS_DATA = [
     "dif": "+56:47",
     "vel_prom": "8.1 Km/h",
     "ritmo": "7:23 Min/km",
-    "pdf_page": 947,
+    "pdf_page": 348,
     "dorsal": "1336",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Jose Rondon sanchez",
     "tiempo_diploma": "01:13:59",
-    "stats_diploma": "309. /357 1078. /1597"
+    "stats_diploma": "309. /357 1100. /1621"
   },
   {
-    "puesto": 1079,
+    "puesto": 1101,
     "placa": "3173",
     "nombre": "Silvia Lorena Gonzalez Diaz",
     "categoria": "10 K MASTER A",
@@ -18335,15 +18709,15 @@ const RUNNERS_DATA = [
     "dif": "+56:48",
     "vel_prom": "8.1 Km/h",
     "ritmo": "7:24 Min/km",
-    "pdf_page": 1054,
+    "pdf_page": 1161,
     "dorsal": "3173",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Silvia Lorena Gonzalez Diaz",
     "tiempo_diploma": "01:14:00",
-    "stats_diploma": "59. /87 1079. /1597"
+    "stats_diploma": "59. /87 1101. /1621"
   },
   {
-    "puesto": 1080,
+    "puesto": 1102,
     "placa": "1438",
     "nombre": "Lizzeth Martinez Perdomo",
     "categoria": "10 K ABIERTA",
@@ -18352,15 +18726,15 @@ const RUNNERS_DATA = [
     "dif": "+56:57",
     "vel_prom": "8.0 Km/h",
     "ritmo": "7:24 Min/km",
-    "pdf_page": 530,
+    "pdf_page": 437,
     "dorsal": "1438",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Lizzeth Martinez Perdomo",
     "tiempo_diploma": "01:14:09",
-    "stats_diploma": "202. /310 1080. /1597"
+    "stats_diploma": "201. /309 1102. /1621"
   },
   {
-    "puesto": 1081,
+    "puesto": 1103,
     "placa": "1090",
     "nombre": "Brygith Daniela Alvarez Jaimes",
     "categoria": "10 K ABIERTA",
@@ -18369,15 +18743,15 @@ const RUNNERS_DATA = [
     "dif": "+57:03",
     "vel_prom": "8.0 Km/h",
     "ritmo": "7:25 Min/km",
-    "pdf_page": 531,
+    "pdf_page": 120,
     "dorsal": "1090",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Brygith Daniela Alvarez Jaimes",
     "tiempo_diploma": "01:14:15",
-    "stats_diploma": "203. /310 1081. /1597"
+    "stats_diploma": "202. /309 1103. /1621"
   },
   {
-    "puesto": 1082,
+    "puesto": 1104,
     "placa": "1427",
     "nombre": "LILIANA ARDILA ALMEIDA",
     "categoria": "10 K ABIERTA",
@@ -18386,15 +18760,15 @@ const RUNNERS_DATA = [
     "dif": "+57:07",
     "vel_prom": "8.0 Km/h",
     "ritmo": "7:25 Min/km",
-    "pdf_page": 532,
+    "pdf_page": 427,
     "dorsal": "1427",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "LILIANA ARDILA ALMEIDA",
     "tiempo_diploma": "01:14:19",
-    "stats_diploma": "204. /310 1082. /1597"
+    "stats_diploma": "203. /309 1104. /1621"
   },
   {
-    "puesto": 1083,
+    "puesto": 1105,
     "placa": "3196",
     "nombre": "Marizney Valencia",
     "categoria": "10 K MASTER A",
@@ -18403,15 +18777,15 @@ const RUNNERS_DATA = [
     "dif": "+57:08",
     "vel_prom": "8.0 Km/h",
     "ritmo": "7:26 Min/km",
-    "pdf_page": 1055,
+    "pdf_page": 1180,
     "dorsal": "3196",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Marizney Valencia",
     "tiempo_diploma": "01:14:20",
-    "stats_diploma": "60. /87 1083. /1597"
+    "stats_diploma": "60. /87 1105. /1621"
   },
   {
-    "puesto": 1084,
+    "puesto": 1106,
     "placa": "1221",
     "nombre": "Erika Sánchez",
     "categoria": "10 K ABIERTA",
@@ -18420,15 +18794,15 @@ const RUNNERS_DATA = [
     "dif": "+57:12",
     "vel_prom": "8.0 Km/h",
     "ritmo": "7:26 Min/km",
-    "pdf_page": 533,
+    "pdf_page": 242,
     "dorsal": "1221",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Erika Sánchez",
     "tiempo_diploma": "01:14:24",
-    "stats_diploma": "205. /310 1084. /1597"
+    "stats_diploma": "204. /309 1106. /1621"
   },
   {
-    "puesto": 1085,
+    "puesto": 1107,
     "placa": "1101",
     "nombre": "Carlos Arango",
     "categoria": "10 K ABIERTA",
@@ -18437,15 +18811,15 @@ const RUNNERS_DATA = [
     "dif": "+57:15",
     "vel_prom": "8.0 Km/h",
     "ritmo": "7:26 Min/km",
-    "pdf_page": 948,
+    "pdf_page": 130,
     "dorsal": "1101",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Carlos Arango",
     "tiempo_diploma": "01:14:27",
-    "stats_diploma": "310. /357 1085. /1597"
+    "stats_diploma": "310. /357 1107. /1621"
   },
   {
-    "puesto": 1086,
+    "puesto": 1108,
     "placa": "1551",
     "nombre": "NORA LILIANA VILLAMIZAR JAIMES",
     "categoria": "10 K ABIERTA",
@@ -18454,15 +18828,15 @@ const RUNNERS_DATA = [
     "dif": "+57:18",
     "vel_prom": "8.0 Km/h",
     "ritmo": "7:27 Min/km",
-    "pdf_page": 534,
+    "pdf_page": 532,
     "dorsal": "1551",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "NORA LILIANA VILLAMIZAR JAIMES",
     "tiempo_diploma": "01:14:30",
-    "stats_diploma": "206. /310 1086. /1597"
+    "stats_diploma": "205. /309 1108. /1621"
   },
   {
-    "puesto": 1087,
+    "puesto": 1109,
     "placa": "3049",
     "nombre": "ENDER MANUEL PARRA CONDE",
     "categoria": "10 K MASTER A",
@@ -18471,15 +18845,15 @@ const RUNNERS_DATA = [
     "dif": "+57:18",
     "vel_prom": "8.0 Km/h",
     "ritmo": "7:27 Min/km",
-    "pdf_page": 1182,
+    "pdf_page": 1044,
     "dorsal": "3049",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "ENDER MANUEL PARRA CONDE",
     "tiempo_diploma": "01:14:30",
-    "stats_diploma": "100. /107 1087. /1597"
+    "stats_diploma": "100. /107 1109. /1621"
   },
   {
-    "puesto": 1088,
+    "puesto": 1110,
     "placa": "1027",
     "nombre": "Alvaro Andres Lozada Antolinez",
     "categoria": "10 K ABIERTA",
@@ -18488,15 +18862,15 @@ const RUNNERS_DATA = [
     "dif": "+57:19",
     "vel_prom": "8.0 Km/h",
     "ritmo": "7:27 Min/km",
-    "pdf_page": 949,
+    "pdf_page": 59,
     "dorsal": "1027",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Alvaro Andres Lozada Antolinez",
     "tiempo_diploma": "01:14:31",
-    "stats_diploma": "311. /357 1088. /1597"
+    "stats_diploma": "311. /357 1110. /1621"
   },
   {
-    "puesto": 1089,
+    "puesto": 1111,
     "placa": "1089",
     "nombre": "Brigitte Samantha Rangel Florez",
     "categoria": "10 K ABIERTA",
@@ -18505,15 +18879,15 @@ const RUNNERS_DATA = [
     "dif": "+57:19",
     "vel_prom": "8.0 Km/h",
     "ritmo": "7:27 Min/km",
-    "pdf_page": 535,
+    "pdf_page": 119,
     "dorsal": "1089",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Brigitte Samantha Rangel Florez",
     "tiempo_diploma": "01:14:31",
-    "stats_diploma": "207. /310 1089. /1597"
+    "stats_diploma": "206. /309 1111. /1621"
   },
   {
-    "puesto": 1090,
+    "puesto": 1112,
     "placa": "1495",
     "nombre": "Maria Paula Ruiz Rios",
     "categoria": "10 K ABIERTA",
@@ -18522,15 +18896,15 @@ const RUNNERS_DATA = [
     "dif": "+57:20",
     "vel_prom": "8.0 Km/h",
     "ritmo": "7:27 Min/km",
-    "pdf_page": 536,
+    "pdf_page": 481,
     "dorsal": "1495",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Maria Paula Ruiz Rios",
     "tiempo_diploma": "01:14:32",
-    "stats_diploma": "208. /310 1090. /1597"
+    "stats_diploma": "207. /309 1112. /1621"
   },
   {
-    "puesto": 1091,
+    "puesto": 1113,
     "placa": "1471",
     "nombre": "María Uribe",
     "categoria": "10 K ABIERTA",
@@ -18539,15 +18913,15 @@ const RUNNERS_DATA = [
     "dif": "+57:21",
     "vel_prom": "8.0 Km/h",
     "ritmo": "7:27 Min/km",
-    "pdf_page": 537,
+    "pdf_page": 461,
     "dorsal": "1471",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "María Uribe",
     "tiempo_diploma": "01:14:33",
-    "stats_diploma": "209. /310 1091. /1597"
+    "stats_diploma": "208. /309 1113. /1621"
   },
   {
-    "puesto": 1092,
+    "puesto": 1114,
     "placa": "1198",
     "nombre": "Edgar Fernando Rojas Niño",
     "categoria": "10 K ABIERTA",
@@ -18556,15 +18930,15 @@ const RUNNERS_DATA = [
     "dif": "+57:25",
     "vel_prom": "8.0 Km/h",
     "ritmo": "7:27 Min/km",
-    "pdf_page": 950,
+    "pdf_page": 220,
     "dorsal": "1198",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Edgar Fernando Rojas Niño",
     "tiempo_diploma": "01:14:37",
-    "stats_diploma": "312. /357 1092. /1597"
+    "stats_diploma": "312. /357 1114. /1621"
   },
   {
-    "puesto": 1093,
+    "puesto": 1115,
     "placa": "1162",
     "nombre": "David Alejandro Mariño Carreño",
     "categoria": "10 K ABIERTA",
@@ -18573,15 +18947,15 @@ const RUNNERS_DATA = [
     "dif": "+57:25",
     "vel_prom": "8.0 Km/h",
     "ritmo": "7:27 Min/km",
-    "pdf_page": 951,
+    "pdf_page": 184,
     "dorsal": "1162",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "David Alejandro Mariño Carreño",
     "tiempo_diploma": "01:14:37",
-    "stats_diploma": "313. /357 1093. /1597"
+    "stats_diploma": "313. /357 1115. /1621"
   },
   {
-    "puesto": 1094,
+    "puesto": 1116,
     "placa": "1533",
     "nombre": "Moisés Alberto Cervantes Valencia",
     "categoria": "10 K ABIERTA",
@@ -18590,15 +18964,15 @@ const RUNNERS_DATA = [
     "dif": "+57:27",
     "vel_prom": "8.0 Km/h",
     "ritmo": "7:27 Min/km",
-    "pdf_page": 952,
+    "pdf_page": 516,
     "dorsal": "1533",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Moisés Alberto Cervantes Valencia",
     "tiempo_diploma": "01:14:39",
-    "stats_diploma": "314. /357 1094. /1597"
+    "stats_diploma": "314. /357 1116. /1621"
   },
   {
-    "puesto": 1095,
+    "puesto": 1117,
     "placa": "1195",
     "nombre": "Edder Alberto Barrera Lara",
     "categoria": "10 K ABIERTA",
@@ -18607,15 +18981,15 @@ const RUNNERS_DATA = [
     "dif": "+57:30",
     "vel_prom": "8.0 Km/h",
     "ritmo": "7:28 Min/km",
-    "pdf_page": 953,
+    "pdf_page": 217,
     "dorsal": "1195",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Edder Alberto Barrera Lara",
     "tiempo_diploma": "01:14:42",
-    "stats_diploma": "315. /357 1095. /1597"
+    "stats_diploma": "315. /357 1117. /1621"
   },
   {
-    "puesto": 1096,
+    "puesto": 1118,
     "placa": "1334",
     "nombre": "Jorge Humberto Villamizar Jerez",
     "categoria": "10 K ABIERTA",
@@ -18624,15 +18998,15 @@ const RUNNERS_DATA = [
     "dif": "+57:31",
     "vel_prom": "8.0 Km/h",
     "ritmo": "7:28 Min/km",
-    "pdf_page": 954,
+    "pdf_page": 346,
     "dorsal": "1334",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Jorge Humberto Villamizar Jerez",
     "tiempo_diploma": "01:14:43",
-    "stats_diploma": "316. /357 1096. /1597"
+    "stats_diploma": "316. /357 1118. /1621"
   },
   {
-    "puesto": 1097,
+    "puesto": 1119,
     "placa": "3366",
     "nombre": "Orlando Mejia Rueda",
     "categoria": "10 K MASTER B",
@@ -18641,15 +19015,15 @@ const RUNNERS_DATA = [
     "dif": "+57:32",
     "vel_prom": "8.0 Km/h",
     "ritmo": "7:28 Min/km",
-    "pdf_page": 1269,
+    "pdf_page": 1257,
     "dorsal": "3366",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Orlando Mejia Rueda",
     "tiempo_diploma": "01:14:44",
-    "stats_diploma": "47. /56 1097. /1597"
+    "stats_diploma": "48. /57 1119. /1621"
   },
   {
-    "puesto": 1098,
+    "puesto": 1120,
     "placa": "1510",
     "nombre": "Mayerli Meneses",
     "categoria": "10 K ABIERTA",
@@ -18658,15 +19032,15 @@ const RUNNERS_DATA = [
     "dif": "+57:34",
     "vel_prom": "8.0 Km/h",
     "ritmo": "7:28 Min/km",
-    "pdf_page": 538,
+    "pdf_page": 495,
     "dorsal": "1510",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Mayerli Meneses",
     "tiempo_diploma": "01:14:46",
-    "stats_diploma": "210. /310 1098. /1597"
+    "stats_diploma": "209. /309 1120. /1621"
   },
   {
-    "puesto": 1099,
+    "puesto": 1121,
     "placa": "1008",
     "nombre": "Alejandra Mancera",
     "categoria": "10 K ABIERTA",
@@ -18675,15 +19049,15 @@ const RUNNERS_DATA = [
     "dif": "+57:34",
     "vel_prom": "8.0 Km/h",
     "ritmo": "7:28 Min/km",
-    "pdf_page": 539,
+    "pdf_page": 44,
     "dorsal": "1008",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Alejandra Mancera",
     "tiempo_diploma": "01:14:46",
-    "stats_diploma": "211. /310 1099. /1597"
+    "stats_diploma": "210. /309 1121. /1621"
   },
   {
-    "puesto": 1100,
+    "puesto": 1122,
     "placa": "1609",
     "nombre": "Sebastian Arley Jacome Orduz",
     "categoria": "10 K ABIERTA",
@@ -18692,15 +19066,15 @@ const RUNNERS_DATA = [
     "dif": "+57:35",
     "vel_prom": "8.0 Km/h",
     "ritmo": "7:28 Min/km",
-    "pdf_page": 955,
+    "pdf_page": 580,
     "dorsal": "1609",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Sebastian Arley Jacome Orduz",
     "tiempo_diploma": "00:15:43",
-    "stats_diploma": "317. /357 1100. /1597"
+    "stats_diploma": "317. /357 1122. /1621"
   },
   {
-    "puesto": 1101,
+    "puesto": 1123,
     "placa": "1628",
     "nombre": "SOFIA RUEDA TORRES",
     "categoria": "10 K ABIERTA",
@@ -18709,15 +19083,15 @@ const RUNNERS_DATA = [
     "dif": "+57:38",
     "vel_prom": "8.0 Km/h",
     "ritmo": "7:29 Min/km",
-    "pdf_page": 540,
+    "pdf_page": 597,
     "dorsal": "1628",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "SOFIA RUEDA TORRES",
     "tiempo_diploma": "01:14:50",
-    "stats_diploma": "212. /310 1101. /1597"
+    "stats_diploma": "211. /309 1123. /1621"
   },
   {
-    "puesto": 1102,
+    "puesto": 1124,
     "placa": "3144",
     "nombre": "Nathalia Andrea Hernandez Bustos",
     "categoria": "10 K MASTER A",
@@ -18726,15 +19100,15 @@ const RUNNERS_DATA = [
     "dif": "+57:52",
     "vel_prom": "7.9 Km/h",
     "ritmo": "7:30 Min/km",
-    "pdf_page": 1056,
+    "pdf_page": 1135,
     "dorsal": "3144",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Nathalia Andrea Hernandez Bustos",
     "tiempo_diploma": "01:15:04",
-    "stats_diploma": "61. /87 1102. /1597"
+    "stats_diploma": "61. /87 1124. /1621"
   },
   {
-    "puesto": 1103,
+    "puesto": 1125,
     "placa": "1746",
     "nombre": "Andrea Fernanda Gomez Galvis",
     "categoria": "10 K ABIERTA",
@@ -18743,15 +19117,15 @@ const RUNNERS_DATA = [
     "dif": "+57:53",
     "vel_prom": "7.9 Km/h",
     "ritmo": "7:30 Min/km",
-    "pdf_page": 541,
+    "pdf_page": 702,
     "dorsal": "1746",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Andrea Fernanda Gomez Galvis",
     "tiempo_diploma": "01:15:05",
-    "stats_diploma": "213. /310 1103. /1597"
+    "stats_diploma": "212. /309 1125. /1621"
   },
   {
-    "puesto": 1104,
+    "puesto": 1126,
     "placa": "1094",
     "nombre": "Camilo Pinzon",
     "categoria": "10 K ABIERTA",
@@ -18760,15 +19134,15 @@ const RUNNERS_DATA = [
     "dif": "+57:57",
     "vel_prom": "7.9 Km/h",
     "ritmo": "7:30 Min/km",
-    "pdf_page": 956,
+    "pdf_page": 124,
     "dorsal": "1094",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Camilo Pinzon",
     "tiempo_diploma": "01:15:09",
-    "stats_diploma": "318. /357 1104. /1597"
+    "stats_diploma": "318. /357 1126. /1621"
   },
   {
-    "puesto": 1105,
+    "puesto": 1127,
     "placa": "1181",
     "nombre": "Diana Teresa Gomez Suárez",
     "categoria": "10 K ABIERTA",
@@ -18777,15 +19151,15 @@ const RUNNERS_DATA = [
     "dif": "+57:59",
     "vel_prom": "7.9 Km/h",
     "ritmo": "7:31 Min/km",
-    "pdf_page": 542,
+    "pdf_page": 203,
     "dorsal": "1181",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Diana Teresa Gomez Suárez",
     "tiempo_diploma": "01:15:11",
-    "stats_diploma": "214. /310 1105. /1597"
+    "stats_diploma": "213. /309 1127. /1621"
   },
   {
-    "puesto": 1106,
+    "puesto": 1128,
     "placa": "2183",
     "nombre": "Diego Pabon Moreno",
     "categoria": "21 K ABIERTA",
@@ -18794,15 +19168,15 @@ const RUNNERS_DATA = [
     "dif": "+58:01",
     "vel_prom": "16.7 Km/h",
     "ritmo": "3:34 Min/km",
-    "pdf_page": 52,
+    "pdf_page": 874,
     "dorsal": "2183",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Diego Pabon Moreno",
     "tiempo_diploma": "01:15:13",
-    "stats_diploma": "1. /130 1106. /1597"
+    "stats_diploma": "1. /130 1128. /1621"
   },
   {
-    "puesto": 1107,
+    "puesto": 1129,
     "placa": "1453",
     "nombre": "Luisa Fernanda Osorio Guerrero",
     "categoria": "10 K ABIERTA",
@@ -18811,15 +19185,15 @@ const RUNNERS_DATA = [
     "dif": "+58:04",
     "vel_prom": "7.9 Km/h",
     "ritmo": "7:31 Min/km",
-    "pdf_page": 543,
+    "pdf_page": 447,
     "dorsal": "1453",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Luisa Fernanda Osorio Guerrero",
     "tiempo_diploma": "01:15:16",
-    "stats_diploma": "215. /310 1107. /1597"
+    "stats_diploma": "214. /309 1129. /1621"
   },
   {
-    "puesto": 1108,
+    "puesto": 1130,
     "placa": "1475",
     "nombre": "Maria Angelica Camacho Peñuela",
     "categoria": "10 K ABIERTA",
@@ -18828,15 +19202,15 @@ const RUNNERS_DATA = [
     "dif": "+58:09",
     "vel_prom": "7.9 Km/h",
     "ritmo": "7:32 Min/km",
-    "pdf_page": 544,
+    "pdf_page": 465,
     "dorsal": "1475",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Maria Angelica Camacho Peñuela",
     "tiempo_diploma": "01:15:21",
-    "stats_diploma": "216. /310 1108. /1597"
+    "stats_diploma": "215. /309 1130. /1621"
   },
   {
-    "puesto": 1109,
+    "puesto": 1131,
     "placa": "3305",
     "nombre": "Zenayda Alviares Almeida",
     "categoria": "10 K MASTER B",
@@ -18845,15 +19219,15 @@ const RUNNERS_DATA = [
     "dif": "+58:14",
     "vel_prom": "7.9 Km/h",
     "ritmo": "7:32 Min/km",
-    "pdf_page": 1213,
+    "pdf_page": 1199,
     "dorsal": "3305",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Zenayda Alviares Almeida",
     "tiempo_diploma": "01:15:26",
-    "stats_diploma": "24. /33 1109. /1597"
+    "stats_diploma": "24. /33 1131. /1621"
   },
   {
-    "puesto": 1110,
+    "puesto": 1132,
     "placa": "3081",
     "nombre": "Jenny Paola Duran Sarmiento",
     "categoria": "10 K MASTER A",
@@ -18862,15 +19236,15 @@ const RUNNERS_DATA = [
     "dif": "+58:15",
     "vel_prom": "7.9 Km/h",
     "ritmo": "7:32 Min/km",
-    "pdf_page": 1057,
+    "pdf_page": 1073,
     "dorsal": "3081",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Jenny Paola Duran Sarmiento",
     "tiempo_diploma": "01:15:27",
-    "stats_diploma": "62. /87 1110. /1597"
+    "stats_diploma": "62. /87 1132. /1621"
   },
   {
-    "puesto": 1111,
+    "puesto": 1133,
     "placa": "3007",
     "nombre": "ALVARO GUILLERMO ZAMBRANO",
     "categoria": "10 K MASTER A",
@@ -18879,15 +19253,15 @@ const RUNNERS_DATA = [
     "dif": "+58:16",
     "vel_prom": "7.9 Km/h",
     "ritmo": "7:32 Min/km",
-    "pdf_page": 1183,
+    "pdf_page": 1006,
     "dorsal": "3007",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "ALVARO GUILLERMO ZAMBRANO QUINTERO",
     "tiempo_diploma": "01:15:28",
-    "stats_diploma": "101. /107 1111. /1597"
+    "stats_diploma": "101. /107 1133. /1621"
   },
   {
-    "puesto": 1112,
+    "puesto": 1134,
     "placa": "3089",
     "nombre": "Johanna Mantilla",
     "categoria": "10 K MASTER A",
@@ -18896,15 +19270,15 @@ const RUNNERS_DATA = [
     "dif": "+58:16",
     "vel_prom": "7.9 Km/h",
     "ritmo": "7:32 Min/km",
-    "pdf_page": 1058,
+    "pdf_page": 1081,
     "dorsal": "3089",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Johanna Mantilla",
     "tiempo_diploma": "01:15:28",
-    "stats_diploma": "63. /87 1112. /1597"
+    "stats_diploma": "63. /87 1134. /1621"
   },
   {
-    "puesto": 1113,
+    "puesto": 1135,
     "placa": "1032",
     "nombre": "Andrea Celis Cano",
     "categoria": "10 K ABIERTA",
@@ -18913,15 +19287,15 @@ const RUNNERS_DATA = [
     "dif": "+58:21",
     "vel_prom": "7.9 Km/h",
     "ritmo": "7:33 Min/km",
-    "pdf_page": 545,
+    "pdf_page": 64,
     "dorsal": "1032",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Andrea Celis Cano",
     "tiempo_diploma": "01:15:33",
-    "stats_diploma": "217. /310 1113. /1597"
+    "stats_diploma": "216. /309 1135. /1621"
   },
   {
-    "puesto": 1114,
+    "puesto": 1136,
     "placa": "1647",
     "nombre": "Vanessa Rodríguez Uribe",
     "categoria": "10 K ABIERTA",
@@ -18930,15 +19304,15 @@ const RUNNERS_DATA = [
     "dif": "+58:25",
     "vel_prom": "7.9 Km/h",
     "ritmo": "7:33 Min/km",
-    "pdf_page": 546,
+    "pdf_page": 614,
     "dorsal": "1647",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Vanessa Rodríguez Uribe",
     "tiempo_diploma": "01:15:37",
-    "stats_diploma": "218. /310 1114. /1597"
+    "stats_diploma": "217. /309 1136. /1621"
   },
   {
-    "puesto": 1115,
+    "puesto": 1137,
     "placa": "3111",
     "nombre": "Laura Cuadros",
     "categoria": "10 K MASTER A",
@@ -18947,15 +19321,15 @@ const RUNNERS_DATA = [
     "dif": "+58:27",
     "vel_prom": "7.9 Km/h",
     "ritmo": "7:33 Min/km",
-    "pdf_page": 1059,
+    "pdf_page": 1102,
     "dorsal": "3111",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Laura Cuadros",
     "tiempo_diploma": "01:15:39",
-    "stats_diploma": "64. /87 1115. /1597"
+    "stats_diploma": "64. /87 1137. /1621"
   },
   {
-    "puesto": 1116,
+    "puesto": 1138,
     "placa": "2069",
     "nombre": "Humberto Rico Tello",
     "categoria": "21 K ABIERTA",
@@ -18964,15 +19338,15 @@ const RUNNERS_DATA = [
     "dif": "+58:31",
     "vel_prom": "16.6 Km/h",
     "ritmo": "3:36 Min/km",
-    "pdf_page": 53,
+    "pdf_page": 769,
     "dorsal": "2069",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Humberto Rico Tello",
     "tiempo_diploma": "01:15:43",
-    "stats_diploma": "2. /130 1116. /1597"
+    "stats_diploma": "2. /130 1138. /1621"
   },
   {
-    "puesto": 1117,
+    "puesto": 1139,
     "placa": "1621",
     "nombre": "Silvia Alejandra Osma",
     "categoria": "10 K ABIERTA",
@@ -18981,15 +19355,15 @@ const RUNNERS_DATA = [
     "dif": "+58:33",
     "vel_prom": "7.9 Km/h",
     "ritmo": "7:34 Min/km",
-    "pdf_page": 547,
+    "pdf_page": 591,
     "dorsal": "1621",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Silvia Alejandra Osma",
     "tiempo_diploma": "01:15:45",
-    "stats_diploma": "219. /310 1117. /1597"
+    "stats_diploma": "218. /309 1139. /1621"
   },
   {
-    "puesto": 1118,
+    "puesto": 1140,
     "placa": "3343",
     "nombre": "Leonardo Guerrero Gamboa",
     "categoria": "10 K MASTER B",
@@ -18998,15 +19372,15 @@ const RUNNERS_DATA = [
     "dif": "+58:38",
     "vel_prom": "7.9 Km/h",
     "ritmo": "7:35 Min/km",
-    "pdf_page": 1270,
+    "pdf_page": 1236,
     "dorsal": "3343",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Leonardo Guerrero Gamboa",
     "tiempo_diploma": "01:15:50",
-    "stats_diploma": "48. /56 1118. /1597"
+    "stats_diploma": "49. /57 1140. /1621"
   },
   {
-    "puesto": 1119,
+    "puesto": 1141,
     "placa": "1486",
     "nombre": "MARIA CONCHITA ARDILA ITRIAGO",
     "categoria": "10 K ABIERTA",
@@ -19015,15 +19389,15 @@ const RUNNERS_DATA = [
     "dif": "+58:39",
     "vel_prom": "7.9 Km/h",
     "ritmo": "7:35 Min/km",
-    "pdf_page": 548,
+    "pdf_page": 474,
     "dorsal": "1486",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "MARIA CONCHITA ARDILA ITRIAGO",
     "tiempo_diploma": "01:15:51",
-    "stats_diploma": "220. /310 1119. /1597"
+    "stats_diploma": "219. /309 1141. /1621"
   },
   {
-    "puesto": 1120,
+    "puesto": 1142,
     "placa": "1648",
     "nombre": "Vianny Gómez",
     "categoria": "10 K ABIERTA",
@@ -19032,15 +19406,15 @@ const RUNNERS_DATA = [
     "dif": "+58:41",
     "vel_prom": "7.9 Km/h",
     "ritmo": "7:35 Min/km",
-    "pdf_page": 549,
+    "pdf_page": 615,
     "dorsal": "1648",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Vianny Gómez",
     "tiempo_diploma": "01:15:53",
-    "stats_diploma": "221. /310 1120. /1597"
+    "stats_diploma": "220. /309 1142. /1621"
   },
   {
-    "puesto": 1121,
+    "puesto": 1143,
     "placa": "1100",
     "nombre": "Camilo José Oviedo Castillo",
     "categoria": "10 K ABIERTA",
@@ -19049,15 +19423,15 @@ const RUNNERS_DATA = [
     "dif": "+58:41",
     "vel_prom": "7.9 Km/h",
     "ritmo": "7:35 Min/km",
-    "pdf_page": 957,
+    "pdf_page": 129,
     "dorsal": "1100",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Camilo José Oviedo Castillo",
     "tiempo_diploma": "01:15:53",
-    "stats_diploma": "319. /357 1121. /1597"
+    "stats_diploma": "319. /357 1143. /1621"
   },
   {
-    "puesto": 1122,
+    "puesto": 1144,
     "placa": "1592",
     "nombre": "Sabrina Ojeda Garcia",
     "categoria": "10 K ABIERTA",
@@ -19066,15 +19440,15 @@ const RUNNERS_DATA = [
     "dif": "+58:42",
     "vel_prom": "7.9 Km/h",
     "ritmo": "7:35 Min/km",
-    "pdf_page": 550,
+    "pdf_page": 567,
     "dorsal": "1592",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Sabrina Ojeda Garcia",
     "tiempo_diploma": "01:15:54",
-    "stats_diploma": "222. /310 1122. /1597"
+    "stats_diploma": "221. /309 1144. /1621"
   },
   {
-    "puesto": 1123,
+    "puesto": 1145,
     "placa": "1386",
     "nombre": "Karen Viviana Landazabal",
     "categoria": "10 K ABIERTA",
@@ -19083,15 +19457,15 @@ const RUNNERS_DATA = [
     "dif": "+58:45",
     "vel_prom": "7.8 Km/h",
     "ritmo": "7:35 Min/km",
-    "pdf_page": 551,
+    "pdf_page": 396,
     "dorsal": "1386",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Karen Viviana Landazabal",
     "tiempo_diploma": "01:15:57",
-    "stats_diploma": "223. /310 1123. /1597"
+    "stats_diploma": "222. /309 1145. /1621"
   },
   {
-    "puesto": 1124,
+    "puesto": 1146,
     "placa": "1289",
     "nombre": "Jeimy Lorena Jaimes Merchán",
     "categoria": "10 K ABIERTA",
@@ -19100,15 +19474,15 @@ const RUNNERS_DATA = [
     "dif": "+58:47",
     "vel_prom": "7.8 Km/h",
     "ritmo": "7:35 Min/km",
-    "pdf_page": 552,
+    "pdf_page": 306,
     "dorsal": "1289",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Jeimy Lorena Jaimes Merchán",
     "tiempo_diploma": "01:15:59",
-    "stats_diploma": "224. /310 1124. /1597"
+    "stats_diploma": "223. /309 1146. /1621"
   },
   {
-    "puesto": 1125,
+    "puesto": 1147,
     "placa": "3070",
     "nombre": "Isabel Cristina Rosales",
     "categoria": "10 K MASTER A",
@@ -19117,15 +19491,15 @@ const RUNNERS_DATA = [
     "dif": "+58:48",
     "vel_prom": "7.8 Km/h",
     "ritmo": "7:36 Min/km",
-    "pdf_page": 1060,
+    "pdf_page": 1062,
     "dorsal": "3070",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Isabel Cristina Rosales",
     "tiempo_diploma": "01:16:00",
-    "stats_diploma": "65. /87 1125. /1597"
+    "stats_diploma": "65. /87 1147. /1621"
   },
   {
-    "puesto": 1126,
+    "puesto": 1148,
     "placa": "5437",
     "nombre": "Julio Cesar González Rincón",
     "categoria": "5 K MASTER A",
@@ -19134,15 +19508,15 @@ const RUNNERS_DATA = [
     "dif": "+58:49",
     "vel_prom": "3.9 Km/h",
     "ritmo": "15:12 Min/km",
-    "pdf_page": 1597,
+    "pdf_page": 1561,
     "dorsal": "5437",
     "categoria_diploma": "5 K MASTER A",
     "nombre_diploma": "Julio Cesar González Rincón",
     "tiempo_diploma": "01:16:01",
-    "stats_diploma": "32. /32 1126. /1597"
+    "stats_diploma": "32. /32 1148. /1621"
   },
   {
-    "puesto": 1127,
+    "puesto": 1149,
     "placa": "1711",
     "nombre": "Nayelly García",
     "categoria": "10 K ABIERTA",
@@ -19151,15 +19525,15 @@ const RUNNERS_DATA = [
     "dif": "+58:56",
     "vel_prom": "7.8 Km/h",
     "ritmo": "7:36 Min/km",
-    "pdf_page": 553,
+    "pdf_page": 671,
     "dorsal": "1711",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Nayelly García",
     "tiempo_diploma": "01:16:08",
-    "stats_diploma": "225. /310 1127. /1597"
+    "stats_diploma": "224. /309 1149. /1621"
   },
   {
-    "puesto": 1128,
+    "puesto": 1150,
     "placa": "1677",
     "nombre": "Yolima Fontecha Hernandez",
     "categoria": "10 K ABIERTA",
@@ -19168,15 +19542,15 @@ const RUNNERS_DATA = [
     "dif": "+58:58",
     "vel_prom": "7.8 Km/h",
     "ritmo": "7:37 Min/km",
-    "pdf_page": 554,
+    "pdf_page": 643,
     "dorsal": "1677",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Yolima Fontecha Hernandez",
     "tiempo_diploma": "01:16:10",
-    "stats_diploma": "226. /310 1128. /1597"
+    "stats_diploma": "225. /309 1150. /1621"
   },
   {
-    "puesto": 1129,
+    "puesto": 1151,
     "placa": "1565",
     "nombre": "Paula Sanabria",
     "categoria": "10 K ABIERTA",
@@ -19185,15 +19559,15 @@ const RUNNERS_DATA = [
     "dif": "+58:59",
     "vel_prom": "7.8 Km/h",
     "ritmo": "7:37 Min/km",
-    "pdf_page": 555,
+    "pdf_page": 544,
     "dorsal": "1565",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Paula Sanabria",
     "tiempo_diploma": "01:16:11",
-    "stats_diploma": "227. /310 1129. /1597"
+    "stats_diploma": "226. /309 1151. /1621"
   },
   {
-    "puesto": 1130,
+    "puesto": 1152,
     "placa": "3079",
     "nombre": "Jazmin Uribe Barrera",
     "categoria": "10 K MASTER A",
@@ -19202,15 +19576,15 @@ const RUNNERS_DATA = [
     "dif": "+59:01",
     "vel_prom": "7.8 Km/h",
     "ritmo": "7:37 Min/km",
-    "pdf_page": 1061,
+    "pdf_page": 1071,
     "dorsal": "3079",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Jazmin Uribe Barrera",
     "tiempo_diploma": "01:16:13",
-    "stats_diploma": "66. /87 1130. /1597"
+    "stats_diploma": "66. /87 1152. /1621"
   },
   {
-    "puesto": 1131,
+    "puesto": 1153,
     "placa": "1602",
     "nombre": "Sarah Pinzon",
     "categoria": "10 K ABIERTA",
@@ -19219,15 +19593,15 @@ const RUNNERS_DATA = [
     "dif": "+59:01",
     "vel_prom": "7.8 Km/h",
     "ritmo": "7:37 Min/km",
-    "pdf_page": 556,
+    "pdf_page": 574,
     "dorsal": "1602",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Sarah Pinzon",
     "tiempo_diploma": "01:16:13",
-    "stats_diploma": "228. /310 1131. /1597"
+    "stats_diploma": "227. /309 1153. /1621"
   },
   {
-    "puesto": 1132,
+    "puesto": 1154,
     "placa": "1217",
     "nombre": "Emelyn Paola Rojas Serrano",
     "categoria": "10 K ABIERTA",
@@ -19236,15 +19610,15 @@ const RUNNERS_DATA = [
     "dif": "+59:03",
     "vel_prom": "7.8 Km/h",
     "ritmo": "7:37 Min/km",
-    "pdf_page": 557,
+    "pdf_page": 238,
     "dorsal": "1217",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Emelyn Paola Rojas Serrano",
     "tiempo_diploma": "01:16:15",
-    "stats_diploma": "229. /310 1132. /1597"
+    "stats_diploma": "228. /309 1154. /1621"
   },
   {
-    "puesto": 1133,
+    "puesto": 1155,
     "placa": "1735",
     "nombre": "Carolina Rivera",
     "categoria": "10 K ABIERTA",
@@ -19253,15 +19627,15 @@ const RUNNERS_DATA = [
     "dif": "+59:06",
     "vel_prom": "7.8 Km/h",
     "ritmo": "7:37 Min/km",
-    "pdf_page": 558,
+    "pdf_page": 692,
     "dorsal": "1735",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Carolina Rivera",
     "tiempo_diploma": "01:16:18",
-    "stats_diploma": "230. /310 1133. /1597"
+    "stats_diploma": "229. /309 1155. /1621"
   },
   {
-    "puesto": 1134,
+    "puesto": 1156,
     "placa": "1467",
     "nombre": "Margy Paredes Caballero",
     "categoria": "10 K ABIERTA",
@@ -19270,15 +19644,15 @@ const RUNNERS_DATA = [
     "dif": "+59:14",
     "vel_prom": "7.8 Km/h",
     "ritmo": "7:38 Min/km",
-    "pdf_page": 559,
+    "pdf_page": 458,
     "dorsal": "1467",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Margy Paredes Caballero",
     "tiempo_diploma": "01:16:26",
-    "stats_diploma": "231. /310 1134. /1597"
+    "stats_diploma": "230. /309 1156. /1621"
   },
   {
-    "puesto": 1135,
+    "puesto": 1157,
     "placa": "3040",
     "nombre": "Diego Armando Roa Hernandez",
     "categoria": "10 K MASTER A",
@@ -19287,15 +19661,15 @@ const RUNNERS_DATA = [
     "dif": "+59:16",
     "vel_prom": "7.8 Km/h",
     "ritmo": "7:38 Min/km",
-    "pdf_page": 1184,
+    "pdf_page": 1035,
     "dorsal": "3040",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Diego Armando Roa Hernandez",
     "tiempo_diploma": "01:16:28",
-    "stats_diploma": "102. /107 1135. /1597"
+    "stats_diploma": "102. /107 1157. /1621"
   },
   {
-    "puesto": 1136,
+    "puesto": 1158,
     "placa": "1487",
     "nombre": "Maria Esperanza Guerra Pabon",
     "categoria": "10 K ABIERTA",
@@ -19304,15 +19678,15 @@ const RUNNERS_DATA = [
     "dif": "+59:25",
     "vel_prom": "7.8 Km/h",
     "ritmo": "7:39 Min/km",
-    "pdf_page": 560,
+    "pdf_page": 475,
     "dorsal": "1487",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Maria Esperanza Guerra Pabon",
     "tiempo_diploma": "00:15:34",
-    "stats_diploma": "232. /310 1136. /1597"
+    "stats_diploma": "231. /309 1158. /1621"
   },
   {
-    "puesto": 1137,
+    "puesto": 1159,
     "placa": "3135",
     "nombre": "Marisol Valbuena",
     "categoria": "10 K MASTER A",
@@ -19321,15 +19695,15 @@ const RUNNERS_DATA = [
     "dif": "+59:28",
     "vel_prom": "7.8 Km/h",
     "ritmo": "7:40 Min/km",
-    "pdf_page": 1062,
+    "pdf_page": 1126,
     "dorsal": "3135",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Marisol Valbuena",
     "tiempo_diploma": "01:16:40",
-    "stats_diploma": "67. /87 1137. /1597"
+    "stats_diploma": "67. /87 1159. /1621"
   },
   {
-    "puesto": 1138,
+    "puesto": 1160,
     "placa": "3331",
     "nombre": "ISABEL PINTO DE ZAMBRANO",
     "categoria": "10 K MASTER B",
@@ -19338,15 +19712,15 @@ const RUNNERS_DATA = [
     "dif": "+59:30",
     "vel_prom": "7.8 Km/h",
     "ritmo": "7:40 Min/km",
-    "pdf_page": 1214,
+    "pdf_page": 1224,
     "dorsal": "3331",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "ISABEL PINTO DE ZAMBRANO",
     "tiempo_diploma": "01:16:42",
-    "stats_diploma": "25. /33 1138. /1597"
+    "stats_diploma": "25. /33 1160. /1621"
   },
   {
-    "puesto": 1139,
+    "puesto": 1161,
     "placa": "3336",
     "nombre": "John Serrano",
     "categoria": "10 K MASTER B",
@@ -19355,15 +19729,15 @@ const RUNNERS_DATA = [
     "dif": "+59:32",
     "vel_prom": "7.8 Km/h",
     "ritmo": "7:40 Min/km",
-    "pdf_page": 1271,
+    "pdf_page": 1229,
     "dorsal": "3336",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "John Serrano",
     "tiempo_diploma": "01:16:44",
-    "stats_diploma": "49. /56 1139. /1597"
+    "stats_diploma": "50. /57 1161. /1621"
   },
   {
-    "puesto": 1140,
+    "puesto": 1162,
     "placa": "1357",
     "nombre": "Juan David Riaño Sánchez",
     "categoria": "10 K ABIERTA",
@@ -19372,15 +19746,15 @@ const RUNNERS_DATA = [
     "dif": "+59:32",
     "vel_prom": "7.8 Km/h",
     "ritmo": "7:40 Min/km",
-    "pdf_page": 958,
+    "pdf_page": 368,
     "dorsal": "1357",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Juan David Riaño Sánchez",
     "tiempo_diploma": "01:16:44",
-    "stats_diploma": "320. /357 1140. /1597"
+    "stats_diploma": "320. /357 1162. /1621"
   },
   {
-    "puesto": 1141,
+    "puesto": 1163,
     "placa": "3109",
     "nombre": "Kike Ramirez",
     "categoria": "10 K MASTER A",
@@ -19389,15 +19763,15 @@ const RUNNERS_DATA = [
     "dif": "+59:32",
     "vel_prom": "7.8 Km/h",
     "ritmo": "7:40 Min/km",
-    "pdf_page": 1185,
+    "pdf_page": 1100,
     "dorsal": "3109",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Kike Ramirez",
     "tiempo_diploma": "01:16:44",
-    "stats_diploma": "103. /107 1141. /1597"
+    "stats_diploma": "103. /107 1163. /1621"
   },
   {
-    "puesto": 1142,
+    "puesto": 1164,
     "placa": "1365",
     "nombre": "Juan Sebastian rincon martinez",
     "categoria": "10 K ABIERTA",
@@ -19406,15 +19780,15 @@ const RUNNERS_DATA = [
     "dif": "+59:33",
     "vel_prom": "7.8 Km/h",
     "ritmo": "7:40 Min/km",
-    "pdf_page": 959,
+    "pdf_page": 375,
     "dorsal": "1365",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Juan Sebastian rincon martinez",
     "tiempo_diploma": "01:16:45",
-    "stats_diploma": "321. /357 1142. /1597"
+    "stats_diploma": "321. /357 1164. /1621"
   },
   {
-    "puesto": 1143,
+    "puesto": 1165,
     "placa": "3113",
     "nombre": "Leidy Johanna López Montañez",
     "categoria": "10 K MASTER A",
@@ -19423,15 +19797,15 @@ const RUNNERS_DATA = [
     "dif": "+59:34",
     "vel_prom": "7.8 Km/h",
     "ritmo": "7:40 Min/km",
-    "pdf_page": 1063,
+    "pdf_page": 1104,
     "dorsal": "3113",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Leidy Johanna López Montañez",
     "tiempo_diploma": "01:16:46",
-    "stats_diploma": "68. /87 1143. /1597"
+    "stats_diploma": "68. /87 1165. /1621"
   },
   {
-    "puesto": 1144,
+    "puesto": 1166,
     "placa": "1153",
     "nombre": "Daniela Pinto",
     "categoria": "10 K ABIERTA",
@@ -19440,15 +19814,15 @@ const RUNNERS_DATA = [
     "dif": "+59:36",
     "vel_prom": "7.8 Km/h",
     "ritmo": "7:40 Min/km",
-    "pdf_page": 561,
+    "pdf_page": 176,
     "dorsal": "1153",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Daniela Pinto",
     "tiempo_diploma": "01:16:48",
-    "stats_diploma": "233. /310 1144. /1597"
+    "stats_diploma": "232. /309 1166. /1621"
   },
   {
-    "puesto": 1145,
+    "puesto": 1167,
     "placa": "1244",
     "nombre": "Geraldine Ortiz",
     "categoria": "10 K ABIERTA",
@@ -19457,15 +19831,15 @@ const RUNNERS_DATA = [
     "dif": "+59:36",
     "vel_prom": "7.8 Km/h",
     "ritmo": "7:40 Min/km",
-    "pdf_page": 562,
+    "pdf_page": 263,
     "dorsal": "1244",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Geraldine Ortiz",
     "tiempo_diploma": "01:16:48",
-    "stats_diploma": "234. /310 1145. /1597"
+    "stats_diploma": "233. /309 1167. /1621"
   },
   {
-    "puesto": 1146,
+    "puesto": 1168,
     "placa": "1040",
     "nombre": "Andrea Yurley Centeno Gualdron",
     "categoria": "10 K ABIERTA",
@@ -19474,15 +19848,15 @@ const RUNNERS_DATA = [
     "dif": "+59:43",
     "vel_prom": "7.7 Km/h",
     "ritmo": "7:41 Min/km",
-    "pdf_page": 563,
+    "pdf_page": 72,
     "dorsal": "1040",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Andrea Yurley Centeno Gualdron",
     "tiempo_diploma": "01:16:55",
-    "stats_diploma": "235. /310 1146. /1597"
+    "stats_diploma": "234. /309 1168. /1621"
   },
   {
-    "puesto": 1147,
+    "puesto": 1169,
     "placa": "1632",
     "nombre": "Stephanny Gissell Caballero romero",
     "categoria": "10 K ABIERTA",
@@ -19491,15 +19865,15 @@ const RUNNERS_DATA = [
     "dif": "+59:44",
     "vel_prom": "7.7 Km/h",
     "ritmo": "7:41 Min/km",
-    "pdf_page": 564,
+    "pdf_page": 600,
     "dorsal": "1632",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Stephanny Gissell Caballero romero",
     "tiempo_diploma": "01:16:56",
-    "stats_diploma": "236. /310 1147. /1597"
+    "stats_diploma": "235. /309 1169. /1621"
   },
   {
-    "puesto": 1148,
+    "puesto": 1170,
     "placa": "1281",
     "nombre": "Javier Pinzon",
     "categoria": "10 K ABIERTA",
@@ -19508,15 +19882,15 @@ const RUNNERS_DATA = [
     "dif": "+59:49",
     "vel_prom": "7.7 Km/h",
     "ritmo": "7:42 Min/km",
-    "pdf_page": 960,
+    "pdf_page": 298,
     "dorsal": "1281",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Javier Pinzon",
     "tiempo_diploma": "01:17:01",
-    "stats_diploma": "322. /357 1148. /1597"
+    "stats_diploma": "322. /357 1170. /1621"
   },
   {
-    "puesto": 1149,
+    "puesto": 1171,
     "placa": "3028",
     "nombre": "Claudia Becerra",
     "categoria": "10 K MASTER A",
@@ -19525,15 +19899,15 @@ const RUNNERS_DATA = [
     "dif": "+59:53",
     "vel_prom": "7.7 Km/h",
     "ritmo": "7:42 Min/km",
-    "pdf_page": 1064,
+    "pdf_page": 1024,
     "dorsal": "3028",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Claudia Becerra",
     "tiempo_diploma": "01:17:05",
-    "stats_diploma": "69. /87 1149. /1597"
+    "stats_diploma": "69. /87 1171. /1621"
   },
   {
-    "puesto": 1150,
+    "puesto": 1172,
     "placa": "1417",
     "nombre": "Leidy Johana Arias Ferreira",
     "categoria": "10 K ABIERTA",
@@ -19542,15 +19916,15 @@ const RUNNERS_DATA = [
     "dif": "+59:55",
     "vel_prom": "7.7 Km/h",
     "ritmo": "7:42 Min/km",
-    "pdf_page": 565,
+    "pdf_page": 418,
     "dorsal": "1417",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Leidy Johana Arias Ferreira",
     "tiempo_diploma": "01:17:07",
-    "stats_diploma": "237. /310 1150. /1597"
+    "stats_diploma": "236. /309 1172. /1621"
   },
   {
-    "puesto": 1151,
+    "puesto": 1173,
     "placa": "1319",
     "nombre": "Jodhy Stefany Pedraza cordero",
     "categoria": "10 K ABIERTA",
@@ -19559,15 +19933,15 @@ const RUNNERS_DATA = [
     "dif": "+59:55",
     "vel_prom": "7.7 Km/h",
     "ritmo": "7:42 Min/km",
-    "pdf_page": 566,
+    "pdf_page": 333,
     "dorsal": "1319",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Jodhy Stefany Pedraza cordero",
     "tiempo_diploma": "01:17:07",
-    "stats_diploma": "238. /310 1151. /1597"
+    "stats_diploma": "237. /309 1173. /1621"
   },
   {
-    "puesto": 1152,
+    "puesto": 1174,
     "placa": "126",
     "nombre": "Shirley Romero Mercado",
     "categoria": "10 K ELITE",
@@ -19576,15 +19950,15 @@ const RUNNERS_DATA = [
     "dif": "+59:56",
     "vel_prom": "7.7 Km/h",
     "ritmo": "7:42 Min/km",
-    "pdf_page": 313,
+    "pdf_page": 20,
     "dorsal": "126",
     "categoria_diploma": "10 K ELITE",
     "nombre_diploma": "Shirley Romero Mercado",
     "tiempo_diploma": "01:17:08",
-    "stats_diploma": "12. /17 1152. /1597"
+    "stats_diploma": "12. /17 1174. /1621"
   },
   {
-    "puesto": 1153,
+    "puesto": 1175,
     "placa": "3143",
     "nombre": "Mónica Cristina Paola Carreño López",
     "categoria": "10 K MASTER A",
@@ -19593,15 +19967,15 @@ const RUNNERS_DATA = [
     "dif": "+1:00:08",
     "vel_prom": "7.7 Km/h",
     "ritmo": "7:44 Min/km",
-    "pdf_page": 1065,
+    "pdf_page": 1134,
     "dorsal": "3143",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Mónica Cristina Paola Carreño López",
     "tiempo_diploma": "01:17:20",
-    "stats_diploma": "70. /87 1153. /1597"
+    "stats_diploma": "70. /87 1175. /1621"
   },
   {
-    "puesto": 1154,
+    "puesto": 1176,
     "placa": "1098",
     "nombre": "Camilo Andrés Ruiz Delgado",
     "categoria": "10 K ABIERTA",
@@ -19610,32 +19984,32 @@ const RUNNERS_DATA = [
     "dif": "+1:00:15",
     "vel_prom": "7.7 Km/h",
     "ritmo": "7:44 Min/km",
-    "pdf_page": 961,
+    "pdf_page": 127,
     "dorsal": "1098",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Camilo Andrés Ruiz Delgado",
     "tiempo_diploma": "01:17:27",
-    "stats_diploma": "323. /357 1154. /1597"
+    "stats_diploma": "323. /357 1176. /1621"
   },
   {
-    "puesto": 1155,
+    "puesto": 1177,
     "placa": "2188",
     "nombre": "Brayan Fabian Marquez Lopez",
     "categoria": "21 K ABIERTA",
-    "ciudad": "Bucaramanga",
+    "ciudad": "",
     "tiempo": "1:17:28",
     "dif": "+1:00:16",
     "vel_prom": "16.2 Km/h",
     "ritmo": "3:41 Min/km",
-    "pdf_page": 54,
+    "pdf_page": 878,
     "dorsal": "2188",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Brayan Fabian Marquez Lopez",
     "tiempo_diploma": "01:17:28",
-    "stats_diploma": "3. /130 1155. /1597"
+    "stats_diploma": "3. /130 1177. /1621"
   },
   {
-    "puesto": 1156,
+    "puesto": 1178,
     "placa": "1687",
     "nombre": "Aldair Barros",
     "categoria": "10 K ABIERTA",
@@ -19644,15 +20018,15 @@ const RUNNERS_DATA = [
     "dif": "+1:00:17",
     "vel_prom": "7.7 Km/h",
     "ritmo": "7:44 Min/km",
-    "pdf_page": 962,
+    "pdf_page": 652,
     "dorsal": "1687",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Aldair Barros",
     "tiempo_diploma": "00:15:04",
-    "stats_diploma": "324. /357 1156. /1597"
+    "stats_diploma": "324. /357 1178. /1621"
   },
   {
-    "puesto": 1157,
+    "puesto": 1179,
     "placa": "5060",
     "nombre": "DAVID JULIAN MENDOZA MONCADA",
     "categoria": "5 K ABIERTA",
@@ -19661,15 +20035,15 @@ const RUNNERS_DATA = [
     "dif": "+1:00:26",
     "vel_prom": "3.8 Km/h",
     "ritmo": "15:31 Min/km",
-    "pdf_page": 1528,
+    "pdf_page": 1338,
     "dorsal": "5060",
     "categoria_diploma": "5 K ABIERTA",
     "nombre_diploma": "DAVID JULIAN MENDOZA MONCADA",
     "tiempo_diploma": "01:17:38",
-    "stats_diploma": "90. /90 1157. /1597"
+    "stats_diploma": "88. /88 1179. /1621"
   },
   {
-    "puesto": 1158,
+    "puesto": 1180,
     "placa": "1074",
     "nombre": "Angie Milena Marín",
     "categoria": "10 K ABIERTA",
@@ -19678,15 +20052,15 @@ const RUNNERS_DATA = [
     "dif": "+1:00:27",
     "vel_prom": "7.7 Km/h",
     "ritmo": "7:45 Min/km",
-    "pdf_page": 567,
+    "pdf_page": 104,
     "dorsal": "1074",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Angie Milena Marín",
     "tiempo_diploma": "01:17:39",
-    "stats_diploma": "239. /310 1158. /1597"
+    "stats_diploma": "238. /309 1180. /1621"
   },
   {
-    "puesto": 1159,
+    "puesto": 1181,
     "placa": "1701",
     "nombre": "MARIA CATALINA CHACON RIVERO",
     "categoria": "10 K ABIERTA",
@@ -19695,15 +20069,15 @@ const RUNNERS_DATA = [
     "dif": "+1:00:30",
     "vel_prom": "7.7 Km/h",
     "ritmo": "7:46 Min/km",
-    "pdf_page": 568,
+    "pdf_page": 662,
     "dorsal": "1701",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "MARIA CATALINA CHACON RIVERO",
     "tiempo_diploma": "01:17:42",
-    "stats_diploma": "240. /310 1159. /1597"
+    "stats_diploma": "239. /309 1181. /1621"
   },
   {
-    "puesto": 1160,
+    "puesto": 1182,
     "placa": "1335",
     "nombre": "JORGE LUIS BARON ARBOLEDA",
     "categoria": "10 K ABIERTA",
@@ -19712,15 +20086,15 @@ const RUNNERS_DATA = [
     "dif": "+1:00:30",
     "vel_prom": "7.7 Km/h",
     "ritmo": "7:46 Min/km",
-    "pdf_page": 963,
+    "pdf_page": 347,
     "dorsal": "1335",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "JORGE LUIS BARON ARBOLEDA",
     "tiempo_diploma": "01:17:42",
-    "stats_diploma": "325. /357 1160. /1597"
+    "stats_diploma": "325. /357 1182. /1621"
   },
   {
-    "puesto": 1161,
+    "puesto": 1183,
     "placa": "1092",
     "nombre": "Camila Caceres",
     "categoria": "10 K ABIERTA",
@@ -19729,15 +20103,15 @@ const RUNNERS_DATA = [
     "dif": "+1:00:31",
     "vel_prom": "7.7 Km/h",
     "ritmo": "7:46 Min/km",
-    "pdf_page": 569,
+    "pdf_page": 122,
     "dorsal": "1092",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Camila Caceres",
     "tiempo_diploma": "01:17:43",
-    "stats_diploma": "241. /310 1161. /1597"
+    "stats_diploma": "240. /309 1183. /1621"
   },
   {
-    "puesto": 1162,
+    "puesto": 1184,
     "placa": "2187",
     "nombre": "Angel Alfonso Sepulveda",
     "categoria": "21 K ABIERTA",
@@ -19746,15 +20120,15 @@ const RUNNERS_DATA = [
     "dif": "+1:00:38",
     "vel_prom": "16.1 Km/h",
     "ritmo": "3:42 Min/km",
-    "pdf_page": 55,
+    "pdf_page": 877,
     "dorsal": "2187",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Angel Alfonso Sepulveda",
     "tiempo_diploma": "01:17:50",
-    "stats_diploma": "4. /130 1162. /1597"
+    "stats_diploma": "4. /130 1184. /1621"
   },
   {
-    "puesto": 1163,
+    "puesto": 1185,
     "placa": "3391",
     "nombre": "Yamile Heslendy Melón Fuentes",
     "categoria": "10 K MASTER B",
@@ -19763,15 +20137,15 @@ const RUNNERS_DATA = [
     "dif": "+1:00:41",
     "vel_prom": "7.7 Km/h",
     "ritmo": "7:47 Min/km",
-    "pdf_page": 1215,
+    "pdf_page": 1280,
     "dorsal": "3391",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Yamile Heslendy Melón Fuentes",
     "tiempo_diploma": "01:17:53",
-    "stats_diploma": "26. /33 1163. /1597"
+    "stats_diploma": "26. /33 1185. /1621"
   },
   {
-    "puesto": 1164,
+    "puesto": 1186,
     "placa": "1623",
     "nombre": "SILVIA ALEJANDRA ARÉVALO GÓMEZ",
     "categoria": "10 K ABIERTA",
@@ -19780,15 +20154,15 @@ const RUNNERS_DATA = [
     "dif": "+1:01:00",
     "vel_prom": "7.6 Km/h",
     "ritmo": "7:49 Min/km",
-    "pdf_page": 570,
+    "pdf_page": 593,
     "dorsal": "1623",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "SILVIA ALEJANDRA ARÉVALO GÓMEZ",
     "tiempo_diploma": "01:18:12",
-    "stats_diploma": "242. /310 1164. /1597"
+    "stats_diploma": "241. /309 1186. /1621"
   },
   {
-    "puesto": 1165,
+    "puesto": 1187,
     "placa": "3125",
     "nombre": "Luz dary Ramírez lopez",
     "categoria": "10 K MASTER A",
@@ -19797,15 +20171,15 @@ const RUNNERS_DATA = [
     "dif": "+1:01:03",
     "vel_prom": "7.6 Km/h",
     "ritmo": "7:49 Min/km",
-    "pdf_page": 1066,
+    "pdf_page": 1116,
     "dorsal": "3125",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Luz dary Ramírez lopez",
     "tiempo_diploma": "01:18:15",
-    "stats_diploma": "71. /87 1165. /1597"
+    "stats_diploma": "71. /87 1187. /1621"
   },
   {
-    "puesto": 1166,
+    "puesto": 1188,
     "placa": "1246",
     "nombre": "German Peralta",
     "categoria": "10 K ABIERTA",
@@ -19814,15 +20188,15 @@ const RUNNERS_DATA = [
     "dif": "+1:01:04",
     "vel_prom": "7.6 Km/h",
     "ritmo": "7:49 Min/km",
-    "pdf_page": 964,
+    "pdf_page": 265,
     "dorsal": "1246",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "German Peralta",
     "tiempo_diploma": "01:18:16",
-    "stats_diploma": "326. /357 1166. /1597"
+    "stats_diploma": "326. /357 1188. /1621"
   },
   {
-    "puesto": 1167,
+    "puesto": 1189,
     "placa": "2179",
     "nombre": "Cesar Orlando Ortiz Roa",
     "categoria": "21 K ABIERTA",
@@ -19831,15 +20205,15 @@ const RUNNERS_DATA = [
     "dif": "+1:01:04",
     "vel_prom": "16.0 Km/h",
     "ritmo": "3:43 Min/km",
-    "pdf_page": 56,
+    "pdf_page": 871,
     "dorsal": "2179",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Cesar Orlando Ortiz Roa",
     "tiempo_diploma": "01:18:16",
-    "stats_diploma": "5. /130 1167. /1597"
+    "stats_diploma": "5. /130 1189. /1621"
   },
   {
-    "puesto": 1168,
+    "puesto": 1190,
     "placa": "134",
     "nombre": "Melisa Beth Reales Sánchez",
     "categoria": "10 K ELITE",
@@ -19848,15 +20222,15 @@ const RUNNERS_DATA = [
     "dif": "+1:01:12",
     "vel_prom": "7.6 Km/h",
     "ritmo": "7:50 Min/km",
-    "pdf_page": 314,
+    "pdf_page": 27,
     "dorsal": "134",
     "categoria_diploma": "10 K ELITE",
     "nombre_diploma": "Melisa Beth Reales Sánchez",
     "tiempo_diploma": "01:18:24",
-    "stats_diploma": "13. /17 1168. /1597"
+    "stats_diploma": "13. /17 1190. /1621"
   },
   {
-    "puesto": 1169,
+    "puesto": 1191,
     "placa": "1047",
     "nombre": "Andrés Carlos Beleño Quintero",
     "categoria": "10 K ABIERTA",
@@ -19865,15 +20239,15 @@ const RUNNERS_DATA = [
     "dif": "+1:01:14",
     "vel_prom": "7.6 Km/h",
     "ritmo": "7:50 Min/km",
-    "pdf_page": 965,
+    "pdf_page": 79,
     "dorsal": "1047",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Andrés Carlos Beleño Quintero",
     "tiempo_diploma": "01:18:26",
-    "stats_diploma": "327. /357 1169. /1597"
+    "stats_diploma": "327. /357 1191. /1621"
   },
   {
-    "puesto": 1170,
+    "puesto": 1192,
     "placa": "1625",
     "nombre": "Silvia angelica Sánchez",
     "categoria": "10 K ABIERTA",
@@ -19882,15 +20256,15 @@ const RUNNERS_DATA = [
     "dif": "+1:01:16",
     "vel_prom": "7.6 Km/h",
     "ritmo": "7:50 Min/km",
-    "pdf_page": 571,
+    "pdf_page": 595,
     "dorsal": "1625",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Silvia angelica Sánchez",
     "tiempo_diploma": "01:18:28",
-    "stats_diploma": "243. /310 1170. /1597"
+    "stats_diploma": "242. /309 1192. /1621"
   },
   {
-    "puesto": 1171,
+    "puesto": 1193,
     "placa": "3208",
     "nombre": "Bibiana Ramirez",
     "categoria": "10 K MASTER A",
@@ -19899,15 +20273,15 @@ const RUNNERS_DATA = [
     "dif": "+1:01:19",
     "vel_prom": "7.6 Km/h",
     "ritmo": "7:51 Min/km",
-    "pdf_page": 1067,
+    "pdf_page": 1190,
     "dorsal": "3208",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Bibiana Ramirez",
     "tiempo_diploma": "01:18:31",
-    "stats_diploma": "72. /87 1171. /1597"
+    "stats_diploma": "72. /87 1193. /1621"
   },
   {
-    "puesto": 1172,
+    "puesto": 1194,
     "placa": "1019",
     "nombre": "Alexandra Lozada",
     "categoria": "10 K ABIERTA",
@@ -19916,15 +20290,15 @@ const RUNNERS_DATA = [
     "dif": "+1:01:21",
     "vel_prom": "7.6 Km/h",
     "ritmo": "7:51 Min/km",
-    "pdf_page": 572,
+    "pdf_page": 53,
     "dorsal": "1019",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Alexandra Lozada",
     "tiempo_diploma": "01:18:33",
-    "stats_diploma": "244. /310 1172. /1597"
+    "stats_diploma": "243. /309 1194. /1621"
   },
   {
-    "puesto": 1173,
+    "puesto": 1195,
     "placa": "1255",
     "nombre": "Gustavo Adolfo González garcia",
     "categoria": "10 K ABIERTA",
@@ -19933,15 +20307,15 @@ const RUNNERS_DATA = [
     "dif": "+1:01:22",
     "vel_prom": "7.6 Km/h",
     "ritmo": "7:51 Min/km",
-    "pdf_page": 966,
+    "pdf_page": 273,
     "dorsal": "1255",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Gustavo Adolfo González garcia",
     "tiempo_diploma": "01:18:34",
-    "stats_diploma": "328. /357 1173. /1597"
+    "stats_diploma": "328. /357 1195. /1621"
   },
   {
-    "puesto": 1174,
+    "puesto": 1196,
     "placa": "1506",
     "nombre": "Marling julieth Quiroga velasco",
     "categoria": "10 K ABIERTA",
@@ -19950,15 +20324,15 @@ const RUNNERS_DATA = [
     "dif": "+1:01:23",
     "vel_prom": "7.6 Km/h",
     "ritmo": "7:51 Min/km",
-    "pdf_page": 573,
+    "pdf_page": 491,
     "dorsal": "1506",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Marling julieth Quiroga velasco",
     "tiempo_diploma": "01:18:35",
-    "stats_diploma": "245. /310 1174. /1597"
+    "stats_diploma": "244. /309 1196. /1621"
   },
   {
-    "puesto": 1175,
+    "puesto": 1197,
     "placa": "1294",
     "nombre": "Jennyfer Camila Rojas Meneses",
     "categoria": "10 K ABIERTA",
@@ -19967,15 +20341,15 @@ const RUNNERS_DATA = [
     "dif": "+1:01:30",
     "vel_prom": "7.6 Km/h",
     "ritmo": "7:52 Min/km",
-    "pdf_page": 574,
+    "pdf_page": 311,
     "dorsal": "1294",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Jennyfer Camila Rojas Meneses",
     "tiempo_diploma": "01:18:42",
-    "stats_diploma": "246. /310 1175. /1597"
+    "stats_diploma": "245. /309 1197. /1621"
   },
   {
-    "puesto": 1176,
+    "puesto": 1198,
     "placa": "1238",
     "nombre": "Francy Julieth Vega Florez",
     "categoria": "10 K ABIERTA",
@@ -19984,15 +20358,15 @@ const RUNNERS_DATA = [
     "dif": "+1:01:33",
     "vel_prom": "7.6 Km/h",
     "ritmo": "7:52 Min/km",
-    "pdf_page": 575,
+    "pdf_page": 258,
     "dorsal": "1238",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Francy Julieth Vega Florez",
     "tiempo_diploma": "01:18:45",
-    "stats_diploma": "247. /310 1176. /1597"
+    "stats_diploma": "246. /309 1198. /1621"
   },
   {
-    "puesto": 1177,
+    "puesto": 1199,
     "placa": "1234",
     "nombre": "Felipe Montalvo Suarez",
     "categoria": "10 K ABIERTA",
@@ -20001,15 +20375,15 @@ const RUNNERS_DATA = [
     "dif": "+1:01:39",
     "vel_prom": "7.6 Km/h",
     "ritmo": "7:53 Min/km",
-    "pdf_page": 967,
+    "pdf_page": 254,
     "dorsal": "1234",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Felipe Montalvo Suarez",
     "tiempo_diploma": "01:18:51",
-    "stats_diploma": "329. /357 1177. /1597"
+    "stats_diploma": "329. /357 1199. /1621"
   },
   {
-    "puesto": 1178,
+    "puesto": 1200,
     "placa": "1616",
     "nombre": "Sergio Andres Rivera Centeno",
     "categoria": "10 K ABIERTA",
@@ -20018,15 +20392,15 @@ const RUNNERS_DATA = [
     "dif": "+1:01:41",
     "vel_prom": "7.6 Km/h",
     "ritmo": "7:53 Min/km",
-    "pdf_page": 968,
+    "pdf_page": 587,
     "dorsal": "1616",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Sergio Andres Rivera Centeno",
     "tiempo_diploma": "01:18:53",
-    "stats_diploma": "330. /357 1178. /1597"
+    "stats_diploma": "330. /357 1200. /1621"
   },
   {
-    "puesto": 1179,
+    "puesto": 1201,
     "placa": "2050",
     "nombre": "Edgar fabian Garces",
     "categoria": "21 K ABIERTA",
@@ -20035,15 +20409,15 @@ const RUNNERS_DATA = [
     "dif": "+1:01:42",
     "vel_prom": "15.9 Km/h",
     "ritmo": "3:45 Min/km",
-    "pdf_page": 57,
+    "pdf_page": 751,
     "dorsal": "2050",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Edgar fabian Garces",
     "tiempo_diploma": "01:18:54",
-    "stats_diploma": "6. /130 1179. /1597"
+    "stats_diploma": "6. /130 1201. /1621"
   },
   {
-    "puesto": 1180,
+    "puesto": 1202,
     "placa": "3130",
     "nombre": "Margy Lexy Rodríguez Santos",
     "categoria": "10 K MASTER A",
@@ -20052,15 +20426,15 @@ const RUNNERS_DATA = [
     "dif": "+1:01:51",
     "vel_prom": "7.5 Km/h",
     "ritmo": "7:54 Min/km",
-    "pdf_page": 1068,
+    "pdf_page": 1121,
     "dorsal": "3130",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Margy Lexy Rodríguez Santos",
     "tiempo_diploma": "01:19:03",
-    "stats_diploma": "73. /87 1180. /1597"
+    "stats_diploma": "73. /87 1202. /1621"
   },
   {
-    "puesto": 1181,
+    "puesto": 1203,
     "placa": "1490",
     "nombre": "Maria Gabriela Barreto Duran",
     "categoria": "10 K ABIERTA",
@@ -20069,15 +20443,15 @@ const RUNNERS_DATA = [
     "dif": "+1:02:01",
     "vel_prom": "7.5 Km/h",
     "ritmo": "7:55 Min/km",
-    "pdf_page": 576,
+    "pdf_page": 477,
     "dorsal": "1490",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Maria Gabriela Barreto Duran",
     "tiempo_diploma": "01:19:13",
-    "stats_diploma": "248. /310 1181. /1597"
+    "stats_diploma": "247. /309 1203. /1621"
   },
   {
-    "puesto": 1182,
+    "puesto": 1204,
     "placa": "1071",
     "nombre": "Angelo Andres Duran Gomez",
     "categoria": "10 K ABIERTA",
@@ -20086,15 +20460,15 @@ const RUNNERS_DATA = [
     "dif": "+1:02:09",
     "vel_prom": "7.5 Km/h",
     "ritmo": "7:56 Min/km",
-    "pdf_page": 969,
+    "pdf_page": 101,
     "dorsal": "1071",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Angelo Andres Duran Gomez",
     "tiempo_diploma": "01:19:21",
-    "stats_diploma": "331. /357 1182. /1597"
+    "stats_diploma": "331. /357 1204. /1621"
   },
   {
-    "puesto": 1183,
+    "puesto": 1205,
     "placa": "1526",
     "nombre": "Miguel Suarez",
     "categoria": "10 K ABIERTA",
@@ -20103,15 +20477,15 @@ const RUNNERS_DATA = [
     "dif": "+1:02:10",
     "vel_prom": "7.5 Km/h",
     "ritmo": "7:56 Min/km",
-    "pdf_page": 970,
+    "pdf_page": 509,
     "dorsal": "1526",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Miguel Suarez",
     "tiempo_diploma": "01:19:22",
-    "stats_diploma": "332. /357 1183. /1597"
+    "stats_diploma": "332. /357 1205. /1621"
   },
   {
-    "puesto": 1184,
+    "puesto": 1206,
     "placa": "3082",
     "nombre": "Jessica Vanessa Lopez montañez",
     "categoria": "10 K MASTER A",
@@ -20120,15 +20494,15 @@ const RUNNERS_DATA = [
     "dif": "+1:02:12",
     "vel_prom": "7.5 Km/h",
     "ritmo": "7:56 Min/km",
-    "pdf_page": 1069,
+    "pdf_page": 1074,
     "dorsal": "3082",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Jessica Vanessa Lopez montañez",
     "tiempo_diploma": "01:19:24",
-    "stats_diploma": "74. /87 1184. /1597"
+    "stats_diploma": "74. /87 1206. /1621"
   },
   {
-    "puesto": 1185,
+    "puesto": 1207,
     "placa": "1423",
     "nombre": "Leonardo Jaimes",
     "categoria": "10 K ABIERTA",
@@ -20137,15 +20511,15 @@ const RUNNERS_DATA = [
     "dif": "+1:02:16",
     "vel_prom": "7.5 Km/h",
     "ritmo": "7:56 Min/km",
-    "pdf_page": 971,
+    "pdf_page": 424,
     "dorsal": "1423",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Leonardo Jaimes",
     "tiempo_diploma": "01:19:28",
-    "stats_diploma": "333. /357 1185. /1597"
+    "stats_diploma": "333. /357 1207. /1621"
   },
   {
-    "puesto": 1186,
+    "puesto": 1208,
     "placa": "1460",
     "nombre": "Maira Anaya",
     "categoria": "10 K ABIERTA",
@@ -20154,15 +20528,15 @@ const RUNNERS_DATA = [
     "dif": "+1:02:20",
     "vel_prom": "7.5 Km/h",
     "ritmo": "7:57 Min/km",
-    "pdf_page": 577,
+    "pdf_page": 453,
     "dorsal": "1460",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Maira Anaya",
     "tiempo_diploma": "01:19:32",
-    "stats_diploma": "249. /310 1186. /1597"
+    "stats_diploma": "248. /309 1208. /1621"
   },
   {
-    "puesto": 1187,
+    "puesto": 1209,
     "placa": "3345",
     "nombre": "Liliana Alexandra Peñuela Rueda",
     "categoria": "10 K MASTER B",
@@ -20171,15 +20545,15 @@ const RUNNERS_DATA = [
     "dif": "+1:02:32",
     "vel_prom": "7.5 Km/h",
     "ritmo": "7:58 Min/km",
-    "pdf_page": 1216,
+    "pdf_page": 1238,
     "dorsal": "3345",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Liliana Alexandra Peñuela Rueda",
     "tiempo_diploma": "01:19:44",
-    "stats_diploma": "27. /33 1187. /1597"
+    "stats_diploma": "27. /33 1209. /1621"
   },
   {
-    "puesto": 1188,
+    "puesto": 1210,
     "placa": "1388",
     "nombre": "Karen rocio Álvarez duque",
     "categoria": "10 K ABIERTA",
@@ -20188,15 +20562,15 @@ const RUNNERS_DATA = [
     "dif": "+1:02:32",
     "vel_prom": "7.5 Km/h",
     "ritmo": "7:58 Min/km",
-    "pdf_page": 578,
+    "pdf_page": 398,
     "dorsal": "1388",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Karen rocio Álvarez duque",
     "tiempo_diploma": "01:19:44",
-    "stats_diploma": "250. /310 1188. /1597"
+    "stats_diploma": "249. /309 1210. /1621"
   },
   {
-    "puesto": 1189,
+    "puesto": 1211,
     "placa": "1478",
     "nombre": "Maria Camila Vargas Calderon",
     "categoria": "10 K ABIERTA",
@@ -20205,15 +20579,15 @@ const RUNNERS_DATA = [
     "dif": "+1:02:33",
     "vel_prom": "7.5 Km/h",
     "ritmo": "7:58 Min/km",
-    "pdf_page": 579,
+    "pdf_page": 468,
     "dorsal": "1478",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Maria Camila Vargas Calderon",
     "tiempo_diploma": "01:19:45",
-    "stats_diploma": "251. /310 1189. /1597"
+    "stats_diploma": "250. /309 1211. /1621"
   },
   {
-    "puesto": 1190,
+    "puesto": 1212,
     "placa": "1559",
     "nombre": "Paola Brun",
     "categoria": "10 K ABIERTA",
@@ -20222,15 +20596,15 @@ const RUNNERS_DATA = [
     "dif": "+1:02:42",
     "vel_prom": "7.5 Km/h",
     "ritmo": "7:59 Min/km",
-    "pdf_page": 580,
+    "pdf_page": 539,
     "dorsal": "1559",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Paola Brun",
     "tiempo_diploma": "01:19:54",
-    "stats_diploma": "252. /310 1190. /1597"
+    "stats_diploma": "251. /309 1212. /1621"
   },
   {
-    "puesto": 1191,
+    "puesto": 1213,
     "placa": "1433",
     "nombre": "LINDA DAYANA RUEDA TORRES",
     "categoria": "10 K ABIERTA",
@@ -20239,15 +20613,15 @@ const RUNNERS_DATA = [
     "dif": "+1:02:51",
     "vel_prom": "7.4 Km/h",
     "ritmo": "8:00 Min/km",
-    "pdf_page": 581,
+    "pdf_page": 433,
     "dorsal": "1433",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "LINDA DAYANA RUEDA TORRES",
     "tiempo_diploma": "01:20:03",
-    "stats_diploma": "253. /310 1191. /1597"
+    "stats_diploma": "252. /309 1213. /1621"
   },
   {
-    "puesto": 1192,
+    "puesto": 1214,
     "placa": "3004",
     "nombre": "Alejandro Capacho Arciniegas",
     "categoria": "10 K MASTER A",
@@ -20256,15 +20630,15 @@ const RUNNERS_DATA = [
     "dif": "+1:02:55",
     "vel_prom": "7.4 Km/h",
     "ritmo": "8:00 Min/km",
-    "pdf_page": 1186,
+    "pdf_page": 1003,
     "dorsal": "3004",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Alejandro Capacho Arciniegas",
     "tiempo_diploma": "01:20:07",
-    "stats_diploma": "104. /107 1192. /1597"
+    "stats_diploma": "104. /107 1214. /1621"
   },
   {
-    "puesto": 1193,
+    "puesto": 1215,
     "placa": "1748",
     "nombre": "Ana Maria Barrera Cadena",
     "categoria": "10 K ABIERTA",
@@ -20273,15 +20647,15 @@ const RUNNERS_DATA = [
     "dif": "+1:02:56",
     "vel_prom": "7.4 Km/h",
     "ritmo": "8:00 Min/km",
-    "pdf_page": 582,
+    "pdf_page": 704,
     "dorsal": "1748",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Ana Maria Barrera Cadena",
     "tiempo_diploma": "01:20:08",
-    "stats_diploma": "254. /310 1193. /1597"
+    "stats_diploma": "253. /309 1215. /1621"
   },
   {
-    "puesto": 1194,
+    "puesto": 1216,
     "placa": "1483",
     "nombre": "María Camila Montoya Villamizar",
     "categoria": "10 K ABIERTA",
@@ -20290,15 +20664,15 @@ const RUNNERS_DATA = [
     "dif": "+1:03:00",
     "vel_prom": "7.4 Km/h",
     "ritmo": "8:01 Min/km",
-    "pdf_page": 583,
+    "pdf_page": 471,
     "dorsal": "1483",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "María Camila Montoya Villamizar",
     "tiempo_diploma": "01:20:12",
-    "stats_diploma": "255. /310 1194. /1597"
+    "stats_diploma": "254. /309 1216. /1621"
   },
   {
-    "puesto": 1195,
+    "puesto": 1217,
     "placa": "3191",
     "nombre": "Yuli Duque",
     "categoria": "10 K MASTER A",
@@ -20307,15 +20681,15 @@ const RUNNERS_DATA = [
     "dif": "+1:03:02",
     "vel_prom": "7.4 Km/h",
     "ritmo": "8:01 Min/km",
-    "pdf_page": 1070,
+    "pdf_page": 1176,
     "dorsal": "3191",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Yuli Duque",
     "tiempo_diploma": "01:20:14",
-    "stats_diploma": "75. /87 1195. /1597"
+    "stats_diploma": "75. /87 1217. /1621"
   },
   {
-    "puesto": 1196,
+    "puesto": 1218,
     "placa": "1627",
     "nombre": "Slendy Alfonso Ardila",
     "categoria": "10 K ABIERTA",
@@ -20324,15 +20698,15 @@ const RUNNERS_DATA = [
     "dif": "+1:03:05",
     "vel_prom": "7.4 Km/h",
     "ritmo": "8:01 Min/km",
-    "pdf_page": 584,
+    "pdf_page": 596,
     "dorsal": "1627",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Slendy Alfonso Ardila",
     "tiempo_diploma": "01:20:17",
-    "stats_diploma": "256. /310 1196. /1597"
+    "stats_diploma": "255. /309 1218. /1621"
   },
   {
-    "puesto": 1197,
+    "puesto": 1219,
     "placa": "1171",
     "nombre": "Deccy Yohana Collantes Mora",
     "categoria": "10 K ABIERTA",
@@ -20341,15 +20715,15 @@ const RUNNERS_DATA = [
     "dif": "+1:03:08",
     "vel_prom": "7.4 Km/h",
     "ritmo": "8:02 Min/km",
-    "pdf_page": 585,
+    "pdf_page": 193,
     "dorsal": "1171",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Deccy Yohana Collantes Mora",
     "tiempo_diploma": "01:20:20",
-    "stats_diploma": "257. /310 1197. /1597"
+    "stats_diploma": "256. /309 1219. /1621"
   },
   {
-    "puesto": 1198,
+    "puesto": 1220,
     "placa": "3353",
     "nombre": "Margy Mejia",
     "categoria": "10 K MASTER B",
@@ -20358,15 +20732,15 @@ const RUNNERS_DATA = [
     "dif": "+1:03:10",
     "vel_prom": "7.4 Km/h",
     "ritmo": "8:02 Min/km",
-    "pdf_page": 1272,
+    "pdf_page": 1245,
     "dorsal": "3353",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Margy Mejia",
     "tiempo_diploma": "01:20:22",
-    "stats_diploma": "50. /56 1198. /1597"
+    "stats_diploma": "51. /57 1220. /1621"
   },
   {
-    "puesto": 1199,
+    "puesto": 1221,
     "placa": "1665",
     "nombre": "Yaneth patricia Prada mogollón",
     "categoria": "10 K ABIERTA",
@@ -20375,15 +20749,15 @@ const RUNNERS_DATA = [
     "dif": "+1:03:11",
     "vel_prom": "7.4 Km/h",
     "ritmo": "8:02 Min/km",
-    "pdf_page": 586,
+    "pdf_page": 631,
     "dorsal": "1665",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Yaneth patricia Prada mogollón",
     "tiempo_diploma": "01:20:23",
-    "stats_diploma": "258. /310 1199. /1597"
+    "stats_diploma": "257. /309 1221. /1621"
   },
   {
-    "puesto": 1200,
+    "puesto": 1222,
     "placa": "1590",
     "nombre": "Rowil Alexandra Avellaneda Ropero",
     "categoria": "10 K ABIERTA",
@@ -20392,15 +20766,15 @@ const RUNNERS_DATA = [
     "dif": "+1:03:20",
     "vel_prom": "7.4 Km/h",
     "ritmo": "8:03 Min/km",
-    "pdf_page": 587,
+    "pdf_page": 565,
     "dorsal": "1590",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Rowil Alexandra Avellaneda Ropero",
     "tiempo_diploma": "01:20:32",
-    "stats_diploma": "259. /310 1200. /1597"
+    "stats_diploma": "258. /309 1222. /1621"
   },
   {
-    "puesto": 1201,
+    "puesto": 1223,
     "placa": "1588",
     "nombre": "Rosa Angélica Lopez Espinel",
     "categoria": "10 K ABIERTA",
@@ -20409,15 +20783,15 @@ const RUNNERS_DATA = [
     "dif": "+1:03:31",
     "vel_prom": "7.4 Km/h",
     "ritmo": "8:04 Min/km",
-    "pdf_page": 588,
+    "pdf_page": 564,
     "dorsal": "1588",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Rosa Angélica Lopez Espinel",
     "tiempo_diploma": "01:20:43",
-    "stats_diploma": "260. /310 1201. /1597"
+    "stats_diploma": "259. /309 1223. /1621"
   },
   {
-    "puesto": 1202,
+    "puesto": 1224,
     "placa": "1534",
     "nombre": "MONICA IBAÑEZ",
     "categoria": "10 K ABIERTA",
@@ -20426,15 +20800,15 @@ const RUNNERS_DATA = [
     "dif": "+1:03:40",
     "vel_prom": "7.4 Km/h",
     "ritmo": "8:05 Min/km",
-    "pdf_page": 972,
+    "pdf_page": 517,
     "dorsal": "1534",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "MONICA IBAÑEZ",
     "tiempo_diploma": "01:20:52",
-    "stats_diploma": "334. /357 1202. /1597"
+    "stats_diploma": "334. /357 1224. /1621"
   },
   {
-    "puesto": 1203,
+    "puesto": 1225,
     "placa": "3110",
     "nombre": "Lady Murcia",
     "categoria": "10 K MASTER A",
@@ -20443,15 +20817,15 @@ const RUNNERS_DATA = [
     "dif": "+1:03:49",
     "vel_prom": "7.4 Km/h",
     "ritmo": "8:06 Min/km",
-    "pdf_page": 1071,
+    "pdf_page": 1101,
     "dorsal": "3110",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Lady Murcia",
     "tiempo_diploma": "01:21:01",
-    "stats_diploma": "76. /87 1203. /1597"
+    "stats_diploma": "76. /87 1225. /1621"
   },
   {
-    "puesto": 1204,
+    "puesto": 1226,
     "placa": "2344",
     "nombre": "Jesús Hernán Vásquez",
     "categoria": "21 K MASTER A",
@@ -20460,15 +20834,15 @@ const RUNNERS_DATA = [
     "dif": "+1:03:56",
     "vel_prom": "15.5 Km/h",
     "ritmo": "3:51 Min/km",
-    "pdf_page": 205,
+    "pdf_page": 916,
     "dorsal": "2344",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Jesús Hernán Vásquez",
     "tiempo_diploma": "01:21:08",
-    "stats_diploma": "2. /66 1204. /1597"
+    "stats_diploma": "2. /66 1226. /1621"
   },
   {
-    "puesto": 1205,
+    "puesto": 1227,
     "placa": "205",
     "nombre": "Jimmy Arias",
     "categoria": "21 K ELITE",
@@ -20477,15 +20851,15 @@ const RUNNERS_DATA = [
     "dif": "+1:03:56",
     "vel_prom": "15.5 Km/h",
     "ritmo": "3:51 Min/km",
-    "pdf_page": 5,
+    "pdf_page": 31,
     "dorsal": "205",
     "categoria_diploma": "21 K ELITE",
     "nombre_diploma": "Jimmy Arias",
     "tiempo_diploma": "01:21:08",
-    "stats_diploma": "5. /11 1205. /1597"
+    "stats_diploma": "5. /11 1227. /1621"
   },
   {
-    "puesto": 1206,
+    "puesto": 1228,
     "placa": "3333",
     "nombre": "Jaime Estupiñán",
     "categoria": "10 K MASTER B",
@@ -20494,15 +20868,15 @@ const RUNNERS_DATA = [
     "dif": "+1:03:57",
     "vel_prom": "7.3 Km/h",
     "ritmo": "8:06 Min/km",
-    "pdf_page": 1273,
+    "pdf_page": 1226,
     "dorsal": "3333",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Jaime Estupiñán",
     "tiempo_diploma": "01:21:09",
-    "stats_diploma": "51. /56 1206. /1597"
+    "stats_diploma": "52. /57 1228. /1621"
   },
   {
-    "puesto": 1207,
+    "puesto": 1229,
     "placa": "1197",
     "nombre": "Edgar Andres Suarez Uribe",
     "categoria": "10 K ABIERTA",
@@ -20511,15 +20885,15 @@ const RUNNERS_DATA = [
     "dif": "+1:04:00",
     "vel_prom": "7.3 Km/h",
     "ritmo": "8:07 Min/km",
-    "pdf_page": 973,
+    "pdf_page": 219,
     "dorsal": "1197",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Edgar Andres Suarez Uribe",
     "tiempo_diploma": "01:21:12",
-    "stats_diploma": "335. /357 1207. /1597"
+    "stats_diploma": "335. /357 1229. /1621"
   },
   {
-    "puesto": 1208,
+    "puesto": 1230,
     "placa": "1485",
     "nombre": "MARIA CAROLINA JAIMES RODRIGUEZ",
     "categoria": "10 K ABIERTA",
@@ -20528,15 +20902,15 @@ const RUNNERS_DATA = [
     "dif": "+1:04:00",
     "vel_prom": "7.3 Km/h",
     "ritmo": "8:07 Min/km",
-    "pdf_page": 589,
+    "pdf_page": 473,
     "dorsal": "1485",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "MARIA CAROLINA JAIMES RODRIGUEZ",
     "tiempo_diploma": "01:21:12",
-    "stats_diploma": "261. /310 1208. /1597"
+    "stats_diploma": "260. /309 1230. /1621"
   },
   {
-    "puesto": 1209,
+    "puesto": 1231,
     "placa": "1568",
     "nombre": "Paula Andrea Guarin Pinto",
     "categoria": "10 K ABIERTA",
@@ -20545,15 +20919,15 @@ const RUNNERS_DATA = [
     "dif": "+1:04:04",
     "vel_prom": "7.3 Km/h",
     "ritmo": "8:07 Min/km",
-    "pdf_page": 590,
+    "pdf_page": 547,
     "dorsal": "1568",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Paula Andrea Guarin Pinto",
     "tiempo_diploma": "01:21:16",
-    "stats_diploma": "262. /310 1209. /1597"
+    "stats_diploma": "261. /309 1231. /1621"
   },
   {
-    "puesto": 1210,
+    "puesto": 1232,
     "placa": "133",
     "nombre": "Heinny Patricia Contreras Cova",
     "categoria": "10 K ELITE",
@@ -20562,15 +20936,15 @@ const RUNNERS_DATA = [
     "dif": "+1:04:11",
     "vel_prom": "7.3 Km/h",
     "ritmo": "8:08 Min/km",
-    "pdf_page": 315,
+    "pdf_page": 26,
     "dorsal": "133",
     "categoria_diploma": "10 K ELITE",
     "nombre_diploma": "Heinny Patricia Contreras Cova",
     "tiempo_diploma": "01:21:23",
-    "stats_diploma": "14. /17 1210. /1597"
+    "stats_diploma": "14. /17 1232. /1621"
   },
   {
-    "puesto": 1211,
+    "puesto": 1233,
     "placa": "1708",
     "nombre": "nelson enrique barbosa cabrera",
     "categoria": "10 K ABIERTA",
@@ -20579,15 +20953,15 @@ const RUNNERS_DATA = [
     "dif": "+1:04:11",
     "vel_prom": "7.3 Km/h",
     "ritmo": "8:08 Min/km",
-    "pdf_page": 974,
+    "pdf_page": 668,
     "dorsal": "1708",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "nelson enrique barbosa cabrera",
     "tiempo_diploma": "01:21:23",
-    "stats_diploma": "336. /357 1211. /1597"
+    "stats_diploma": "336. /357 1233. /1621"
   },
   {
-    "puesto": 1212,
+    "puesto": 1234,
     "placa": "3199",
     "nombre": "Ingrid Tatiana Calderon Diaz",
     "categoria": "10 K MASTER A",
@@ -20596,15 +20970,15 @@ const RUNNERS_DATA = [
     "dif": "+1:04:13",
     "vel_prom": "7.3 Km/h",
     "ritmo": "8:08 Min/km",
-    "pdf_page": 1072,
+    "pdf_page": 1183,
     "dorsal": "3199",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Ingrid Tatiana Calderon Diaz",
     "tiempo_diploma": "01:21:25",
-    "stats_diploma": "77. /87 1212. /1597"
+    "stats_diploma": "77. /87 1234. /1621"
   },
   {
-    "puesto": 1213,
+    "puesto": 1235,
     "placa": "1420",
     "nombre": "Leidys Dayanna Rodriguez Palacios",
     "categoria": "10 K ABIERTA",
@@ -20613,15 +20987,15 @@ const RUNNERS_DATA = [
     "dif": "+1:04:25",
     "vel_prom": "7.3 Km/h",
     "ritmo": "8:09 Min/km",
-    "pdf_page": 591,
+    "pdf_page": 421,
     "dorsal": "1420",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Leidys Dayanna Rodriguez Palacios",
     "tiempo_diploma": "01:21:37",
-    "stats_diploma": "263. /310 1213. /1597"
+    "stats_diploma": "262. /309 1235. /1621"
   },
   {
-    "puesto": 1214,
+    "puesto": 1236,
     "placa": "3069",
     "nombre": "INGMAR PACHECO CUADRA",
     "categoria": "10 K MASTER A",
@@ -20630,15 +21004,15 @@ const RUNNERS_DATA = [
     "dif": "+1:04:30",
     "vel_prom": "7.3 Km/h",
     "ritmo": "8:10 Min/km",
-    "pdf_page": 1187,
+    "pdf_page": 1061,
     "dorsal": "3069",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "INGMAR PACHECO CUADRA",
     "tiempo_diploma": "01:21:42",
-    "stats_diploma": "105. /107 1214. /1597"
+    "stats_diploma": "105. /107 1236. /1621"
   },
   {
-    "puesto": 1215,
+    "puesto": 1237,
     "placa": "1316",
     "nombre": "Jimmy Fontecha",
     "categoria": "10 K ABIERTA",
@@ -20647,15 +21021,15 @@ const RUNNERS_DATA = [
     "dif": "+1:04:31",
     "vel_prom": "7.3 Km/h",
     "ritmo": "8:10 Min/km",
-    "pdf_page": 975,
+    "pdf_page": 330,
     "dorsal": "1316",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Jimmy Fontecha",
     "tiempo_diploma": "01:21:43",
-    "stats_diploma": "337. /357 1215. /1597"
+    "stats_diploma": "337. /357 1237. /1621"
   },
   {
-    "puesto": 1216,
+    "puesto": 1238,
     "placa": "3169",
     "nombre": "SERGIO MENDOZA",
     "categoria": "10 K MASTER A",
@@ -20664,15 +21038,15 @@ const RUNNERS_DATA = [
     "dif": "+1:04:37",
     "vel_prom": "7.3 Km/h",
     "ritmo": "8:10 Min/km",
-    "pdf_page": 1188,
+    "pdf_page": 1157,
     "dorsal": "3169",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "SERGIO MENDOZA",
     "tiempo_diploma": "01:21:49",
-    "stats_diploma": "106. /107 1216. /1597"
+    "stats_diploma": "106. /107 1238. /1621"
   },
   {
-    "puesto": 1217,
+    "puesto": 1239,
     "placa": "1508",
     "nombre": "MARTHA GONZALES",
     "categoria": "10 K ABIERTA",
@@ -20681,15 +21055,15 @@ const RUNNERS_DATA = [
     "dif": "+1:04:38",
     "vel_prom": "7.3 Km/h",
     "ritmo": "8:11 Min/km",
-    "pdf_page": 592,
+    "pdf_page": 493,
     "dorsal": "1508",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "MARTHA GONZALES",
     "tiempo_diploma": "01:21:50",
-    "stats_diploma": "264. /310 1217. /1597"
+    "stats_diploma": "263. /309 1239. /1621"
   },
   {
-    "puesto": 1218,
+    "puesto": 1240,
     "placa": "1193",
     "nombre": "Dulcymar Bustamante",
     "categoria": "10 K ABIERTA",
@@ -20698,15 +21072,15 @@ const RUNNERS_DATA = [
     "dif": "+1:04:38",
     "vel_prom": "7.3 Km/h",
     "ritmo": "8:11 Min/km",
-    "pdf_page": 593,
+    "pdf_page": 215,
     "dorsal": "1193",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Dulcymar Bustamante",
     "tiempo_diploma": "01:21:50",
-    "stats_diploma": "265. /310 1218. /1597"
+    "stats_diploma": "264. /309 1240. /1621"
   },
   {
-    "puesto": 1219,
+    "puesto": 1241,
     "placa": "1106",
     "nombre": "Carlos Sandoval",
     "categoria": "10 K ABIERTA",
@@ -20715,15 +21089,15 @@ const RUNNERS_DATA = [
     "dif": "+1:04:38",
     "vel_prom": "7.3 Km/h",
     "ritmo": "8:11 Min/km",
-    "pdf_page": 976,
+    "pdf_page": 135,
     "dorsal": "1106",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Carlos Sandoval",
     "tiempo_diploma": "01:21:50",
-    "stats_diploma": "338. /357 1219. /1597"
+    "stats_diploma": "338. /357 1241. /1621"
   },
   {
-    "puesto": 1220,
+    "puesto": 1242,
     "placa": "1383",
     "nombre": "KAREN ARIAS",
     "categoria": "10 K ABIERTA",
@@ -20732,15 +21106,15 @@ const RUNNERS_DATA = [
     "dif": "+1:04:38",
     "vel_prom": "7.3 Km/h",
     "ritmo": "8:11 Min/km",
-    "pdf_page": 594,
+    "pdf_page": 393,
     "dorsal": "1383",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "KAREN ARIAS",
     "tiempo_diploma": "01:21:50",
-    "stats_diploma": "266. /310 1220. /1597"
+    "stats_diploma": "265. /309 1242. /1621"
   },
   {
-    "puesto": 1221,
+    "puesto": 1243,
     "placa": "1421",
     "nombre": "LEINNY BARAJAS",
     "categoria": "10 K ABIERTA",
@@ -20749,15 +21123,15 @@ const RUNNERS_DATA = [
     "dif": "+1:04:38",
     "vel_prom": "7.3 Km/h",
     "ritmo": "8:11 Min/km",
-    "pdf_page": 595,
+    "pdf_page": 422,
     "dorsal": "1421",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "LEINNY BARAJAS",
     "tiempo_diploma": "01:21:50",
-    "stats_diploma": "267. /310 1221. /1597"
+    "stats_diploma": "266. /309 1243. /1621"
   },
   {
-    "puesto": 1222,
+    "puesto": 1244,
     "placa": "1350",
     "nombre": "JUAN SANDOVAL",
     "categoria": "10 K ABIERTA",
@@ -20766,15 +21140,15 @@ const RUNNERS_DATA = [
     "dif": "+1:04:38",
     "vel_prom": "7.3 Km/h",
     "ritmo": "8:11 Min/km",
-    "pdf_page": 977,
+    "pdf_page": 361,
     "dorsal": "1350",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "JUAN SANDOVAL",
     "tiempo_diploma": "01:21:50",
-    "stats_diploma": "339. /357 1222. /1597"
+    "stats_diploma": "339. /357 1244. /1621"
   },
   {
-    "puesto": 1223,
+    "puesto": 1245,
     "placa": "1469",
     "nombre": "MARIA RINCON",
     "categoria": "10 K ABIERTA",
@@ -20783,15 +21157,15 @@ const RUNNERS_DATA = [
     "dif": "+1:04:39",
     "vel_prom": "7.3 Km/h",
     "ritmo": "8:11 Min/km",
-    "pdf_page": 596,
+    "pdf_page": 460,
     "dorsal": "1469",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "MARIA RINCON",
     "tiempo_diploma": "01:21:51",
-    "stats_diploma": "268. /310 1223. /1597"
+    "stats_diploma": "267. /309 1245. /1621"
   },
   {
-    "puesto": 1224,
+    "puesto": 1246,
     "placa": "1249",
     "nombre": "Gisella Hernandez",
     "categoria": "10 K ABIERTA",
@@ -20800,15 +21174,15 @@ const RUNNERS_DATA = [
     "dif": "+1:04:39",
     "vel_prom": "7.3 Km/h",
     "ritmo": "8:11 Min/km",
-    "pdf_page": 597,
+    "pdf_page": 267,
     "dorsal": "1249",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Gisella Hernandez",
     "tiempo_diploma": "01:21:51",
-    "stats_diploma": "269. /310 1224. /1597"
+    "stats_diploma": "268. /309 1246. /1621"
   },
   {
-    "puesto": 1225,
+    "puesto": 1247,
     "placa": "1042",
     "nombre": "Andres Marin",
     "categoria": "10 K ABIERTA",
@@ -20817,15 +21191,15 @@ const RUNNERS_DATA = [
     "dif": "+1:04:39",
     "vel_prom": "7.3 Km/h",
     "ritmo": "8:11 Min/km",
-    "pdf_page": 978,
+    "pdf_page": 74,
     "dorsal": "1042",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Andres Marin",
     "tiempo_diploma": "01:21:51",
-    "stats_diploma": "340. /357 1225. /1597"
+    "stats_diploma": "340. /357 1247. /1621"
   },
   {
-    "puesto": 1226,
+    "puesto": 1248,
     "placa": "1168",
     "nombre": "Dayana Gomez Cordoba",
     "categoria": "10 K ABIERTA",
@@ -20834,15 +21208,15 @@ const RUNNERS_DATA = [
     "dif": "+1:04:41",
     "vel_prom": "7.3 Km/h",
     "ritmo": "8:11 Min/km",
-    "pdf_page": 598,
+    "pdf_page": 190,
     "dorsal": "1168",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Dayana Gomez Cordoba",
     "tiempo_diploma": "01:21:53",
-    "stats_diploma": "270. /310 1226. /1597"
+    "stats_diploma": "269. /309 1248. /1621"
   },
   {
-    "puesto": 1227,
+    "puesto": 1249,
     "placa": "1524",
     "nombre": "Michel Mateo Alvarez Blanco",
     "categoria": "10 K ABIERTA",
@@ -20851,15 +21225,15 @@ const RUNNERS_DATA = [
     "dif": "+1:04:59",
     "vel_prom": "7.2 Km/h",
     "ritmo": "8:13 Min/km",
-    "pdf_page": 979,
+    "pdf_page": 507,
     "dorsal": "1524",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Michel Mateo Alvarez Blanco",
     "tiempo_diploma": "01:22:11",
-    "stats_diploma": "341. /357 1227. /1597"
+    "stats_diploma": "341. /357 1249. /1621"
   },
   {
-    "puesto": 1228,
+    "puesto": 1250,
     "placa": "1479",
     "nombre": "Maria Camila Bermudez Ariza",
     "categoria": "10 K ABIERTA",
@@ -20868,15 +21242,15 @@ const RUNNERS_DATA = [
     "dif": "+1:05:12",
     "vel_prom": "7.2 Km/h",
     "ritmo": "8:14 Min/km",
-    "pdf_page": 599,
+    "pdf_page": 469,
     "dorsal": "1479",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Maria Camila Bermudez Ariza",
     "tiempo_diploma": "01:22:24",
-    "stats_diploma": "271. /310 1228. /1597"
+    "stats_diploma": "270. /309 1250. /1621"
   },
   {
-    "puesto": 1229,
+    "puesto": 1251,
     "placa": "2005",
     "nombre": "ALVARO JAVIER SANCHEZ VILLAMIZAR",
     "categoria": "21 K ABIERTA",
@@ -20885,15 +21259,15 @@ const RUNNERS_DATA = [
     "dif": "+1:05:14",
     "vel_prom": "15.2 Km/h",
     "ritmo": "3:55 Min/km",
-    "pdf_page": 58,
+    "pdf_page": 710,
     "dorsal": "2005",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "ALVARO JAVIER SANCHEZ VILLAMIZAR",
     "tiempo_diploma": "01:22:26",
-    "stats_diploma": "7. /130 1229. /1597"
+    "stats_diploma": "7. /130 1251. /1621"
   },
   {
-    "puesto": 1230,
+    "puesto": 1252,
     "placa": "1631",
     "nombre": "Stephania Castro florez",
     "categoria": "10 K ABIERTA",
@@ -20902,15 +21276,15 @@ const RUNNERS_DATA = [
     "dif": "+1:05:26",
     "vel_prom": "7.2 Km/h",
     "ritmo": "8:15 Min/km",
-    "pdf_page": 600,
+    "pdf_page": 599,
     "dorsal": "1631",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Stephania Castro florez",
     "tiempo_diploma": "01:22:38",
-    "stats_diploma": "272. /310 1230. /1597"
+    "stats_diploma": "271. /309 1252. /1621"
   },
   {
-    "puesto": 1231,
+    "puesto": 1253,
     "placa": "2308",
     "nombre": "ARNULFO ARDILA",
     "categoria": "21 K MASTER A",
@@ -20919,15 +21293,15 @@ const RUNNERS_DATA = [
     "dif": "+1:05:26",
     "vel_prom": "15.2 Km/h",
     "ritmo": "3:56 Min/km",
-    "pdf_page": 206,
+    "pdf_page": 885,
     "dorsal": "2308",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "ARNULFO ARDILA",
     "tiempo_diploma": "01:22:38",
-    "stats_diploma": "3. /66 1231. /1597"
+    "stats_diploma": "3. /66 1253. /1621"
   },
   {
-    "puesto": 1232,
+    "puesto": 1254,
     "placa": "129",
     "nombre": "Yanet López Ardila",
     "categoria": "10 K ELITE",
@@ -20936,15 +21310,15 @@ const RUNNERS_DATA = [
     "dif": "+1:05:29",
     "vel_prom": "7.2 Km/h",
     "ritmo": "8:16 Min/km",
-    "pdf_page": 316,
+    "pdf_page": 23,
     "dorsal": "129",
     "categoria_diploma": "10 K ELITE",
     "nombre_diploma": "Yanet López Ardila",
     "tiempo_diploma": "01:22:41",
-    "stats_diploma": "15. /17 1232. /1597"
+    "stats_diploma": "15. /17 1254. /1621"
   },
   {
-    "puesto": 1233,
+    "puesto": 1255,
     "placa": "3172",
     "nombre": "Silvia Mahecha Meza",
     "categoria": "10 K MASTER A",
@@ -20953,15 +21327,15 @@ const RUNNERS_DATA = [
     "dif": "+1:05:30",
     "vel_prom": "7.2 Km/h",
     "ritmo": "8:16 Min/km",
-    "pdf_page": 1073,
+    "pdf_page": 1160,
     "dorsal": "3172",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Silvia Mahecha Meza",
     "tiempo_diploma": "01:22:42",
-    "stats_diploma": "78. /87 1233. /1597"
+    "stats_diploma": "78. /87 1255. /1621"
   },
   {
-    "puesto": 1234,
+    "puesto": 1256,
     "placa": "3126",
     "nombre": "LUZMA CARVAJAL OSORIO",
     "categoria": "10 K MASTER A",
@@ -20970,15 +21344,15 @@ const RUNNERS_DATA = [
     "dif": "+1:05:59",
     "vel_prom": "7.2 Km/h",
     "ritmo": "8:19 Min/km",
-    "pdf_page": 1074,
+    "pdf_page": 1117,
     "dorsal": "3126",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "LUZMA CARVAJAL OSORIO",
     "tiempo_diploma": "01:23:11",
-    "stats_diploma": "79. /87 1234. /1597"
+    "stats_diploma": "79. /87 1256. /1621"
   },
   {
-    "puesto": 1235,
+    "puesto": 1257,
     "placa": "3359",
     "nombre": "Martin Álvarez Contreras",
     "categoria": "10 K MASTER B",
@@ -20987,15 +21361,15 @@ const RUNNERS_DATA = [
     "dif": "+1:05:59",
     "vel_prom": "7.2 Km/h",
     "ritmo": "8:19 Min/km",
-    "pdf_page": 1274,
+    "pdf_page": 1251,
     "dorsal": "3359",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Martin Álvarez Contreras",
     "tiempo_diploma": "01:23:11",
-    "stats_diploma": "52. /56 1235. /1597"
+    "stats_diploma": "53. /57 1257. /1621"
   },
   {
-    "puesto": 1236,
+    "puesto": 1258,
     "placa": "1408",
     "nombre": "LAURA DANIELA GONZALEZ PEREZ",
     "categoria": "10 K ABIERTA",
@@ -21004,15 +21378,15 @@ const RUNNERS_DATA = [
     "dif": "+1:06:20",
     "vel_prom": "7.1 Km/h",
     "ritmo": "8:21 Min/km",
-    "pdf_page": 601,
+    "pdf_page": 411,
     "dorsal": "1408",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "LAURA DANIELA GONZALEZ PEREZ",
     "tiempo_diploma": "01:23:32",
-    "stats_diploma": "273. /310 1236. /1597"
+    "stats_diploma": "272. /309 1258. /1621"
   },
   {
-    "puesto": 1237,
+    "puesto": 1259,
     "placa": "1519",
     "nombre": "Melissa Duarte",
     "categoria": "10 K ABIERTA",
@@ -21021,15 +21395,15 @@ const RUNNERS_DATA = [
     "dif": "+1:06:28",
     "vel_prom": "7.1 Km/h",
     "ritmo": "8:22 Min/km",
-    "pdf_page": 602,
+    "pdf_page": 504,
     "dorsal": "1519",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Melissa Duarte",
     "tiempo_diploma": "01:23:40",
-    "stats_diploma": "274. /310 1237. /1597"
+    "stats_diploma": "273. /309 1259. /1621"
   },
   {
-    "puesto": 1238,
+    "puesto": 1260,
     "placa": "2096",
     "nombre": "Juan Diego Sierra Montoya",
     "categoria": "21 K ABIERTA",
@@ -21038,15 +21412,15 @@ const RUNNERS_DATA = [
     "dif": "+1:06:33",
     "vel_prom": "15.0 Km/h",
     "ritmo": "3:59 Min/km",
-    "pdf_page": 59,
+    "pdf_page": 795,
     "dorsal": "2096",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Juan Diego Sierra Montoya",
     "tiempo_diploma": "01:23:45",
-    "stats_diploma": "8. /130 1238. /1597"
+    "stats_diploma": "8. /130 1260. /1621"
   },
   {
-    "puesto": 1239,
+    "puesto": 1261,
     "placa": "1210",
     "nombre": "Eli Yohana Berrio Tapia",
     "categoria": "10 K ABIERTA",
@@ -21055,15 +21429,15 @@ const RUNNERS_DATA = [
     "dif": "+1:06:37",
     "vel_prom": "7.1 Km/h",
     "ritmo": "8:22 Min/km",
-    "pdf_page": 603,
+    "pdf_page": 231,
     "dorsal": "1210",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Eli Yohana Berrio Tapia",
     "tiempo_diploma": "01:23:49",
-    "stats_diploma": "275. /310 1239. /1597"
+    "stats_diploma": "274. /309 1261. /1621"
   },
   {
-    "puesto": 1240,
+    "puesto": 1262,
     "placa": "1176",
     "nombre": "Diana Carolina Toloza Céspedes",
     "categoria": "10 K ABIERTA",
@@ -21072,15 +21446,15 @@ const RUNNERS_DATA = [
     "dif": "+1:06:44",
     "vel_prom": "7.1 Km/h",
     "ritmo": "8:23 Min/km",
-    "pdf_page": 604,
+    "pdf_page": 198,
     "dorsal": "1176",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Diana Carolina Toloza Céspedes",
     "tiempo_diploma": "01:23:56",
-    "stats_diploma": "276. /310 1240. /1597"
+    "stats_diploma": "275. /309 1262. /1621"
   },
   {
-    "puesto": 1241,
+    "puesto": 1263,
     "placa": "1432",
     "nombre": "LINA MARIA LONDOÑO VELASQUEZ",
     "categoria": "10 K ABIERTA",
@@ -21089,15 +21463,15 @@ const RUNNERS_DATA = [
     "dif": "+1:06:46",
     "vel_prom": "7.1 Km/h",
     "ritmo": "8:23 Min/km",
-    "pdf_page": 605,
+    "pdf_page": 432,
     "dorsal": "1432",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "LINA MARIA LONDOÑO VELASQUEZ",
     "tiempo_diploma": "01:23:58",
-    "stats_diploma": "277. /310 1241. /1597"
+    "stats_diploma": "276. /309 1263. /1621"
   },
   {
-    "puesto": 1242,
+    "puesto": 1264,
     "placa": "1315",
     "nombre": "Jimena Suárez Mogollón",
     "categoria": "10 K ABIERTA",
@@ -21106,15 +21480,15 @@ const RUNNERS_DATA = [
     "dif": "+1:06:47",
     "vel_prom": "7.1 Km/h",
     "ritmo": "8:23 Min/km",
-    "pdf_page": 980,
+    "pdf_page": 329,
     "dorsal": "1315",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Jimena Suárez Mogollón",
     "tiempo_diploma": "01:23:59",
-    "stats_diploma": "342. /357 1242. /1597"
+    "stats_diploma": "342. /357 1264. /1621"
   },
   {
-    "puesto": 1243,
+    "puesto": 1265,
     "placa": "2068",
     "nombre": "HARSON VALDERRAMA",
     "categoria": "21 K ABIERTA",
@@ -21123,15 +21497,15 @@ const RUNNERS_DATA = [
     "dif": "+1:06:50",
     "vel_prom": "14.9 Km/h",
     "ritmo": "4:00 Min/km",
-    "pdf_page": 60,
+    "pdf_page": 768,
     "dorsal": "2068",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "HARSON VALDERRAMA",
     "tiempo_diploma": "01:24:02",
-    "stats_diploma": "9. /130 1243. /1597"
+    "stats_diploma": "9. /130 1265. /1621"
   },
   {
-    "puesto": 1244,
+    "puesto": 1266,
     "placa": "3145",
     "nombre": "Nelsi Johana Suarez  rodriguez",
     "categoria": "10 K MASTER A",
@@ -21140,15 +21514,15 @@ const RUNNERS_DATA = [
     "dif": "+1:06:54",
     "vel_prom": "7.1 Km/h",
     "ritmo": "8:24 Min/km",
-    "pdf_page": 1075,
+    "pdf_page": 1136,
     "dorsal": "3145",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Nelsi Johana Suarez  rodriguez",
     "tiempo_diploma": "01:24:06",
-    "stats_diploma": "80. /87 1244. /1597"
+    "stats_diploma": "80. /87 1266. /1621"
   },
   {
-    "puesto": 1245,
+    "puesto": 1267,
     "placa": "1429",
     "nombre": "Liliana Paola Suarez Mejia",
     "categoria": "10 K ABIERTA",
@@ -21157,15 +21531,15 @@ const RUNNERS_DATA = [
     "dif": "+1:06:55",
     "vel_prom": "7.1 Km/h",
     "ritmo": "8:24 Min/km",
-    "pdf_page": 606,
+    "pdf_page": 429,
     "dorsal": "1429",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Liliana Paola Suarez Mejia",
     "tiempo_diploma": "01:24:07",
-    "stats_diploma": "278. /310 1245. /1597"
+    "stats_diploma": "277. /309 1267. /1621"
   },
   {
-    "puesto": 1246,
+    "puesto": 1268,
     "placa": "1496",
     "nombre": "María Paula Llanos Soto",
     "categoria": "10 K ABIERTA",
@@ -21174,15 +21548,15 @@ const RUNNERS_DATA = [
     "dif": "+1:06:55",
     "vel_prom": "7.1 Km/h",
     "ritmo": "8:24 Min/km",
-    "pdf_page": 607,
+    "pdf_page": 482,
     "dorsal": "1496",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "María Paula Llanos Soto",
     "tiempo_diploma": "01:24:07",
-    "stats_diploma": "279. /310 1246. /1597"
+    "stats_diploma": "278. /309 1268. /1621"
   },
   {
-    "puesto": 1247,
+    "puesto": 1269,
     "placa": "1130",
     "nombre": "Claudia Sanchez",
     "categoria": "10 K ABIERTA",
@@ -21191,15 +21565,15 @@ const RUNNERS_DATA = [
     "dif": "+1:07:30",
     "vel_prom": "7.0 Km/h",
     "ritmo": "8:28 Min/km",
-    "pdf_page": 608,
+    "pdf_page": 155,
     "dorsal": "1130",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Claudia Sanchez",
     "tiempo_diploma": "01:24:42",
-    "stats_diploma": "280. /310 1247. /1597"
+    "stats_diploma": "279. /309 1269. /1621"
   },
   {
-    "puesto": 1248,
+    "puesto": 1270,
     "placa": "3030",
     "nombre": "CLAUDIA MARCELA TOLOZA CESPEDES",
     "categoria": "10 K MASTER A",
@@ -21208,15 +21582,15 @@ const RUNNERS_DATA = [
     "dif": "+1:07:30",
     "vel_prom": "7.0 Km/h",
     "ritmo": "8:28 Min/km",
-    "pdf_page": 1076,
+    "pdf_page": 1026,
     "dorsal": "3030",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "CLAUDIA MARCELA TOLOZA CESPEDES",
     "tiempo_diploma": "01:24:42",
-    "stats_diploma": "81. /87 1248. /1597"
+    "stats_diploma": "81. /87 1270. /1621"
   },
   {
-    "puesto": 1249,
+    "puesto": 1271,
     "placa": "3396",
     "nombre": "Ada Romero Ardila",
     "categoria": "10 K MASTER B",
@@ -21225,15 +21599,15 @@ const RUNNERS_DATA = [
     "dif": "+1:07:31",
     "vel_prom": "7.0 Km/h",
     "ritmo": "8:28 Min/km",
-    "pdf_page": 1217,
+    "pdf_page": 1283,
     "dorsal": "3396",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Ada Romero Ardila",
     "tiempo_diploma": "01:24:43",
-    "stats_diploma": "28. /33 1249. /1597"
+    "stats_diploma": "28. /33 1271. /1621"
   },
   {
-    "puesto": 1250,
+    "puesto": 1272,
     "placa": "1231",
     "nombre": "Fanny Smith Torres Martinez",
     "categoria": "10 K ABIERTA",
@@ -21242,15 +21616,15 @@ const RUNNERS_DATA = [
     "dif": "+1:07:34",
     "vel_prom": "7.0 Km/h",
     "ritmo": "8:28 Min/km",
-    "pdf_page": 609,
+    "pdf_page": 252,
     "dorsal": "1231",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Fanny Smith Torres Martinez",
     "tiempo_diploma": "01:24:46",
-    "stats_diploma": "281. /310 1250. /1597"
+    "stats_diploma": "280. /309 1272. /1621"
   },
   {
-    "puesto": 1251,
+    "puesto": 1273,
     "placa": "1398",
     "nombre": "Kevin Santiago Niño Paez",
     "categoria": "10 K ABIERTA",
@@ -21259,15 +21633,15 @@ const RUNNERS_DATA = [
     "dif": "+1:07:36",
     "vel_prom": "7.0 Km/h",
     "ritmo": "8:28 Min/km",
-    "pdf_page": 981,
+    "pdf_page": 405,
     "dorsal": "1398",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Kevin Santiago Niño Paez",
     "tiempo_diploma": "01:24:48",
-    "stats_diploma": "343. /357 1251. /1597"
+    "stats_diploma": "343. /357 1273. /1621"
   },
   {
-    "puesto": 1252,
+    "puesto": 1274,
     "placa": "1499",
     "nombre": "María Paula Rangel Villamizar",
     "categoria": "10 K ABIERTA",
@@ -21276,15 +21650,15 @@ const RUNNERS_DATA = [
     "dif": "+1:07:36",
     "vel_prom": "7.0 Km/h",
     "ritmo": "8:28 Min/km",
-    "pdf_page": 610,
+    "pdf_page": 485,
     "dorsal": "1499",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "María Paula Rangel Villamizar",
     "tiempo_diploma": "01:24:48",
-    "stats_diploma": "282. /310 1252. /1597"
+    "stats_diploma": "281. /309 1274. /1621"
   },
   {
-    "puesto": 1253,
+    "puesto": 1275,
     "placa": "1070",
     "nombre": "Angélica Paola Vega Contreras",
     "categoria": "10 K ABIERTA",
@@ -21293,15 +21667,15 @@ const RUNNERS_DATA = [
     "dif": "+1:07:46",
     "vel_prom": "7.0 Km/h",
     "ritmo": "8:29 Min/km",
-    "pdf_page": 611,
+    "pdf_page": 100,
     "dorsal": "1070",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Angélica Paola Vega Contreras",
     "tiempo_diploma": "01:24:58",
-    "stats_diploma": "283. /310 1253. /1597"
+    "stats_diploma": "282. /309 1275. /1621"
   },
   {
-    "puesto": 1254,
+    "puesto": 1276,
     "placa": "3388",
     "nombre": "CHARLIE GIUSEPPE PINZON GRIMALDO",
     "categoria": "10 K MASTER B",
@@ -21310,15 +21684,15 @@ const RUNNERS_DATA = [
     "dif": "+1:08:00",
     "vel_prom": "7.0 Km/h",
     "ritmo": "8:31 Min/km",
-    "pdf_page": 1275,
+    "pdf_page": 1277,
     "dorsal": "3388",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "CHARLIE GIUSEPPE PINZON GRIMALDO",
     "tiempo_diploma": "01:25:12",
-    "stats_diploma": "53. /56 1254. /1597"
+    "stats_diploma": "54. /57 1276. /1621"
   },
   {
-    "puesto": 1255,
+    "puesto": 1277,
     "placa": "3198",
     "nombre": "Monica Andrea Gómez Alvarado",
     "categoria": "10 K MASTER A",
@@ -21327,15 +21701,15 @@ const RUNNERS_DATA = [
     "dif": "+1:08:11",
     "vel_prom": "7.0 Km/h",
     "ritmo": "8:32 Min/km",
-    "pdf_page": 1077,
+    "pdf_page": 1182,
     "dorsal": "3198",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Monica Andrea Gómez Alvarado",
     "tiempo_diploma": "01:25:23",
-    "stats_diploma": "82. /87 1255. /1597"
+    "stats_diploma": "82. /87 1277. /1621"
   },
   {
-    "puesto": 1256,
+    "puesto": 1278,
     "placa": "112",
     "nombre": "Johanna Rodríguez Noriega",
     "categoria": "10 K ELITE",
@@ -21344,15 +21718,15 @@ const RUNNERS_DATA = [
     "dif": "+1:08:14",
     "vel_prom": "7.0 Km/h",
     "ritmo": "8:32 Min/km",
-    "pdf_page": 317,
+    "pdf_page": 11,
     "dorsal": "112",
     "categoria_diploma": "10 K ELITE",
     "nombre_diploma": "Johanna Rodríguez Noriega",
     "tiempo_diploma": "01:25:26",
-    "stats_diploma": "16. /17 1256. /1597"
+    "stats_diploma": "16. /17 1278. /1621"
   },
   {
-    "puesto": 1257,
+    "puesto": 1279,
     "placa": "1059",
     "nombre": "Anec Alexander Acuña Fonseca",
     "categoria": "10 K ABIERTA",
@@ -21361,15 +21735,15 @@ const RUNNERS_DATA = [
     "dif": "+1:08:25",
     "vel_prom": "7.0 Km/h",
     "ritmo": "8:33 Min/km",
-    "pdf_page": 982,
+    "pdf_page": 89,
     "dorsal": "1059",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Anec Alexander Acuña Fonseca",
     "tiempo_diploma": "01:25:37",
-    "stats_diploma": "344. /357 1257. /1597"
+    "stats_diploma": "344. /357 1279. /1621"
   },
   {
-    "puesto": 1258,
+    "puesto": 1280,
     "placa": "1389",
     "nombre": "Karen yaritza Torres Gonzalez",
     "categoria": "10 K ABIERTA",
@@ -21378,15 +21752,15 @@ const RUNNERS_DATA = [
     "dif": "+1:08:34",
     "vel_prom": "6.9 Km/h",
     "ritmo": "8:34 Min/km",
-    "pdf_page": 612,
+    "pdf_page": 399,
     "dorsal": "1389",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Karen yaritza Torres Gonzalez",
     "tiempo_diploma": "01:25:46",
-    "stats_diploma": "284. /310 1258. /1597"
+    "stats_diploma": "283. /309 1280. /1621"
   },
   {
-    "puesto": 1259,
+    "puesto": 1281,
     "placa": "2329",
     "nombre": "Ferney Castellanos Sánchez",
     "categoria": "21 K MASTER A",
@@ -21395,15 +21769,15 @@ const RUNNERS_DATA = [
     "dif": "+1:08:40",
     "vel_prom": "14.6 Km/h",
     "ritmo": "4:05 Min/km",
-    "pdf_page": 207,
+    "pdf_page": 903,
     "dorsal": "2329",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Ferney Castellanos Sánchez",
     "tiempo_diploma": "01:25:52",
-    "stats_diploma": "4. /66 1259. /1597"
+    "stats_diploma": "4. /66 1281. /1621"
   },
   {
-    "puesto": 1260,
+    "puesto": 1282,
     "placa": "1254",
     "nombre": "Gustavo adolfo Meza villegas",
     "categoria": "10 K ABIERTA",
@@ -21412,15 +21786,15 @@ const RUNNERS_DATA = [
     "dif": "+1:08:42",
     "vel_prom": "6.9 Km/h",
     "ritmo": "8:35 Min/km",
-    "pdf_page": 983,
+    "pdf_page": 272,
     "dorsal": "1254",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Gustavo adolfo Meza villegas",
     "tiempo_diploma": "01:25:54",
-    "stats_diploma": "345. /357 1260. /1597"
+    "stats_diploma": "345. /357 1282. /1621"
   },
   {
-    "puesto": 1261,
+    "puesto": 1283,
     "placa": "1530",
     "nombre": "Milena Maria Sierra Ramirez",
     "categoria": "10 K ABIERTA",
@@ -21429,15 +21803,15 @@ const RUNNERS_DATA = [
     "dif": "+1:08:46",
     "vel_prom": "6.9 Km/h",
     "ritmo": "8:35 Min/km",
-    "pdf_page": 613,
+    "pdf_page": 513,
     "dorsal": "1530",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Milena Maria Sierra Ramirez",
     "tiempo_diploma": "01:25:58",
-    "stats_diploma": "285. /310 1261. /1597"
+    "stats_diploma": "284. /309 1283. /1621"
   },
   {
-    "puesto": 1262,
+    "puesto": 1284,
     "placa": "1441",
     "nombre": "Luis Carlos Alvarez Cepeda",
     "categoria": "10 K ABIERTA",
@@ -21446,15 +21820,15 @@ const RUNNERS_DATA = [
     "dif": "+1:08:50",
     "vel_prom": "6.9 Km/h",
     "ritmo": "8:36 Min/km",
-    "pdf_page": 984,
+    "pdf_page": 438,
     "dorsal": "1441",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Luis Carlos Alvarez Cepeda",
     "tiempo_diploma": "01:26:02",
-    "stats_diploma": "346. /357 1262. /1597"
+    "stats_diploma": "346. /357 1284. /1621"
   },
   {
-    "puesto": 1263,
+    "puesto": 1285,
     "placa": "1724",
     "nombre": "Oscar Javier Mejia Wandurraga",
     "categoria": "10 K ABIERTA",
@@ -21463,15 +21837,15 @@ const RUNNERS_DATA = [
     "dif": "+1:08:58",
     "vel_prom": "6.9 Km/h",
     "ritmo": "8:37 Min/km",
-    "pdf_page": 985,
+    "pdf_page": 681,
     "dorsal": "1724",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Oscar Javier Mejia Wandurraga",
     "tiempo_diploma": "01:26:10",
-    "stats_diploma": "347. /357 1263. /1597"
+    "stats_diploma": "347. /357 1285. /1621"
   },
   {
-    "puesto": 1264,
+    "puesto": 1286,
     "placa": "3061",
     "nombre": "GUSTAVO ALFONSO GOMEZ VILLARREAL",
     "categoria": "10 K MASTER A",
@@ -21480,15 +21854,15 @@ const RUNNERS_DATA = [
     "dif": "+1:08:58",
     "vel_prom": "6.9 Km/h",
     "ritmo": "8:37 Min/km",
-    "pdf_page": 1189,
+    "pdf_page": 1055,
     "dorsal": "3061",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "GUSTAVO ALFONSO GOMEZ VILLARREAL",
     "tiempo_diploma": "00:16:55",
-    "stats_diploma": "107. /107 1264. /1597"
+    "stats_diploma": "107. /107 1286. /1621"
   },
   {
-    "puesto": 1265,
+    "puesto": 1287,
     "placa": "1745",
     "nombre": "Lida Mercado",
     "categoria": "10 K ABIERTA",
@@ -21497,15 +21871,15 @@ const RUNNERS_DATA = [
     "dif": "+1:09:01",
     "vel_prom": "6.9 Km/h",
     "ritmo": "8:37 Min/km",
-    "pdf_page": 614,
+    "pdf_page": 701,
     "dorsal": "1745",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Lida Mercado",
     "tiempo_diploma": "01:26:13",
-    "stats_diploma": "286. /310 1265. /1597"
+    "stats_diploma": "285. /309 1287. /1621"
   },
   {
-    "puesto": 1266,
+    "puesto": 1288,
     "placa": "1591",
     "nombre": "Rudy Ramírez",
     "categoria": "10 K ABIERTA",
@@ -21514,15 +21888,15 @@ const RUNNERS_DATA = [
     "dif": "+1:09:22",
     "vel_prom": "6.9 Km/h",
     "ritmo": "8:39 Min/km",
-    "pdf_page": 615,
+    "pdf_page": 566,
     "dorsal": "1591",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Rudy Ramírez",
     "tiempo_diploma": "01:26:34",
-    "stats_diploma": "287. /310 1266. /1597"
+    "stats_diploma": "286. /309 1288. /1621"
   },
   {
-    "puesto": 1267,
+    "puesto": 1289,
     "placa": "3324",
     "nombre": "Francy Penna Cuéllar",
     "categoria": "10 K MASTER B",
@@ -21531,15 +21905,15 @@ const RUNNERS_DATA = [
     "dif": "+1:09:30",
     "vel_prom": "6.9 Km/h",
     "ritmo": "8:40 Min/km",
-    "pdf_page": 1218,
+    "pdf_page": 1217,
     "dorsal": "3324",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Francy Penna Cuéllar",
     "tiempo_diploma": "01:26:42",
-    "stats_diploma": "29. /33 1267. /1597"
+    "stats_diploma": "29. /33 1289. /1621"
   },
   {
-    "puesto": 1268,
+    "puesto": 1290,
     "placa": "1512",
     "nombre": "Mayerlis André González Sáez",
     "categoria": "10 K ABIERTA",
@@ -21548,15 +21922,15 @@ const RUNNERS_DATA = [
     "dif": "+1:09:31",
     "vel_prom": "6.9 Km/h",
     "ritmo": "8:40 Min/km",
-    "pdf_page": 616,
+    "pdf_page": 497,
     "dorsal": "1512",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Mayerlis André González Sáez",
     "tiempo_diploma": "01:26:43",
-    "stats_diploma": "288. /310 1268. /1597"
+    "stats_diploma": "287. /309 1290. /1621"
   },
   {
-    "puesto": 1269,
+    "puesto": 1291,
     "placa": "2503",
     "nombre": "Andrés Orjuela",
     "categoria": "21 K MASTER B",
@@ -21565,32 +21939,15 @@ const RUNNERS_DATA = [
     "dif": "+1:09:42",
     "vel_prom": "14.4 Km/h",
     "ritmo": "4:08 Min/km",
-    "pdf_page": 276,
+    "pdf_page": 968,
     "dorsal": "2503",
     "categoria_diploma": "21 K MASTER B",
     "nombre_diploma": "Andrés Orjuela",
     "tiempo_diploma": "01:26:54",
-    "stats_diploma": "1. /26 1269. /1597"
+    "stats_diploma": "1. /26 1291. /1621"
   },
   {
-    "puesto": 1270,
-    "placa": "2538",
-    "nombre": "Luz Alba Gutierrez",
-    "categoria": "21 K MASTER B",
-    "ciudad": "Floridablanca",
-    "tiempo": "1:27:05",
-    "dif": "+1:09:53",
-    "vel_prom": "14.4 Km/h",
-    "ritmo": "4:08 Min/km",
-    "pdf_page": 270,
-    "dorsal": "2538",
-    "categoria_diploma": "21 K MASTER B",
-    "nombre_diploma": "Luz Alba Gutierrez",
-    "tiempo_diploma": "01:27:05",
-    "stats_diploma": "1. /6 1270. /1597"
-  },
-  {
-    "puesto": 1271,
+    "puesto": 1292,
     "placa": "1430",
     "nombre": "Lina Moreno",
     "categoria": "10 K ABIERTA",
@@ -21599,15 +21956,15 @@ const RUNNERS_DATA = [
     "dif": "+1:10:03",
     "vel_prom": "6.8 Km/h",
     "ritmo": "8:43 Min/km",
-    "pdf_page": 617,
+    "pdf_page": 430,
     "dorsal": "1430",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Lina Moreno",
     "tiempo_diploma": "01:27:15",
-    "stats_diploma": "289. /310 1271. /1597"
+    "stats_diploma": "288. /309 1292. /1621"
   },
   {
-    "puesto": 1272,
+    "puesto": 1293,
     "placa": "2353",
     "nombre": "Juan Carlos García castro",
     "categoria": "21 K MASTER A",
@@ -21616,15 +21973,15 @@ const RUNNERS_DATA = [
     "dif": "+1:10:07",
     "vel_prom": "14.4 Km/h",
     "ritmo": "4:09 Min/km",
-    "pdf_page": 208,
+    "pdf_page": 923,
     "dorsal": "2353",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Juan Carlos García castro",
     "tiempo_diploma": "01:27:19",
-    "stats_diploma": "5. /66 1272. /1597"
+    "stats_diploma": "5. /66 1293. /1621"
   },
   {
-    "puesto": 1273,
+    "puesto": 1294,
     "placa": "2384",
     "nombre": "René Leonardo Pineda Prieto",
     "categoria": "21 K MASTER A",
@@ -21633,15 +21990,15 @@ const RUNNERS_DATA = [
     "dif": "+1:10:11",
     "vel_prom": "14.4 Km/h",
     "ritmo": "4:09 Min/km",
-    "pdf_page": 209,
+    "pdf_page": 952,
     "dorsal": "2384",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "René Leonardo Pineda Prieto",
     "tiempo_diploma": "01:27:23",
-    "stats_diploma": "6. /66 1273. /1597"
+    "stats_diploma": "6. /66 1294. /1621"
   },
   {
-    "puesto": 1274,
+    "puesto": 1295,
     "placa": "1132",
     "nombre": "Claudia Liliana Forero Rueda",
     "categoria": "10 K ABIERTA",
@@ -21650,15 +22007,15 @@ const RUNNERS_DATA = [
     "dif": "+1:10:19",
     "vel_prom": "6.8 Km/h",
     "ritmo": "8:45 Min/km",
-    "pdf_page": 618,
+    "pdf_page": 157,
     "dorsal": "1132",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Claudia Liliana Forero Rueda",
     "tiempo_diploma": "01:27:31",
-    "stats_diploma": "290. /310 1274. /1597"
+    "stats_diploma": "289. /309 1295. /1621"
   },
   {
-    "puesto": 1275,
+    "puesto": 1296,
     "placa": "1180",
     "nombre": "Diana Maritza Quitian Cubides",
     "categoria": "10 K ABIERTA",
@@ -21667,15 +22024,15 @@ const RUNNERS_DATA = [
     "dif": "+1:10:27",
     "vel_prom": "6.8 Km/h",
     "ritmo": "8:45 Min/km",
-    "pdf_page": 619,
+    "pdf_page": 202,
     "dorsal": "1180",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Diana Maritza Quitian Cubides",
     "tiempo_diploma": "01:27:39",
-    "stats_diploma": "291. /310 1275. /1597"
+    "stats_diploma": "290. /309 1296. /1621"
   },
   {
-    "puesto": 1276,
+    "puesto": 1297,
     "placa": "1259",
     "nombre": "Héctor David Mantilla Blanco",
     "categoria": "10 K ABIERTA",
@@ -21684,15 +22041,15 @@ const RUNNERS_DATA = [
     "dif": "+1:10:35",
     "vel_prom": "6.8 Km/h",
     "ritmo": "8:46 Min/km",
-    "pdf_page": 986,
+    "pdf_page": 277,
     "dorsal": "1259",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Héctor David Mantilla Blanco",
     "tiempo_diploma": "01:27:47",
-    "stats_diploma": "348. /357 1276. /1597"
+    "stats_diploma": "348. /357 1297. /1621"
   },
   {
-    "puesto": 1277,
+    "puesto": 1298,
     "placa": "1067",
     "nombre": "Angélica Angarita",
     "categoria": "10 K ABIERTA",
@@ -21701,15 +22058,15 @@ const RUNNERS_DATA = [
     "dif": "+1:10:35",
     "vel_prom": "6.8 Km/h",
     "ritmo": "8:46 Min/km",
-    "pdf_page": 620,
+    "pdf_page": 97,
     "dorsal": "1067",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Angélica Angarita",
     "tiempo_diploma": "01:27:47",
-    "stats_diploma": "292. /310 1277. /1597"
+    "stats_diploma": "291. /309 1298. /1621"
   },
   {
-    "puesto": 1278,
+    "puesto": 1299,
     "placa": "3088",
     "nombre": "Johana Milena Gómez Mojica",
     "categoria": "10 K MASTER A",
@@ -21718,15 +22075,15 @@ const RUNNERS_DATA = [
     "dif": "+1:10:42",
     "vel_prom": "6.8 Km/h",
     "ritmo": "8:47 Min/km",
-    "pdf_page": 1078,
+    "pdf_page": 1080,
     "dorsal": "3088",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Johana Milena Gómez Mojica",
     "tiempo_diploma": "01:27:54",
-    "stats_diploma": "83. /87 1278. /1597"
+    "stats_diploma": "83. /87 1299. /1621"
   },
   {
-    "puesto": 1279,
+    "puesto": 1300,
     "placa": "3206",
     "nombre": "Silvia Pico",
     "categoria": "10 K MASTER A",
@@ -21735,15 +22092,15 @@ const RUNNERS_DATA = [
     "dif": "+1:10:43",
     "vel_prom": "6.8 Km/h",
     "ritmo": "8:47 Min/km",
-    "pdf_page": 1079,
+    "pdf_page": 1188,
     "dorsal": "3206",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Silvia Pico",
     "tiempo_diploma": "01:27:55",
-    "stats_diploma": "84. /87 1279. /1597"
+    "stats_diploma": "84. /87 1300. /1621"
   },
   {
-    "puesto": 1280,
+    "puesto": 1301,
     "placa": "3308",
     "nombre": "Carlos Javier Ardila Contreras",
     "categoria": "10 K MASTER B",
@@ -21752,15 +22109,15 @@ const RUNNERS_DATA = [
     "dif": "+1:10:43",
     "vel_prom": "6.8 Km/h",
     "ritmo": "8:47 Min/km",
-    "pdf_page": 1276,
+    "pdf_page": 1201,
     "dorsal": "3308",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Carlos Javier Ardila Contreras",
     "tiempo_diploma": "01:27:55",
-    "stats_diploma": "54. /56 1280. /1597"
+    "stats_diploma": "55. /57 1301. /1621"
   },
   {
-    "puesto": 1281,
+    "puesto": 1302,
     "placa": "1474",
     "nombre": "María alejandra Martinez Camacho",
     "categoria": "10 K ABIERTA",
@@ -21769,15 +22126,15 @@ const RUNNERS_DATA = [
     "dif": "+1:11:13",
     "vel_prom": "6.7 Km/h",
     "ritmo": "8:50 Min/km",
-    "pdf_page": 621,
+    "pdf_page": 464,
     "dorsal": "1474",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "María alejandra Martinez Camacho",
     "tiempo_diploma": "01:28:25",
-    "stats_diploma": "293. /310 1281. /1597"
+    "stats_diploma": "292. /309 1302. /1621"
   },
   {
-    "puesto": 1282,
+    "puesto": 1303,
     "placa": "1362",
     "nombre": "Juan Pablo Sanchez Rey",
     "categoria": "10 K ABIERTA",
@@ -21786,15 +22143,32 @@ const RUNNERS_DATA = [
     "dif": "+1:11:26",
     "vel_prom": "6.7 Km/h",
     "ritmo": "8:51 Min/km",
-    "pdf_page": 987,
+    "pdf_page": 373,
     "dorsal": "1362",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Juan Pablo Sanchez Rey",
     "tiempo_diploma": "01:28:38",
-    "stats_diploma": "349. /357 1282. /1597"
+    "stats_diploma": "349. /357 1303. /1621"
   },
   {
-    "puesto": 1283,
+    "puesto": 1304,
+    "placa": "2132",
+    "nombre": "Mariapaz Marquez",
+    "categoria": "21 K ABIERTA",
+    "ciudad": "",
+    "tiempo": "1:29:01",
+    "dif": "+1:11:49",
+    "vel_prom": "14.1 Km/h",
+    "ritmo": "4:14 Min/km",
+    "pdf_page": 830,
+    "dorsal": "2132",
+    "categoria_diploma": "21 K ABIERTA",
+    "nombre_diploma": "Mariapaz Marquez",
+    "tiempo_diploma": "01:29:01",
+    "stats_diploma": "1. /43 1304. /1621"
+  },
+  {
+    "puesto": 1305,
     "placa": "1681",
     "nombre": "Yulitza Leon Cespedes",
     "categoria": "10 K ABIERTA",
@@ -21803,15 +22177,15 @@ const RUNNERS_DATA = [
     "dif": "+1:11:54",
     "vel_prom": "6.7 Km/h",
     "ritmo": "8:54 Min/km",
-    "pdf_page": 622,
+    "pdf_page": 646,
     "dorsal": "1681",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Yulitza Leon Cespedes",
     "tiempo_diploma": "01:29:06",
-    "stats_diploma": "294. /310 1283. /1597"
+    "stats_diploma": "293. /309 1305. /1621"
   },
   {
-    "puesto": 1284,
+    "puesto": 1306,
     "placa": "3313",
     "nombre": "Claudia Patricia Pinilla",
     "categoria": "10 K MASTER B",
@@ -21820,15 +22194,15 @@ const RUNNERS_DATA = [
     "dif": "+1:12:08",
     "vel_prom": "6.7 Km/h",
     "ritmo": "8:56 Min/km",
-    "pdf_page": 1219,
+    "pdf_page": 1206,
     "dorsal": "3313",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Claudia Patricia Pinilla",
     "tiempo_diploma": "01:29:20",
-    "stats_diploma": "30. /33 1284. /1597"
+    "stats_diploma": "30. /33 1306. /1621"
   },
   {
-    "puesto": 1285,
+    "puesto": 1307,
     "placa": "1727",
     "nombre": "David G Mojica Tumaroza",
     "categoria": "10 K ABIERTA",
@@ -21837,15 +22211,15 @@ const RUNNERS_DATA = [
     "dif": "+1:12:13",
     "vel_prom": "6.7 Km/h",
     "ritmo": "8:56 Min/km",
-    "pdf_page": 988,
+    "pdf_page": 684,
     "dorsal": "1727",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "David G Mojica Tumaroza",
     "tiempo_diploma": "01:29:25",
-    "stats_diploma": "350. /357 1285. /1597"
+    "stats_diploma": "350. /357 1307. /1621"
   },
   {
-    "puesto": 1286,
+    "puesto": 1308,
     "placa": "1570",
     "nombre": "PAULA ANDREA NAVARRO AGUILLON",
     "categoria": "10 K ABIERTA",
@@ -21854,15 +22228,32 @@ const RUNNERS_DATA = [
     "dif": "+1:12:15",
     "vel_prom": "6.7 Km/h",
     "ritmo": "8:56 Min/km",
-    "pdf_page": 623,
+    "pdf_page": 549,
     "dorsal": "1570",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "PAULA ANDREA NAVARRO AGUILLON",
     "tiempo_diploma": "01:29:27",
-    "stats_diploma": "295. /310 1286. /1597"
+    "stats_diploma": "294. /309 1308. /1621"
   },
   {
-    "puesto": 1287,
+    "puesto": 1309,
+    "placa": "2185",
+    "nombre": "Paola Cristancho Acosta",
+    "categoria": "21 K ABIERTA",
+    "ciudad": "",
+    "tiempo": "1:29:29",
+    "dif": "+1:12:17",
+    "vel_prom": "14.0 Km/h",
+    "ritmo": "4:15 Min/km",
+    "pdf_page": 875,
+    "dorsal": "2185",
+    "categoria_diploma": "21 K ABIERTA",
+    "nombre_diploma": "Paola Cristancho Acosta",
+    "tiempo_diploma": "01:29:29",
+    "stats_diploma": "2. /43 1309. /1621"
+  },
+  {
+    "puesto": 1310,
     "placa": "2508",
     "nombre": "Edgar Chaparro",
     "categoria": "21 K MASTER B",
@@ -21871,15 +22262,15 @@ const RUNNERS_DATA = [
     "dif": "+1:12:17",
     "vel_prom": "14.0 Km/h",
     "ritmo": "4:15 Min/km",
-    "pdf_page": 277,
+    "pdf_page": 972,
     "dorsal": "2508",
     "categoria_diploma": "21 K MASTER B",
     "nombre_diploma": "Edgar Chaparro",
     "tiempo_diploma": "01:29:29",
-    "stats_diploma": "2. /26 1287. /1597"
+    "stats_diploma": "2. /26 1310. /1621"
   },
   {
-    "puesto": 1288,
+    "puesto": 1311,
     "placa": "1006",
     "nombre": "Alejandra Peña Herazo",
     "categoria": "10 K ABIERTA",
@@ -21888,15 +22279,32 @@ const RUNNERS_DATA = [
     "dif": "+1:12:18",
     "vel_prom": "6.7 Km/h",
     "ritmo": "8:57 Min/km",
-    "pdf_page": 624,
+    "pdf_page": 42,
     "dorsal": "1006",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Alejandra Peña Herazo",
     "tiempo_diploma": "01:29:30",
-    "stats_diploma": "296. /310 1288. /1597"
+    "stats_diploma": "295. /309 1311. /1621"
   },
   {
-    "puesto": 1289,
+    "puesto": 1312,
+    "placa": "2186",
+    "nombre": "Cristal Villareal Herrera",
+    "categoria": "21 K ABIERTA",
+    "ciudad": "",
+    "tiempo": "1:29:30",
+    "dif": "+1:12:18",
+    "vel_prom": "14.0 Km/h",
+    "ritmo": "4:15 Min/km",
+    "pdf_page": 876,
+    "dorsal": "2186",
+    "categoria_diploma": "21 K ABIERTA",
+    "nombre_diploma": "Cristal Villareal Herrera",
+    "tiempo_diploma": "01:29:30",
+    "stats_diploma": "3. /43 1312. /1621"
+  },
+  {
+    "puesto": 1313,
     "placa": "3165",
     "nombre": "ROSALBA ARANGO",
     "categoria": "10 K MASTER A",
@@ -21905,15 +22313,15 @@ const RUNNERS_DATA = [
     "dif": "+1:12:28",
     "vel_prom": "6.6 Km/h",
     "ritmo": "8:58 Min/km",
-    "pdf_page": 1080,
+    "pdf_page": 1154,
     "dorsal": "3165",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "ROSALBA ARANGO",
     "tiempo_diploma": "01:29:40",
-    "stats_diploma": "85. /87 1289. /1597"
+    "stats_diploma": "85. /87 1313. /1621"
   },
   {
-    "puesto": 1290,
+    "puesto": 1314,
     "placa": "1072",
     "nombre": "Angie Davila",
     "categoria": "10 K ABIERTA",
@@ -21922,15 +22330,15 @@ const RUNNERS_DATA = [
     "dif": "+1:12:30",
     "vel_prom": "6.6 Km/h",
     "ritmo": "8:58 Min/km",
-    "pdf_page": 625,
+    "pdf_page": 102,
     "dorsal": "1072",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Angie Davila",
     "tiempo_diploma": "01:29:42",
-    "stats_diploma": "297. /310 1290. /1597"
+    "stats_diploma": "296. /309 1314. /1621"
   },
   {
-    "puesto": 1291,
+    "puesto": 1315,
     "placa": "1690",
     "nombre": "Catalina Díaz Portilla",
     "categoria": "10 K ABIERTA",
@@ -21939,15 +22347,15 @@ const RUNNERS_DATA = [
     "dif": "+1:12:35",
     "vel_prom": "6.6 Km/h",
     "ritmo": "8:58 Min/km",
-    "pdf_page": 626,
+    "pdf_page": 655,
     "dorsal": "1690",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Catalina Díaz Portilla",
     "tiempo_diploma": "01:29:47",
-    "stats_diploma": "298. /310 1291. /1597"
+    "stats_diploma": "297. /309 1315. /1621"
   },
   {
-    "puesto": 1292,
+    "puesto": 1316,
     "placa": "3357",
     "nombre": "MARTHA ELENA CONDE SALGADO",
     "categoria": "10 K MASTER B",
@@ -21956,15 +22364,15 @@ const RUNNERS_DATA = [
     "dif": "+1:12:40",
     "vel_prom": "6.6 Km/h",
     "ritmo": "8:59 Min/km",
-    "pdf_page": 1220,
+    "pdf_page": 1249,
     "dorsal": "3357",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "MARTHA ELENA CONDE SALGADO",
     "tiempo_diploma": "01:29:52",
-    "stats_diploma": "31. /33 1292. /1597"
+    "stats_diploma": "31. /33 1316. /1621"
   },
   {
-    "puesto": 1293,
+    "puesto": 1317,
     "placa": "2509",
     "nombre": "Edgar Olarte",
     "categoria": "21 K MASTER B",
@@ -21973,15 +22381,15 @@ const RUNNERS_DATA = [
     "dif": "+1:12:46",
     "vel_prom": "14.0 Km/h",
     "ritmo": "4:17 Min/km",
-    "pdf_page": 278,
+    "pdf_page": 973,
     "dorsal": "2509",
     "categoria_diploma": "21 K MASTER B",
     "nombre_diploma": "Edgar Olarte",
     "tiempo_diploma": "01:29:58",
-    "stats_diploma": "3. /26 1293. /1597"
+    "stats_diploma": "3. /26 1317. /1621"
   },
   {
-    "puesto": 1294,
+    "puesto": 1318,
     "placa": "113",
     "nombre": "Jonathan Cardenas Sierra",
     "categoria": "10 K ELITE",
@@ -21990,15 +22398,15 @@ const RUNNERS_DATA = [
     "dif": "+1:13:14",
     "vel_prom": "6.6 Km/h",
     "ritmo": "9:02 Min/km",
-    "pdf_page": 328,
+    "pdf_page": 12,
     "dorsal": "113",
     "categoria_diploma": "10 K ELITE",
     "nombre_diploma": "Jonathan Cardenas Sierra",
     "tiempo_diploma": "01:30:26",
-    "stats_diploma": "10. /10 1294. /1597"
+    "stats_diploma": "10. /10 1318. /1621"
   },
   {
-    "puesto": 1295,
+    "puesto": 1319,
     "placa": "1125",
     "nombre": "Catalina Cardenas Siza",
     "categoria": "10 K ABIERTA",
@@ -22007,15 +22415,15 @@ const RUNNERS_DATA = [
     "dif": "+1:13:14",
     "vel_prom": "6.6 Km/h",
     "ritmo": "9:02 Min/km",
-    "pdf_page": 627,
+    "pdf_page": 150,
     "dorsal": "1125",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Catalina Cardenas Siza",
     "tiempo_diploma": "01:30:26",
-    "stats_diploma": "299. /310 1295. /1597"
+    "stats_diploma": "298. /309 1319. /1621"
   },
   {
-    "puesto": 1296,
+    "puesto": 1320,
     "placa": "1339",
     "nombre": "Jose David Vargas Caicedo",
     "categoria": "10 K ABIERTA",
@@ -22024,15 +22432,15 @@ const RUNNERS_DATA = [
     "dif": "+1:13:40",
     "vel_prom": "6.6 Km/h",
     "ritmo": "9:05 Min/km",
-    "pdf_page": 989,
+    "pdf_page": 351,
     "dorsal": "1339",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Jose David Vargas Caicedo",
     "tiempo_diploma": "01:30:52",
-    "stats_diploma": "351. /357 1296. /1597"
+    "stats_diploma": "351. /357 1320. /1621"
   },
   {
-    "puesto": 1297,
+    "puesto": 1321,
     "placa": "1624",
     "nombre": "Silvia Andrea Hernández Crispín",
     "categoria": "10 K ABIERTA",
@@ -22041,15 +22449,15 @@ const RUNNERS_DATA = [
     "dif": "+1:13:40",
     "vel_prom": "6.6 Km/h",
     "ritmo": "9:05 Min/km",
-    "pdf_page": 628,
+    "pdf_page": 594,
     "dorsal": "1624",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Silvia Andrea Hernández Crispín",
     "tiempo_diploma": "01:30:52",
-    "stats_diploma": "300. /310 1297. /1597"
+    "stats_diploma": "299. /309 1321. /1621"
   },
   {
-    "puesto": 1298,
+    "puesto": 1322,
     "placa": "2382",
     "nombre": "Rafael Charris Romero",
     "categoria": "21 K MASTER A",
@@ -22058,15 +22466,15 @@ const RUNNERS_DATA = [
     "dif": "+1:13:44",
     "vel_prom": "13.8 Km/h",
     "ritmo": "4:19 Min/km",
-    "pdf_page": 210,
+    "pdf_page": 950,
     "dorsal": "2382",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Rafael Charris Romero",
     "tiempo_diploma": "01:30:56",
-    "stats_diploma": "7. /66 1298. /1597"
+    "stats_diploma": "7. /66 1322. /1621"
   },
   {
-    "puesto": 1299,
+    "puesto": 1323,
     "placa": "1529",
     "nombre": "Miguel Yesid Espinosa Diaz",
     "categoria": "10 K ABIERTA",
@@ -22075,15 +22483,15 @@ const RUNNERS_DATA = [
     "dif": "+1:14:00",
     "vel_prom": "6.5 Km/h",
     "ritmo": "9:07 Min/km",
-    "pdf_page": 990,
+    "pdf_page": 512,
     "dorsal": "1529",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Miguel Yesid Espinosa Diaz",
     "tiempo_diploma": "01:31:12",
-    "stats_diploma": "352. /357 1299. /1597"
+    "stats_diploma": "352. /357 1323. /1621"
   },
   {
-    "puesto": 1300,
+    "puesto": 1324,
     "placa": "2303",
     "nombre": "Ana Joaquina Rondón Macias",
     "categoria": "21 K MASTER A",
@@ -22092,15 +22500,15 @@ const RUNNERS_DATA = [
     "dif": "+1:14:03",
     "vel_prom": "13.8 Km/h",
     "ritmo": "4:20 Min/km",
-    "pdf_page": 182,
+    "pdf_page": 881,
     "dorsal": "2303",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Ana Joaquina Rondón Macias",
     "tiempo_diploma": "01:31:15",
-    "stats_diploma": "1. /22 1300. /1597"
+    "stats_diploma": "1. /22 1324. /1621"
   },
   {
-    "puesto": 1301,
+    "puesto": 1325,
     "placa": "1683",
     "nombre": "Yurley Rojas",
     "categoria": "10 K ABIERTA",
@@ -22109,15 +22517,15 @@ const RUNNERS_DATA = [
     "dif": "+1:14:31",
     "vel_prom": "6.5 Km/h",
     "ritmo": "9:10 Min/km",
-    "pdf_page": 629,
+    "pdf_page": 648,
     "dorsal": "1683",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Yurley Rojas",
     "tiempo_diploma": "01:31:43",
-    "stats_diploma": "301. /310 1301. /1597"
+    "stats_diploma": "300. /309 1325. /1621"
   },
   {
-    "puesto": 1302,
+    "puesto": 1326,
     "placa": "1662",
     "nombre": "Wilmer Pava",
     "categoria": "10 K ABIERTA",
@@ -22126,15 +22534,15 @@ const RUNNERS_DATA = [
     "dif": "+1:14:34",
     "vel_prom": "6.5 Km/h",
     "ritmo": "9:10 Min/km",
-    "pdf_page": 991,
+    "pdf_page": 628,
     "dorsal": "1662",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Wilmer Pava",
     "tiempo_diploma": "01:31:46",
-    "stats_diploma": "353. /357 1302. /1597"
+    "stats_diploma": "353. /357 1326. /1621"
   },
   {
-    "puesto": 1303,
+    "puesto": 1327,
     "placa": "2309",
     "nombre": "ARUM CARL HOLDEN",
     "categoria": "21 K MASTER A",
@@ -22143,15 +22551,15 @@ const RUNNERS_DATA = [
     "dif": "+1:14:56",
     "vel_prom": "13.6 Km/h",
     "ritmo": "4:23 Min/km",
-    "pdf_page": 211,
+    "pdf_page": 886,
     "dorsal": "2309",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "ARUM CARL HOLDEN",
     "tiempo_diploma": "01:32:08",
-    "stats_diploma": "8. /66 1303. /1597"
+    "stats_diploma": "8. /66 1327. /1621"
   },
   {
-    "puesto": 1304,
+    "puesto": 1328,
     "placa": "2394",
     "nombre": "Walter Santos",
     "categoria": "21 K MASTER A",
@@ -22160,15 +22568,15 @@ const RUNNERS_DATA = [
     "dif": "+1:15:12",
     "vel_prom": "13.6 Km/h",
     "ritmo": "4:24 Min/km",
-    "pdf_page": 212,
+    "pdf_page": 960,
     "dorsal": "2394",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Walter Santos",
     "tiempo_diploma": "01:32:24",
-    "stats_diploma": "9. /66 1304. /1597"
+    "stats_diploma": "9. /66 1328. /1621"
   },
   {
-    "puesto": 1305,
+    "puesto": 1329,
     "placa": "1720",
     "nombre": "Heidy Alejandra Hernandez Tijaro",
     "categoria": "10 K ABIERTA",
@@ -22177,15 +22585,15 @@ const RUNNERS_DATA = [
     "dif": "+1:15:25",
     "vel_prom": "6.4 Km/h",
     "ritmo": "9:15 Min/km",
-    "pdf_page": 630,
+    "pdf_page": 677,
     "dorsal": "1720",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Heidy Alejandra Hernandez Tijaro",
     "tiempo_diploma": "01:32:37",
-    "stats_diploma": "302. /310 1305. /1597"
+    "stats_diploma": "301. /309 1329. /1621"
   },
   {
-    "puesto": 1306,
+    "puesto": 1330,
     "placa": "1553",
     "nombre": "Onis yulieth Mosquera olaya",
     "categoria": "10 K ABIERTA",
@@ -22194,15 +22602,15 @@ const RUNNERS_DATA = [
     "dif": "+1:15:26",
     "vel_prom": "6.4 Km/h",
     "ritmo": "9:15 Min/km",
-    "pdf_page": 631,
+    "pdf_page": 534,
     "dorsal": "1553",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Onis yulieth Mosquera olaya",
     "tiempo_diploma": "01:32:38",
-    "stats_diploma": "303. /310 1306. /1597"
+    "stats_diploma": "302. /309 1330. /1621"
   },
   {
-    "puesto": 1307,
+    "puesto": 1331,
     "placa": "203",
     "nombre": "Jefrey Estevan Pabón",
     "categoria": "21 K ELITE",
@@ -22211,15 +22619,15 @@ const RUNNERS_DATA = [
     "dif": "+1:15:34",
     "vel_prom": "13.5 Km/h",
     "ritmo": "4:25 Min/km",
-    "pdf_page": 6,
+    "pdf_page": 29,
     "dorsal": "203",
     "categoria_diploma": "21 K ELITE",
     "nombre_diploma": "Jefrey Estevan Pabón",
     "tiempo_diploma": "01:32:46",
-    "stats_diploma": "6. /11 1307. /1597"
+    "stats_diploma": "6. /11 1331. /1621"
   },
   {
-    "puesto": 1308,
+    "puesto": 1332,
     "placa": "2127",
     "nombre": "Luis Eduardo Velandia Arais",
     "categoria": "21 K ABIERTA",
@@ -22228,15 +22636,15 @@ const RUNNERS_DATA = [
     "dif": "+1:15:39",
     "vel_prom": "13.5 Km/h",
     "ritmo": "4:25 Min/km",
-    "pdf_page": 61,
+    "pdf_page": 825,
     "dorsal": "2127",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Luis Eduardo Velandia Arais",
     "tiempo_diploma": "01:32:51",
-    "stats_diploma": "10. /130 1308. /1597"
+    "stats_diploma": "10. /130 1332. /1621"
   },
   {
-    "puesto": 1309,
+    "puesto": 1333,
     "placa": "1409",
     "nombre": "LAURA DANIELA CABALLERO PEÑA",
     "categoria": "10 K ABIERTA",
@@ -22245,15 +22653,15 @@ const RUNNERS_DATA = [
     "dif": "+1:15:55",
     "vel_prom": "6.4 Km/h",
     "ritmo": "9:18 Min/km",
-    "pdf_page": 632,
+    "pdf_page": 412,
     "dorsal": "1409",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "LAURA DANIELA CABALLERO PEÑA",
     "tiempo_diploma": "01:33:07",
-    "stats_diploma": "304. /310 1309. /1597"
+    "stats_diploma": "303. /309 1333. /1621"
   },
   {
-    "puesto": 1310,
+    "puesto": 1334,
     "placa": "2505",
     "nombre": "Armando José Moreno Coronado",
     "categoria": "21 K MASTER B",
@@ -22262,15 +22670,15 @@ const RUNNERS_DATA = [
     "dif": "+1:16:26",
     "vel_prom": "13.4 Km/h",
     "ritmo": "4:27 Min/km",
-    "pdf_page": 279,
+    "pdf_page": 970,
     "dorsal": "2505",
     "categoria_diploma": "21 K MASTER B",
     "nombre_diploma": "Armando José Moreno Coronado",
     "tiempo_diploma": "01:33:38",
-    "stats_diploma": "4. /26 1310. /1597"
+    "stats_diploma": "4. /26 1334. /1621"
   },
   {
-    "puesto": 1311,
+    "puesto": 1335,
     "placa": "2371",
     "nombre": "Mario Andrés Leotau Rodríguez",
     "categoria": "21 K MASTER A",
@@ -22279,15 +22687,15 @@ const RUNNERS_DATA = [
     "dif": "+1:16:27",
     "vel_prom": "13.4 Km/h",
     "ritmo": "4:27 Min/km",
-    "pdf_page": 213,
+    "pdf_page": 941,
     "dorsal": "2371",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Mario Andrés Leotau Rodríguez",
     "tiempo_diploma": "01:33:39",
-    "stats_diploma": "10. /66 1311. /1597"
+    "stats_diploma": "10. /66 1335. /1621"
   },
   {
-    "puesto": 1312,
+    "puesto": 1336,
     "placa": "2058",
     "nombre": "Ever Arias",
     "categoria": "21 K ABIERTA",
@@ -22296,15 +22704,15 @@ const RUNNERS_DATA = [
     "dif": "+1:16:34",
     "vel_prom": "13.4 Km/h",
     "ritmo": "4:27 Min/km",
-    "pdf_page": 62,
+    "pdf_page": 758,
     "dorsal": "2058",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Ever Arias",
     "tiempo_diploma": "01:33:46",
-    "stats_diploma": "11. /130 1312. /1597"
+    "stats_diploma": "11. /130 1336. /1621"
   },
   {
-    "puesto": 1313,
+    "puesto": 1337,
     "placa": "1214",
     "nombre": "Elkin Andrés Rodríguez Lagos",
     "categoria": "10 K ABIERTA",
@@ -22313,15 +22721,15 @@ const RUNNERS_DATA = [
     "dif": "+1:16:37",
     "vel_prom": "6.3 Km/h",
     "ritmo": "9:22 Min/km",
-    "pdf_page": 992,
+    "pdf_page": 235,
     "dorsal": "1214",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Elkin Andrés Rodríguez Lagos",
     "tiempo_diploma": "01:33:49",
-    "stats_diploma": "354. /357 1313. /1597"
+    "stats_diploma": "354. /357 1337. /1621"
   },
   {
-    "puesto": 1314,
+    "puesto": 1338,
     "placa": "1151",
     "nombre": "Daniela Romo Montoya",
     "categoria": "10 K ABIERTA",
@@ -22330,15 +22738,15 @@ const RUNNERS_DATA = [
     "dif": "+1:16:57",
     "vel_prom": "6.3 Km/h",
     "ritmo": "9:24 Min/km",
-    "pdf_page": 993,
+    "pdf_page": 174,
     "dorsal": "1151",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Daniela Romo Montoya",
     "tiempo_diploma": "01:34:09",
-    "stats_diploma": "355. /357 1314. /1597"
+    "stats_diploma": "355. /357 1338. /1621"
   },
   {
-    "puesto": 1315,
+    "puesto": 1339,
     "placa": "2025",
     "nombre": "BRIAN ROJAS",
     "categoria": "21 K ABIERTA",
@@ -22347,15 +22755,15 @@ const RUNNERS_DATA = [
     "dif": "+1:17:06",
     "vel_prom": "13.3 Km/h",
     "ritmo": "4:29 Min/km",
-    "pdf_page": 63,
+    "pdf_page": 729,
     "dorsal": "2025",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "BRIAN ROJAS",
     "tiempo_diploma": "01:34:18",
-    "stats_diploma": "12. /130 1315. /1597"
+    "stats_diploma": "12. /130 1339. /1621"
   },
   {
-    "puesto": 1316,
+    "puesto": 1340,
     "placa": "3186",
     "nombre": "yaneth Caballero",
     "categoria": "10 K MASTER A",
@@ -22364,15 +22772,15 @@ const RUNNERS_DATA = [
     "dif": "+1:17:28",
     "vel_prom": "6.3 Km/h",
     "ritmo": "9:28 Min/km",
-    "pdf_page": 1081,
+    "pdf_page": 1171,
     "dorsal": "3186",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "yaneth Caballero",
     "tiempo_diploma": "01:34:40",
-    "stats_diploma": "86. /87 1316. /1597"
+    "stats_diploma": "86. /87 1340. /1621"
   },
   {
-    "puesto": 1317,
+    "puesto": 1341,
     "placa": "2161",
     "nombre": "Sergio Andres Salazar Ardila",
     "categoria": "21 K ABIERTA",
@@ -22381,15 +22789,15 @@ const RUNNERS_DATA = [
     "dif": "+1:17:55",
     "vel_prom": "13.2 Km/h",
     "ritmo": "4:31 Min/km",
-    "pdf_page": 64,
+    "pdf_page": 855,
     "dorsal": "2161",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Sergio Andres Salazar Ardila",
     "tiempo_diploma": "01:35:07",
-    "stats_diploma": "13. /130 1317. /1597"
+    "stats_diploma": "13. /130 1341. /1621"
   },
   {
-    "puesto": 1318,
+    "puesto": 1342,
     "placa": "2010",
     "nombre": "Andrea Katherine Rios Escobar",
     "categoria": "21 K ABIERTA",
@@ -22398,15 +22806,15 @@ const RUNNERS_DATA = [
     "dif": "+1:18:13",
     "vel_prom": "13.2 Km/h",
     "ritmo": "4:32 Min/km",
-    "pdf_page": 12,
+    "pdf_page": 715,
     "dorsal": "2010",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Andrea Katherine Rios Escobar",
     "tiempo_diploma": "01:35:25",
-    "stats_diploma": "1. /40 1318. /1597"
+    "stats_diploma": "4. /43 1342. /1621"
   },
   {
-    "puesto": 1319,
+    "puesto": 1343,
     "placa": "1583",
     "nombre": "Rocio Ruíz Rincón",
     "categoria": "10 K ABIERTA",
@@ -22415,15 +22823,15 @@ const RUNNERS_DATA = [
     "dif": "+1:18:20",
     "vel_prom": "6.2 Km/h",
     "ritmo": "9:33 Min/km",
-    "pdf_page": 633,
+    "pdf_page": 560,
     "dorsal": "1583",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Rocio Ruíz Rincón",
     "tiempo_diploma": "01:35:32",
-    "stats_diploma": "305. /310 1319. /1597"
+    "stats_diploma": "304. /309 1343. /1621"
   },
   {
-    "puesto": 1320,
+    "puesto": 1344,
     "placa": "2524",
     "nombre": "José Rafael Luna Navarro",
     "categoria": "21 K MASTER B",
@@ -22432,15 +22840,15 @@ const RUNNERS_DATA = [
     "dif": "+1:18:26",
     "vel_prom": "13.1 Km/h",
     "ritmo": "4:33 Min/km",
-    "pdf_page": 280,
+    "pdf_page": 986,
     "dorsal": "2524",
     "categoria_diploma": "21 K MASTER B",
     "nombre_diploma": "José Rafael Luna Navarro",
     "tiempo_diploma": "01:35:38",
-    "stats_diploma": "5. /26 1320. /1597"
+    "stats_diploma": "5. /26 1344. /1621"
   },
   {
-    "puesto": 1321,
+    "puesto": 1345,
     "placa": "2043",
     "nombre": "Denis Anaya",
     "categoria": "21 K ABIERTA",
@@ -22449,15 +22857,15 @@ const RUNNERS_DATA = [
     "dif": "+1:18:56",
     "vel_prom": "13.1 Km/h",
     "ritmo": "4:34 Min/km",
-    "pdf_page": 13,
+    "pdf_page": 745,
     "dorsal": "2043",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Denis Anaya",
     "tiempo_diploma": "01:36:08",
-    "stats_diploma": "2. /40 1321. /1597"
+    "stats_diploma": "5. /43 1345. /1621"
   },
   {
-    "puesto": 1322,
+    "puesto": 1346,
     "placa": "1225",
     "nombre": "Estefany Rosado",
     "categoria": "10 K ABIERTA",
@@ -22466,15 +22874,15 @@ const RUNNERS_DATA = [
     "dif": "+1:19:03",
     "vel_prom": "6.2 Km/h",
     "ritmo": "9:37 Min/km",
-    "pdf_page": 634,
+    "pdf_page": 246,
     "dorsal": "1225",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Estefany Rosado",
     "tiempo_diploma": "01:36:15",
-    "stats_diploma": "306. /310 1322. /1597"
+    "stats_diploma": "305. /309 1346. /1621"
   },
   {
-    "puesto": 1323,
+    "puesto": 1347,
     "placa": "2175",
     "nombre": "Joshua Rugeles Ramirez",
     "categoria": "21 K ABIERTA",
@@ -22483,15 +22891,15 @@ const RUNNERS_DATA = [
     "dif": "+1:19:06",
     "vel_prom": "13.0 Km/h",
     "ritmo": "4:35 Min/km",
-    "pdf_page": 65,
+    "pdf_page": 868,
     "dorsal": "2175",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Joshua Rugeles Ramirez",
     "tiempo_diploma": "01:36:18",
-    "stats_diploma": "14. /130 1323. /1597"
+    "stats_diploma": "14. /130 1347. /1621"
   },
   {
-    "puesto": 1324,
+    "puesto": 1348,
     "placa": "2144",
     "nombre": "Néstor José Rueda Rueda",
     "categoria": "21 K ABIERTA",
@@ -22500,15 +22908,15 @@ const RUNNERS_DATA = [
     "dif": "+1:19:48",
     "vel_prom": "12.9 Km/h",
     "ritmo": "4:37 Min/km",
-    "pdf_page": 66,
+    "pdf_page": 841,
     "dorsal": "2144",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Néstor José Rueda Rueda",
     "tiempo_diploma": "01:37:00",
-    "stats_diploma": "15. /130 1324. /1597"
+    "stats_diploma": "15. /130 1348. /1621"
   },
   {
-    "puesto": 1325,
+    "puesto": 1349,
     "placa": "211",
     "nombre": "Sergio Nicolás Guevara Prieto",
     "categoria": "21 K ELITE",
@@ -22517,15 +22925,15 @@ const RUNNERS_DATA = [
     "dif": "+1:19:53",
     "vel_prom": "12.9 Km/h",
     "ritmo": "4:37 Min/km",
-    "pdf_page": 7,
+    "pdf_page": 37,
     "dorsal": "211",
     "categoria_diploma": "21 K ELITE",
     "nombre_diploma": "Sergio Nicolás Guevara Prieto",
     "tiempo_diploma": "01:37:05",
-    "stats_diploma": "7. /11 1325. /1597"
+    "stats_diploma": "7. /11 1349. /1621"
   },
   {
-    "puesto": 1326,
+    "puesto": 1350,
     "placa": "2515",
     "nombre": "Esteban García Herrera",
     "categoria": "21 K MASTER B",
@@ -22534,15 +22942,15 @@ const RUNNERS_DATA = [
     "dif": "+1:19:58",
     "vel_prom": "12.9 Km/h",
     "ritmo": "4:37 Min/km",
-    "pdf_page": 281,
+    "pdf_page": 978,
     "dorsal": "2515",
     "categoria_diploma": "21 K MASTER B",
     "nombre_diploma": "Esteban García Herrera",
     "tiempo_diploma": "01:37:10",
-    "stats_diploma": "6. /26 1326. /1597"
+    "stats_diploma": "6. /26 1350. /1621"
   },
   {
-    "puesto": 1327,
+    "puesto": 1351,
     "placa": "1706",
     "nombre": "Diego Naranjo",
     "categoria": "10 K ABIERTA",
@@ -22551,15 +22959,15 @@ const RUNNERS_DATA = [
     "dif": "+1:20:00",
     "vel_prom": "6.1 Km/h",
     "ritmo": "9:43 Min/km",
-    "pdf_page": 994,
+    "pdf_page": 666,
     "dorsal": "1706",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Diego Naranjo",
     "tiempo_diploma": "01:37:12",
-    "stats_diploma": "356. /357 1327. /1597"
+    "stats_diploma": "356. /357 1351. /1621"
   },
   {
-    "puesto": 1328,
+    "puesto": 1352,
     "placa": "1413",
     "nombre": "Laura Yurani Chaparro León",
     "categoria": "10 K ABIERTA",
@@ -22568,15 +22976,15 @@ const RUNNERS_DATA = [
     "dif": "+1:20:00",
     "vel_prom": "6.1 Km/h",
     "ritmo": "9:43 Min/km",
-    "pdf_page": 635,
+    "pdf_page": 414,
     "dorsal": "1413",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Laura Yurani Chaparro León",
     "tiempo_diploma": "01:37:12",
-    "stats_diploma": "307. /310 1328. /1597"
+    "stats_diploma": "306. /309 1352. /1621"
   },
   {
-    "puesto": 1329,
+    "puesto": 1353,
     "placa": "3318",
     "nombre": "Edna Rodríguez",
     "categoria": "10 K MASTER B",
@@ -22585,15 +22993,15 @@ const RUNNERS_DATA = [
     "dif": "+1:20:12",
     "vel_prom": "6.1 Km/h",
     "ritmo": "9:44 Min/km",
-    "pdf_page": 1221,
+    "pdf_page": 1211,
     "dorsal": "3318",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Edna Rodríguez",
     "tiempo_diploma": "00:23:01",
-    "stats_diploma": "32. /33 1329. /1597"
+    "stats_diploma": "32. /33 1353. /1621"
   },
   {
-    "puesto": 1330,
+    "puesto": 1354,
     "placa": "1458",
     "nombre": "Lyz Florez",
     "categoria": "10 K ABIERTA",
@@ -22602,15 +23010,15 @@ const RUNNERS_DATA = [
     "dif": "+1:20:15",
     "vel_prom": "6.1 Km/h",
     "ritmo": "9:44 Min/km",
-    "pdf_page": 636,
+    "pdf_page": 451,
     "dorsal": "1458",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Lyz Florez",
     "tiempo_diploma": "01:37:27",
-    "stats_diploma": "308. /310 1330. /1597"
+    "stats_diploma": "307. /309 1354. /1621"
   },
   {
-    "puesto": 1331,
+    "puesto": 1355,
     "placa": "2074",
     "nombre": "JARBIN STEVENSOM GOMEZ SUAREZ",
     "categoria": "21 K ABIERTA",
@@ -22619,15 +23027,15 @@ const RUNNERS_DATA = [
     "dif": "+1:20:32",
     "vel_prom": "12.8 Km/h",
     "ritmo": "4:39 Min/km",
-    "pdf_page": 67,
+    "pdf_page": 774,
     "dorsal": "2074",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "JARBIN STEVENSOM GOMEZ SUAREZ",
     "tiempo_diploma": "01:37:44",
-    "stats_diploma": "16. /130 1331. /1597"
+    "stats_diploma": "16. /130 1355. /1621"
   },
   {
-    "puesto": 1332,
+    "puesto": 1356,
     "placa": "2401",
     "nombre": "Hernan Alirio Gonzalez Suarez",
     "categoria": "21 K MASTER A",
@@ -22636,15 +23044,15 @@ const RUNNERS_DATA = [
     "dif": "+1:21:21",
     "vel_prom": "12.7 Km/h",
     "ritmo": "4:41 Min/km",
-    "pdf_page": 214,
+    "pdf_page": 966,
     "dorsal": "2401",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Hernan Alirio Gonzalez Suarez",
     "tiempo_diploma": "01:38:33",
-    "stats_diploma": "11. /66 1332. /1597"
+    "stats_diploma": "11. /66 1356. /1621"
   },
   {
-    "puesto": 1333,
+    "puesto": 1357,
     "placa": "201",
     "nombre": "Gerson Lizcano Rubio",
     "categoria": "21 K ELITE",
@@ -22653,15 +23061,15 @@ const RUNNERS_DATA = [
     "dif": "+1:21:21",
     "vel_prom": "12.7 Km/h",
     "ritmo": "4:41 Min/km",
-    "pdf_page": 8,
+    "pdf_page": 28,
     "dorsal": "201",
     "categoria_diploma": "21 K ELITE",
     "nombre_diploma": "Gerson Lizcano Rubio",
     "tiempo_diploma": "01:38:33",
-    "stats_diploma": "8. /11 1333. /1597"
+    "stats_diploma": "8. /11 1357. /1621"
   },
   {
-    "puesto": 1334,
+    "puesto": 1358,
     "placa": "2159",
     "nombre": "Sebastian Quiceno Perez",
     "categoria": "21 K ABIERTA",
@@ -22670,15 +23078,15 @@ const RUNNERS_DATA = [
     "dif": "+1:21:41",
     "vel_prom": "12.7 Km/h",
     "ritmo": "4:42 Min/km",
-    "pdf_page": 68,
+    "pdf_page": 853,
     "dorsal": "2159",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Sebastian Quiceno Perez",
     "tiempo_diploma": "01:38:53",
-    "stats_diploma": "17. /130 1334. /1597"
+    "stats_diploma": "17. /130 1358. /1621"
   },
   {
-    "puesto": 1335,
+    "puesto": 1359,
     "placa": "2065",
     "nombre": "Guillermo Steven Sarmiento Quintero",
     "categoria": "21 K ABIERTA",
@@ -22687,15 +23095,15 @@ const RUNNERS_DATA = [
     "dif": "+1:21:45",
     "vel_prom": "12.7 Km/h",
     "ritmo": "4:42 Min/km",
-    "pdf_page": 69,
+    "pdf_page": 765,
     "dorsal": "2065",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Guillermo Steven Sarmiento Quintero",
     "tiempo_diploma": "01:38:57",
-    "stats_diploma": "18. /130 1335. /1597"
+    "stats_diploma": "18. /130 1359. /1621"
   },
   {
-    "puesto": 1336,
+    "puesto": 1360,
     "placa": "3335",
     "nombre": "Jesus Antonio Maldonado granados",
     "categoria": "10 K MASTER B",
@@ -22704,15 +23112,15 @@ const RUNNERS_DATA = [
     "dif": "+1:22:01",
     "vel_prom": "6.0 Km/h",
     "ritmo": "9:55 Min/km",
-    "pdf_page": 1277,
+    "pdf_page": 1228,
     "dorsal": "3335",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "Jesus Antonio Maldonado granados",
     "tiempo_diploma": "01:39:13",
-    "stats_diploma": "55. /56 1336. /1597"
+    "stats_diploma": "56. /57 1360. /1621"
   },
   {
-    "puesto": 1337,
+    "puesto": 1361,
     "placa": "1497",
     "nombre": "María Paula Mantilla Blanco",
     "categoria": "10 K ABIERTA",
@@ -22721,15 +23129,15 @@ const RUNNERS_DATA = [
     "dif": "+1:22:02",
     "vel_prom": "6.0 Km/h",
     "ritmo": "9:55 Min/km",
-    "pdf_page": 637,
+    "pdf_page": 483,
     "dorsal": "1497",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "María Paula Mantilla Blanco",
     "tiempo_diploma": "01:39:14",
-    "stats_diploma": "309. /310 1337. /1597"
+    "stats_diploma": "308. /309 1361. /1621"
   },
   {
-    "puesto": 1338,
+    "puesto": 1362,
     "placa": "122",
     "nombre": "Nohora Rubiela Blanco Tristancho",
     "categoria": "10 K ELITE",
@@ -22738,15 +23146,15 @@ const RUNNERS_DATA = [
     "dif": "+1:22:03",
     "vel_prom": "6.0 Km/h",
     "ritmo": "9:55 Min/km",
-    "pdf_page": 318,
+    "pdf_page": 18,
     "dorsal": "122",
     "categoria_diploma": "10 K ELITE",
     "nombre_diploma": "Nohora Rubiela Blanco Tristancho",
     "tiempo_diploma": "01:39:15",
-    "stats_diploma": "17. /17 1338. /1597"
+    "stats_diploma": "17. /17 1362. /1621"
   },
   {
-    "puesto": 1339,
+    "puesto": 1363,
     "placa": "2351",
     "nombre": "Josue Julio Trillos",
     "categoria": "21 K MASTER A",
@@ -22755,15 +23163,15 @@ const RUNNERS_DATA = [
     "dif": "+1:22:05",
     "vel_prom": "12.6 Km/h",
     "ritmo": "4:43 Min/km",
-    "pdf_page": 215,
+    "pdf_page": 922,
     "dorsal": "2351",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Josue Julio Trillos",
     "tiempo_diploma": "01:39:17",
-    "stats_diploma": "12. /66 1339. /1597"
+    "stats_diploma": "12. /66 1363. /1621"
   },
   {
-    "puesto": 1340,
+    "puesto": 1364,
     "placa": "2362",
     "nombre": "liliana Maya",
     "categoria": "21 K MASTER A",
@@ -22772,15 +23180,15 @@ const RUNNERS_DATA = [
     "dif": "+1:22:36",
     "vel_prom": "12.6 Km/h",
     "ritmo": "4:45 Min/km",
-    "pdf_page": 183,
+    "pdf_page": 932,
     "dorsal": "2362",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "liliana Maya",
     "tiempo_diploma": "01:39:48",
-    "stats_diploma": "2. /22 1340. /1597"
+    "stats_diploma": "2. /22 1364. /1621"
   },
   {
-    "puesto": 1341,
+    "puesto": 1365,
     "placa": "2365",
     "nombre": "Luz Mery Peña Mateus",
     "categoria": "21 K MASTER A",
@@ -22789,15 +23197,15 @@ const RUNNERS_DATA = [
     "dif": "+1:23:05",
     "vel_prom": "12.5 Km/h",
     "ritmo": "4:46 Min/km",
-    "pdf_page": 184,
+    "pdf_page": 935,
     "dorsal": "2365",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Luz Mery Peña Mateus",
     "tiempo_diploma": "01:40:17",
-    "stats_diploma": "3. /22 1341. /1597"
+    "stats_diploma": "3. /22 1365. /1621"
   },
   {
-    "puesto": 1342,
+    "puesto": 1366,
     "placa": "2513",
     "nombre": "Elfar Manuel Bohorquez Jaimes",
     "categoria": "21 K MASTER B",
@@ -22806,15 +23214,15 @@ const RUNNERS_DATA = [
     "dif": "+1:23:26",
     "vel_prom": "12.5 Km/h",
     "ritmo": "4:47 Min/km",
-    "pdf_page": 282,
+    "pdf_page": 976,
     "dorsal": "2513",
     "categoria_diploma": "21 K MASTER B",
     "nombre_diploma": "Elfar Manuel Bohorquez Jaimes",
     "tiempo_diploma": "01:40:38",
-    "stats_diploma": "7. /26 1342. /1597"
+    "stats_diploma": "7. /26 1366. /1621"
   },
   {
-    "puesto": 1343,
+    "puesto": 1367,
     "placa": "1073",
     "nombre": "Angie Carolina Duarte Rodriguez",
     "categoria": "10 K ABIERTA",
@@ -22823,15 +23231,15 @@ const RUNNERS_DATA = [
     "dif": "+1:23:37",
     "vel_prom": "5.9 Km/h",
     "ritmo": "10:04 Min/km",
-    "pdf_page": 638,
+    "pdf_page": 103,
     "dorsal": "1073",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "Angie Carolina Duarte Rodriguez",
     "tiempo_diploma": "01:40:49",
-    "stats_diploma": "310. /310 1343. /1597"
+    "stats_diploma": "309. /309 1367. /1621"
   },
   {
-    "puesto": 1344,
+    "puesto": 1368,
     "placa": "2343",
     "nombre": "Jefferson Javier Luque calderon",
     "categoria": "21 K MASTER A",
@@ -22840,15 +23248,15 @@ const RUNNERS_DATA = [
     "dif": "+1:24:10",
     "vel_prom": "12.4 Km/h",
     "ritmo": "4:49 Min/km",
-    "pdf_page": 216,
+    "pdf_page": 915,
     "dorsal": "2343",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Jefferson Javier Luque calderon",
     "tiempo_diploma": "01:41:22",
-    "stats_diploma": "13. /66 1344. /1597"
+    "stats_diploma": "13. /66 1368. /1621"
   },
   {
-    "puesto": 1345,
+    "puesto": 1369,
     "placa": "2143",
     "nombre": "Néstor Jose Saad Gutierrez",
     "categoria": "21 K ABIERTA",
@@ -22857,15 +23265,15 @@ const RUNNERS_DATA = [
     "dif": "+1:24:15",
     "vel_prom": "12.4 Km/h",
     "ritmo": "4:49 Min/km",
-    "pdf_page": 70,
+    "pdf_page": 840,
     "dorsal": "2143",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Néstor Jose Saad Gutierrez",
     "tiempo_diploma": "01:41:27",
-    "stats_diploma": "19. /130 1345. /1597"
+    "stats_diploma": "19. /130 1369. /1621"
   },
   {
-    "puesto": 1346,
+    "puesto": 1370,
     "placa": "1314",
     "nombre": "JHOSEP FARID TORO SOTO",
     "categoria": "10 K ABIERTA",
@@ -22874,15 +23282,15 @@ const RUNNERS_DATA = [
     "dif": "+1:24:20",
     "vel_prom": "5.9 Km/h",
     "ritmo": "10:09 Min/km",
-    "pdf_page": 995,
+    "pdf_page": 328,
     "dorsal": "1314",
     "categoria_diploma": "10 K ABIERTA",
     "nombre_diploma": "JHOSEP FARID TORO SOTO",
     "tiempo_diploma": "01:41:32",
-    "stats_diploma": "357. /357 1346. /1597"
+    "stats_diploma": "357. /357 1370. /1621"
   },
   {
-    "puesto": 1347,
+    "puesto": 1371,
     "placa": "2162",
     "nombre": "Sergio Andrés Bayona Rivera",
     "categoria": "21 K ABIERTA",
@@ -22891,15 +23299,15 @@ const RUNNERS_DATA = [
     "dif": "+1:24:26",
     "vel_prom": "12.3 Km/h",
     "ritmo": "4:50 Min/km",
-    "pdf_page": 71,
+    "pdf_page": 856,
     "dorsal": "2162",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Sergio Andrés Bayona Rivera",
     "tiempo_diploma": "01:41:38",
-    "stats_diploma": "20. /130 1347. /1597"
+    "stats_diploma": "20. /130 1371. /1621"
   },
   {
-    "puesto": 1348,
+    "puesto": 1372,
     "placa": "2028",
     "nombre": "Carlos Salas",
     "categoria": "21 K ABIERTA",
@@ -22908,15 +23316,15 @@ const RUNNERS_DATA = [
     "dif": "+1:25:43",
     "vel_prom": "12.2 Km/h",
     "ritmo": "4:54 Min/km",
-    "pdf_page": 72,
+    "pdf_page": 732,
     "dorsal": "2028",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Carlos Salas",
     "tiempo_diploma": "01:42:55",
-    "stats_diploma": "21. /130 1348. /1597"
+    "stats_diploma": "21. /130 1372. /1621"
   },
   {
-    "puesto": 1349,
+    "puesto": 1373,
     "placa": "2042",
     "nombre": "Dayan Javier Vergara Lozano",
     "categoria": "21 K ABIERTA",
@@ -22925,15 +23333,15 @@ const RUNNERS_DATA = [
     "dif": "+1:25:48",
     "vel_prom": "12.2 Km/h",
     "ritmo": "4:54 Min/km",
-    "pdf_page": 73,
+    "pdf_page": 744,
     "dorsal": "2042",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Dayan Javier Vergara Lozano",
     "tiempo_diploma": "01:43:00",
-    "stats_diploma": "22. /130 1349. /1597"
+    "stats_diploma": "22. /130 1373. /1621"
   },
   {
-    "puesto": 1350,
+    "puesto": 1374,
     "placa": "2078",
     "nombre": "Jhan Piero Campos Cueñlae",
     "categoria": "21 K ABIERTA",
@@ -22942,15 +23350,15 @@ const RUNNERS_DATA = [
     "dif": "+1:25:54",
     "vel_prom": "12.2 Km/h",
     "ritmo": "4:54 Min/km",
-    "pdf_page": 74,
+    "pdf_page": 778,
     "dorsal": "2078",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Jhan Piero Campos Cueñlae",
     "tiempo_diploma": "01:43:06",
-    "stats_diploma": "23. /130 1350. /1597"
+    "stats_diploma": "23. /130 1374. /1621"
   },
   {
-    "puesto": 1351,
+    "puesto": 1375,
     "placa": "2350",
     "nombre": "JOSE DAVID CAMARGO AYALA",
     "categoria": "21 K MASTER A",
@@ -22959,15 +23367,15 @@ const RUNNERS_DATA = [
     "dif": "+1:26:35",
     "vel_prom": "12.1 Km/h",
     "ritmo": "4:56 Min/km",
-    "pdf_page": 217,
+    "pdf_page": 921,
     "dorsal": "2350",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "JOSE DAVID CAMARGO AYALA",
     "tiempo_diploma": "01:43:47",
-    "stats_diploma": "14. /66 1351. /1597"
+    "stats_diploma": "14. /66 1375. /1621"
   },
   {
-    "puesto": 1352,
+    "puesto": 1376,
     "placa": "2517",
     "nombre": "Hector Tutasaura",
     "categoria": "21 K MASTER B",
@@ -22976,15 +23384,15 @@ const RUNNERS_DATA = [
     "dif": "+1:26:44",
     "vel_prom": "12.1 Km/h",
     "ritmo": "4:56 Min/km",
-    "pdf_page": 283,
+    "pdf_page": 980,
     "dorsal": "2517",
     "categoria_diploma": "21 K MASTER B",
     "nombre_diploma": "Hector Tutasaura",
     "tiempo_diploma": "01:43:56",
-    "stats_diploma": "8. /26 1352. /1597"
+    "stats_diploma": "8. /26 1376. /1621"
   },
   {
-    "puesto": 1353,
+    "puesto": 1377,
     "placa": "2320",
     "nombre": "Diego Andres Sanmiguel Vargas",
     "categoria": "21 K MASTER A",
@@ -22993,15 +23401,15 @@ const RUNNERS_DATA = [
     "dif": "+1:26:48",
     "vel_prom": "12.1 Km/h",
     "ritmo": "4:57 Min/km",
-    "pdf_page": 218,
+    "pdf_page": 895,
     "dorsal": "2320",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Diego Andres Sanmiguel Vargas",
     "tiempo_diploma": "01:44:00",
-    "stats_diploma": "15. /66 1353. /1597"
+    "stats_diploma": "15. /66 1377. /1621"
   },
   {
-    "puesto": 1354,
+    "puesto": 1378,
     "placa": "2339",
     "nombre": "Jairo Alexander Arenales Castellanos",
     "categoria": "21 K MASTER A",
@@ -23010,15 +23418,15 @@ const RUNNERS_DATA = [
     "dif": "+1:26:56",
     "vel_prom": "12.0 Km/h",
     "ritmo": "4:57 Min/km",
-    "pdf_page": 219,
+    "pdf_page": 911,
     "dorsal": "2339",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Jairo Alexander Arenales Castellanos",
     "tiempo_diploma": "01:44:08",
-    "stats_diploma": "16. /66 1354. /1597"
+    "stats_diploma": "16. /66 1378. /1621"
   },
   {
-    "puesto": 1355,
+    "puesto": 1379,
     "placa": "2110",
     "nombre": "Kevin Nicolas Verdugo Jurado",
     "categoria": "21 K ABIERTA",
@@ -23027,15 +23435,15 @@ const RUNNERS_DATA = [
     "dif": "+1:27:00",
     "vel_prom": "12.0 Km/h",
     "ritmo": "4:57 Min/km",
-    "pdf_page": 75,
+    "pdf_page": 808,
     "dorsal": "2110",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Kevin Nicolas Verdugo Jurado",
     "tiempo_diploma": "01:44:12",
-    "stats_diploma": "24. /130 1355. /1597"
+    "stats_diploma": "24. /130 1379. /1621"
   },
   {
-    "puesto": 1356,
+    "puesto": 1380,
     "placa": "2011",
     "nombre": "Andres Rueda Diaz",
     "categoria": "21 K ABIERTA",
@@ -23044,15 +23452,15 @@ const RUNNERS_DATA = [
     "dif": "+1:27:04",
     "vel_prom": "12.0 Km/h",
     "ritmo": "4:57 Min/km",
-    "pdf_page": 76,
+    "pdf_page": 716,
     "dorsal": "2011",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Andres Rueda Diaz",
     "tiempo_diploma": "01:44:16",
-    "stats_diploma": "25. /130 1356. /1597"
+    "stats_diploma": "25. /130 1380. /1621"
   },
   {
-    "puesto": 1357,
+    "puesto": 1381,
     "placa": "2085",
     "nombre": "johan sebastian garces nuñez",
     "categoria": "21 K ABIERTA",
@@ -23061,15 +23469,15 @@ const RUNNERS_DATA = [
     "dif": "+1:27:18",
     "vel_prom": "12.0 Km/h",
     "ritmo": "4:58 Min/km",
-    "pdf_page": 77,
+    "pdf_page": 785,
     "dorsal": "2085",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "johan sebastian garces nuñez",
     "tiempo_diploma": "01:44:30",
-    "stats_diploma": "26. /130 1357. /1597"
+    "stats_diploma": "26. /130 1381. /1621"
   },
   {
-    "puesto": 1358,
+    "puesto": 1382,
     "placa": "2053",
     "nombre": "Edward Zambrano",
     "categoria": "21 K ABIERTA",
@@ -23078,15 +23486,15 @@ const RUNNERS_DATA = [
     "dif": "+1:27:27",
     "vel_prom": "12.0 Km/h",
     "ritmo": "4:59 Min/km",
-    "pdf_page": 78,
+    "pdf_page": 754,
     "dorsal": "2053",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Edward Zambrano",
     "tiempo_diploma": "01:44:39",
-    "stats_diploma": "27. /130 1358. /1597"
+    "stats_diploma": "27. /130 1382. /1621"
   },
   {
-    "puesto": 1359,
+    "puesto": 1383,
     "placa": "2181",
     "nombre": "Alvaro Rubiano",
     "categoria": "21 K ABIERTA",
@@ -23095,15 +23503,15 @@ const RUNNERS_DATA = [
     "dif": "+1:27:31",
     "vel_prom": "12.0 Km/h",
     "ritmo": "4:59 Min/km",
-    "pdf_page": 79,
+    "pdf_page": 873,
     "dorsal": "2181",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Alvaro Rubiano",
     "tiempo_diploma": "01:44:43",
-    "stats_diploma": "28. /130 1359. /1597"
+    "stats_diploma": "28. /130 1383. /1621"
   },
   {
-    "puesto": 1360,
+    "puesto": 1384,
     "placa": "2126",
     "nombre": "Luis David Pinto",
     "categoria": "21 K ABIERTA",
@@ -23112,15 +23520,15 @@ const RUNNERS_DATA = [
     "dif": "+1:27:32",
     "vel_prom": "12.0 Km/h",
     "ritmo": "4:59 Min/km",
-    "pdf_page": 80,
+    "pdf_page": 824,
     "dorsal": "2126",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Luis David Pinto",
     "tiempo_diploma": "01:44:44",
-    "stats_diploma": "29. /130 1360. /1597"
+    "stats_diploma": "29. /130 1384. /1621"
   },
   {
-    "puesto": 1361,
+    "puesto": 1385,
     "placa": "2349",
     "nombre": "John Freddy Sandoval",
     "categoria": "21 K MASTER A",
@@ -23129,15 +23537,15 @@ const RUNNERS_DATA = [
     "dif": "+1:27:41",
     "vel_prom": "12.0 Km/h",
     "ritmo": "4:59 Min/km",
-    "pdf_page": 220,
+    "pdf_page": 920,
     "dorsal": "2349",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "John Freddy Sandoval",
     "tiempo_diploma": "01:44:53",
-    "stats_diploma": "17. /66 1361. /1597"
+    "stats_diploma": "17. /66 1385. /1621"
   },
   {
-    "puesto": 1362,
+    "puesto": 1386,
     "placa": "207",
     "nombre": "Leider Andres Rubiano Rondon",
     "categoria": "21 K ELITE",
@@ -23146,15 +23554,15 @@ const RUNNERS_DATA = [
     "dif": "+1:27:57",
     "vel_prom": "11.9 Km/h",
     "ritmo": "5:00 Min/km",
-    "pdf_page": 9,
+    "pdf_page": 33,
     "dorsal": "207",
     "categoria_diploma": "21 K ELITE",
     "nombre_diploma": "Leider Andres Rubiano Rondon",
     "tiempo_diploma": "01:45:09",
-    "stats_diploma": "9. /11 1362. /1597"
+    "stats_diploma": "9. /11 1386. /1621"
   },
   {
-    "puesto": 1363,
+    "puesto": 1387,
     "placa": "2369",
     "nombre": "Marcos José Gómez Páez",
     "categoria": "21 K MASTER A",
@@ -23163,15 +23571,15 @@ const RUNNERS_DATA = [
     "dif": "+1:28:03",
     "vel_prom": "11.9 Km/h",
     "ritmo": "5:00 Min/km",
-    "pdf_page": 221,
+    "pdf_page": 939,
     "dorsal": "2369",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Marcos José Gómez Páez",
     "tiempo_diploma": "01:45:15",
-    "stats_diploma": "18. /66 1363. /1597"
+    "stats_diploma": "18. /66 1387. /1621"
   },
   {
-    "puesto": 1364,
+    "puesto": 1388,
     "placa": "2523",
     "nombre": "Jose Luis Castro Conteras",
     "categoria": "21 K MASTER B",
@@ -23180,15 +23588,15 @@ const RUNNERS_DATA = [
     "dif": "+1:28:45",
     "vel_prom": "11.8 Km/h",
     "ritmo": "5:02 Min/km",
-    "pdf_page": 284,
+    "pdf_page": 985,
     "dorsal": "2523",
     "categoria_diploma": "21 K MASTER B",
     "nombre_diploma": "Jose Luis Castro Conteras",
     "tiempo_diploma": "01:45:57",
-    "stats_diploma": "9. /26 1364. /1597"
+    "stats_diploma": "9. /26 1388. /1621"
   },
   {
-    "puesto": 1365,
+    "puesto": 1389,
     "placa": "2315",
     "nombre": "CESAR HERNAN CAMPO SUAREZ",
     "categoria": "21 K MASTER A",
@@ -23197,15 +23605,15 @@ const RUNNERS_DATA = [
     "dif": "+1:28:46",
     "vel_prom": "11.8 Km/h",
     "ritmo": "5:02 Min/km",
-    "pdf_page": 222,
+    "pdf_page": 891,
     "dorsal": "2315",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "CESAR HERNAN CAMPO SUAREZ",
     "tiempo_diploma": "01:45:58",
-    "stats_diploma": "19. /66 1365. /1597"
+    "stats_diploma": "19. /66 1389. /1621"
   },
   {
-    "puesto": 1366,
+    "puesto": 1390,
     "placa": "2124",
     "nombre": "Luis Carlos Buitrago Rey",
     "categoria": "21 K ABIERTA",
@@ -23214,15 +23622,15 @@ const RUNNERS_DATA = [
     "dif": "+1:28:51",
     "vel_prom": "11.8 Km/h",
     "ritmo": "5:03 Min/km",
-    "pdf_page": 81,
+    "pdf_page": 822,
     "dorsal": "2124",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Luis Carlos Buitrago Rey",
     "tiempo_diploma": "01:46:03",
-    "stats_diploma": "30. /130 1366. /1597"
+    "stats_diploma": "30. /130 1390. /1621"
   },
   {
-    "puesto": 1367,
+    "puesto": 1391,
     "placa": "2532",
     "nombre": "Nubia Yanneth Merchan Madero",
     "categoria": "21 K MASTER B",
@@ -23231,15 +23639,15 @@ const RUNNERS_DATA = [
     "dif": "+1:28:53",
     "vel_prom": "11.8 Km/h",
     "ritmo": "5:03 Min/km",
-    "pdf_page": 271,
+    "pdf_page": 994,
     "dorsal": "2532",
     "categoria_diploma": "21 K MASTER B",
     "nombre_diploma": "Nubia Yanneth Merchan Madero",
     "tiempo_diploma": "01:46:05",
-    "stats_diploma": "2. /6 1367. /1597"
+    "stats_diploma": "1. /5 1391. /1621"
   },
   {
-    "puesto": 1368,
+    "puesto": 1392,
     "placa": "2334",
     "nombre": "Helmuth Kopp Diaz",
     "categoria": "21 K MASTER A",
@@ -23248,15 +23656,15 @@ const RUNNERS_DATA = [
     "dif": "+1:29:07",
     "vel_prom": "11.8 Km/h",
     "ritmo": "5:03 Min/km",
-    "pdf_page": 223,
+    "pdf_page": 908,
     "dorsal": "2334",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Helmuth Kopp Diaz",
     "tiempo_diploma": "01:46:19",
-    "stats_diploma": "20. /66 1368. /1597"
+    "stats_diploma": "20. /66 1392. /1621"
   },
   {
-    "puesto": 1369,
+    "puesto": 1393,
     "placa": "2396",
     "nombre": "Yeffer Augusto Sáenz García",
     "categoria": "21 K MASTER A",
@@ -23265,15 +23673,15 @@ const RUNNERS_DATA = [
     "dif": "+1:29:27",
     "vel_prom": "11.8 Km/h",
     "ritmo": "5:04 Min/km",
-    "pdf_page": 224,
+    "pdf_page": 962,
     "dorsal": "2396",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Yeffer Augusto Sáenz García",
     "tiempo_diploma": "01:46:39",
-    "stats_diploma": "21. /66 1369. /1597"
+    "stats_diploma": "21. /66 1393. /1621"
   },
   {
-    "puesto": 1370,
+    "puesto": 1394,
     "placa": "2321",
     "nombre": "Diego Arturo Loaiza Lima",
     "categoria": "21 K MASTER A",
@@ -23282,15 +23690,15 @@ const RUNNERS_DATA = [
     "dif": "+1:29:55",
     "vel_prom": "11.7 Km/h",
     "ritmo": "5:06 Min/km",
-    "pdf_page": 225,
+    "pdf_page": 896,
     "dorsal": "2321",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Diego Arturo Loaiza Lima",
     "tiempo_diploma": "01:47:07",
-    "stats_diploma": "22. /66 1370. /1597"
+    "stats_diploma": "22. /66 1394. /1621"
   },
   {
-    "puesto": 1371,
+    "puesto": 1395,
     "placa": "2092",
     "nombre": "Juan David Gómez Castellanos",
     "categoria": "21 K ABIERTA",
@@ -23299,15 +23707,15 @@ const RUNNERS_DATA = [
     "dif": "+1:30:05",
     "vel_prom": "11.7 Km/h",
     "ritmo": "5:06 Min/km",
-    "pdf_page": 82,
+    "pdf_page": 791,
     "dorsal": "2092",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Juan David Gómez Castellanos",
     "tiempo_diploma": "01:47:17",
-    "stats_diploma": "31. /130 1371. /1597"
+    "stats_diploma": "31. /130 1395. /1621"
   },
   {
-    "puesto": 1372,
+    "puesto": 1396,
     "placa": "2060",
     "nombre": "Fabian David Sanabria garzon",
     "categoria": "21 K ABIERTA",
@@ -23316,15 +23724,15 @@ const RUNNERS_DATA = [
     "dif": "+1:30:25",
     "vel_prom": "11.7 Km/h",
     "ritmo": "5:07 Min/km",
-    "pdf_page": 83,
+    "pdf_page": 760,
     "dorsal": "2060",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Fabian David Sanabria garzon",
     "tiempo_diploma": "01:47:37",
-    "stats_diploma": "32. /130 1372. /1597"
+    "stats_diploma": "32. /130 1396. /1621"
   },
   {
-    "puesto": 1373,
+    "puesto": 1397,
     "placa": "2072",
     "nombre": "Jair Garcés Salamanca",
     "categoria": "21 K ABIERTA",
@@ -23333,15 +23741,15 @@ const RUNNERS_DATA = [
     "dif": "+1:30:30",
     "vel_prom": "11.6 Km/h",
     "ritmo": "5:07 Min/km",
-    "pdf_page": 84,
+    "pdf_page": 772,
     "dorsal": "2072",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Jair Garcés Salamanca",
     "tiempo_diploma": "01:47:42",
-    "stats_diploma": "33. /130 1373. /1597"
+    "stats_diploma": "33. /130 1397. /1621"
   },
   {
-    "puesto": 1374,
+    "puesto": 1398,
     "placa": "2361",
     "nombre": "LETICIA GORDILLO",
     "categoria": "21 K MASTER A",
@@ -23350,15 +23758,15 @@ const RUNNERS_DATA = [
     "dif": "+1:30:33",
     "vel_prom": "11.6 Km/h",
     "ritmo": "5:07 Min/km",
-    "pdf_page": 185,
+    "pdf_page": 931,
     "dorsal": "2361",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "LETICIA GORDILLO",
     "tiempo_diploma": "01:47:45",
-    "stats_diploma": "4. /22 1374. /1597"
+    "stats_diploma": "4. /22 1398. /1621"
   },
   {
-    "puesto": 1375,
+    "puesto": 1399,
     "placa": "2368",
     "nombre": "Marcela Pedraza",
     "categoria": "21 K MASTER A",
@@ -23367,15 +23775,15 @@ const RUNNERS_DATA = [
     "dif": "+1:30:57",
     "vel_prom": "11.6 Km/h",
     "ritmo": "5:09 Min/km",
-    "pdf_page": 186,
+    "pdf_page": 938,
     "dorsal": "2368",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Marcela Pedraza",
     "tiempo_diploma": "01:48:09",
-    "stats_diploma": "5. /22 1375. /1597"
+    "stats_diploma": "5. /22 1399. /1621"
   },
   {
-    "puesto": 1376,
+    "puesto": 1400,
     "placa": "2375",
     "nombre": "Omar Mauricio Oviedo Salazar",
     "categoria": "21 K MASTER A",
@@ -23384,15 +23792,15 @@ const RUNNERS_DATA = [
     "dif": "+1:31:12",
     "vel_prom": "11.6 Km/h",
     "ritmo": "5:09 Min/km",
-    "pdf_page": 226,
+    "pdf_page": 945,
     "dorsal": "2375",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Omar Mauricio Oviedo Salazar",
     "tiempo_diploma": "01:48:24",
-    "stats_diploma": "23. /66 1376. /1597"
+    "stats_diploma": "23. /66 1400. /1621"
   },
   {
-    "puesto": 1377,
+    "puesto": 1401,
     "placa": "2055",
     "nombre": "Edwin Fabian Burgos Murillo",
     "categoria": "21 K ABIERTA",
@@ -23401,15 +23809,15 @@ const RUNNERS_DATA = [
     "dif": "+1:31:33",
     "vel_prom": "11.5 Km/h",
     "ritmo": "5:10 Min/km",
-    "pdf_page": 85,
+    "pdf_page": 756,
     "dorsal": "2055",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Edwin Fabian Burgos Murillo",
     "tiempo_diploma": "01:48:45",
-    "stats_diploma": "34. /130 1377. /1597"
+    "stats_diploma": "34. /130 1401. /1621"
   },
   {
-    "puesto": 1378,
+    "puesto": 1402,
     "placa": "2171",
     "nombre": "Yeison andres Monsalve",
     "categoria": "21 K ABIERTA",
@@ -23418,15 +23826,15 @@ const RUNNERS_DATA = [
     "dif": "+1:31:41",
     "vel_prom": "11.5 Km/h",
     "ritmo": "5:11 Min/km",
-    "pdf_page": 86,
+    "pdf_page": 865,
     "dorsal": "2171",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Yeison andres Monsalve",
     "tiempo_diploma": "01:48:53",
-    "stats_diploma": "35. /130 1378. /1597"
+    "stats_diploma": "35. /130 1402. /1621"
   },
   {
-    "puesto": 1379,
+    "puesto": 1403,
     "placa": "2346",
     "nombre": "Jimmy santana ojeda",
     "categoria": "21 K MASTER A",
@@ -23435,15 +23843,15 @@ const RUNNERS_DATA = [
     "dif": "+1:32:35",
     "vel_prom": "11.4 Km/h",
     "ritmo": "5:13 Min/km",
-    "pdf_page": 227,
+    "pdf_page": 918,
     "dorsal": "2346",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Jimmy santana ojeda",
     "tiempo_diploma": "01:49:47",
-    "stats_diploma": "24. /66 1379. /1597"
+    "stats_diploma": "24. /66 1403. /1621"
   },
   {
-    "puesto": 1380,
+    "puesto": 1404,
     "placa": "2142",
     "nombre": "Nelson Andres Sua Duarte",
     "categoria": "21 K ABIERTA",
@@ -23452,15 +23860,15 @@ const RUNNERS_DATA = [
     "dif": "+1:32:36",
     "vel_prom": "11.4 Km/h",
     "ritmo": "5:13 Min/km",
-    "pdf_page": 87,
+    "pdf_page": 839,
     "dorsal": "2142",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Nelson Andres Sua Duarte",
     "tiempo_diploma": "01:49:48",
-    "stats_diploma": "36. /130 1380. /1597"
+    "stats_diploma": "36. /130 1404. /1621"
   },
   {
-    "puesto": 1381,
+    "puesto": 1405,
     "placa": "2101",
     "nombre": "Juliana Hernandez",
     "categoria": "21 K ABIERTA",
@@ -23469,15 +23877,15 @@ const RUNNERS_DATA = [
     "dif": "+1:32:45",
     "vel_prom": "11.4 Km/h",
     "ritmo": "5:14 Min/km",
-    "pdf_page": 14,
+    "pdf_page": 800,
     "dorsal": "2101",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Juliana Hernandez",
     "tiempo_diploma": "01:49:57",
-    "stats_diploma": "3. /40 1381. /1597"
+    "stats_diploma": "6. /43 1405. /1621"
   },
   {
-    "puesto": 1382,
+    "puesto": 1406,
     "placa": "2003",
     "nombre": "Alejandro Figueroa",
     "categoria": "21 K ABIERTA",
@@ -23486,15 +23894,15 @@ const RUNNERS_DATA = [
     "dif": "+1:32:53",
     "vel_prom": "11.4 Km/h",
     "ritmo": "5:14 Min/km",
-    "pdf_page": 88,
+    "pdf_page": 708,
     "dorsal": "2003",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Alejandro Figueroa",
     "tiempo_diploma": "01:50:05",
-    "stats_diploma": "37. /130 1382. /1597"
+    "stats_diploma": "37. /130 1406. /1621"
   },
   {
-    "puesto": 1383,
+    "puesto": 1407,
     "placa": "2013",
     "nombre": "Andres Mora",
     "categoria": "21 K ABIERTA",
@@ -23503,15 +23911,15 @@ const RUNNERS_DATA = [
     "dif": "+1:32:58",
     "vel_prom": "11.4 Km/h",
     "ritmo": "5:14 Min/km",
-    "pdf_page": 89,
+    "pdf_page": 718,
     "dorsal": "2013",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Andres Mora",
     "tiempo_diploma": "01:50:10",
-    "stats_diploma": "38. /130 1383. /1597"
+    "stats_diploma": "38. /130 1407. /1621"
   },
   {
-    "puesto": 1384,
+    "puesto": 1408,
     "placa": "2136",
     "nombre": "Mateo Andres Mejia Osorio",
     "categoria": "21 K ABIERTA",
@@ -23520,15 +23928,15 @@ const RUNNERS_DATA = [
     "dif": "+1:33:43",
     "vel_prom": "11.3 Km/h",
     "ritmo": "5:16 Min/km",
-    "pdf_page": 90,
+    "pdf_page": 834,
     "dorsal": "2136",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Mateo Andres Mejia Osorio",
     "tiempo_diploma": "01:50:55",
-    "stats_diploma": "39. /130 1384. /1597"
+    "stats_diploma": "39. /130 1408. /1621"
   },
   {
-    "puesto": 1385,
+    "puesto": 1409,
     "placa": "2378",
     "nombre": "Oscar Leonardo Roa Caceres",
     "categoria": "21 K MASTER A",
@@ -23537,15 +23945,15 @@ const RUNNERS_DATA = [
     "dif": "+1:33:47",
     "vel_prom": "11.3 Km/h",
     "ritmo": "5:17 Min/km",
-    "pdf_page": 228,
+    "pdf_page": 947,
     "dorsal": "2378",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Oscar Leonardo Roa Caceres",
     "tiempo_diploma": "01:50:59",
-    "stats_diploma": "25. /66 1385. /1597"
+    "stats_diploma": "25. /66 1409. /1621"
   },
   {
-    "puesto": 1386,
+    "puesto": 1410,
     "placa": "2099",
     "nombre": "Juan Sebastian Leon Duran",
     "categoria": "21 K ABIERTA",
@@ -23554,15 +23962,15 @@ const RUNNERS_DATA = [
     "dif": "+1:34:14",
     "vel_prom": "11.3 Km/h",
     "ritmo": "5:18 Min/km",
-    "pdf_page": 91,
+    "pdf_page": 798,
     "dorsal": "2099",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Juan Sebastian Leon Duran",
     "tiempo_diploma": "01:51:26",
-    "stats_diploma": "40. /130 1386. /1597"
+    "stats_diploma": "40. /130 1410. /1621"
   },
   {
-    "puesto": 1387,
+    "puesto": 1411,
     "placa": "2070",
     "nombre": "Iver alexis Betava arenas",
     "categoria": "21 K ABIERTA",
@@ -23571,15 +23979,15 @@ const RUNNERS_DATA = [
     "dif": "+1:34:27",
     "vel_prom": "11.2 Km/h",
     "ritmo": "5:19 Min/km",
-    "pdf_page": 92,
+    "pdf_page": 770,
     "dorsal": "2070",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Iver alexis Betava arenas",
     "tiempo_diploma": "01:51:39",
-    "stats_diploma": "41. /130 1387. /1597"
+    "stats_diploma": "41. /130 1411. /1621"
   },
   {
-    "puesto": 1388,
+    "puesto": 1412,
     "placa": "2091",
     "nombre": "Juan Camilo Florez",
     "categoria": "21 K ABIERTA",
@@ -23588,15 +23996,15 @@ const RUNNERS_DATA = [
     "dif": "+1:34:47",
     "vel_prom": "11.2 Km/h",
     "ritmo": "5:19 Min/km",
-    "pdf_page": 93,
+    "pdf_page": 790,
     "dorsal": "2091",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Juan Camilo Florez",
     "tiempo_diploma": "01:51:59",
-    "stats_diploma": "42. /130 1388. /1597"
+    "stats_diploma": "42. /130 1412. /1621"
   },
   {
-    "puesto": 1389,
+    "puesto": 1413,
     "placa": "2157",
     "nombre": "Samuel James Stiles",
     "categoria": "21 K ABIERTA",
@@ -23605,15 +24013,15 @@ const RUNNERS_DATA = [
     "dif": "+1:34:48",
     "vel_prom": "11.2 Km/h",
     "ritmo": "5:20 Min/km",
-    "pdf_page": 94,
+    "pdf_page": 851,
     "dorsal": "2157",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Samuel James Stiles",
     "tiempo_diploma": "01:52:00",
-    "stats_diploma": "43. /130 1389. /1597"
+    "stats_diploma": "43. /130 1413. /1621"
   },
   {
-    "puesto": 1390,
+    "puesto": 1414,
     "placa": "2383",
     "nombre": "Raúl Andrés Gutiérrez Sánchez",
     "categoria": "21 K MASTER A",
@@ -23622,15 +24030,15 @@ const RUNNERS_DATA = [
     "dif": "+1:34:58",
     "vel_prom": "11.2 Km/h",
     "ritmo": "5:20 Min/km",
-    "pdf_page": 229,
+    "pdf_page": 951,
     "dorsal": "2383",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Raúl Andrés Gutiérrez Sánchez",
     "tiempo_diploma": "01:52:10",
-    "stats_diploma": "26. /66 1390. /1597"
+    "stats_diploma": "26. /66 1414. /1621"
   },
   {
-    "puesto": 1391,
+    "puesto": 1415,
     "placa": "2054",
     "nombre": "Edwin Alexander Jaimes Jaimes",
     "categoria": "21 K ABIERTA",
@@ -23639,15 +24047,15 @@ const RUNNERS_DATA = [
     "dif": "+1:35:20",
     "vel_prom": "11.1 Km/h",
     "ritmo": "5:21 Min/km",
-    "pdf_page": 95,
+    "pdf_page": 755,
     "dorsal": "2054",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Edwin Alexander Jaimes Jaimes",
     "tiempo_diploma": "01:52:32",
-    "stats_diploma": "44. /130 1391. /1597"
+    "stats_diploma": "44. /130 1415. /1621"
   },
   {
-    "puesto": 1392,
+    "puesto": 1416,
     "placa": "2147",
     "nombre": "Oscar Castillo Cáceres",
     "categoria": "21 K ABIERTA",
@@ -23656,15 +24064,15 @@ const RUNNERS_DATA = [
     "dif": "+1:35:24",
     "vel_prom": "11.1 Km/h",
     "ritmo": "5:21 Min/km",
-    "pdf_page": 96,
+    "pdf_page": 844,
     "dorsal": "2147",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Oscar Castillo Cáceres",
     "tiempo_diploma": "01:52:36",
-    "stats_diploma": "45. /130 1392. /1597"
+    "stats_diploma": "45. /130 1416. /1621"
   },
   {
-    "puesto": 1393,
+    "puesto": 1417,
     "placa": "2526",
     "nombre": "Karoll Fernandez López",
     "categoria": "21 K MASTER B",
@@ -23673,15 +24081,15 @@ const RUNNERS_DATA = [
     "dif": "+1:35:35",
     "vel_prom": "11.1 Km/h",
     "ritmo": "5:22 Min/km",
-    "pdf_page": 272,
+    "pdf_page": 988,
     "dorsal": "2526",
     "categoria_diploma": "21 K MASTER B",
     "nombre_diploma": "Karoll Fernandez López",
     "tiempo_diploma": "01:52:47",
-    "stats_diploma": "3. /6 1393. /1597"
+    "stats_diploma": "2. /5 1417. /1621"
   },
   {
-    "puesto": 1394,
+    "puesto": 1418,
     "placa": "2539",
     "nombre": "Adolfo Gamboa Vera",
     "categoria": "21 K MASTER B",
@@ -23690,15 +24098,15 @@ const RUNNERS_DATA = [
     "dif": "+1:36:03",
     "vel_prom": "11.1 Km/h",
     "ritmo": "5:23 Min/km",
-    "pdf_page": 285,
+    "pdf_page": 1000,
     "dorsal": "2539",
     "categoria_diploma": "21 K MASTER B",
     "nombre_diploma": "Adolfo Gamboa Vera",
     "tiempo_diploma": "01:53:15",
-    "stats_diploma": "10. /26 1394. /1597"
+    "stats_diploma": "10. /26 1418. /1621"
   },
   {
-    "puesto": 1395,
+    "puesto": 1419,
     "placa": "2399",
     "nombre": "Fabian Anteliz",
     "categoria": "21 K MASTER A",
@@ -23707,15 +24115,15 @@ const RUNNERS_DATA = [
     "dif": "+1:36:07",
     "vel_prom": "11.1 Km/h",
     "ritmo": "5:23 Min/km",
-    "pdf_page": 230,
+    "pdf_page": 964,
     "dorsal": "2399",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Fabian Anteliz",
     "tiempo_diploma": "01:53:19",
-    "stats_diploma": "27. /66 1395. /1597"
+    "stats_diploma": "27. /66 1419. /1621"
   },
   {
-    "puesto": 1396,
+    "puesto": 1420,
     "placa": "2165",
     "nombre": "Valentina Arias osorio",
     "categoria": "21 K ABIERTA",
@@ -23724,15 +24132,15 @@ const RUNNERS_DATA = [
     "dif": "+1:36:13",
     "vel_prom": "11.1 Km/h",
     "ritmo": "5:24 Min/km",
-    "pdf_page": 15,
+    "pdf_page": 859,
     "dorsal": "2165",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Valentina Arias osorio",
     "tiempo_diploma": "01:53:25",
-    "stats_diploma": "4. /40 1396. /1597"
+    "stats_diploma": "7. /43 1420. /1621"
   },
   {
-    "puesto": 1397,
+    "puesto": 1421,
     "placa": "2111",
     "nombre": "Lady Estefany Sepulveda Pico",
     "categoria": "21 K ABIERTA",
@@ -23741,15 +24149,15 @@ const RUNNERS_DATA = [
     "dif": "+1:36:24",
     "vel_prom": "11.0 Km/h",
     "ritmo": "5:24 Min/km",
-    "pdf_page": 16,
+    "pdf_page": 809,
     "dorsal": "2111",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Lady Estefany Sepulveda Pico",
     "tiempo_diploma": "01:53:36",
-    "stats_diploma": "5. /40 1397. /1597"
+    "stats_diploma": "8. /43 1421. /1621"
   },
   {
-    "puesto": 1398,
+    "puesto": 1422,
     "placa": "2084",
     "nombre": "Johan Arley Ortiz Verano",
     "categoria": "21 K ABIERTA",
@@ -23758,15 +24166,15 @@ const RUNNERS_DATA = [
     "dif": "+1:37:07",
     "vel_prom": "11.0 Km/h",
     "ritmo": "5:26 Min/km",
-    "pdf_page": 97,
+    "pdf_page": 784,
     "dorsal": "2084",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Johan Arley Ortiz Verano",
     "tiempo_diploma": "01:54:19",
-    "stats_diploma": "46. /130 1398. /1597"
+    "stats_diploma": "46. /130 1422. /1621"
   },
   {
-    "puesto": 1399,
+    "puesto": 1423,
     "placa": "2035",
     "nombre": "CRISTIAN CAMILO PORTILLA CONTRERAS",
     "categoria": "21 K ABIERTA",
@@ -23775,15 +24183,15 @@ const RUNNERS_DATA = [
     "dif": "+1:37:09",
     "vel_prom": "11.0 Km/h",
     "ritmo": "5:26 Min/km",
-    "pdf_page": 98,
+    "pdf_page": 739,
     "dorsal": "2035",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "CRISTIAN CAMILO PORTILLA CONTRERAS",
     "tiempo_diploma": "01:54:21",
-    "stats_diploma": "47. /130 1399. /1597"
+    "stats_diploma": "47. /130 1423. /1621"
   },
   {
-    "puesto": 1400,
+    "puesto": 1424,
     "placa": "2527",
     "nombre": "Luis Alberto Laguado Villamizar",
     "categoria": "21 K MASTER B",
@@ -23792,15 +24200,15 @@ const RUNNERS_DATA = [
     "dif": "+1:37:16",
     "vel_prom": "11.0 Km/h",
     "ritmo": "5:27 Min/km",
-    "pdf_page": 286,
+    "pdf_page": 989,
     "dorsal": "2527",
     "categoria_diploma": "21 K MASTER B",
     "nombre_diploma": "Luis Alberto Laguado Villamizar",
     "tiempo_diploma": "01:54:28",
-    "stats_diploma": "11. /26 1400. /1597"
+    "stats_diploma": "11. /26 1424. /1621"
   },
   {
-    "puesto": 1401,
+    "puesto": 1425,
     "placa": "2021",
     "nombre": "Angel David Correa Diaz",
     "categoria": "21 K ABIERTA",
@@ -23809,15 +24217,15 @@ const RUNNERS_DATA = [
     "dif": "+1:37:26",
     "vel_prom": "10.9 Km/h",
     "ritmo": "5:27 Min/km",
-    "pdf_page": 99,
+    "pdf_page": 725,
     "dorsal": "2021",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Angel David Correa Diaz",
     "tiempo_diploma": "01:54:38",
-    "stats_diploma": "48. /130 1401. /1597"
+    "stats_diploma": "48. /130 1425. /1621"
   },
   {
-    "puesto": 1402,
+    "puesto": 1426,
     "placa": "2016",
     "nombre": "Andrés Felipe Pinzón Vega",
     "categoria": "21 K ABIERTA",
@@ -23826,15 +24234,15 @@ const RUNNERS_DATA = [
     "dif": "+1:37:36",
     "vel_prom": "10.9 Km/h",
     "ritmo": "5:28 Min/km",
-    "pdf_page": 100,
+    "pdf_page": 721,
     "dorsal": "2016",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Andrés Felipe Pinzón Vega",
     "tiempo_diploma": "01:54:48",
-    "stats_diploma": "49. /130 1402. /1597"
+    "stats_diploma": "49. /130 1426. /1621"
   },
   {
-    "puesto": 1403,
+    "puesto": 1427,
     "placa": "3348",
     "nombre": "LUIS ALFONSO BOHORQUEZ PRADA",
     "categoria": "10 K MASTER B",
@@ -23843,15 +24251,15 @@ const RUNNERS_DATA = [
     "dif": "+1:37:55",
     "vel_prom": "5.2 Km/h",
     "ritmo": "11:30 Min/km",
-    "pdf_page": 1278,
+    "pdf_page": 1241,
     "dorsal": "3348",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "LUIS ALFONSO BOHORQUEZ PRADA",
     "tiempo_diploma": "01:55:07",
-    "stats_diploma": "56. /56 1403. /1597"
+    "stats_diploma": "57. /57 1427. /1621"
   },
   {
-    "puesto": 1404,
+    "puesto": 1428,
     "placa": "2387",
     "nombre": "Ruben Dario Amaya Cuadros",
     "categoria": "21 K MASTER A",
@@ -23860,15 +24268,15 @@ const RUNNERS_DATA = [
     "dif": "+1:38:04",
     "vel_prom": "10.9 Km/h",
     "ritmo": "5:29 Min/km",
-    "pdf_page": 231,
+    "pdf_page": 954,
     "dorsal": "2387",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Ruben Dario Amaya Cuadros",
     "tiempo_diploma": "01:55:16",
-    "stats_diploma": "28. /66 1404. /1597"
+    "stats_diploma": "28. /66 1428. /1621"
   },
   {
-    "puesto": 1405,
+    "puesto": 1429,
     "placa": "2400",
     "nombre": "Juan Pablo Reyes Aristizabal",
     "categoria": "21 K MASTER A",
@@ -23877,15 +24285,15 @@ const RUNNERS_DATA = [
     "dif": "+1:38:32",
     "vel_prom": "10.8 Km/h",
     "ritmo": "5:30 Min/km",
-    "pdf_page": 232,
+    "pdf_page": 965,
     "dorsal": "2400",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Juan Pablo Reyes Aristizabal",
     "tiempo_diploma": "01:55:44",
-    "stats_diploma": "29. /66 1405. /1597"
+    "stats_diploma": "29. /66 1429. /1621"
   },
   {
-    "puesto": 1406,
+    "puesto": 1430,
     "placa": "212",
     "nombre": "Wilmer Alfonso Daza Mancilla",
     "categoria": "21 K ELITE",
@@ -23894,15 +24302,15 @@ const RUNNERS_DATA = [
     "dif": "+1:38:38",
     "vel_prom": "10.8 Km/h",
     "ritmo": "5:30 Min/km",
-    "pdf_page": 10,
+    "pdf_page": 38,
     "dorsal": "212",
     "categoria_diploma": "21 K ELITE",
     "nombre_diploma": "Wilmer Alfonso Daza Mancilla",
     "tiempo_diploma": "01:55:50",
-    "stats_diploma": "10. /11 1406. /1597"
+    "stats_diploma": "10. /11 1430. /1621"
   },
   {
-    "puesto": 1407,
+    "puesto": 1431,
     "placa": "2342",
     "nombre": "JAVIER MAURICIO SERRANO ORTIZ",
     "categoria": "21 K MASTER A",
@@ -23911,15 +24319,15 @@ const RUNNERS_DATA = [
     "dif": "+1:38:47",
     "vel_prom": "10.8 Km/h",
     "ritmo": "5:31 Min/km",
-    "pdf_page": 233,
+    "pdf_page": 914,
     "dorsal": "2342",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "JAVIER MAURICIO SERRANO ORTIZ",
     "tiempo_diploma": "01:55:59",
-    "stats_diploma": "30. /66 1407. /1597"
+    "stats_diploma": "30. /66 1431. /1621"
   },
   {
-    "puesto": 1408,
+    "puesto": 1432,
     "placa": "2380",
     "nombre": "Pedro Leandro Pico Martínez",
     "categoria": "21 K MASTER A",
@@ -23928,15 +24336,15 @@ const RUNNERS_DATA = [
     "dif": "+1:38:55",
     "vel_prom": "10.8 Km/h",
     "ritmo": "5:31 Min/km",
-    "pdf_page": 234,
+    "pdf_page": 949,
     "dorsal": "2380",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Pedro Leandro Pico Martínez",
     "tiempo_diploma": "01:56:07",
-    "stats_diploma": "31. /66 1408. /1597"
+    "stats_diploma": "31. /66 1432. /1621"
   },
   {
-    "puesto": 1409,
+    "puesto": 1433,
     "placa": "2041",
     "nombre": "DAVID SANTIAGO DUARTE SOLANO",
     "categoria": "21 K ABIERTA",
@@ -23945,15 +24353,15 @@ const RUNNERS_DATA = [
     "dif": "+1:39:06",
     "vel_prom": "10.8 Km/h",
     "ritmo": "5:32 Min/km",
-    "pdf_page": 101,
+    "pdf_page": 743,
     "dorsal": "2041",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "DAVID SANTIAGO DUARTE SOLANO",
     "tiempo_diploma": "01:56:18",
-    "stats_diploma": "50. /130 1409. /1597"
+    "stats_diploma": "50. /130 1433. /1621"
   },
   {
-    "puesto": 1410,
+    "puesto": 1434,
     "placa": "2530",
     "nombre": "MARTIN DUARTE PEREIRA",
     "categoria": "21 K MASTER B",
@@ -23962,15 +24370,15 @@ const RUNNERS_DATA = [
     "dif": "+1:39:07",
     "vel_prom": "10.8 Km/h",
     "ritmo": "5:32 Min/km",
-    "pdf_page": 287,
+    "pdf_page": 992,
     "dorsal": "2530",
     "categoria_diploma": "21 K MASTER B",
     "nombre_diploma": "MARTIN DUARTE PEREIRA",
     "tiempo_diploma": "01:56:19",
-    "stats_diploma": "12. /26 1410. /1597"
+    "stats_diploma": "12. /26 1434. /1621"
   },
   {
-    "puesto": 1411,
+    "puesto": 1435,
     "placa": "2166",
     "nombre": "VICTOR JAVIER NIÑO SARMIENTO",
     "categoria": "21 K ABIERTA",
@@ -23979,15 +24387,15 @@ const RUNNERS_DATA = [
     "dif": "+1:39:11",
     "vel_prom": "10.8 Km/h",
     "ritmo": "5:32 Min/km",
-    "pdf_page": 102,
+    "pdf_page": 860,
     "dorsal": "2166",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "VICTOR JAVIER NIÑO SARMIENTO",
     "tiempo_diploma": "01:56:23",
-    "stats_diploma": "51. /130 1411. /1597"
+    "stats_diploma": "51. /130 1435. /1621"
   },
   {
-    "puesto": 1412,
+    "puesto": 1436,
     "placa": "2180",
     "nombre": "Brenda Patricia Esparza Rodriguez",
     "categoria": "21 K ABIERTA",
@@ -23996,15 +24404,15 @@ const RUNNERS_DATA = [
     "dif": "+1:39:12",
     "vel_prom": "10.8 Km/h",
     "ritmo": "5:32 Min/km",
-    "pdf_page": 17,
+    "pdf_page": 872,
     "dorsal": "2180",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Brenda Patricia Esparza Rodriguez",
     "tiempo_diploma": "01:56:24",
-    "stats_diploma": "6. /40 1412. /1597"
+    "stats_diploma": "9. /43 1436. /1621"
   },
   {
-    "puesto": 1413,
+    "puesto": 1437,
     "placa": "2359",
     "nombre": "Layda Yazmin Rivera Ordoñez",
     "categoria": "21 K MASTER A",
@@ -24013,15 +24421,15 @@ const RUNNERS_DATA = [
     "dif": "+1:39:21",
     "vel_prom": "10.8 Km/h",
     "ritmo": "5:33 Min/km",
-    "pdf_page": 187,
+    "pdf_page": 929,
     "dorsal": "2359",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Layda Yazmin Rivera Ordoñez",
     "tiempo_diploma": "01:56:33",
-    "stats_diploma": "6. /22 1413. /1597"
+    "stats_diploma": "6. /22 1437. /1621"
   },
   {
-    "puesto": 1414,
+    "puesto": 1438,
     "placa": "2158",
     "nombre": "Santiago Otalora",
     "categoria": "21 K ABIERTA",
@@ -24030,15 +24438,15 @@ const RUNNERS_DATA = [
     "dif": "+1:39:29",
     "vel_prom": "10.7 Km/h",
     "ritmo": "5:33 Min/km",
-    "pdf_page": 103,
+    "pdf_page": 852,
     "dorsal": "2158",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Santiago Otalora",
     "tiempo_diploma": "01:56:41",
-    "stats_diploma": "52. /130 1414. /1597"
+    "stats_diploma": "52. /130 1438. /1621"
   },
   {
-    "puesto": 1415,
+    "puesto": 1439,
     "placa": "2345",
     "nombre": "Jholman David Torres",
     "categoria": "21 K MASTER A",
@@ -24047,15 +24455,15 @@ const RUNNERS_DATA = [
     "dif": "+1:39:52",
     "vel_prom": "10.7 Km/h",
     "ritmo": "5:34 Min/km",
-    "pdf_page": 235,
+    "pdf_page": 917,
     "dorsal": "2345",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Jholman David Torres",
     "tiempo_diploma": "01:57:04",
-    "stats_diploma": "32. /66 1415. /1597"
+    "stats_diploma": "32. /66 1439. /1621"
   },
   {
-    "puesto": 1416,
+    "puesto": 1440,
     "placa": "2395",
     "nombre": "Willians Rivera",
     "categoria": "21 K MASTER A",
@@ -24064,15 +24472,15 @@ const RUNNERS_DATA = [
     "dif": "+1:40:11",
     "vel_prom": "10.7 Km/h",
     "ritmo": "5:35 Min/km",
-    "pdf_page": 236,
+    "pdf_page": 961,
     "dorsal": "2395",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Willians Rivera",
     "tiempo_diploma": "01:57:23",
-    "stats_diploma": "33. /66 1416. /1597"
+    "stats_diploma": "33. /66 1440. /1621"
   },
   {
-    "puesto": 1417,
+    "puesto": 1441,
     "placa": "2531",
     "nombre": "Nelson Munera lopez",
     "categoria": "21 K MASTER B",
@@ -24081,15 +24489,15 @@ const RUNNERS_DATA = [
     "dif": "+1:40:16",
     "vel_prom": "10.7 Km/h",
     "ritmo": "5:35 Min/km",
-    "pdf_page": 288,
+    "pdf_page": 993,
     "dorsal": "2531",
     "categoria_diploma": "21 K MASTER B",
     "nombre_diploma": "Nelson Munera lopez",
     "tiempo_diploma": "01:57:28",
-    "stats_diploma": "13. /26 1417. /1597"
+    "stats_diploma": "13. /26 1441. /1621"
   },
   {
-    "puesto": 1418,
+    "puesto": 1442,
     "placa": "2348",
     "nombre": "JOHANN ALEXIS RUIZ PAUL",
     "categoria": "21 K MASTER A",
@@ -24098,15 +24506,15 @@ const RUNNERS_DATA = [
     "dif": "+1:40:18",
     "vel_prom": "10.7 Km/h",
     "ritmo": "5:35 Min/km",
-    "pdf_page": 237,
+    "pdf_page": 919,
     "dorsal": "2348",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "JOHANN ALEXIS RUIZ PAUL",
     "tiempo_diploma": "01:57:30",
-    "stats_diploma": "34. /66 1418. /1597"
+    "stats_diploma": "34. /66 1442. /1621"
   },
   {
-    "puesto": 1419,
+    "puesto": 1443,
     "placa": "2374",
     "nombre": "Nelson Fabián Lizcano Meneses",
     "categoria": "21 K MASTER A",
@@ -24115,15 +24523,15 @@ const RUNNERS_DATA = [
     "dif": "+1:40:55",
     "vel_prom": "10.6 Km/h",
     "ritmo": "5:37 Min/km",
-    "pdf_page": 238,
+    "pdf_page": 944,
     "dorsal": "2374",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Nelson Fabián Lizcano Meneses",
     "tiempo_diploma": "01:58:07",
-    "stats_diploma": "35. /66 1419. /1597"
+    "stats_diploma": "35. /66 1443. /1621"
   },
   {
-    "puesto": 1420,
+    "puesto": 1444,
     "placa": "2520",
     "nombre": "Jairo Albarracin vanegas",
     "categoria": "21 K MASTER B",
@@ -24132,15 +24540,15 @@ const RUNNERS_DATA = [
     "dif": "+1:40:56",
     "vel_prom": "10.6 Km/h",
     "ritmo": "5:37 Min/km",
-    "pdf_page": 289,
+    "pdf_page": 982,
     "dorsal": "2520",
     "categoria_diploma": "21 K MASTER B",
     "nombre_diploma": "Jairo Albarracin vanegas",
     "tiempo_diploma": "01:58:08",
-    "stats_diploma": "14. /26 1420. /1597"
+    "stats_diploma": "14. /26 1444. /1621"
   },
   {
-    "puesto": 1421,
+    "puesto": 1445,
     "placa": "2094",
     "nombre": "Juan David Vega Romero",
     "categoria": "21 K ABIERTA",
@@ -24149,15 +24557,15 @@ const RUNNERS_DATA = [
     "dif": "+1:41:06",
     "vel_prom": "10.6 Km/h",
     "ritmo": "5:38 Min/km",
-    "pdf_page": 104,
+    "pdf_page": 793,
     "dorsal": "2094",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Juan David Vega Romero",
     "tiempo_diploma": "01:58:18",
-    "stats_diploma": "53. /130 1421. /1597"
+    "stats_diploma": "53. /130 1445. /1621"
   },
   {
-    "puesto": 1422,
+    "puesto": 1446,
     "placa": "2514",
     "nombre": "Ernesto Vilches",
     "categoria": "21 K MASTER B",
@@ -24166,15 +24574,15 @@ const RUNNERS_DATA = [
     "dif": "+1:41:10",
     "vel_prom": "10.6 Km/h",
     "ritmo": "5:38 Min/km",
-    "pdf_page": 290,
+    "pdf_page": 977,
     "dorsal": "2514",
     "categoria_diploma": "21 K MASTER B",
     "nombre_diploma": "Ernesto Vilches",
     "tiempo_diploma": "01:58:22",
-    "stats_diploma": "15. /26 1422. /1597"
+    "stats_diploma": "15. /26 1446. /1621"
   },
   {
-    "puesto": 1423,
+    "puesto": 1447,
     "placa": "2023",
     "nombre": "Brandon Caballero",
     "categoria": "21 K ABIERTA",
@@ -24183,15 +24591,15 @@ const RUNNERS_DATA = [
     "dif": "+1:41:29",
     "vel_prom": "10.6 Km/h",
     "ritmo": "5:39 Min/km",
-    "pdf_page": 105,
+    "pdf_page": 727,
     "dorsal": "2023",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Brandon Caballero",
     "tiempo_diploma": "01:58:41",
-    "stats_diploma": "54. /130 1423. /1597"
+    "stats_diploma": "54. /130 1447. /1621"
   },
   {
-    "puesto": 1424,
+    "puesto": 1448,
     "placa": "2372",
     "nombre": "Miguel Sanchez",
     "categoria": "21 K MASTER A",
@@ -24200,15 +24608,15 @@ const RUNNERS_DATA = [
     "dif": "+1:41:29",
     "vel_prom": "10.6 Km/h",
     "ritmo": "5:39 Min/km",
-    "pdf_page": 239,
+    "pdf_page": 942,
     "dorsal": "2372",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Miguel Sanchez",
     "tiempo_diploma": "01:58:41",
-    "stats_diploma": "36. /66 1424. /1597"
+    "stats_diploma": "36. /66 1448. /1621"
   },
   {
-    "puesto": 1425,
+    "puesto": 1449,
     "placa": "2051",
     "nombre": "Eduardo Hurtado",
     "categoria": "21 K ABIERTA",
@@ -24217,15 +24625,15 @@ const RUNNERS_DATA = [
     "dif": "+1:41:33",
     "vel_prom": "10.6 Km/h",
     "ritmo": "5:39 Min/km",
-    "pdf_page": 106,
+    "pdf_page": 752,
     "dorsal": "2051",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Eduardo Hurtado",
     "tiempo_diploma": "01:58:45",
-    "stats_diploma": "55. /130 1425. /1597"
+    "stats_diploma": "55. /130 1449. /1621"
   },
   {
-    "puesto": 1426,
+    "puesto": 1450,
     "placa": "2537",
     "nombre": "Angel Eduardo Monsalve Monsalve",
     "categoria": "21 K MASTER B",
@@ -24234,15 +24642,15 @@ const RUNNERS_DATA = [
     "dif": "+1:41:45",
     "vel_prom": "10.5 Km/h",
     "ritmo": "5:39 Min/km",
-    "pdf_page": 291,
+    "pdf_page": 998,
     "dorsal": "2537",
     "categoria_diploma": "21 K MASTER B",
     "nombre_diploma": "Angel Eduardo Monsalve Monsalve",
     "tiempo_diploma": "01:58:57",
-    "stats_diploma": "16. /26 1426. /1597"
+    "stats_diploma": "16. /26 1450. /1621"
   },
   {
-    "puesto": 1427,
+    "puesto": 1451,
     "placa": "2310",
     "nombre": "Belsy Yanira Figueroa Parra",
     "categoria": "21 K MASTER A",
@@ -24251,15 +24659,15 @@ const RUNNERS_DATA = [
     "dif": "+1:41:48",
     "vel_prom": "10.5 Km/h",
     "ritmo": "5:40 Min/km",
-    "pdf_page": 188,
+    "pdf_page": 887,
     "dorsal": "2310",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Belsy Yanira Figueroa Parra",
     "tiempo_diploma": "01:59:00",
-    "stats_diploma": "7. /22 1427. /1597"
+    "stats_diploma": "7. /22 1451. /1621"
   },
   {
-    "puesto": 1428,
+    "puesto": 1452,
     "placa": "2118",
     "nombre": "Leonardo Palmera Sanchez",
     "categoria": "21 K ABIERTA",
@@ -24268,15 +24676,15 @@ const RUNNERS_DATA = [
     "dif": "+1:41:49",
     "vel_prom": "10.5 Km/h",
     "ritmo": "5:40 Min/km",
-    "pdf_page": 107,
+    "pdf_page": 816,
     "dorsal": "2118",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Leonardo Palmera Sanchez",
     "tiempo_diploma": "01:59:01",
-    "stats_diploma": "56. /130 1428. /1597"
+    "stats_diploma": "56. /130 1452. /1621"
   },
   {
-    "puesto": 1429,
+    "puesto": 1453,
     "placa": "2533",
     "nombre": "Omar Orlando Guerrero Pulido",
     "categoria": "21 K MASTER B",
@@ -24285,15 +24693,15 @@ const RUNNERS_DATA = [
     "dif": "+1:42:02",
     "vel_prom": "10.5 Km/h",
     "ritmo": "5:40 Min/km",
-    "pdf_page": 292,
+    "pdf_page": 995,
     "dorsal": "2533",
     "categoria_diploma": "21 K MASTER B",
     "nombre_diploma": "Omar Orlando Guerrero Pulido",
     "tiempo_diploma": "01:59:14",
-    "stats_diploma": "17. /26 1429. /1597"
+    "stats_diploma": "17. /26 1453. /1621"
   },
   {
-    "puesto": 1430,
+    "puesto": 1454,
     "placa": "2325",
     "nombre": "Elizabeth Sanabria",
     "categoria": "21 K MASTER A",
@@ -24302,15 +24710,15 @@ const RUNNERS_DATA = [
     "dif": "+1:42:05",
     "vel_prom": "10.5 Km/h",
     "ritmo": "5:40 Min/km",
-    "pdf_page": 189,
+    "pdf_page": 899,
     "dorsal": "2325",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Elizabeth Sanabria",
     "tiempo_diploma": "01:59:17",
-    "stats_diploma": "8. /22 1430. /1597"
+    "stats_diploma": "8. /22 1454. /1621"
   },
   {
-    "puesto": 1431,
+    "puesto": 1455,
     "placa": "2366",
     "nombre": "Manuel Antonio Castañeda Noguera",
     "categoria": "21 K MASTER A",
@@ -24319,15 +24727,15 @@ const RUNNERS_DATA = [
     "dif": "+1:42:10",
     "vel_prom": "10.5 Km/h",
     "ritmo": "5:41 Min/km",
-    "pdf_page": 240,
+    "pdf_page": 936,
     "dorsal": "2366",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Manuel Antonio Castañeda Noguera",
     "tiempo_diploma": "01:59:22",
-    "stats_diploma": "37. /66 1431. /1597"
+    "stats_diploma": "37. /66 1455. /1621"
   },
   {
-    "puesto": 1432,
+    "puesto": 1456,
     "placa": "2341",
     "nombre": "Javier Fernando Vega Castellanos",
     "categoria": "21 K MASTER A",
@@ -24336,15 +24744,15 @@ const RUNNERS_DATA = [
     "dif": "+1:42:13",
     "vel_prom": "10.5 Km/h",
     "ritmo": "5:41 Min/km",
-    "pdf_page": 241,
+    "pdf_page": 913,
     "dorsal": "2341",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Javier Fernando Vega Castellanos",
     "tiempo_diploma": "01:59:25",
-    "stats_diploma": "38. /66 1432. /1597"
+    "stats_diploma": "38. /66 1456. /1621"
   },
   {
-    "puesto": 1433,
+    "puesto": 1457,
     "placa": "2322",
     "nombre": "Eddy Luz López Molina",
     "categoria": "21 K MASTER A",
@@ -24353,15 +24761,15 @@ const RUNNERS_DATA = [
     "dif": "+1:42:14",
     "vel_prom": "10.5 Km/h",
     "ritmo": "5:41 Min/km",
-    "pdf_page": 190,
+    "pdf_page": 897,
     "dorsal": "2322",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Eddy Luz López Molina",
     "tiempo_diploma": "01:59:26",
-    "stats_diploma": "9. /22 1433. /1597"
+    "stats_diploma": "9. /22 1457. /1621"
   },
   {
-    "puesto": 1434,
+    "puesto": 1458,
     "placa": "2047",
     "nombre": "Diego Pinzon Arenas",
     "categoria": "21 K ABIERTA",
@@ -24370,15 +24778,15 @@ const RUNNERS_DATA = [
     "dif": "+1:42:20",
     "vel_prom": "10.5 Km/h",
     "ritmo": "5:41 Min/km",
-    "pdf_page": 108,
+    "pdf_page": 749,
     "dorsal": "2047",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Diego Pinzon Arenas",
     "tiempo_diploma": "01:59:32",
-    "stats_diploma": "57. /130 1434. /1597"
+    "stats_diploma": "57. /130 1458. /1621"
   },
   {
-    "puesto": 1435,
+    "puesto": 1459,
     "placa": "208",
     "nombre": "Oscar Julian Jaimes Bayona",
     "categoria": "21 K ELITE",
@@ -24387,15 +24795,15 @@ const RUNNERS_DATA = [
     "dif": "+1:42:46",
     "vel_prom": "10.5 Km/h",
     "ritmo": "5:42 Min/km",
-    "pdf_page": 11,
+    "pdf_page": 34,
     "dorsal": "208",
     "categoria_diploma": "21 K ELITE",
     "nombre_diploma": "Oscar Julian Jaimes Bayona",
     "tiempo_diploma": "01:59:58",
-    "stats_diploma": "11. /11 1435. /1597"
+    "stats_diploma": "11. /11 1459. /1621"
   },
   {
-    "puesto": 1436,
+    "puesto": 1460,
     "placa": "2522",
     "nombre": "José adrian Guerrero Parada",
     "categoria": "21 K MASTER B",
@@ -24404,15 +24812,15 @@ const RUNNERS_DATA = [
     "dif": "+1:42:52",
     "vel_prom": "10.4 Km/h",
     "ritmo": "5:43 Min/km",
-    "pdf_page": 293,
+    "pdf_page": 984,
     "dorsal": "2522",
     "categoria_diploma": "21 K MASTER B",
     "nombre_diploma": "José adrian Guerrero Parada",
     "tiempo_diploma": "02:00:04",
-    "stats_diploma": "18. /26 1436. /1597"
+    "stats_diploma": "18. /26 1460. /1621"
   },
   {
-    "puesto": 1437,
+    "puesto": 1461,
     "placa": "2355",
     "nombre": "Juan Manuel Villarreal Guarin",
     "categoria": "21 K MASTER A",
@@ -24421,15 +24829,15 @@ const RUNNERS_DATA = [
     "dif": "+1:43:01",
     "vel_prom": "10.4 Km/h",
     "ritmo": "5:43 Min/km",
-    "pdf_page": 242,
+    "pdf_page": 925,
     "dorsal": "2355",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Juan Manuel Villarreal Guarin",
     "tiempo_diploma": "02:00:13",
-    "stats_diploma": "39. /66 1437. /1597"
+    "stats_diploma": "39. /66 1461. /1621"
   },
   {
-    "puesto": 1438,
+    "puesto": 1462,
     "placa": "2360",
     "nombre": "Leonardo alberto Sánchez Montoya",
     "categoria": "21 K MASTER A",
@@ -24438,15 +24846,15 @@ const RUNNERS_DATA = [
     "dif": "+1:43:11",
     "vel_prom": "10.4 Km/h",
     "ritmo": "5:43 Min/km",
-    "pdf_page": 243,
+    "pdf_page": 930,
     "dorsal": "2360",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Leonardo alberto Sánchez Montoya",
     "tiempo_diploma": "02:00:23",
-    "stats_diploma": "40. /66 1438. /1597"
+    "stats_diploma": "40. /66 1462. /1621"
   },
   {
-    "puesto": 1439,
+    "puesto": 1463,
     "placa": "2177",
     "nombre": "Valentina Matajira Hernandez",
     "categoria": "21 K ABIERTA",
@@ -24455,15 +24863,15 @@ const RUNNERS_DATA = [
     "dif": "+1:43:16",
     "vel_prom": "10.4 Km/h",
     "ritmo": "5:44 Min/km",
-    "pdf_page": 18,
+    "pdf_page": 869,
     "dorsal": "2177",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Valentina Matajira Hernandez",
     "tiempo_diploma": "02:00:28",
-    "stats_diploma": "7. /40 1439. /1597"
+    "stats_diploma": "10. /43 1463. /1621"
   },
   {
-    "puesto": 1440,
+    "puesto": 1464,
     "placa": "2178",
     "nombre": "Karol Michell Joya Buitrago",
     "categoria": "21 K ABIERTA",
@@ -24472,15 +24880,15 @@ const RUNNERS_DATA = [
     "dif": "+1:43:17",
     "vel_prom": "10.4 Km/h",
     "ritmo": "5:44 Min/km",
-    "pdf_page": 19,
+    "pdf_page": 870,
     "dorsal": "2178",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Karol Michell Joya Buitrago",
     "tiempo_diploma": "02:00:29",
-    "stats_diploma": "8. /40 1440. /1597"
+    "stats_diploma": "11. /43 1464. /1621"
   },
   {
-    "puesto": 1441,
+    "puesto": 1465,
     "placa": "2014",
     "nombre": "Andres Vargas",
     "categoria": "21 K ABIERTA",
@@ -24489,15 +24897,15 @@ const RUNNERS_DATA = [
     "dif": "+1:43:38",
     "vel_prom": "10.4 Km/h",
     "ritmo": "5:45 Min/km",
-    "pdf_page": 109,
+    "pdf_page": 719,
     "dorsal": "2014",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Andres Vargas",
     "tiempo_diploma": "02:00:50",
-    "stats_diploma": "58. /130 1441. /1597"
+    "stats_diploma": "58. /130 1465. /1621"
   },
   {
-    "puesto": 1442,
+    "puesto": 1466,
     "placa": "2088",
     "nombre": "Jose Hayduver Rojas Camargo",
     "categoria": "21 K ABIERTA",
@@ -24506,15 +24914,15 @@ const RUNNERS_DATA = [
     "dif": "+1:43:43",
     "vel_prom": "10.4 Km/h",
     "ritmo": "5:45 Min/km",
-    "pdf_page": 110,
+    "pdf_page": 788,
     "dorsal": "2088",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Jose Hayduver Rojas Camargo",
     "tiempo_diploma": "02:00:55",
-    "stats_diploma": "59. /130 1442. /1597"
+    "stats_diploma": "59. /130 1466. /1621"
   },
   {
-    "puesto": 1443,
+    "puesto": 1467,
     "placa": "2004",
     "nombre": "ALEXIS LOPEZ ESPINEL",
     "categoria": "21 K ABIERTA",
@@ -24523,15 +24931,15 @@ const RUNNERS_DATA = [
     "dif": "+1:44:00",
     "vel_prom": "10.3 Km/h",
     "ritmo": "5:46 Min/km",
-    "pdf_page": 111,
+    "pdf_page": 709,
     "dorsal": "2004",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "ALEXIS LOPEZ ESPINEL",
     "tiempo_diploma": "02:01:12",
-    "stats_diploma": "60. /130 1443. /1597"
+    "stats_diploma": "60. /130 1467. /1621"
   },
   {
-    "puesto": 1444,
+    "puesto": 1468,
     "placa": "2507",
     "nombre": "Carlos Gualdrón",
     "categoria": "21 K MASTER B",
@@ -24540,15 +24948,15 @@ const RUNNERS_DATA = [
     "dif": "+1:44:06",
     "vel_prom": "10.3 Km/h",
     "ritmo": "5:46 Min/km",
-    "pdf_page": 294,
+    "pdf_page": 971,
     "dorsal": "2507",
     "categoria_diploma": "21 K MASTER B",
     "nombre_diploma": "Carlos Gualdrón",
     "tiempo_diploma": "02:01:18",
-    "stats_diploma": "19. /26 1444. /1597"
+    "stats_diploma": "19. /26 1468. /1621"
   },
   {
-    "puesto": 1445,
+    "puesto": 1469,
     "placa": "2398",
     "nombre": "Germán Segura",
     "categoria": "21 K MASTER A",
@@ -24557,15 +24965,15 @@ const RUNNERS_DATA = [
     "dif": "+1:44:08",
     "vel_prom": "10.3 Km/h",
     "ritmo": "5:46 Min/km",
-    "pdf_page": 244,
+    "pdf_page": 963,
     "dorsal": "2398",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Germán Segura",
     "tiempo_diploma": "02:01:20",
-    "stats_diploma": "41. /66 1445. /1597"
+    "stats_diploma": "41. /66 1469. /1621"
   },
   {
-    "puesto": 1446,
+    "puesto": 1470,
     "placa": "2038",
     "nombre": "Danney Martinez",
     "categoria": "21 K ABIERTA",
@@ -24574,15 +24982,15 @@ const RUNNERS_DATA = [
     "dif": "+1:44:23",
     "vel_prom": "10.3 Km/h",
     "ritmo": "5:47 Min/km",
-    "pdf_page": 112,
+    "pdf_page": 741,
     "dorsal": "2038",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Danney Martinez",
     "tiempo_diploma": "02:01:35",
-    "stats_diploma": "61. /130 1446. /1597"
+    "stats_diploma": "61. /130 1470. /1621"
   },
   {
-    "puesto": 1447,
+    "puesto": 1471,
     "placa": "2139",
     "nombre": "Moisés David Castro Martinez",
     "categoria": "21 K ABIERTA",
@@ -24591,15 +24999,15 @@ const RUNNERS_DATA = [
     "dif": "+1:44:24",
     "vel_prom": "10.3 Km/h",
     "ritmo": "5:47 Min/km",
-    "pdf_page": 113,
+    "pdf_page": 836,
     "dorsal": "2139",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Moisés David Castro Martinez",
     "tiempo_diploma": "02:01:36",
-    "stats_diploma": "62. /130 1447. /1597"
+    "stats_diploma": "62. /130 1471. /1621"
   },
   {
-    "puesto": 1448,
+    "puesto": 1472,
     "placa": "2123",
     "nombre": "Luis Alfonso Florez Jaimes",
     "categoria": "21 K ABIERTA",
@@ -24608,15 +25016,15 @@ const RUNNERS_DATA = [
     "dif": "+1:44:29",
     "vel_prom": "10.3 Km/h",
     "ritmo": "5:47 Min/km",
-    "pdf_page": 114,
+    "pdf_page": 821,
     "dorsal": "2123",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Luis Alfonso Florez Jaimes",
     "tiempo_diploma": "02:01:41",
-    "stats_diploma": "63. /130 1448. /1597"
+    "stats_diploma": "63. /130 1472. /1621"
   },
   {
-    "puesto": 1449,
+    "puesto": 1473,
     "placa": "2388",
     "nombre": "Sandra Milena Díaz Anaya",
     "categoria": "21 K MASTER A",
@@ -24625,15 +25033,15 @@ const RUNNERS_DATA = [
     "dif": "+1:44:29",
     "vel_prom": "10.3 Km/h",
     "ritmo": "5:47 Min/km",
-    "pdf_page": 191,
+    "pdf_page": 955,
     "dorsal": "2388",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Sandra Milena Díaz Anaya",
     "tiempo_diploma": "02:01:41",
-    "stats_diploma": "10. /22 1449. /1597"
+    "stats_diploma": "10. /22 1473. /1621"
   },
   {
-    "puesto": 1450,
+    "puesto": 1474,
     "placa": "2326",
     "nombre": "Erika Jasbeidy Valderrama Rodriguez",
     "categoria": "21 K MASTER A",
@@ -24642,15 +25050,15 @@ const RUNNERS_DATA = [
     "dif": "+1:44:40",
     "vel_prom": "10.3 Km/h",
     "ritmo": "5:48 Min/km",
-    "pdf_page": 192,
+    "pdf_page": 900,
     "dorsal": "2326",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Erika Jasbeidy Valderrama Rodriguez",
     "tiempo_diploma": "02:01:52",
-    "stats_diploma": "11. /22 1450. /1597"
+    "stats_diploma": "11. /22 1474. /1621"
   },
   {
-    "puesto": 1451,
+    "puesto": 1475,
     "placa": "2027",
     "nombre": "Camilo Andres Mendez Suarez",
     "categoria": "21 K ABIERTA",
@@ -24659,15 +25067,15 @@ const RUNNERS_DATA = [
     "dif": "+1:44:48",
     "vel_prom": "10.3 Km/h",
     "ritmo": "5:48 Min/km",
-    "pdf_page": 115,
+    "pdf_page": 731,
     "dorsal": "2027",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Camilo Andres Mendez Suarez",
     "tiempo_diploma": "02:02:00",
-    "stats_diploma": "64. /130 1451. /1597"
+    "stats_diploma": "64. /130 1475. /1621"
   },
   {
-    "puesto": 1452,
+    "puesto": 1476,
     "placa": "2049",
     "nombre": "Dubel Andrés Mogollón Sánchez",
     "categoria": "21 K ABIERTA",
@@ -24676,15 +25084,15 @@ const RUNNERS_DATA = [
     "dif": "+1:44:49",
     "vel_prom": "10.3 Km/h",
     "ritmo": "5:48 Min/km",
-    "pdf_page": 116,
+    "pdf_page": 750,
     "dorsal": "2049",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Dubel Andrés Mogollón Sánchez",
     "tiempo_diploma": "02:02:01",
-    "stats_diploma": "65. /130 1452. /1597"
+    "stats_diploma": "65. /130 1476. /1621"
   },
   {
-    "puesto": 1453,
+    "puesto": 1477,
     "placa": "2340",
     "nombre": "JANER ANTONIO ROJAS GUTIERREZ",
     "categoria": "21 K MASTER A",
@@ -24693,15 +25101,15 @@ const RUNNERS_DATA = [
     "dif": "+1:44:54",
     "vel_prom": "10.3 Km/h",
     "ritmo": "5:48 Min/km",
-    "pdf_page": 245,
+    "pdf_page": 912,
     "dorsal": "2340",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "JANER ANTONIO ROJAS GUTIERREZ",
     "tiempo_diploma": "02:02:06",
-    "stats_diploma": "42. /66 1453. /1597"
+    "stats_diploma": "42. /66 1477. /1621"
   },
   {
-    "puesto": 1454,
+    "puesto": 1478,
     "placa": "2026",
     "nombre": "Bryce Evan Robertson",
     "categoria": "21 K ABIERTA",
@@ -24710,15 +25118,15 @@ const RUNNERS_DATA = [
     "dif": "+1:45:50",
     "vel_prom": "10.2 Km/h",
     "ritmo": "5:51 Min/km",
-    "pdf_page": 117,
+    "pdf_page": 730,
     "dorsal": "2026",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Bryce Evan Robertson",
     "tiempo_diploma": "02:03:02",
-    "stats_diploma": "66. /130 1454. /1597"
+    "stats_diploma": "66. /130 1478. /1621"
   },
   {
-    "puesto": 1455,
+    "puesto": 1479,
     "placa": "2316",
     "nombre": "CHRISTIAN LEOPOLDO TORRES BAYONA",
     "categoria": "21 K MASTER A",
@@ -24727,15 +25135,15 @@ const RUNNERS_DATA = [
     "dif": "+1:46:11",
     "vel_prom": "10.2 Km/h",
     "ritmo": "5:52 Min/km",
-    "pdf_page": 246,
+    "pdf_page": 892,
     "dorsal": "2316",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "CHRISTIAN LEOPOLDO TORRES BAYONA",
     "tiempo_diploma": "02:03:23",
-    "stats_diploma": "43. /66 1455. /1597"
+    "stats_diploma": "43. /66 1479. /1621"
   },
   {
-    "puesto": 1456,
+    "puesto": 1480,
     "placa": "3389",
     "nombre": "JACQUELINE RUIZ CASTELLANOS",
     "categoria": "10 K MASTER B",
@@ -24744,15 +25152,15 @@ const RUNNERS_DATA = [
     "dif": "+1:46:13",
     "vel_prom": "4.8 Km/h",
     "ritmo": "12:20 Min/km",
-    "pdf_page": 1222,
+    "pdf_page": 1278,
     "dorsal": "3389",
     "categoria_diploma": "10 K MASTER B",
     "nombre_diploma": "JACQUELINE RUIZ CASTELLANOS",
     "tiempo_diploma": "02:03:25",
-    "stats_diploma": "33. /33 1456. /1597"
+    "stats_diploma": "33. /33 1480. /1621"
   },
   {
-    "puesto": 1457,
+    "puesto": 1481,
     "placa": "2056",
     "nombre": "EDWIN IVAN REYES SANDOVAL",
     "categoria": "21 K ABIERTA",
@@ -24761,15 +25169,15 @@ const RUNNERS_DATA = [
     "dif": "+1:46:19",
     "vel_prom": "10.2 Km/h",
     "ritmo": "5:52 Min/km",
-    "pdf_page": 118,
+    "pdf_page": 757,
     "dorsal": "2056",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "EDWIN IVAN REYES SANDOVAL",
     "tiempo_diploma": "02:03:31",
-    "stats_diploma": "67. /130 1457. /1597"
+    "stats_diploma": "67. /130 1481. /1621"
   },
   {
-    "puesto": 1458,
+    "puesto": 1482,
     "placa": "2017",
     "nombre": "Andrés Felipe Gonzalez Ogliastri",
     "categoria": "21 K ABIERTA",
@@ -24778,15 +25186,15 @@ const RUNNERS_DATA = [
     "dif": "+1:46:23",
     "vel_prom": "10.1 Km/h",
     "ritmo": "5:53 Min/km",
-    "pdf_page": 119,
+    "pdf_page": 722,
     "dorsal": "2017",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Andrés Felipe Gonzalez Ogliastri",
     "tiempo_diploma": "02:03:35",
-    "stats_diploma": "68. /130 1458. /1597"
+    "stats_diploma": "68. /130 1482. /1621"
   },
   {
-    "puesto": 1459,
+    "puesto": 1483,
     "placa": "2525",
     "nombre": "JUAN CARLOS PEÑA MARTINEZ",
     "categoria": "21 K MASTER B",
@@ -24795,15 +25203,15 @@ const RUNNERS_DATA = [
     "dif": "+1:46:36",
     "vel_prom": "10.1 Km/h",
     "ritmo": "5:53 Min/km",
-    "pdf_page": 295,
+    "pdf_page": 987,
     "dorsal": "2525",
     "categoria_diploma": "21 K MASTER B",
     "nombre_diploma": "JUAN CARLOS PEÑA MARTINEZ",
     "tiempo_diploma": "02:03:48",
-    "stats_diploma": "20. /26 1459. /1597"
+    "stats_diploma": "20. /26 1483. /1621"
   },
   {
-    "puesto": 1460,
+    "puesto": 1484,
     "placa": "2100",
     "nombre": "Juan Sebastián Gamarra Gómez",
     "categoria": "21 K ABIERTA",
@@ -24812,15 +25220,15 @@ const RUNNERS_DATA = [
     "dif": "+1:46:48",
     "vel_prom": "10.1 Km/h",
     "ritmo": "5:54 Min/km",
-    "pdf_page": 120,
+    "pdf_page": 799,
     "dorsal": "2100",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Juan Sebastián Gamarra Gómez",
     "tiempo_diploma": "02:04:00",
-    "stats_diploma": "69. /130 1460. /1597"
+    "stats_diploma": "69. /130 1484. /1621"
   },
   {
-    "puesto": 1461,
+    "puesto": 1485,
     "placa": "2044",
     "nombre": "Denys Perez Muñoz",
     "categoria": "21 K ABIERTA",
@@ -24829,15 +25237,15 @@ const RUNNERS_DATA = [
     "dif": "+1:46:52",
     "vel_prom": "10.1 Km/h",
     "ritmo": "5:54 Min/km",
-    "pdf_page": 20,
+    "pdf_page": 746,
     "dorsal": "2044",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Denys Perez Muñoz",
     "tiempo_diploma": "02:04:04",
-    "stats_diploma": "9. /40 1461. /1597"
+    "stats_diploma": "12. /43 1485. /1621"
   },
   {
-    "puesto": 1462,
+    "puesto": 1486,
     "placa": "2354",
     "nombre": "Juan Guillermo Ochoa Pineda",
     "categoria": "21 K MASTER A",
@@ -24846,15 +25254,15 @@ const RUNNERS_DATA = [
     "dif": "+1:47:01",
     "vel_prom": "10.1 Km/h",
     "ritmo": "5:54 Min/km",
-    "pdf_page": 247,
+    "pdf_page": 924,
     "dorsal": "2354",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Juan Guillermo Ochoa Pineda",
     "tiempo_diploma": "02:04:13",
-    "stats_diploma": "44. /66 1462. /1597"
+    "stats_diploma": "44. /66 1486. /1621"
   },
   {
-    "puesto": 1463,
+    "puesto": 1487,
     "placa": "2086",
     "nombre": "Jonatan Bautista Angarita",
     "categoria": "21 K ABIERTA",
@@ -24863,15 +25271,15 @@ const RUNNERS_DATA = [
     "dif": "+1:47:09",
     "vel_prom": "10.1 Km/h",
     "ritmo": "5:55 Min/km",
-    "pdf_page": 121,
+    "pdf_page": 786,
     "dorsal": "2086",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Jonatan Bautista Angarita",
     "tiempo_diploma": "02:04:21",
-    "stats_diploma": "70. /130 1463. /1597"
+    "stats_diploma": "70. /130 1487. /1621"
   },
   {
-    "puesto": 1464,
+    "puesto": 1488,
     "placa": "2317",
     "nombre": "Daniel Saravia",
     "categoria": "21 K MASTER A",
@@ -24880,15 +25288,15 @@ const RUNNERS_DATA = [
     "dif": "+1:47:20",
     "vel_prom": "10.1 Km/h",
     "ritmo": "5:55 Min/km",
-    "pdf_page": 248,
+    "pdf_page": 893,
     "dorsal": "2317",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Daniel Saravia",
     "tiempo_diploma": "02:04:32",
-    "stats_diploma": "45. /66 1464. /1597"
+    "stats_diploma": "45. /66 1488. /1621"
   },
   {
-    "puesto": 1465,
+    "puesto": 1489,
     "placa": "2145",
     "nombre": "Nestor Mauricio Mauricio Martinez",
     "categoria": "21 K ABIERTA",
@@ -24897,15 +25305,15 @@ const RUNNERS_DATA = [
     "dif": "+1:47:30",
     "vel_prom": "10.1 Km/h",
     "ritmo": "5:56 Min/km",
-    "pdf_page": 122,
+    "pdf_page": 842,
     "dorsal": "2145",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Nestor Mauricio Mauricio Martinez",
     "tiempo_diploma": "02:04:42",
-    "stats_diploma": "71. /130 1465. /1597"
+    "stats_diploma": "71. /130 1489. /1621"
   },
   {
-    "puesto": 1466,
+    "puesto": 1490,
     "placa": "2046",
     "nombre": "Diego SIerra",
     "categoria": "21 K ABIERTA",
@@ -24914,15 +25322,15 @@ const RUNNERS_DATA = [
     "dif": "+1:47:42",
     "vel_prom": "10.0 Km/h",
     "ritmo": "5:56 Min/km",
-    "pdf_page": 123,
+    "pdf_page": 748,
     "dorsal": "2046",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Diego SIerra",
     "tiempo_diploma": "02:04:54",
-    "stats_diploma": "72. /130 1466. /1597"
+    "stats_diploma": "72. /130 1490. /1621"
   },
   {
-    "puesto": 1467,
+    "puesto": 1491,
     "placa": "2098",
     "nombre": "Juan Sebastian Colmenares Toro",
     "categoria": "21 K ABIERTA",
@@ -24931,15 +25339,15 @@ const RUNNERS_DATA = [
     "dif": "+1:47:43",
     "vel_prom": "10.0 Km/h",
     "ritmo": "5:56 Min/km",
-    "pdf_page": 124,
+    "pdf_page": 797,
     "dorsal": "2098",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Juan Sebastian Colmenares Toro",
     "tiempo_diploma": "02:04:55",
-    "stats_diploma": "73. /130 1467. /1597"
+    "stats_diploma": "73. /130 1491. /1621"
   },
   {
-    "puesto": 1468,
+    "puesto": 1492,
     "placa": "2146",
     "nombre": "Nicolas Romero Mateus",
     "categoria": "21 K ABIERTA",
@@ -24948,15 +25356,15 @@ const RUNNERS_DATA = [
     "dif": "+1:48:02",
     "vel_prom": "10.0 Km/h",
     "ritmo": "5:57 Min/km",
-    "pdf_page": 125,
+    "pdf_page": 843,
     "dorsal": "2146",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Nicolas Romero Mateus",
     "tiempo_diploma": "02:05:14",
-    "stats_diploma": "74. /130 1468. /1597"
+    "stats_diploma": "74. /130 1492. /1621"
   },
   {
-    "puesto": 1469,
+    "puesto": 1493,
     "placa": "2327",
     "nombre": "FABIAN RAMIREZ",
     "categoria": "21 K MASTER A",
@@ -24965,15 +25373,15 @@ const RUNNERS_DATA = [
     "dif": "+1:48:22",
     "vel_prom": "10.0 Km/h",
     "ritmo": "5:58 Min/km",
-    "pdf_page": 249,
+    "pdf_page": 901,
     "dorsal": "2327",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "FABIAN RAMIREZ",
     "tiempo_diploma": "02:05:34",
-    "stats_diploma": "46. /66 1469. /1597"
+    "stats_diploma": "46. /66 1493. /1621"
   },
   {
-    "puesto": 1470,
+    "puesto": 1494,
     "placa": "2032",
     "nombre": "Carolina GARCIA RUSSI",
     "categoria": "21 K ABIERTA",
@@ -24982,15 +25390,15 @@ const RUNNERS_DATA = [
     "dif": "+1:48:27",
     "vel_prom": "10.0 Km/h",
     "ritmo": "5:59 Min/km",
-    "pdf_page": 21,
+    "pdf_page": 736,
     "dorsal": "2032",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Carolina GARCIA RUSSI",
     "tiempo_diploma": "02:05:39",
-    "stats_diploma": "10. /40 1470. /1597"
+    "stats_diploma": "13. /43 1494. /1621"
   },
   {
-    "puesto": 1471,
+    "puesto": 1495,
     "placa": "2393",
     "nombre": "Stella Motta Carvajal",
     "categoria": "21 K MASTER A",
@@ -24999,15 +25407,15 @@ const RUNNERS_DATA = [
     "dif": "+1:48:34",
     "vel_prom": "10.0 Km/h",
     "ritmo": "5:59 Min/km",
-    "pdf_page": 193,
+    "pdf_page": 959,
     "dorsal": "2393",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Stella Motta Carvajal",
     "tiempo_diploma": "02:05:46",
-    "stats_diploma": "12. /22 1471. /1597"
+    "stats_diploma": "12. /22 1495. /1621"
   },
   {
-    "puesto": 1472,
+    "puesto": 1496,
     "placa": "2012",
     "nombre": "Andres Duran",
     "categoria": "21 K ABIERTA",
@@ -25016,15 +25424,15 @@ const RUNNERS_DATA = [
     "dif": "+1:48:37",
     "vel_prom": "10.0 Km/h",
     "ritmo": "5:59 Min/km",
-    "pdf_page": 126,
+    "pdf_page": 717,
     "dorsal": "2012",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Andres Duran",
     "tiempo_diploma": "02:05:49",
-    "stats_diploma": "75. /130 1472. /1597"
+    "stats_diploma": "75. /130 1496. /1621"
   },
   {
-    "puesto": 1473,
+    "puesto": 1497,
     "placa": "2169",
     "nombre": "William Camilo Lache Chaparro",
     "categoria": "21 K ABIERTA",
@@ -25033,15 +25441,15 @@ const RUNNERS_DATA = [
     "dif": "+1:48:38",
     "vel_prom": "10.0 Km/h",
     "ritmo": "5:59 Min/km",
-    "pdf_page": 127,
+    "pdf_page": 863,
     "dorsal": "2169",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "William Camilo Lache Chaparro",
     "tiempo_diploma": "02:05:50",
-    "stats_diploma": "76. /130 1473. /1597"
+    "stats_diploma": "76. /130 1497. /1621"
   },
   {
-    "puesto": 1474,
+    "puesto": 1498,
     "placa": "2164",
     "nombre": "Sonia López Medina",
     "categoria": "21 K ABIERTA",
@@ -25050,15 +25458,15 @@ const RUNNERS_DATA = [
     "dif": "+1:48:57",
     "vel_prom": "9.9 Km/h",
     "ritmo": "6:00 Min/km",
-    "pdf_page": 22,
+    "pdf_page": 858,
     "dorsal": "2164",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Sonia López Medina",
     "tiempo_diploma": "02:06:09",
-    "stats_diploma": "11. /40 1474. /1597"
+    "stats_diploma": "14. /43 1498. /1621"
   },
   {
-    "puesto": 1475,
+    "puesto": 1499,
     "placa": "2332",
     "nombre": "Freddy Jovanhy Ramírez Acevedo",
     "categoria": "21 K MASTER A",
@@ -25067,15 +25475,15 @@ const RUNNERS_DATA = [
     "dif": "+1:49:10",
     "vel_prom": "9.9 Km/h",
     "ritmo": "6:01 Min/km",
-    "pdf_page": 250,
+    "pdf_page": 906,
     "dorsal": "2332",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Freddy Jovanhy Ramírez Acevedo",
     "tiempo_diploma": "02:06:22",
-    "stats_diploma": "47. /66 1475. /1597"
+    "stats_diploma": "47. /66 1499. /1621"
   },
   {
-    "puesto": 1476,
+    "puesto": 1500,
     "placa": "2148",
     "nombre": "Oscar Navas Rueda",
     "categoria": "21 K ABIERTA",
@@ -25084,15 +25492,15 @@ const RUNNERS_DATA = [
     "dif": "+1:49:33",
     "vel_prom": "9.9 Km/h",
     "ritmo": "6:02 Min/km",
-    "pdf_page": 128,
+    "pdf_page": 845,
     "dorsal": "2148",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Oscar Navas Rueda",
     "tiempo_diploma": "02:06:45",
-    "stats_diploma": "77. /130 1476. /1597"
+    "stats_diploma": "77. /130 1500. /1621"
   },
   {
-    "puesto": 1477,
+    "puesto": 1501,
     "placa": "2001",
     "nombre": "Adriana del pilar Arias mariño",
     "categoria": "21 K ABIERTA",
@@ -25101,15 +25509,15 @@ const RUNNERS_DATA = [
     "dif": "+1:49:45",
     "vel_prom": "9.9 Km/h",
     "ritmo": "6:02 Min/km",
-    "pdf_page": 23,
+    "pdf_page": 706,
     "dorsal": "2001",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Adriana del pilar Arias mariño",
     "tiempo_diploma": "02:06:57",
-    "stats_diploma": "12. /40 1477. /1597"
+    "stats_diploma": "15. /43 1501. /1621"
   },
   {
-    "puesto": 1478,
+    "puesto": 1502,
     "placa": "2113",
     "nombre": "Laura Camila Suarez Pombo",
     "categoria": "21 K ABIERTA",
@@ -25118,15 +25526,15 @@ const RUNNERS_DATA = [
     "dif": "+1:49:54",
     "vel_prom": "9.9 Km/h",
     "ritmo": "6:03 Min/km",
-    "pdf_page": 24,
+    "pdf_page": 811,
     "dorsal": "2113",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Laura Camila Suarez Pombo",
     "tiempo_diploma": "02:07:06",
-    "stats_diploma": "13. /40 1478. /1597"
+    "stats_diploma": "16. /43 1502. /1621"
   },
   {
-    "puesto": 1479,
+    "puesto": 1503,
     "placa": "2109",
     "nombre": "Kevin Santos",
     "categoria": "21 K ABIERTA",
@@ -25135,15 +25543,15 @@ const RUNNERS_DATA = [
     "dif": "+1:50:27",
     "vel_prom": "9.8 Km/h",
     "ritmo": "6:04 Min/km",
-    "pdf_page": 129,
+    "pdf_page": 807,
     "dorsal": "2109",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Kevin Santos",
     "tiempo_diploma": "02:07:39",
-    "stats_diploma": "78. /130 1479. /1597"
+    "stats_diploma": "78. /130 1503. /1621"
   },
   {
-    "puesto": 1480,
+    "puesto": 1504,
     "placa": "2133",
     "nombre": "Marlon Yesith Delgado Ortiz",
     "categoria": "21 K ABIERTA",
@@ -25152,15 +25560,15 @@ const RUNNERS_DATA = [
     "dif": "+1:50:29",
     "vel_prom": "9.8 Km/h",
     "ritmo": "6:04 Min/km",
-    "pdf_page": 130,
+    "pdf_page": 831,
     "dorsal": "2133",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Marlon Yesith Delgado Ortiz",
     "tiempo_diploma": "02:07:41",
-    "stats_diploma": "79. /130 1480. /1597"
+    "stats_diploma": "79. /130 1504. /1621"
   },
   {
-    "puesto": 1481,
+    "puesto": 1505,
     "placa": "2007",
     "nombre": "Anderson Pinto",
     "categoria": "21 K ABIERTA",
@@ -25169,15 +25577,15 @@ const RUNNERS_DATA = [
     "dif": "+1:50:32",
     "vel_prom": "9.8 Km/h",
     "ritmo": "6:04 Min/km",
-    "pdf_page": 131,
+    "pdf_page": 712,
     "dorsal": "2007",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Anderson Pinto",
     "tiempo_diploma": "02:07:44",
-    "stats_diploma": "80. /130 1481. /1597"
+    "stats_diploma": "80. /130 1505. /1621"
   },
   {
-    "puesto": 1482,
+    "puesto": 1506,
     "placa": "2102",
     "nombre": "Juliana Martinez Garcia",
     "categoria": "21 K ABIERTA",
@@ -25186,15 +25594,15 @@ const RUNNERS_DATA = [
     "dif": "+1:50:56",
     "vel_prom": "9.8 Km/h",
     "ritmo": "6:06 Min/km",
-    "pdf_page": 25,
+    "pdf_page": 801,
     "dorsal": "2102",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Juliana Martinez Garcia",
     "tiempo_diploma": "02:08:08",
-    "stats_diploma": "14. /40 1482. /1597"
+    "stats_diploma": "17. /43 1506. /1621"
   },
   {
-    "puesto": 1483,
+    "puesto": 1507,
     "placa": "2313",
     "nombre": "Carlos Alberto Villamil Quiroga",
     "categoria": "21 K MASTER A",
@@ -25203,15 +25611,15 @@ const RUNNERS_DATA = [
     "dif": "+1:51:02",
     "vel_prom": "9.8 Km/h",
     "ritmo": "6:06 Min/km",
-    "pdf_page": 251,
+    "pdf_page": 889,
     "dorsal": "2313",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Carlos Alberto Villamil Quiroga",
     "tiempo_diploma": "02:08:14",
-    "stats_diploma": "48. /66 1483. /1597"
+    "stats_diploma": "48. /66 1507. /1621"
   },
   {
-    "puesto": 1484,
+    "puesto": 1508,
     "placa": "2120",
     "nombre": "Libardo Andres Lopez Cala",
     "categoria": "21 K ABIERTA",
@@ -25220,15 +25628,15 @@ const RUNNERS_DATA = [
     "dif": "+1:51:04",
     "vel_prom": "9.8 Km/h",
     "ritmo": "6:06 Min/km",
-    "pdf_page": 132,
+    "pdf_page": 818,
     "dorsal": "2120",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Libardo Andres Lopez Cala",
     "tiempo_diploma": "02:08:16",
-    "stats_diploma": "81. /130 1484. /1597"
+    "stats_diploma": "81. /130 1508. /1621"
   },
   {
-    "puesto": 1485,
+    "puesto": 1509,
     "placa": "2519",
     "nombre": "JAIME OSBALDO CHACON CAGUA",
     "categoria": "21 K MASTER B",
@@ -25237,15 +25645,15 @@ const RUNNERS_DATA = [
     "dif": "+1:51:18",
     "vel_prom": "9.8 Km/h",
     "ritmo": "6:07 Min/km",
-    "pdf_page": 296,
+    "pdf_page": 981,
     "dorsal": "2519",
     "categoria_diploma": "21 K MASTER B",
     "nombre_diploma": "JAIME OSBALDO CHACON CAGUA",
     "tiempo_diploma": "02:08:30",
-    "stats_diploma": "21. /26 1485. /1597"
+    "stats_diploma": "21. /26 1509. /1621"
   },
   {
-    "puesto": 1486,
+    "puesto": 1510,
     "placa": "2033",
     "nombre": "Cesar Blanco",
     "categoria": "21 K ABIERTA",
@@ -25254,15 +25662,15 @@ const RUNNERS_DATA = [
     "dif": "+1:51:46",
     "vel_prom": "9.7 Km/h",
     "ritmo": "6:08 Min/km",
-    "pdf_page": 133,
+    "pdf_page": 737,
     "dorsal": "2033",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Cesar Blanco",
     "tiempo_diploma": "02:08:58",
-    "stats_diploma": "82. /130 1486. /1597"
+    "stats_diploma": "82. /130 1510. /1621"
   },
   {
-    "puesto": 1487,
+    "puesto": 1511,
     "placa": "2307",
     "nombre": "Arley Garcés",
     "categoria": "21 K MASTER A",
@@ -25271,15 +25679,15 @@ const RUNNERS_DATA = [
     "dif": "+1:51:49",
     "vel_prom": "9.7 Km/h",
     "ritmo": "6:08 Min/km",
-    "pdf_page": 252,
+    "pdf_page": 884,
     "dorsal": "2307",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Arley Garcés",
     "tiempo_diploma": "02:09:01",
-    "stats_diploma": "49. /66 1487. /1597"
+    "stats_diploma": "49. /66 1511. /1621"
   },
   {
-    "puesto": 1488,
+    "puesto": 1512,
     "placa": "2356",
     "nombre": "Julian Eduardo Martínez Carrillo",
     "categoria": "21 K MASTER A",
@@ -25288,15 +25696,15 @@ const RUNNERS_DATA = [
     "dif": "+1:52:13",
     "vel_prom": "9.7 Km/h",
     "ritmo": "6:09 Min/km",
-    "pdf_page": 253,
+    "pdf_page": 926,
     "dorsal": "2356",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Julian Eduardo Martínez Carrillo",
     "tiempo_diploma": "02:09:25",
-    "stats_diploma": "50. /66 1488. /1597"
+    "stats_diploma": "50. /66 1512. /1621"
   },
   {
-    "puesto": 1489,
+    "puesto": 1513,
     "placa": "2363",
     "nombre": "Luis Jiménez Sierra",
     "categoria": "21 K MASTER A",
@@ -25305,15 +25713,15 @@ const RUNNERS_DATA = [
     "dif": "+1:52:34",
     "vel_prom": "9.7 Km/h",
     "ritmo": "6:10 Min/km",
-    "pdf_page": 254,
+    "pdf_page": 933,
     "dorsal": "2363",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Luis Jiménez Sierra",
     "tiempo_diploma": "02:09:46",
-    "stats_diploma": "51. /66 1489. /1597"
+    "stats_diploma": "51. /66 1513. /1621"
   },
   {
-    "puesto": 1490,
+    "puesto": 1514,
     "placa": "2314",
     "nombre": "Carlos Gabriel Esteban Torrado",
     "categoria": "21 K MASTER A",
@@ -25322,15 +25730,15 @@ const RUNNERS_DATA = [
     "dif": "+1:52:44",
     "vel_prom": "9.6 Km/h",
     "ritmo": "6:11 Min/km",
-    "pdf_page": 255,
+    "pdf_page": 890,
     "dorsal": "2314",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Carlos Gabriel Esteban Torrado",
     "tiempo_diploma": "02:09:56",
-    "stats_diploma": "52. /66 1490. /1597"
+    "stats_diploma": "52. /66 1514. /1621"
   },
   {
-    "puesto": 1491,
+    "puesto": 1515,
     "placa": "2357",
     "nombre": "Julian Fernando Rodriguez Villarreal",
     "categoria": "21 K MASTER A",
@@ -25339,15 +25747,15 @@ const RUNNERS_DATA = [
     "dif": "+1:52:48",
     "vel_prom": "9.6 Km/h",
     "ritmo": "6:11 Min/km",
-    "pdf_page": 256,
+    "pdf_page": 927,
     "dorsal": "2357",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Julian Fernando Rodriguez Villarreal",
     "tiempo_diploma": "02:10:00",
-    "stats_diploma": "53. /66 1491. /1597"
+    "stats_diploma": "53. /66 1515. /1621"
   },
   {
-    "puesto": 1492,
+    "puesto": 1516,
     "placa": "2376",
     "nombre": "Orlando Ramirez",
     "categoria": "21 K MASTER A",
@@ -25356,15 +25764,15 @@ const RUNNERS_DATA = [
     "dif": "+1:53:49",
     "vel_prom": "9.6 Km/h",
     "ritmo": "6:14 Min/km",
-    "pdf_page": 257,
+    "pdf_page": 946,
     "dorsal": "2376",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Orlando Ramirez",
     "tiempo_diploma": "02:11:01",
-    "stats_diploma": "54. /66 1492. /1597"
+    "stats_diploma": "54. /66 1516. /1621"
   },
   {
-    "puesto": 1493,
+    "puesto": 1517,
     "placa": "2373",
     "nombre": "Miguel Angel Muñoz Avila",
     "categoria": "21 K MASTER A",
@@ -25373,15 +25781,15 @@ const RUNNERS_DATA = [
     "dif": "+1:53:59",
     "vel_prom": "9.6 Km/h",
     "ritmo": "6:14 Min/km",
-    "pdf_page": 258,
+    "pdf_page": 943,
     "dorsal": "2373",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Miguel Angel Muñoz Avila",
     "tiempo_diploma": "02:11:11",
-    "stats_diploma": "55. /66 1493. /1597"
+    "stats_diploma": "55. /66 1517. /1621"
   },
   {
-    "puesto": 1494,
+    "puesto": 1518,
     "placa": "2534",
     "nombre": "Santiago Ramirez Segura",
     "categoria": "21 K MASTER B",
@@ -25390,15 +25798,15 @@ const RUNNERS_DATA = [
     "dif": "+1:54:04",
     "vel_prom": "9.5 Km/h",
     "ritmo": "6:15 Min/km",
-    "pdf_page": 297,
+    "pdf_page": 996,
     "dorsal": "2534",
     "categoria_diploma": "21 K MASTER B",
     "nombre_diploma": "Santiago Ramirez Segura",
     "tiempo_diploma": "02:11:16",
-    "stats_diploma": "22. /26 1494. /1597"
+    "stats_diploma": "22. /26 1518. /1621"
   },
   {
-    "puesto": 1495,
+    "puesto": 1519,
     "placa": "2529",
     "nombre": "María Cecilia Schneider Sanchez",
     "categoria": "21 K MASTER B",
@@ -25407,15 +25815,15 @@ const RUNNERS_DATA = [
     "dif": "+1:54:04",
     "vel_prom": "9.5 Km/h",
     "ritmo": "6:15 Min/km",
-    "pdf_page": 273,
+    "pdf_page": 991,
     "dorsal": "2529",
     "categoria_diploma": "21 K MASTER B",
     "nombre_diploma": "María Cecilia Schneider Sanchez",
     "tiempo_diploma": "02:11:16",
-    "stats_diploma": "4. /6 1495. /1597"
+    "stats_diploma": "3. /5 1519. /1621"
   },
   {
-    "puesto": 1496,
+    "puesto": 1520,
     "placa": "2333",
     "nombre": "Hasbleidy Iveth Lobo Martínez",
     "categoria": "21 K MASTER A",
@@ -25424,15 +25832,15 @@ const RUNNERS_DATA = [
     "dif": "+1:54:23",
     "vel_prom": "9.5 Km/h",
     "ritmo": "6:15 Min/km",
-    "pdf_page": 194,
+    "pdf_page": 907,
     "dorsal": "2333",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Hasbleidy Iveth Lobo Martínez",
     "tiempo_diploma": "02:11:35",
-    "stats_diploma": "13. /22 1496. /1597"
+    "stats_diploma": "13. /22 1520. /1621"
   },
   {
-    "puesto": 1497,
+    "puesto": 1521,
     "placa": "2093",
     "nombre": "Juan David Quiñones Chacon",
     "categoria": "21 K ABIERTA",
@@ -25441,15 +25849,15 @@ const RUNNERS_DATA = [
     "dif": "+1:54:35",
     "vel_prom": "9.5 Km/h",
     "ritmo": "6:16 Min/km",
-    "pdf_page": 134,
+    "pdf_page": 792,
     "dorsal": "2093",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Juan David Quiñones Chacon",
     "tiempo_diploma": "02:11:47",
-    "stats_diploma": "83. /130 1497. /1597"
+    "stats_diploma": "83. /130 1521. /1621"
   },
   {
-    "puesto": 1498,
+    "puesto": 1522,
     "placa": "2045",
     "nombre": "Deymer Antonio Gomez Gomez",
     "categoria": "21 K ABIERTA",
@@ -25458,15 +25866,15 @@ const RUNNERS_DATA = [
     "dif": "+1:55:24",
     "vel_prom": "9.5 Km/h",
     "ritmo": "6:18 Min/km",
-    "pdf_page": 135,
+    "pdf_page": 747,
     "dorsal": "2045",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Deymer Antonio Gomez Gomez",
     "tiempo_diploma": "02:12:36",
-    "stats_diploma": "84. /130 1498. /1597"
+    "stats_diploma": "84. /130 1522. /1621"
   },
   {
-    "puesto": 1499,
+    "puesto": 1523,
     "placa": "3029",
     "nombre": "Claudia Juliana Villamizar Cancelado",
     "categoria": "10 K MASTER A",
@@ -25475,15 +25883,15 @@ const RUNNERS_DATA = [
     "dif": "+1:55:37",
     "vel_prom": "4.5 Km/h",
     "ritmo": "13:16 Min/km",
-    "pdf_page": 1082,
+    "pdf_page": 1025,
     "dorsal": "3029",
     "categoria_diploma": "10 K MASTER A",
     "nombre_diploma": "Claudia Juliana Villamizar Cancelado",
     "tiempo_diploma": "02:12:49",
-    "stats_diploma": "87. /87 1499. /1597"
+    "stats_diploma": "87. /87 1523. /1621"
   },
   {
-    "puesto": 1500,
+    "puesto": 1524,
     "placa": "2510",
     "nombre": "Edgar alfredo Carvajal pinzon",
     "categoria": "21 K MASTER B",
@@ -25492,15 +25900,15 @@ const RUNNERS_DATA = [
     "dif": "+1:55:37",
     "vel_prom": "9.4 Km/h",
     "ritmo": "6:19 Min/km",
-    "pdf_page": 298,
+    "pdf_page": 974,
     "dorsal": "2510",
     "categoria_diploma": "21 K MASTER B",
     "nombre_diploma": "Edgar alfredo Carvajal pinzon",
     "tiempo_diploma": "02:12:49",
-    "stats_diploma": "23. /26 1500. /1597"
+    "stats_diploma": "23. /26 1524. /1621"
   },
   {
-    "puesto": 1501,
+    "puesto": 1525,
     "placa": "2087",
     "nombre": "Jorge Enrique Fernandez Martinez",
     "categoria": "21 K ABIERTA",
@@ -25509,15 +25917,15 @@ const RUNNERS_DATA = [
     "dif": "+1:55:57",
     "vel_prom": "9.4 Km/h",
     "ritmo": "6:20 Min/km",
-    "pdf_page": 136,
+    "pdf_page": 787,
     "dorsal": "2087",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Jorge Enrique Fernandez Martinez",
     "tiempo_diploma": "02:13:09",
-    "stats_diploma": "85. /130 1501. /1597"
+    "stats_diploma": "85. /130 1525. /1621"
   },
   {
-    "puesto": 1502,
+    "puesto": 1526,
     "placa": "2018",
     "nombre": "Andrés Felipe Peñaranda Arenas",
     "categoria": "21 K ABIERTA",
@@ -25526,15 +25934,15 @@ const RUNNERS_DATA = [
     "dif": "+1:56:11",
     "vel_prom": "9.4 Km/h",
     "ritmo": "6:21 Min/km",
-    "pdf_page": 137,
+    "pdf_page": 723,
     "dorsal": "2018",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Andrés Felipe Peñaranda Arenas",
     "tiempo_diploma": "02:13:23",
-    "stats_diploma": "86. /130 1502. /1597"
+    "stats_diploma": "86. /130 1526. /1621"
   },
   {
-    "puesto": 1503,
+    "puesto": 1527,
     "placa": "2063",
     "nombre": "German Alonso Tamayo Mejia",
     "categoria": "21 K ABIERTA",
@@ -25543,15 +25951,15 @@ const RUNNERS_DATA = [
     "dif": "+1:56:28",
     "vel_prom": "9.4 Km/h",
     "ritmo": "6:21 Min/km",
-    "pdf_page": 138,
+    "pdf_page": 763,
     "dorsal": "2063",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "German Alonso Tamayo Mejia",
     "tiempo_diploma": "02:13:40",
-    "stats_diploma": "87. /130 1503. /1597"
+    "stats_diploma": "87. /130 1527. /1621"
   },
   {
-    "puesto": 1504,
+    "puesto": 1528,
     "placa": "2036",
     "nombre": "Cristian Daniel Parra Villamizar",
     "categoria": "21 K ABIERTA",
@@ -25560,15 +25968,15 @@ const RUNNERS_DATA = [
     "dif": "+1:56:30",
     "vel_prom": "9.4 Km/h",
     "ritmo": "6:22 Min/km",
-    "pdf_page": 139,
+    "pdf_page": 740,
     "dorsal": "2036",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Cristian Daniel Parra Villamizar",
     "tiempo_diploma": "02:13:42",
-    "stats_diploma": "88. /130 1504. /1597"
+    "stats_diploma": "88. /130 1528. /1621"
   },
   {
-    "puesto": 1505,
+    "puesto": 1529,
     "placa": "2104",
     "nombre": "Karen Yulieth Flórez Gómez",
     "categoria": "21 K ABIERTA",
@@ -25577,15 +25985,15 @@ const RUNNERS_DATA = [
     "dif": "+1:56:42",
     "vel_prom": "9.4 Km/h",
     "ritmo": "6:22 Min/km",
-    "pdf_page": 26,
+    "pdf_page": 803,
     "dorsal": "2104",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Karen Yulieth Flórez Gómez",
     "tiempo_diploma": "02:13:54",
-    "stats_diploma": "15. /40 1505. /1597"
+    "stats_diploma": "18. /43 1529. /1621"
   },
   {
-    "puesto": 1506,
+    "puesto": 1530,
     "placa": "2134",
     "nombre": "Marly Martinez Mora",
     "categoria": "21 K ABIERTA",
@@ -25594,15 +26002,15 @@ const RUNNERS_DATA = [
     "dif": "+1:56:50",
     "vel_prom": "9.4 Km/h",
     "ritmo": "6:22 Min/km",
-    "pdf_page": 27,
+    "pdf_page": 832,
     "dorsal": "2134",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Marly Martinez Mora",
     "tiempo_diploma": "02:14:02",
-    "stats_diploma": "16. /40 1506. /1597"
+    "stats_diploma": "19. /43 1530. /1621"
   },
   {
-    "puesto": 1507,
+    "puesto": 1531,
     "placa": "2073",
     "nombre": "Jairo Alberto Moreno Rincon",
     "categoria": "21 K ABIERTA",
@@ -25611,15 +26019,15 @@ const RUNNERS_DATA = [
     "dif": "+1:57:01",
     "vel_prom": "9.3 Km/h",
     "ritmo": "6:23 Min/km",
-    "pdf_page": 140,
+    "pdf_page": 773,
     "dorsal": "2073",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Jairo Alberto Moreno Rincon",
     "tiempo_diploma": "02:14:13",
-    "stats_diploma": "89. /130 1507. /1597"
+    "stats_diploma": "89. /130 1531. /1621"
   },
   {
-    "puesto": 1508,
+    "puesto": 1532,
     "placa": "2125",
     "nombre": "Luis Carlos Riaño Sánchez",
     "categoria": "21 K ABIERTA",
@@ -25628,15 +26036,15 @@ const RUNNERS_DATA = [
     "dif": "+1:57:32",
     "vel_prom": "9.3 Km/h",
     "ritmo": "6:24 Min/km",
-    "pdf_page": 141,
+    "pdf_page": 823,
     "dorsal": "2125",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Luis Carlos Riaño Sánchez",
     "tiempo_diploma": "02:14:44",
-    "stats_diploma": "90. /130 1508. /1597"
+    "stats_diploma": "90. /130 1532. /1621"
   },
   {
-    "puesto": 1509,
+    "puesto": 1533,
     "placa": "2089",
     "nombre": "José Mario Díaz Trillos",
     "categoria": "21 K ABIERTA",
@@ -25645,15 +26053,15 @@ const RUNNERS_DATA = [
     "dif": "+1:57:32",
     "vel_prom": "9.3 Km/h",
     "ritmo": "6:24 Min/km",
-    "pdf_page": 142,
+    "pdf_page": 789,
     "dorsal": "2089",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "José Mario Díaz Trillos",
     "tiempo_diploma": "02:14:44",
-    "stats_diploma": "91. /130 1509. /1597"
+    "stats_diploma": "91. /130 1533. /1621"
   },
   {
-    "puesto": 1510,
+    "puesto": 1534,
     "placa": "2386",
     "nombre": "Ricardo Cobos Lesmes",
     "categoria": "21 K MASTER A",
@@ -25662,15 +26070,15 @@ const RUNNERS_DATA = [
     "dif": "+1:57:38",
     "vel_prom": "9.3 Km/h",
     "ritmo": "6:25 Min/km",
-    "pdf_page": 259,
+    "pdf_page": 953,
     "dorsal": "2386",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Ricardo Cobos Lesmes",
     "tiempo_diploma": "02:14:50",
-    "stats_diploma": "56. /66 1510. /1597"
+    "stats_diploma": "56. /66 1534. /1621"
   },
   {
-    "puesto": 1511,
+    "puesto": 1535,
     "placa": "2029",
     "nombre": "Carlos Alvarez",
     "categoria": "21 K ABIERTA",
@@ -25679,15 +26087,15 @@ const RUNNERS_DATA = [
     "dif": "+1:57:46",
     "vel_prom": "9.3 Km/h",
     "ritmo": "6:25 Min/km",
-    "pdf_page": 143,
+    "pdf_page": 733,
     "dorsal": "2029",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Carlos Alvarez",
     "tiempo_diploma": "02:14:58",
-    "stats_diploma": "92. /130 1511. /1597"
+    "stats_diploma": "92. /130 1535. /1621"
   },
   {
-    "puesto": 1512,
+    "puesto": 1536,
     "placa": "2536",
     "nombre": "Xiomara Becerra Moreno",
     "categoria": "21 K MASTER B",
@@ -25696,15 +26104,15 @@ const RUNNERS_DATA = [
     "dif": "+1:57:53",
     "vel_prom": "9.3 Km/h",
     "ritmo": "6:25 Min/km",
-    "pdf_page": 274,
+    "pdf_page": 997,
     "dorsal": "2536",
     "categoria_diploma": "21 K MASTER B",
     "nombre_diploma": "Xiomara Becerra Moreno",
     "tiempo_diploma": "02:15:05",
-    "stats_diploma": "5. /6 1512. /1597"
+    "stats_diploma": "4. /5 1536. /1621"
   },
   {
-    "puesto": 1513,
+    "puesto": 1537,
     "placa": "2030",
     "nombre": "Carlos Eduardo Ortiz Verano",
     "categoria": "21 K ABIERTA",
@@ -25713,15 +26121,15 @@ const RUNNERS_DATA = [
     "dif": "+1:58:25",
     "vel_prom": "9.2 Km/h",
     "ritmo": "6:27 Min/km",
-    "pdf_page": 144,
+    "pdf_page": 734,
     "dorsal": "2030",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Carlos Eduardo Ortiz Verano",
     "tiempo_diploma": "02:15:37",
-    "stats_diploma": "93. /130 1513. /1597"
+    "stats_diploma": "93. /130 1537. /1621"
   },
   {
-    "puesto": 1514,
+    "puesto": 1538,
     "placa": "2128",
     "nombre": "Luis enrique Barajas rincon",
     "categoria": "21 K ABIERTA",
@@ -25730,15 +26138,15 @@ const RUNNERS_DATA = [
     "dif": "+1:58:35",
     "vel_prom": "9.2 Km/h",
     "ritmo": "6:27 Min/km",
-    "pdf_page": 145,
+    "pdf_page": 826,
     "dorsal": "2128",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Luis enrique Barajas rincon",
     "tiempo_diploma": "02:15:47",
-    "stats_diploma": "94. /130 1514. /1597"
+    "stats_diploma": "94. /130 1538. /1621"
   },
   {
-    "puesto": 1515,
+    "puesto": 1539,
     "placa": "2077",
     "nombre": "jenny carolina sanchez sanchez",
     "categoria": "21 K ABIERTA",
@@ -25747,15 +26155,15 @@ const RUNNERS_DATA = [
     "dif": "+1:58:48",
     "vel_prom": "9.2 Km/h",
     "ritmo": "6:28 Min/km",
-    "pdf_page": 28,
+    "pdf_page": 777,
     "dorsal": "2077",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "jenny carolina sanchez sanchez",
     "tiempo_diploma": "02:16:00",
-    "stats_diploma": "17. /40 1515. /1597"
+    "stats_diploma": "20. /43 1539. /1621"
   },
   {
-    "puesto": 1516,
+    "puesto": 1540,
     "placa": "2370",
     "nombre": "Maria Araujo",
     "categoria": "21 K MASTER A",
@@ -25764,15 +26172,15 @@ const RUNNERS_DATA = [
     "dif": "+1:58:50",
     "vel_prom": "9.2 Km/h",
     "ritmo": "6:28 Min/km",
-    "pdf_page": 195,
+    "pdf_page": 940,
     "dorsal": "2370",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Maria Araujo",
     "tiempo_diploma": "02:16:02",
-    "stats_diploma": "14. /22 1516. /1597"
+    "stats_diploma": "14. /22 1540. /1621"
   },
   {
-    "puesto": 1517,
+    "puesto": 1541,
     "placa": "2391",
     "nombre": "Sergio Carreño",
     "categoria": "21 K MASTER A",
@@ -25781,15 +26189,15 @@ const RUNNERS_DATA = [
     "dif": "+1:58:50",
     "vel_prom": "9.2 Km/h",
     "ritmo": "6:28 Min/km",
-    "pdf_page": 260,
+    "pdf_page": 958,
     "dorsal": "2391",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Sergio Carreño",
     "tiempo_diploma": "02:16:02",
-    "stats_diploma": "57. /66 1517. /1597"
+    "stats_diploma": "57. /66 1541. /1621"
   },
   {
-    "puesto": 1518,
+    "puesto": 1542,
     "placa": "2083",
     "nombre": "Johan Alfonso Castillo Caballero",
     "categoria": "21 K ABIERTA",
@@ -25798,15 +26206,15 @@ const RUNNERS_DATA = [
     "dif": "+1:59:30",
     "vel_prom": "9.2 Km/h",
     "ritmo": "6:30 Min/km",
-    "pdf_page": 146,
+    "pdf_page": 783,
     "dorsal": "2083",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Johan Alfonso Castillo Caballero",
     "tiempo_diploma": "02:16:42",
-    "stats_diploma": "95. /130 1518. /1597"
+    "stats_diploma": "95. /130 1542. /1621"
   },
   {
-    "puesto": 1519,
+    "puesto": 1543,
     "placa": "2336",
     "nombre": "ISNARDO MENDOZA HIGUERA",
     "categoria": "21 K MASTER A",
@@ -25815,15 +26223,15 @@ const RUNNERS_DATA = [
     "dif": "+1:59:34",
     "vel_prom": "9.2 Km/h",
     "ritmo": "6:30 Min/km",
-    "pdf_page": 261,
+    "pdf_page": 909,
     "dorsal": "2336",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "ISNARDO MENDOZA HIGUERA",
     "tiempo_diploma": "02:16:46",
-    "stats_diploma": "58. /66 1519. /1597"
+    "stats_diploma": "58. /66 1543. /1621"
   },
   {
-    "puesto": 1520,
+    "puesto": 1544,
     "placa": "2305",
     "nombre": "Andrea Calderón Cuervo",
     "categoria": "21 K MASTER A",
@@ -25832,15 +26240,15 @@ const RUNNERS_DATA = [
     "dif": "+1:59:48",
     "vel_prom": "9.1 Km/h",
     "ritmo": "6:31 Min/km",
-    "pdf_page": 196,
+    "pdf_page": 882,
     "dorsal": "2305",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Andrea Calderón Cuervo",
     "tiempo_diploma": "02:17:00",
-    "stats_diploma": "15. /22 1520. /1597"
+    "stats_diploma": "15. /22 1544. /1621"
   },
   {
-    "puesto": 1521,
+    "puesto": 1545,
     "placa": "2105",
     "nombre": "Karina Peñuela Galindo",
     "categoria": "21 K ABIERTA",
@@ -25849,15 +26257,15 @@ const RUNNERS_DATA = [
     "dif": "+1:59:54",
     "vel_prom": "9.1 Km/h",
     "ritmo": "6:31 Min/km",
-    "pdf_page": 29,
+    "pdf_page": 804,
     "dorsal": "2105",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Karina Peñuela Galindo",
     "tiempo_diploma": "02:17:06",
-    "stats_diploma": "18. /40 1521. /1597"
+    "stats_diploma": "21. /43 1545. /1621"
   },
   {
-    "puesto": 1522,
+    "puesto": 1546,
     "placa": "2121",
     "nombre": "Lida Torres",
     "categoria": "21 K ABIERTA",
@@ -25866,15 +26274,15 @@ const RUNNERS_DATA = [
     "dif": "+2:00:00",
     "vel_prom": "9.1 Km/h",
     "ritmo": "6:32 Min/km",
-    "pdf_page": 30,
+    "pdf_page": 819,
     "dorsal": "2121",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Lida Torres",
     "tiempo_diploma": "02:17:12",
-    "stats_diploma": "19. /40 1522. /1597"
+    "stats_diploma": "22. /43 1546. /1621"
   },
   {
-    "puesto": 1523,
+    "puesto": 1547,
     "placa": "2064",
     "nombre": "Gina Daniela Roa Nuñez",
     "categoria": "21 K ABIERTA",
@@ -25883,15 +26291,15 @@ const RUNNERS_DATA = [
     "dif": "+2:00:01",
     "vel_prom": "9.1 Km/h",
     "ritmo": "6:32 Min/km",
-    "pdf_page": 31,
+    "pdf_page": 764,
     "dorsal": "2064",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Gina Daniela Roa Nuñez",
     "tiempo_diploma": "02:17:13",
-    "stats_diploma": "20. /40 1523. /1597"
+    "stats_diploma": "23. /43 1547. /1621"
   },
   {
-    "puesto": 1524,
+    "puesto": 1548,
     "placa": "2067",
     "nombre": "Hans Yecid Garcia Arenas",
     "categoria": "21 K ABIERTA",
@@ -25900,15 +26308,15 @@ const RUNNERS_DATA = [
     "dif": "+2:00:03",
     "vel_prom": "9.1 Km/h",
     "ritmo": "6:32 Min/km",
-    "pdf_page": 147,
+    "pdf_page": 767,
     "dorsal": "2067",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Hans Yecid Garcia Arenas",
     "tiempo_diploma": "02:17:15",
-    "stats_diploma": "96. /130 1524. /1597"
+    "stats_diploma": "96. /130 1548. /1621"
   },
   {
-    "puesto": 1525,
+    "puesto": 1549,
     "placa": "2163",
     "nombre": "Silvia Juliana Dagovett Cala",
     "categoria": "21 K ABIERTA",
@@ -25917,15 +26325,15 @@ const RUNNERS_DATA = [
     "dif": "+2:00:04",
     "vel_prom": "9.1 Km/h",
     "ritmo": "6:32 Min/km",
-    "pdf_page": 32,
+    "pdf_page": 857,
     "dorsal": "2163",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Silvia Juliana Dagovett Cala",
     "tiempo_diploma": "02:17:16",
-    "stats_diploma": "21. /40 1525. /1597"
+    "stats_diploma": "24. /43 1549. /1621"
   },
   {
-    "puesto": 1526,
+    "puesto": 1550,
     "placa": "2141",
     "nombre": "Nelson Rodriguez",
     "categoria": "21 K ABIERTA",
@@ -25934,15 +26342,15 @@ const RUNNERS_DATA = [
     "dif": "+2:00:13",
     "vel_prom": "9.1 Km/h",
     "ritmo": "6:32 Min/km",
-    "pdf_page": 148,
+    "pdf_page": 838,
     "dorsal": "2141",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Nelson Rodriguez",
     "tiempo_diploma": "02:17:25",
-    "stats_diploma": "97. /130 1526. /1597"
+    "stats_diploma": "97. /130 1550. /1621"
   },
   {
-    "puesto": 1527,
+    "puesto": 1551,
     "placa": "2311",
     "nombre": "Bibiana Ramirez",
     "categoria": "21 K MASTER A",
@@ -25951,15 +26359,15 @@ const RUNNERS_DATA = [
     "dif": "+2:00:14",
     "vel_prom": "9.1 Km/h",
     "ritmo": "6:32 Min/km",
-    "pdf_page": 197,
+    "pdf_page": 888,
     "dorsal": "2311",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Bibiana Ramirez",
     "tiempo_diploma": "02:17:26",
-    "stats_diploma": "16. /22 1527. /1597"
+    "stats_diploma": "16. /22 1551. /1621"
   },
   {
-    "puesto": 1528,
+    "puesto": 1552,
     "placa": "2052",
     "nombre": "Eduardo Salcedo Urzola",
     "categoria": "21 K ABIERTA",
@@ -25968,15 +26376,15 @@ const RUNNERS_DATA = [
     "dif": "+2:00:16",
     "vel_prom": "9.1 Km/h",
     "ritmo": "6:32 Min/km",
-    "pdf_page": 149,
+    "pdf_page": 753,
     "dorsal": "2052",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Eduardo Salcedo Urzola",
     "tiempo_diploma": "02:17:28",
-    "stats_diploma": "98. /130 1528. /1597"
+    "stats_diploma": "98. /130 1552. /1621"
   },
   {
-    "puesto": 1529,
+    "puesto": 1553,
     "placa": "2119",
     "nombre": "Leudys Araujo Mugno",
     "categoria": "21 K ABIERTA",
@@ -25985,15 +26393,15 @@ const RUNNERS_DATA = [
     "dif": "+2:01:06",
     "vel_prom": "9.1 Km/h",
     "ritmo": "6:35 Min/km",
-    "pdf_page": 33,
+    "pdf_page": 817,
     "dorsal": "2119",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Leudys Araujo Mugno",
     "tiempo_diploma": "02:18:18",
-    "stats_diploma": "22. /40 1529. /1597"
+    "stats_diploma": "25. /43 1553. /1621"
   },
   {
-    "puesto": 1530,
+    "puesto": 1554,
     "placa": "2140",
     "nombre": "Natalia Romero Villamizar",
     "categoria": "21 K ABIERTA",
@@ -26002,15 +26410,15 @@ const RUNNERS_DATA = [
     "dif": "+2:01:32",
     "vel_prom": "9.0 Km/h",
     "ritmo": "6:36 Min/km",
-    "pdf_page": 34,
+    "pdf_page": 837,
     "dorsal": "2140",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Natalia Romero Villamizar",
     "tiempo_diploma": "02:18:44",
-    "stats_diploma": "23. /40 1530. /1597"
+    "stats_diploma": "26. /43 1554. /1621"
   },
   {
-    "puesto": 1531,
+    "puesto": 1555,
     "placa": "2330",
     "nombre": "Fidel Ochoa",
     "categoria": "21 K MASTER A",
@@ -26019,15 +26427,15 @@ const RUNNERS_DATA = [
     "dif": "+2:01:41",
     "vel_prom": "9.0 Km/h",
     "ritmo": "6:36 Min/km",
-    "pdf_page": 262,
+    "pdf_page": 904,
     "dorsal": "2330",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Fidel Ochoa",
     "tiempo_diploma": "02:18:53",
-    "stats_diploma": "59. /66 1531. /1597"
+    "stats_diploma": "59. /66 1555. /1621"
   },
   {
-    "puesto": 1532,
+    "puesto": 1556,
     "placa": "2059",
     "nombre": "Fabian Camilo Armero Garces",
     "categoria": "21 K ABIERTA",
@@ -26036,15 +26444,15 @@ const RUNNERS_DATA = [
     "dif": "+2:02:26",
     "vel_prom": "9.0 Km/h",
     "ritmo": "6:38 Min/km",
-    "pdf_page": 150,
+    "pdf_page": 759,
     "dorsal": "2059",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Fabian Camilo Armero Garces",
     "tiempo_diploma": "02:19:38",
-    "stats_diploma": "99. /130 1532. /1597"
+    "stats_diploma": "99. /130 1556. /1621"
   },
   {
-    "puesto": 1533,
+    "puesto": 1557,
     "placa": "2114",
     "nombre": "Leider Martinez Escudero",
     "categoria": "21 K ABIERTA",
@@ -26053,15 +26461,15 @@ const RUNNERS_DATA = [
     "dif": "+2:02:41",
     "vel_prom": "9.0 Km/h",
     "ritmo": "6:39 Min/km",
-    "pdf_page": 151,
+    "pdf_page": 812,
     "dorsal": "2114",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Leider Martinez Escudero",
     "tiempo_diploma": "02:19:53",
-    "stats_diploma": "100. /130 1533. /1597"
+    "stats_diploma": "100. /130 1557. /1621"
   },
   {
-    "puesto": 1534,
+    "puesto": 1558,
     "placa": "2301",
     "nombre": "Alberto Pico",
     "categoria": "21 K MASTER A",
@@ -26070,15 +26478,15 @@ const RUNNERS_DATA = [
     "dif": "+2:02:43",
     "vel_prom": "9.0 Km/h",
     "ritmo": "6:39 Min/km",
-    "pdf_page": 263,
+    "pdf_page": 879,
     "dorsal": "2301",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Alberto Pico",
     "tiempo_diploma": "02:19:55",
-    "stats_diploma": "60. /66 1534. /1597"
+    "stats_diploma": "60. /66 1558. /1621"
   },
   {
-    "puesto": 1535,
+    "puesto": 1559,
     "placa": "2504",
     "nombre": "Ariel Ricardo Saiz Rodríguez",
     "categoria": "21 K MASTER B",
@@ -26087,15 +26495,15 @@ const RUNNERS_DATA = [
     "dif": "+2:02:54",
     "vel_prom": "8.9 Km/h",
     "ritmo": "6:40 Min/km",
-    "pdf_page": 299,
+    "pdf_page": 969,
     "dorsal": "2504",
     "categoria_diploma": "21 K MASTER B",
     "nombre_diploma": "Ariel Ricardo Saiz Rodríguez",
     "tiempo_diploma": "02:20:06",
-    "stats_diploma": "24. /26 1535. /1597"
+    "stats_diploma": "24. /26 1559. /1621"
   },
   {
-    "puesto": 1536,
+    "puesto": 1560,
     "placa": "2107",
     "nombre": "Katherine Hernández Meneses",
     "categoria": "21 K ABIERTA",
@@ -26104,15 +26512,15 @@ const RUNNERS_DATA = [
     "dif": "+2:03:05",
     "vel_prom": "8.9 Km/h",
     "ritmo": "6:40 Min/km",
-    "pdf_page": 35,
+    "pdf_page": 806,
     "dorsal": "2107",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Katherine Hernández Meneses",
     "tiempo_diploma": "02:20:17",
-    "stats_diploma": "24. /40 1536. /1597"
+    "stats_diploma": "27. /43 1560. /1621"
   },
   {
-    "puesto": 1537,
+    "puesto": 1561,
     "placa": "2337",
     "nombre": "Iveth Cardenas Gamboa",
     "categoria": "21 K MASTER A",
@@ -26121,15 +26529,15 @@ const RUNNERS_DATA = [
     "dif": "+2:03:06",
     "vel_prom": "8.9 Km/h",
     "ritmo": "6:40 Min/km",
-    "pdf_page": 198,
+    "pdf_page": 910,
     "dorsal": "2337",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Iveth Cardenas Gamboa",
     "tiempo_diploma": "02:20:18",
-    "stats_diploma": "17. /22 1537. /1597"
+    "stats_diploma": "17. /22 1561. /1621"
   },
   {
-    "puesto": 1538,
+    "puesto": 1562,
     "placa": "2151",
     "nombre": "Pablo Andres Jaimes Roa",
     "categoria": "21 K ABIERTA",
@@ -26138,15 +26546,15 @@ const RUNNERS_DATA = [
     "dif": "+2:03:06",
     "vel_prom": "8.9 Km/h",
     "ritmo": "6:40 Min/km",
-    "pdf_page": 152,
+    "pdf_page": 847,
     "dorsal": "2151",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Pablo Andres Jaimes Roa",
     "tiempo_diploma": "02:20:18",
-    "stats_diploma": "101. /130 1538. /1597"
+    "stats_diploma": "101. /130 1562. /1621"
   },
   {
-    "puesto": 1539,
+    "puesto": 1563,
     "placa": "2521",
     "nombre": "Jesús David Garzón Forero",
     "categoria": "21 K MASTER B",
@@ -26155,15 +26563,15 @@ const RUNNERS_DATA = [
     "dif": "+2:03:10",
     "vel_prom": "8.9 Km/h",
     "ritmo": "6:41 Min/km",
-    "pdf_page": 300,
+    "pdf_page": 983,
     "dorsal": "2521",
     "categoria_diploma": "21 K MASTER B",
     "nombre_diploma": "Jesús David Garzón Forero",
     "tiempo_diploma": "02:20:22",
-    "stats_diploma": "25. /26 1539. /1597"
+    "stats_diploma": "25. /26 1563. /1621"
   },
   {
-    "puesto": 1540,
+    "puesto": 1564,
     "placa": "2082",
     "nombre": "Jhonatan Navas Rueda",
     "categoria": "21 K ABIERTA",
@@ -26172,15 +26580,15 @@ const RUNNERS_DATA = [
     "dif": "+2:03:47",
     "vel_prom": "8.9 Km/h",
     "ritmo": "6:42 Min/km",
-    "pdf_page": 153,
+    "pdf_page": 782,
     "dorsal": "2082",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Jhonatan Navas Rueda",
     "tiempo_diploma": "02:20:59",
-    "stats_diploma": "102. /130 1540. /1597"
+    "stats_diploma": "102. /130 1564. /1621"
   },
   {
-    "puesto": 1541,
+    "puesto": 1565,
     "placa": "2115",
     "nombre": "LEIDY JOHANA PARRA CONDE",
     "categoria": "21 K ABIERTA",
@@ -26189,15 +26597,15 @@ const RUNNERS_DATA = [
     "dif": "+2:04:49",
     "vel_prom": "8.8 Km/h",
     "ritmo": "6:45 Min/km",
-    "pdf_page": 36,
+    "pdf_page": 813,
     "dorsal": "2115",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "LEIDY JOHANA PARRA CONDE",
     "tiempo_diploma": "02:22:01",
-    "stats_diploma": "25. /40 1541. /1597"
+    "stats_diploma": "28. /43 1565. /1621"
   },
   {
-    "puesto": 1542,
+    "puesto": 1566,
     "placa": "2002",
     "nombre": "Adriana Paola Ascanio Guerrero",
     "categoria": "21 K ABIERTA",
@@ -26206,15 +26614,15 @@ const RUNNERS_DATA = [
     "dif": "+2:04:58",
     "vel_prom": "8.8 Km/h",
     "ritmo": "6:46 Min/km",
-    "pdf_page": 37,
+    "pdf_page": 707,
     "dorsal": "2002",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Adriana Paola Ascanio Guerrero",
     "tiempo_diploma": "02:22:10",
-    "stats_diploma": "26. /40 1542. /1597"
+    "stats_diploma": "29. /43 1566. /1621"
   },
   {
-    "puesto": 1543,
+    "puesto": 1567,
     "placa": "2160",
     "nombre": "Sebastián Leandro Rubio Rodríguez",
     "categoria": "21 K ABIERTA",
@@ -26223,15 +26631,15 @@ const RUNNERS_DATA = [
     "dif": "+2:05:33",
     "vel_prom": "8.8 Km/h",
     "ritmo": "6:47 Min/km",
-    "pdf_page": 154,
+    "pdf_page": 854,
     "dorsal": "2160",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Sebastián Leandro Rubio Rodríguez",
     "tiempo_diploma": "02:22:45",
-    "stats_diploma": "103. /130 1543. /1597"
+    "stats_diploma": "103. /130 1567. /1621"
   },
   {
-    "puesto": 1544,
+    "puesto": 1568,
     "placa": "2135",
     "nombre": "Mateo Gómez Gómez",
     "categoria": "21 K ABIERTA",
@@ -26240,15 +26648,15 @@ const RUNNERS_DATA = [
     "dif": "+2:06:07",
     "vel_prom": "8.7 Km/h",
     "ritmo": "6:49 Min/km",
-    "pdf_page": 155,
+    "pdf_page": 833,
     "dorsal": "2135",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Mateo Gómez Gómez",
     "tiempo_diploma": "02:23:19",
-    "stats_diploma": "104. /130 1544. /1597"
+    "stats_diploma": "104. /130 1568. /1621"
   },
   {
-    "puesto": 1545,
+    "puesto": 1569,
     "placa": "2130",
     "nombre": "Maicol Santiago Sierra Méndez",
     "categoria": "21 K ABIERTA",
@@ -26257,15 +26665,15 @@ const RUNNERS_DATA = [
     "dif": "+2:06:36",
     "vel_prom": "8.7 Km/h",
     "ritmo": "6:50 Min/km",
-    "pdf_page": 156,
+    "pdf_page": 828,
     "dorsal": "2130",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Maicol Santiago Sierra Méndez",
     "tiempo_diploma": "02:23:48",
-    "stats_diploma": "105. /130 1545. /1597"
+    "stats_diploma": "105. /130 1569. /1621"
   },
   {
-    "puesto": 1546,
+    "puesto": 1570,
     "placa": "2112",
     "nombre": "Lady Jennifer Guzmán Arias",
     "categoria": "21 K ABIERTA",
@@ -26274,15 +26682,15 @@ const RUNNERS_DATA = [
     "dif": "+2:06:42",
     "vel_prom": "8.7 Km/h",
     "ritmo": "6:51 Min/km",
-    "pdf_page": 157,
+    "pdf_page": 810,
     "dorsal": "2112",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Lady Jennifer Guzmán Arias",
     "tiempo_diploma": "02:23:54",
-    "stats_diploma": "106. /130 1546. /1597"
+    "stats_diploma": "106. /130 1570. /1621"
   },
   {
-    "puesto": 1547,
+    "puesto": 1571,
     "placa": "2080",
     "nombre": "Jhoan Andres Perez Sierra",
     "categoria": "21 K ABIERTA",
@@ -26291,15 +26699,15 @@ const RUNNERS_DATA = [
     "dif": "+2:06:45",
     "vel_prom": "8.7 Km/h",
     "ritmo": "6:51 Min/km",
-    "pdf_page": 158,
+    "pdf_page": 780,
     "dorsal": "2080",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Jhoan Andres Perez Sierra",
     "tiempo_diploma": "02:23:57",
-    "stats_diploma": "107. /130 1547. /1597"
+    "stats_diploma": "107. /130 1571. /1621"
   },
   {
-    "puesto": 1548,
+    "puesto": 1572,
     "placa": "2319",
     "nombre": "Deisy Piña",
     "categoria": "21 K MASTER A",
@@ -26308,15 +26716,15 @@ const RUNNERS_DATA = [
     "dif": "+2:07:07",
     "vel_prom": "8.7 Km/h",
     "ritmo": "6:52 Min/km",
-    "pdf_page": 199,
+    "pdf_page": 894,
     "dorsal": "2319",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Deisy Piña",
     "tiempo_diploma": "02:24:19",
-    "stats_diploma": "18. /22 1548. /1597"
+    "stats_diploma": "18. /22 1572. /1621"
   },
   {
-    "puesto": 1549,
+    "puesto": 1573,
     "placa": "2034",
     "nombre": "Cristian Pérez",
     "categoria": "21 K ABIERTA",
@@ -26325,15 +26733,15 @@ const RUNNERS_DATA = [
     "dif": "+2:07:13",
     "vel_prom": "8.7 Km/h",
     "ritmo": "6:52 Min/km",
-    "pdf_page": 159,
+    "pdf_page": 738,
     "dorsal": "2034",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Cristian Pérez",
     "tiempo_diploma": "02:24:25",
-    "stats_diploma": "108. /130 1549. /1597"
+    "stats_diploma": "108. /130 1573. /1621"
   },
   {
-    "puesto": 1550,
+    "puesto": 1574,
     "placa": "2150",
     "nombre": "Oswald Blanco",
     "categoria": "21 K ABIERTA",
@@ -26342,15 +26750,15 @@ const RUNNERS_DATA = [
     "dif": "+2:07:26",
     "vel_prom": "8.7 Km/h",
     "ritmo": "6:53 Min/km",
-    "pdf_page": 160,
+    "pdf_page": 846,
     "dorsal": "2150",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Oswald Blanco",
     "tiempo_diploma": "02:24:38",
-    "stats_diploma": "109. /130 1550. /1597"
+    "stats_diploma": "109. /130 1574. /1621"
   },
   {
-    "puesto": 1551,
+    "puesto": 1575,
     "placa": "2019",
     "nombre": "Andrey Julian Malaver Rueda",
     "categoria": "21 K ABIERTA",
@@ -26359,15 +26767,15 @@ const RUNNERS_DATA = [
     "dif": "+2:07:30",
     "vel_prom": "8.7 Km/h",
     "ritmo": "6:53 Min/km",
-    "pdf_page": 161,
+    "pdf_page": 724,
     "dorsal": "2019",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Andrey Julian Malaver Rueda",
     "tiempo_diploma": "02:24:42",
-    "stats_diploma": "110. /130 1551. /1597"
+    "stats_diploma": "110. /130 1575. /1621"
   },
   {
-    "puesto": 1552,
+    "puesto": 1576,
     "placa": "2031",
     "nombre": "Carlos Fabian Angarita Colmenares",
     "categoria": "21 K ABIERTA",
@@ -26376,15 +26784,15 @@ const RUNNERS_DATA = [
     "dif": "+2:07:34",
     "vel_prom": "8.7 Km/h",
     "ritmo": "6:53 Min/km",
-    "pdf_page": 162,
+    "pdf_page": 735,
     "dorsal": "2031",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Carlos Fabian Angarita Colmenares",
     "tiempo_diploma": "02:24:46",
-    "stats_diploma": "111. /130 1552. /1597"
+    "stats_diploma": "111. /130 1576. /1621"
   },
   {
-    "puesto": 1553,
+    "puesto": 1577,
     "placa": "2117",
     "nombre": "Leidy Liliana Silva Sierra",
     "categoria": "21 K ABIERTA",
@@ -26393,15 +26801,15 @@ const RUNNERS_DATA = [
     "dif": "+2:07:39",
     "vel_prom": "8.6 Km/h",
     "ritmo": "6:53 Min/km",
-    "pdf_page": 38,
+    "pdf_page": 815,
     "dorsal": "2117",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Leidy Liliana Silva Sierra",
     "tiempo_diploma": "02:24:51",
-    "stats_diploma": "27. /40 1553. /1597"
+    "stats_diploma": "30. /43 1577. /1621"
   },
   {
-    "puesto": 1554,
+    "puesto": 1578,
     "placa": "2024",
     "nombre": "Brayan Orlando Capacho Duran",
     "categoria": "21 K ABIERTA",
@@ -26410,15 +26818,15 @@ const RUNNERS_DATA = [
     "dif": "+2:07:45",
     "vel_prom": "8.6 Km/h",
     "ritmo": "6:54 Min/km",
-    "pdf_page": 163,
+    "pdf_page": 728,
     "dorsal": "2024",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Brayan Orlando Capacho Duran",
     "tiempo_diploma": "02:24:57",
-    "stats_diploma": "112. /130 1554. /1597"
+    "stats_diploma": "112. /130 1578. /1621"
   },
   {
-    "puesto": 1555,
+    "puesto": 1579,
     "placa": "2328",
     "nombre": "Felipe Andres Suarez florez",
     "categoria": "21 K MASTER A",
@@ -26427,15 +26835,15 @@ const RUNNERS_DATA = [
     "dif": "+2:08:25",
     "vel_prom": "8.6 Km/h",
     "ritmo": "6:56 Min/km",
-    "pdf_page": 264,
+    "pdf_page": 902,
     "dorsal": "2328",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Felipe Andres Suarez florez",
     "tiempo_diploma": "02:25:37",
-    "stats_diploma": "61. /66 1555. /1597"
+    "stats_diploma": "61. /66 1579. /1621"
   },
   {
-    "puesto": 1556,
+    "puesto": 1580,
     "placa": "2122",
     "nombre": "Lina Sofia Araujo Medina",
     "categoria": "21 K ABIERTA",
@@ -26444,15 +26852,15 @@ const RUNNERS_DATA = [
     "dif": "+2:08:57",
     "vel_prom": "8.6 Km/h",
     "ritmo": "6:57 Min/km",
-    "pdf_page": 39,
+    "pdf_page": 820,
     "dorsal": "2122",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Lina Sofia Araujo Medina",
     "tiempo_diploma": "02:26:09",
-    "stats_diploma": "28. /40 1556. /1597"
+    "stats_diploma": "31. /43 1580. /1621"
   },
   {
-    "puesto": 1557,
+    "puesto": 1581,
     "placa": "2079",
     "nombre": "Jherson Hernan Aguas Parra",
     "categoria": "21 K ABIERTA",
@@ -26461,15 +26869,15 @@ const RUNNERS_DATA = [
     "dif": "+2:10:23",
     "vel_prom": "8.5 Km/h",
     "ritmo": "7:01 Min/km",
-    "pdf_page": 164,
+    "pdf_page": 779,
     "dorsal": "2079",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Jherson Hernan Aguas Parra",
     "tiempo_diploma": "02:27:35",
-    "stats_diploma": "113. /130 1557. /1597"
+    "stats_diploma": "113. /130 1581. /1621"
   },
   {
-    "puesto": 1558,
+    "puesto": 1582,
     "placa": "2071",
     "nombre": "Jaime Leon",
     "categoria": "21 K ABIERTA",
@@ -26478,15 +26886,15 @@ const RUNNERS_DATA = [
     "dif": "+2:10:30",
     "vel_prom": "8.5 Km/h",
     "ritmo": "7:02 Min/km",
-    "pdf_page": 165,
+    "pdf_page": 771,
     "dorsal": "2071",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Jaime Leon",
     "tiempo_diploma": "02:27:42",
-    "stats_diploma": "114. /130 1558. /1597"
+    "stats_diploma": "114. /130 1582. /1621"
   },
   {
-    "puesto": 1559,
+    "puesto": 1583,
     "placa": "2081",
     "nombre": "Jhoan Sebastián Villafradez Gómez",
     "categoria": "21 K ABIERTA",
@@ -26495,15 +26903,15 @@ const RUNNERS_DATA = [
     "dif": "+2:10:46",
     "vel_prom": "8.5 Km/h",
     "ritmo": "7:02 Min/km",
-    "pdf_page": 166,
+    "pdf_page": 781,
     "dorsal": "2081",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Jhoan Sebastián Villafradez Gómez",
     "tiempo_diploma": "02:27:58",
-    "stats_diploma": "115. /130 1559. /1597"
+    "stats_diploma": "115. /130 1583. /1621"
   },
   {
-    "puesto": 1560,
+    "puesto": 1584,
     "placa": "2129",
     "nombre": "Luisa Fernanda Martínez Bautista",
     "categoria": "21 K ABIERTA",
@@ -26512,15 +26920,15 @@ const RUNNERS_DATA = [
     "dif": "+2:11:04",
     "vel_prom": "8.4 Km/h",
     "ritmo": "7:03 Min/km",
-    "pdf_page": 40,
+    "pdf_page": 827,
     "dorsal": "2129",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Luisa Fernanda Martínez Bautista",
     "tiempo_diploma": "02:28:16",
-    "stats_diploma": "29. /40 1560. /1597"
+    "stats_diploma": "32. /43 1584. /1621"
   },
   {
-    "puesto": 1561,
+    "puesto": 1585,
     "placa": "2389",
     "nombre": "SANDRA MILENA RODRIGUEZ VELAIDES",
     "categoria": "21 K MASTER A",
@@ -26529,15 +26937,15 @@ const RUNNERS_DATA = [
     "dif": "+2:11:55",
     "vel_prom": "8.4 Km/h",
     "ritmo": "7:06 Min/km",
-    "pdf_page": 200,
+    "pdf_page": 956,
     "dorsal": "2389",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "SANDRA MILENA RODRIGUEZ VELAIDES",
     "tiempo_diploma": "02:29:07",
-    "stats_diploma": "19. /22 1561. /1597"
+    "stats_diploma": "19. /22 1585. /1621"
   },
   {
-    "puesto": 1562,
+    "puesto": 1586,
     "placa": "2066",
     "nombre": "Guzmán Andres Meneses Quintero",
     "categoria": "21 K ABIERTA",
@@ -26546,15 +26954,15 @@ const RUNNERS_DATA = [
     "dif": "+2:12:05",
     "vel_prom": "8.4 Km/h",
     "ritmo": "7:06 Min/km",
-    "pdf_page": 167,
+    "pdf_page": 766,
     "dorsal": "2066",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Guzmán Andres Meneses Quintero",
     "tiempo_diploma": "02:29:17",
-    "stats_diploma": "116. /130 1562. /1597"
+    "stats_diploma": "116. /130 1586. /1621"
   },
   {
-    "puesto": 1563,
+    "puesto": 1587,
     "placa": "2358",
     "nombre": "JULIO CESAR GUTIERREZ MALAGON",
     "categoria": "21 K MASTER A",
@@ -26563,15 +26971,15 @@ const RUNNERS_DATA = [
     "dif": "+2:12:25",
     "vel_prom": "8.4 Km/h",
     "ritmo": "7:07 Min/km",
-    "pdf_page": 265,
+    "pdf_page": 928,
     "dorsal": "2358",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "JULIO CESAR GUTIERREZ MALAGON",
     "tiempo_diploma": "02:29:37",
-    "stats_diploma": "62. /66 1563. /1597"
+    "stats_diploma": "62. /66 1587. /1621"
   },
   {
-    "puesto": 1564,
+    "puesto": 1588,
     "placa": "2103",
     "nombre": "Karen Juliana Durán Pacheco",
     "categoria": "21 K ABIERTA",
@@ -26580,15 +26988,15 @@ const RUNNERS_DATA = [
     "dif": "+2:12:37",
     "vel_prom": "8.4 Km/h",
     "ritmo": "7:08 Min/km",
-    "pdf_page": 41,
+    "pdf_page": 802,
     "dorsal": "2103",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Karen Juliana Durán Pacheco",
     "tiempo_diploma": "02:29:49",
-    "stats_diploma": "30. /40 1564. /1597"
+    "stats_diploma": "33. /43 1588. /1621"
   },
   {
-    "puesto": 1565,
+    "puesto": 1589,
     "placa": "2302",
     "nombre": "Alvaro Garcia Uscategui",
     "categoria": "21 K MASTER A",
@@ -26597,15 +27005,15 @@ const RUNNERS_DATA = [
     "dif": "+2:13:38",
     "vel_prom": "8.3 Km/h",
     "ritmo": "7:10 Min/km",
-    "pdf_page": 266,
+    "pdf_page": 880,
     "dorsal": "2302",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Alvaro Garcia Uscategui",
     "tiempo_diploma": "02:30:50",
-    "stats_diploma": "63. /66 1565. /1597"
+    "stats_diploma": "63. /66 1589. /1621"
   },
   {
-    "puesto": 1566,
+    "puesto": 1590,
     "placa": "2516",
     "nombre": "GEDUAR HERNAN MARIÑO LOPEZ",
     "categoria": "21 K MASTER B",
@@ -26614,32 +27022,32 @@ const RUNNERS_DATA = [
     "dif": "+2:15:32",
     "vel_prom": "8.2 Km/h",
     "ritmo": "7:16 Min/km",
-    "pdf_page": 301,
+    "pdf_page": 979,
     "dorsal": "2516",
     "categoria_diploma": "21 K MASTER B",
     "nombre_diploma": "GEDUAR HERNAN MARIÑO LOPEZ",
     "tiempo_diploma": "02:32:44",
-    "stats_diploma": "26. /26 1566. /1597"
+    "stats_diploma": "26. /26 1590. /1621"
   },
   {
-    "puesto": 1567,
+    "puesto": 1591,
     "placa": "2170",
     "nombre": "WILLYS ERNESTO SAENZ FLOREZ",
     "categoria": "21 K ABIERTA",
-    "ciudad": "La Jagua",
+    "ciudad": "La Jaigua",
     "tiempo": "2:32:48",
     "dif": "+2:15:36",
     "vel_prom": "8.2 Km/h",
     "ritmo": "7:16 Min/km",
-    "pdf_page": 168,
+    "pdf_page": 864,
     "dorsal": "2170",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "WILLYS ERNESTO SAENZ FLOREZ",
     "tiempo_diploma": "02:32:48",
-    "stats_diploma": "117. /130 1567. /1597"
+    "stats_diploma": "117. /130 1591. /1621"
   },
   {
-    "puesto": 1568,
+    "puesto": 1592,
     "placa": "2173",
     "nombre": "Yurley marcela Ramirez castillo",
     "categoria": "21 K ABIERTA",
@@ -26648,15 +27056,15 @@ const RUNNERS_DATA = [
     "dif": "+2:16:30",
     "vel_prom": "8.1 Km/h",
     "ritmo": "7:19 Min/km",
-    "pdf_page": 42,
+    "pdf_page": 867,
     "dorsal": "2173",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Yurley marcela Ramirez castillo",
     "tiempo_diploma": "02:33:42",
-    "stats_diploma": "31. /40 1568. /1597"
+    "stats_diploma": "34. /43 1592. /1621"
   },
   {
-    "puesto": 1569,
+    "puesto": 1593,
     "placa": "2015",
     "nombre": "Andrés Sosa",
     "categoria": "21 K ABIERTA",
@@ -26665,15 +27073,15 @@ const RUNNERS_DATA = [
     "dif": "+2:16:38",
     "vel_prom": "8.1 Km/h",
     "ritmo": "7:19 Min/km",
-    "pdf_page": 169,
+    "pdf_page": 720,
     "dorsal": "2015",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Andrés Sosa",
     "tiempo_diploma": "02:33:50",
-    "stats_diploma": "118. /130 1569. /1597"
+    "stats_diploma": "118. /130 1593. /1621"
   },
   {
-    "puesto": 1570,
+    "puesto": 1594,
     "placa": "2153",
     "nombre": "Paola Gomez",
     "categoria": "21 K ABIERTA",
@@ -26682,15 +27090,15 @@ const RUNNERS_DATA = [
     "dif": "+2:19:47",
     "vel_prom": "8.0 Km/h",
     "ritmo": "7:28 Min/km",
-    "pdf_page": 43,
+    "pdf_page": 848,
     "dorsal": "2153",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Paola Gomez",
     "tiempo_diploma": "02:36:59",
-    "stats_diploma": "32. /40 1570. /1597"
+    "stats_diploma": "35. /43 1594. /1621"
   },
   {
-    "puesto": 1571,
+    "puesto": 1595,
     "placa": "2009",
     "nombre": "Andrea Suárez Florez",
     "categoria": "21 K ABIERTA",
@@ -26699,15 +27107,15 @@ const RUNNERS_DATA = [
     "dif": "+2:19:57",
     "vel_prom": "8.0 Km/h",
     "ritmo": "7:29 Min/km",
-    "pdf_page": 44,
+    "pdf_page": 714,
     "dorsal": "2009",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Andrea Suárez Florez",
     "tiempo_diploma": "02:37:09",
-    "stats_diploma": "33. /40 1571. /1597"
+    "stats_diploma": "36. /43 1595. /1621"
   },
   {
-    "puesto": 1572,
+    "puesto": 1596,
     "placa": "2331",
     "nombre": "Francy Liliana Perez Mancera",
     "categoria": "21 K MASTER A",
@@ -26716,15 +27124,15 @@ const RUNNERS_DATA = [
     "dif": "+2:20:37",
     "vel_prom": "7.9 Km/h",
     "ritmo": "7:30 Min/km",
-    "pdf_page": 201,
+    "pdf_page": 905,
     "dorsal": "2331",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Francy Liliana Perez Mancera",
     "tiempo_diploma": "02:37:49",
-    "stats_diploma": "20. /22 1572. /1597"
+    "stats_diploma": "20. /22 1596. /1621"
   },
   {
-    "puesto": 1573,
+    "puesto": 1597,
     "placa": "2039",
     "nombre": "David Rodríguez",
     "categoria": "21 K ABIERTA",
@@ -26733,15 +27141,15 @@ const RUNNERS_DATA = [
     "dif": "+2:20:55",
     "vel_prom": "7.9 Km/h",
     "ritmo": "7:31 Min/km",
-    "pdf_page": 170,
+    "pdf_page": 742,
     "dorsal": "2039",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "David Rodríguez",
     "tiempo_diploma": "02:38:07",
-    "stats_diploma": "119. /130 1573. /1597"
+    "stats_diploma": "119. /130 1597. /1621"
   },
   {
-    "puesto": 1574,
+    "puesto": 1598,
     "placa": "2106",
     "nombre": "Karol Vega",
     "categoria": "21 K ABIERTA",
@@ -26750,15 +27158,15 @@ const RUNNERS_DATA = [
     "dif": "+2:21:10",
     "vel_prom": "7.9 Km/h",
     "ritmo": "7:32 Min/km",
-    "pdf_page": 171,
+    "pdf_page": 805,
     "dorsal": "2106",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Karol Vega",
     "tiempo_diploma": "02:38:22",
-    "stats_diploma": "120. /130 1574. /1597"
+    "stats_diploma": "120. /130 1598. /1621"
   },
   {
-    "puesto": 1575,
+    "puesto": 1599,
     "placa": "2390",
     "nombre": "Sergio Tiria",
     "categoria": "21 K MASTER A",
@@ -26767,15 +27175,15 @@ const RUNNERS_DATA = [
     "dif": "+2:21:12",
     "vel_prom": "7.9 Km/h",
     "ritmo": "7:32 Min/km",
-    "pdf_page": 267,
+    "pdf_page": 957,
     "dorsal": "2390",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Sergio Tiria",
     "tiempo_diploma": "02:38:24",
-    "stats_diploma": "64. /66 1575. /1597"
+    "stats_diploma": "64. /66 1599. /1621"
   },
   {
-    "puesto": 1576,
+    "puesto": 1600,
     "placa": "2323",
     "nombre": "EDILBERTO FRANCO LIZARAZO",
     "categoria": "21 K MASTER A",
@@ -26784,15 +27192,15 @@ const RUNNERS_DATA = [
     "dif": "+2:21:14",
     "vel_prom": "7.9 Km/h",
     "ritmo": "7:32 Min/km",
-    "pdf_page": 268,
+    "pdf_page": 898,
     "dorsal": "2323",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "EDILBERTO FRANCO LIZARAZO",
     "tiempo_diploma": "02:38:26",
-    "stats_diploma": "65. /66 1576. /1597"
+    "stats_diploma": "65. /66 1600. /1621"
   },
   {
-    "puesto": 1577,
+    "puesto": 1601,
     "placa": "2137",
     "nombre": "Michael Andrés Pérez Buitrago",
     "categoria": "21 K ABIERTA",
@@ -26801,15 +27209,15 @@ const RUNNERS_DATA = [
     "dif": "+2:22:00",
     "vel_prom": "7.9 Km/h",
     "ritmo": "7:34 Min/km",
-    "pdf_page": 172,
+    "pdf_page": 835,
     "dorsal": "2137",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Michael Andrés Pérez Buitrago",
     "tiempo_diploma": "02:39:12",
-    "stats_diploma": "121. /130 1577. /1597"
+    "stats_diploma": "121. /130 1601. /1621"
   },
   {
-    "puesto": 1578,
+    "puesto": 1602,
     "placa": "2306",
     "nombre": "ANGELICA JOVES CONTRERAS",
     "categoria": "21 K MASTER A",
@@ -26818,15 +27226,15 @@ const RUNNERS_DATA = [
     "dif": "+2:22:07",
     "vel_prom": "7.9 Km/h",
     "ritmo": "7:35 Min/km",
-    "pdf_page": 202,
+    "pdf_page": 883,
     "dorsal": "2306",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "ANGELICA JOVES CONTRERAS",
     "tiempo_diploma": "02:39:19",
-    "stats_diploma": "21. /22 1578. /1597"
+    "stats_diploma": "21. /22 1602. /1621"
   },
   {
-    "puesto": 1579,
+    "puesto": 1603,
     "placa": "2168",
     "nombre": "William Antonio Rojas Rojas",
     "categoria": "21 K ABIERTA",
@@ -26835,15 +27243,15 @@ const RUNNERS_DATA = [
     "dif": "+2:22:36",
     "vel_prom": "7.8 Km/h",
     "ritmo": "7:36 Min/km",
-    "pdf_page": 173,
+    "pdf_page": 862,
     "dorsal": "2168",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "William Antonio Rojas Rojas",
     "tiempo_diploma": "02:39:48",
-    "stats_diploma": "122. /130 1579. /1597"
+    "stats_diploma": "122. /130 1603. /1621"
   },
   {
-    "puesto": 1580,
+    "puesto": 1604,
     "placa": "2095",
     "nombre": "Juan David Alvarez Sarmiento",
     "categoria": "21 K ABIERTA",
@@ -26852,15 +27260,15 @@ const RUNNERS_DATA = [
     "dif": "+2:23:15",
     "vel_prom": "7.8 Km/h",
     "ritmo": "7:38 Min/km",
-    "pdf_page": 174,
+    "pdf_page": 794,
     "dorsal": "2095",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Juan David Alvarez Sarmiento",
     "tiempo_diploma": "02:40:27",
-    "stats_diploma": "123. /130 1580. /1597"
+    "stats_diploma": "123. /130 1604. /1621"
   },
   {
-    "puesto": 1581,
+    "puesto": 1605,
     "placa": "2008",
     "nombre": "ANDREA HERNANDEZ BUITRAGO",
     "categoria": "21 K ABIERTA",
@@ -26869,15 +27277,15 @@ const RUNNERS_DATA = [
     "dif": "+2:24:04",
     "vel_prom": "7.8 Km/h",
     "ritmo": "7:40 Min/km",
-    "pdf_page": 45,
+    "pdf_page": 713,
     "dorsal": "2008",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "ANDREA HERNANDEZ BUITRAGO",
     "tiempo_diploma": "02:41:16",
-    "stats_diploma": "34. /40 1581. /1597"
+    "stats_diploma": "37. /43 1605. /1621"
   },
   {
-    "puesto": 1582,
+    "puesto": 1606,
     "placa": "2076",
     "nombre": "Jeimmy Esperanza Acevedo Peñalosa",
     "categoria": "21 K ABIERTA",
@@ -26886,15 +27294,15 @@ const RUNNERS_DATA = [
     "dif": "+2:24:47",
     "vel_prom": "7.7 Km/h",
     "ritmo": "7:42 Min/km",
-    "pdf_page": 46,
+    "pdf_page": 776,
     "dorsal": "2076",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Jeimmy Esperanza Acevedo Peñalosa",
     "tiempo_diploma": "02:41:59",
-    "stats_diploma": "35. /40 1582. /1597"
+    "stats_diploma": "38. /43 1606. /1621"
   },
   {
-    "puesto": 1583,
+    "puesto": 1607,
     "placa": "2006",
     "nombre": "ANA MARIA ESPINOSA RODRIGUEZ",
     "categoria": "21 K ABIERTA",
@@ -26903,15 +27311,15 @@ const RUNNERS_DATA = [
     "dif": "+2:25:25",
     "vel_prom": "7.7 Km/h",
     "ritmo": "7:44 Min/km",
-    "pdf_page": 47,
+    "pdf_page": 711,
     "dorsal": "2006",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "ANA MARIA ESPINOSA RODRIGUEZ",
     "tiempo_diploma": "02:42:37",
-    "stats_diploma": "36. /40 1583. /1597"
+    "stats_diploma": "39. /43 1607. /1621"
   },
   {
-    "puesto": 1584,
+    "puesto": 1608,
     "placa": "2097",
     "nombre": "Juan Manuel Ortiz Suarez",
     "categoria": "21 K ABIERTA",
@@ -26920,15 +27328,15 @@ const RUNNERS_DATA = [
     "dif": "+2:25:30",
     "vel_prom": "7.7 Km/h",
     "ritmo": "7:44 Min/km",
-    "pdf_page": 175,
+    "pdf_page": 796,
     "dorsal": "2097",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Juan Manuel Ortiz Suarez",
     "tiempo_diploma": "02:42:42",
-    "stats_diploma": "124. /130 1584. /1597"
+    "stats_diploma": "124. /130 1608. /1621"
   },
   {
-    "puesto": 1585,
+    "puesto": 1609,
     "placa": "2155",
     "nombre": "ROBING JAVIER POLO DELGADO",
     "categoria": "21 K ABIERTA",
@@ -26937,15 +27345,15 @@ const RUNNERS_DATA = [
     "dif": "+2:27:39",
     "vel_prom": "7.6 Km/h",
     "ritmo": "7:51 Min/km",
-    "pdf_page": 176,
+    "pdf_page": 849,
     "dorsal": "2155",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "ROBING JAVIER POLO DELGADO",
     "tiempo_diploma": "02:44:51",
-    "stats_diploma": "125. /130 1585. /1597"
+    "stats_diploma": "125. /130 1609. /1621"
   },
   {
-    "puesto": 1586,
+    "puesto": 1610,
     "placa": "2364",
     "nombre": "Luz Adriana Jiménez Villa",
     "categoria": "21 K MASTER A",
@@ -26954,15 +27362,15 @@ const RUNNERS_DATA = [
     "dif": "+2:27:40",
     "vel_prom": "7.6 Km/h",
     "ritmo": "7:51 Min/km",
-    "pdf_page": 203,
+    "pdf_page": 934,
     "dorsal": "2364",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Luz Adriana Jiménez Villa",
     "tiempo_diploma": "02:44:52",
-    "stats_diploma": "22. /22 1586. /1597"
+    "stats_diploma": "22. /22 1610. /1621"
   },
   {
-    "puesto": 1587,
+    "puesto": 1611,
     "placa": "2367",
     "nombre": "Manuel Eduardo Pallares Romero",
     "categoria": "21 K MASTER A",
@@ -26971,15 +27379,15 @@ const RUNNERS_DATA = [
     "dif": "+2:27:44",
     "vel_prom": "7.6 Km/h",
     "ritmo": "7:51 Min/km",
-    "pdf_page": 269,
+    "pdf_page": 937,
     "dorsal": "2367",
     "categoria_diploma": "21 K MASTER A",
     "nombre_diploma": "Manuel Eduardo Pallares Romero",
     "tiempo_diploma": "02:44:56",
-    "stats_diploma": "66. /66 1587. /1597"
+    "stats_diploma": "66. /66 1611. /1621"
   },
   {
-    "puesto": 1588,
+    "puesto": 1612,
     "placa": "2062",
     "nombre": "Fabio daza",
     "categoria": "21 K ABIERTA",
@@ -26988,15 +27396,15 @@ const RUNNERS_DATA = [
     "dif": "+2:28:00",
     "vel_prom": "7.6 Km/h",
     "ritmo": "7:52 Min/km",
-    "pdf_page": 177,
+    "pdf_page": 762,
     "dorsal": "2062",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Fabio daza",
     "tiempo_diploma": "02:45:12",
-    "stats_diploma": "126. /130 1588. /1597"
+    "stats_diploma": "126. /130 1612. /1621"
   },
   {
-    "puesto": 1589,
+    "puesto": 1613,
     "placa": "2528",
     "nombre": "Luz marina Solano buitrago",
     "categoria": "21 K MASTER B",
@@ -27005,15 +27413,15 @@ const RUNNERS_DATA = [
     "dif": "+2:28:01",
     "vel_prom": "7.6 Km/h",
     "ritmo": "7:52 Min/km",
-    "pdf_page": 275,
+    "pdf_page": 990,
     "dorsal": "2528",
     "categoria_diploma": "21 K MASTER B",
     "nombre_diploma": "Luz marina Solano buitrago",
     "tiempo_diploma": "02:45:13",
-    "stats_diploma": "6. /6 1589. /1597"
+    "stats_diploma": "5. /5 1613. /1621"
   },
   {
-    "puesto": 1590,
+    "puesto": 1614,
     "placa": "2022",
     "nombre": "Angie Vanessa Ramirez Castillo",
     "categoria": "21 K ABIERTA",
@@ -27022,15 +27430,15 @@ const RUNNERS_DATA = [
     "dif": "+2:28:53",
     "vel_prom": "7.5 Km/h",
     "ritmo": "7:54 Min/km",
-    "pdf_page": 48,
+    "pdf_page": 726,
     "dorsal": "2022",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Angie Vanessa Ramirez Castillo",
     "tiempo_diploma": "02:46:05",
-    "stats_diploma": "37. /40 1590. /1597"
+    "stats_diploma": "40. /43 1614. /1621"
   },
   {
-    "puesto": 1591,
+    "puesto": 1615,
     "placa": "2061",
     "nombre": "Fabian Josue Botello Godoy",
     "categoria": "21 K ABIERTA",
@@ -27039,15 +27447,15 @@ const RUNNERS_DATA = [
     "dif": "+2:29:59",
     "vel_prom": "7.5 Km/h",
     "ritmo": "7:57 Min/km",
-    "pdf_page": 178,
+    "pdf_page": 761,
     "dorsal": "2061",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Fabian Josue Botello Godoy",
     "tiempo_diploma": "02:47:11",
-    "stats_diploma": "127. /130 1591. /1597"
+    "stats_diploma": "127. /130 1615. /1621"
   },
   {
-    "puesto": 1592,
+    "puesto": 1616,
     "placa": "2116",
     "nombre": "Leidy Johana Quiroga Lagos",
     "categoria": "21 K ABIERTA",
@@ -27056,15 +27464,15 @@ const RUNNERS_DATA = [
     "dif": "+2:34:07",
     "vel_prom": "7.3 Km/h",
     "ritmo": "8:09 Min/km",
-    "pdf_page": 49,
+    "pdf_page": 814,
     "dorsal": "2116",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Leidy Johana Quiroga Lagos",
     "tiempo_diploma": "02:51:19",
-    "stats_diploma": "38. /40 1592. /1597"
+    "stats_diploma": "41. /43 1616. /1621"
   },
   {
-    "puesto": 1593,
+    "puesto": 1617,
     "placa": "2167",
     "nombre": "VICTOR MANUEL MORA BAUTISTA",
     "categoria": "21 K ABIERTA",
@@ -27073,15 +27481,15 @@ const RUNNERS_DATA = [
     "dif": "+2:37:57",
     "vel_prom": "7.1 Km/h",
     "ritmo": "8:20 Min/km",
-    "pdf_page": 179,
+    "pdf_page": 861,
     "dorsal": "2167",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "VICTOR MANUEL MORA BAUTISTA",
     "tiempo_diploma": "02:55:09",
-    "stats_diploma": "128. /130 1593. /1597"
+    "stats_diploma": "128. /130 1617. /1621"
   },
   {
-    "puesto": 1594,
+    "puesto": 1618,
     "placa": "2156",
     "nombre": "Ruth Angela Urresta Melo",
     "categoria": "21 K ABIERTA",
@@ -27090,15 +27498,15 @@ const RUNNERS_DATA = [
     "dif": "+2:38:17",
     "vel_prom": "7.1 Km/h",
     "ritmo": "8:21 Min/km",
-    "pdf_page": 50,
+    "pdf_page": 850,
     "dorsal": "2156",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Ruth Angela Urresta Melo",
     "tiempo_diploma": "02:55:29",
-    "stats_diploma": "39. /40 1594. /1597"
+    "stats_diploma": "42. /43 1618. /1621"
   },
   {
-    "puesto": 1595,
+    "puesto": 1619,
     "placa": "2172",
     "nombre": "Yoser Ivan Suarez Rodriguez",
     "categoria": "21 K ABIERTA",
@@ -27107,15 +27515,15 @@ const RUNNERS_DATA = [
     "dif": "+2:38:18",
     "vel_prom": "7.1 Km/h",
     "ritmo": "8:21 Min/km",
-    "pdf_page": 180,
+    "pdf_page": 866,
     "dorsal": "2172",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Yoser Ivan Suarez Rodriguez",
     "tiempo_diploma": "02:55:30",
-    "stats_diploma": "129. /130 1595. /1597"
+    "stats_diploma": "129. /130 1619. /1621"
   },
   {
-    "puesto": 1596,
+    "puesto": 1620,
     "placa": "2075",
     "nombre": "Jean Harold Ramirez Mendoza",
     "categoria": "21 K ABIERTA",
@@ -27124,15 +27532,15 @@ const RUNNERS_DATA = [
     "dif": "+2:38:41",
     "vel_prom": "7.1 Km/h",
     "ritmo": "8:22 Min/km",
-    "pdf_page": 181,
+    "pdf_page": 775,
     "dorsal": "2075",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Jean Harold Ramirez Mendoza",
     "tiempo_diploma": "02:55:53",
-    "stats_diploma": "130. /130 1596. /1597"
+    "stats_diploma": "130. /130 1620. /1621"
   },
   {
-    "puesto": 1597,
+    "puesto": 1621,
     "placa": "2131",
     "nombre": "Maria Camila Ardila",
     "categoria": "21 K ABIERTA",
@@ -27141,12 +27549,12 @@ const RUNNERS_DATA = [
     "dif": "+2:40:22",
     "vel_prom": "7.0 Km/h",
     "ritmo": "8:27 Min/km",
-    "pdf_page": 51,
+    "pdf_page": 829,
     "dorsal": "2131",
     "categoria_diploma": "21 K ABIERTA",
     "nombre_diploma": "Maria Camila Ardila",
     "tiempo_diploma": "02:57:34",
-    "stats_diploma": "40. /40 1597. /1597"
+    "stats_diploma": "43. /43 1621. /1621"
   },
   {
     "puesto": "DNF",
@@ -27157,7 +27565,13 @@ const RUNNERS_DATA = [
     "tiempo": "N/A",
     "dif": "N/A",
     "vel_prom": "N/A",
-    "ritmo": "N/A"
+    "ritmo": "N/A",
+    "pdf_page": 975,
+    "dorsal": "2512",
+    "categoria_diploma": "21 K MASTER B",
+    "nombre_diploma": "Eduardo Cogollo patiño",
+    "tiempo_diploma": "01:57:37",
+    "stats_diploma": "/-1  /-1"
   },
   {
     "puesto": "DNS",
@@ -27974,547 +28388,71 @@ const RUNNERS_DATA = [
     "ritmo": "N/A"
   },
   {
-    "puesto": 1,
-    "placa": "5514",
-    "nombre": "Fanny Guzmari Güiza Quintero",
-    "categoria": "5 K MASTER B",
+    "puesto": "N/A",
+    "placa": "1212",
+    "nombre": "Eliana Katterine Avila Toscano",
+    "categoria": "10 K ABIERTA",
     "ciudad": "N/A",
-    "tiempo": "0:26:23",
+    "tiempo": "0:15:46",
     "dif": "N/A",
-    "vel_prom": "11.4 Km/h",
-    "ritmo": "5:16 Min/km",
-    "pdf_page": 1598,
-    "dorsal": "5514",
-    "categoria_diploma": "5 K MASTER B",
-    "nombre_diploma": "Fanny Guzmari Güiza Quintero",
-    "tiempo_diploma": "00:26:23",
-    "stats_diploma": "1. /20  /-1"
+    "vel_prom": "38.1 Km/h",
+    "ritmo": "1:34 Min/km",
+    "pdf_page": 233,
+    "dorsal": "1212",
+    "categoria_diploma": "10 K ABIERTA",
+    "nombre_diploma": "Eliana Katterine Avila Toscano",
+    "tiempo_diploma": "00:15:46",
+    "stats_diploma": "/-1  /-1"
   },
   {
-    "puesto": 2,
-    "placa": "5522",
-    "nombre": "Leyla Jiménez",
-    "categoria": "5 K MASTER B",
+    "puesto": "N/A",
+    "placa": "2501",
+    "nombre": "ADOLFO GAMBOA",
+    "categoria": "21 K MASTER B",
     "ciudad": "N/A",
-    "tiempo": "0:28:41",
+    "tiempo": "1:08:34",
     "dif": "N/A",
-    "vel_prom": "10.5 Km/h",
-    "ritmo": "5:44 Min/km",
-    "pdf_page": 1599,
-    "dorsal": "5522",
-    "categoria_diploma": "5 K MASTER B",
-    "nombre_diploma": "Leyla Jiménez",
-    "tiempo_diploma": "00:28:41",
-    "stats_diploma": "2. /20  /-1"
+    "vel_prom": "18.5 Km/h",
+    "ritmo": "3:15 Min/km",
+    "pdf_page": 967,
+    "dorsal": "2501",
+    "categoria_diploma": "21 K MASTER B",
+    "nombre_diploma": "ADOLFO GAMBOA",
+    "tiempo_diploma": "01:08:34",
+    "stats_diploma": "/-1  /-1"
   },
   {
-    "puesto": 3,
-    "placa": "5503",
-    "nombre": "Ana Patricia Gutiérrez Sandoval",
-    "categoria": "5 K MASTER B",
+    "puesto": "N/A",
+    "placa": "2538",
+    "nombre": "Luz Alba Gutierrez",
+    "categoria": "21 K MASTER B",
     "ciudad": "N/A",
-    "tiempo": "0:30:13",
+    "tiempo": "1:27:05",
     "dif": "N/A",
-    "vel_prom": "9.9 Km/h",
-    "ritmo": "6:02 Min/km",
-    "pdf_page": 1600,
-    "dorsal": "5503",
-    "categoria_diploma": "5 K MASTER B",
-    "nombre_diploma": "Ana Patricia Gutiérrez Sandoval",
-    "tiempo_diploma": "00:30:13",
-    "stats_diploma": "3. /20  /-1"
+    "vel_prom": "14.5 Km/h",
+    "ritmo": "4:07 Min/km",
+    "pdf_page": 999,
+    "dorsal": "2538",
+    "categoria_diploma": "21 K MASTER B",
+    "nombre_diploma": "Luz Alba Gutierrez",
+    "tiempo_diploma": "01:27:05",
+    "stats_diploma": "/-1  /-1"
   },
   {
-    "puesto": 4,
-    "placa": "5518",
-    "nombre": "Imera Luz Estrada Vargas",
-    "categoria": "5 K MASTER B",
+    "puesto": "N/A",
+    "placa": "5452",
+    "nombre": "Natalia Areiza",
+    "categoria": "5 K MASTER A",
     "ciudad": "N/A",
-    "tiempo": "0:30:30",
-    "dif": "N/A",
-    "vel_prom": "9.8 Km/h",
-    "ritmo": "6:06 Min/km",
-    "pdf_page": 1601,
-    "dorsal": "5518",
-    "categoria_diploma": "5 K MASTER B",
-    "nombre_diploma": "Imera Luz Estrada Vargas",
-    "tiempo_diploma": "00:30:30",
-    "stats_diploma": "4. /20  /-1"
-  },
-  {
-    "puesto": 5,
-    "placa": "5538",
-    "nombre": "Zoraida Gaitan Rodriguez",
-    "categoria": "5 K MASTER B",
-    "ciudad": "N/A",
-    "tiempo": "0:35:26",
-    "dif": "N/A",
-    "vel_prom": "8.5 Km/h",
-    "ritmo": "7:05 Min/km",
-    "pdf_page": 1602,
-    "dorsal": "5538",
-    "categoria_diploma": "5 K MASTER B",
-    "nombre_diploma": "Zoraida Gaitan Rodriguez",
-    "tiempo_diploma": "00:35:26",
-    "stats_diploma": "5. /20  /-1"
-  },
-  {
-    "puesto": 6,
-    "placa": "5511",
-    "nombre": "ELIANA RUEDA",
-    "categoria": "5 K MASTER B",
-    "ciudad": "N/A",
-    "tiempo": "0:35:34",
-    "dif": "N/A",
-    "vel_prom": "8.4 Km/h",
-    "ritmo": "7:06 Min/km",
-    "pdf_page": 1603,
-    "dorsal": "5511",
-    "categoria_diploma": "5 K MASTER B",
-    "nombre_diploma": "ELIANA RUEDA",
-    "tiempo_diploma": "00:35:34",
-    "stats_diploma": "6. /20  /-1"
-  },
-  {
-    "puesto": 7,
-    "placa": "5529",
-    "nombre": "NELLY LUENGAS GRANADOS",
-    "categoria": "5 K MASTER B",
-    "ciudad": "N/A",
-    "tiempo": "0:36:14",
-    "dif": "N/A",
-    "vel_prom": "8.3 Km/h",
-    "ritmo": "7:14 Min/km",
-    "pdf_page": 1604,
-    "dorsal": "5529",
-    "categoria_diploma": "5 K MASTER B",
-    "nombre_diploma": "NELLY LUENGAS GRANADOS",
-    "tiempo_diploma": "00:36:14",
-    "stats_diploma": "7. /20  /-1"
-  },
-  {
-    "puesto": 8,
-    "placa": "5513",
-    "nombre": "Erika Yosmar Sandia Godoy",
-    "categoria": "5 K MASTER B",
-    "ciudad": "N/A",
-    "tiempo": "0:37:01",
-    "dif": "N/A",
-    "vel_prom": "8.1 Km/h",
-    "ritmo": "7:24 Min/km",
-    "pdf_page": 1605,
-    "dorsal": "5513",
-    "categoria_diploma": "5 K MASTER B",
-    "nombre_diploma": "Erika Yosmar Sandia Godoy",
-    "tiempo_diploma": "00:37:01",
-    "stats_diploma": "8. /20  /-1"
-  },
-  {
-    "puesto": 9,
-    "placa": "5532",
-    "nombre": "Sandra Marcela Romero Martinez",
-    "categoria": "5 K MASTER B",
-    "ciudad": "N/A",
-    "tiempo": "0:38:45",
-    "dif": "N/A",
-    "vel_prom": "7.7 Km/h",
-    "ritmo": "7:45 Min/km",
-    "pdf_page": 1606,
-    "dorsal": "5532",
-    "categoria_diploma": "5 K MASTER B",
-    "nombre_diploma": "Sandra Marcela Romero Martinez",
-    "tiempo_diploma": "00:38:45",
-    "stats_diploma": "9. /20  /-1"
-  },
-  {
-    "puesto": 10,
-    "placa": "5512",
-    "nombre": "Erika Cristina Duran Tarazona",
-    "categoria": "5 K MASTER B",
-    "ciudad": "N/A",
-    "tiempo": "0:39:49",
-    "dif": "N/A",
-    "vel_prom": "7.5 Km/h",
-    "ritmo": "7:57 Min/km",
-    "pdf_page": 1607,
-    "dorsal": "5512",
-    "categoria_diploma": "5 K MASTER B",
-    "nombre_diploma": "Erika Cristina Duran Tarazona",
-    "tiempo_diploma": "00:39:49",
-    "stats_diploma": "10. /20  /-1"
-  },
-  {
-    "puesto": 11,
-    "placa": "5521",
-    "nombre": "Lastenia Almeyda Villabona",
-    "categoria": "5 K MASTER B",
-    "ciudad": "N/A",
-    "tiempo": "0:40:01",
-    "dif": "N/A",
-    "vel_prom": "7.5 Km/h",
-    "ritmo": "8:00 Min/km",
-    "pdf_page": 1608,
-    "dorsal": "5521",
-    "categoria_diploma": "5 K MASTER B",
-    "nombre_diploma": "Lastenia Almeyda Villabona",
-    "tiempo_diploma": "00:40:01",
-    "stats_diploma": "11. /20  /-1"
-  },
-  {
-    "puesto": 12,
-    "placa": "5502",
-    "nombre": "Aleyda Hernandez Carvajal",
-    "categoria": "5 K MASTER B",
-    "ciudad": "N/A",
-    "tiempo": "0:40:15",
-    "dif": "N/A",
-    "vel_prom": "7.5 Km/h",
-    "ritmo": "8:03 Min/km",
-    "pdf_page": 1609,
-    "dorsal": "5502",
-    "categoria_diploma": "5 K MASTER B",
-    "nombre_diploma": "Aleyda Hernandez Carvajal",
-    "tiempo_diploma": "00:40:15",
-    "stats_diploma": "12. /20  /-1"
-  },
-  {
-    "puesto": 13,
-    "placa": "5539",
-    "nombre": "Adelaida Rueda",
-    "categoria": "5 K MASTER B",
-    "ciudad": "N/A",
-    "tiempo": "0:42:44",
-    "dif": "N/A",
-    "vel_prom": "7.0 Km/h",
-    "ritmo": "8:32 Min/km",
-    "pdf_page": 1610,
-    "dorsal": "5539",
-    "categoria_diploma": "5 K MASTER B",
-    "nombre_diploma": "Adelaida Rueda",
-    "tiempo_diploma": "00:42:44",
-    "stats_diploma": "13. /20  /-1"
-  },
-  {
-    "puesto": 14,
-    "placa": "5530",
-    "nombre": "Patricia Gomez Cuellar",
-    "categoria": "5 K MASTER B",
-    "ciudad": "N/A",
-    "tiempo": "0:43:44",
-    "dif": "N/A",
-    "vel_prom": "6.9 Km/h",
-    "ritmo": "8:44 Min/km",
-    "pdf_page": 1611,
-    "dorsal": "5530",
-    "categoria_diploma": "5 K MASTER B",
-    "nombre_diploma": "Patricia Gomez Cuellar",
-    "tiempo_diploma": "00:43:44",
-    "stats_diploma": "14. /20  /-1"
-  },
-  {
-    "puesto": 15,
-    "placa": "5510",
-    "nombre": "Elda Patricia Camargo Ruiz",
-    "categoria": "5 K MASTER B",
-    "ciudad": "N/A",
-    "tiempo": "0:44:15",
-    "dif": "N/A",
-    "vel_prom": "6.8 Km/h",
-    "ritmo": "8:51 Min/km",
-    "pdf_page": 1612,
-    "dorsal": "5510",
-    "categoria_diploma": "5 K MASTER B",
-    "nombre_diploma": "Elda Patricia Camargo Ruiz",
-    "tiempo_diploma": "00:44:15",
-    "stats_diploma": "15. /20  /-1"
-  },
-  {
-    "puesto": 16,
-    "placa": "5523",
-    "nombre": "Liga Moreno Espinosa",
-    "categoria": "5 K MASTER B",
-    "ciudad": "N/A",
-    "tiempo": "0:46:13",
-    "dif": "N/A",
-    "vel_prom": "6.5 Km/h",
-    "ritmo": "9:14 Min/km",
-    "pdf_page": 1613,
-    "dorsal": "5523",
-    "categoria_diploma": "5 K MASTER B",
-    "nombre_diploma": "Liga Moreno Espinosa",
-    "tiempo_diploma": "00:46:13",
-    "stats_diploma": "16. /20  /-1"
-  },
-  {
-    "puesto": 17,
-    "placa": "5519",
-    "nombre": "JACQUELINE AREVALO",
-    "categoria": "5 K MASTER B",
-    "ciudad": "N/A",
-    "tiempo": "0:48:02",
-    "dif": "N/A",
-    "vel_prom": "6.2 Km/h",
-    "ritmo": "9:36 Min/km",
-    "pdf_page": 1614,
-    "dorsal": "5519",
-    "categoria_diploma": "5 K MASTER B",
-    "nombre_diploma": "JACQUELINE AREVALO",
-    "tiempo_diploma": "00:48:02",
-    "stats_diploma": "17. /20  /-1"
-  },
-  {
-    "puesto": 18,
-    "placa": "5505",
-    "nombre": "Claudia Patricia Forero Jimenez",
-    "categoria": "5 K MASTER B",
-    "ciudad": "N/A",
-    "tiempo": "0:48:43",
-    "dif": "N/A",
-    "vel_prom": "6.2 Km/h",
-    "ritmo": "9:44 Min/km",
-    "pdf_page": 1615,
-    "dorsal": "5505",
-    "categoria_diploma": "5 K MASTER B",
-    "nombre_diploma": "Claudia Patricia Forero Jimenez",
-    "tiempo_diploma": "00:48:43",
-    "stats_diploma": "18. /20  /-1"
-  },
-  {
-    "puesto": 19,
-    "placa": "5526",
-    "nombre": "LUZM CHACON CARRILLO",
-    "categoria": "5 K MASTER B",
-    "ciudad": "N/A",
-    "tiempo": "0:52:07",
-    "dif": "N/A",
-    "vel_prom": "5.8 Km/h",
-    "ritmo": "10:25 Min/km",
-    "pdf_page": 1616,
-    "dorsal": "5526",
-    "categoria_diploma": "5 K MASTER B",
-    "nombre_diploma": "LUZM CHACON CARRILLO",
-    "tiempo_diploma": "00:52:07",
-    "stats_diploma": "19. /20  /-1"
-  },
-  {
-    "puesto": 20,
-    "placa": "5507",
-    "nombre": "DORIS SAAVEDRA  PINEDA",
-    "categoria": "5 K MASTER B",
-    "ciudad": "N/A",
-    "tiempo": "0:56:03",
-    "dif": "N/A",
-    "vel_prom": "5.4 Km/h",
-    "ritmo": "11:12 Min/km",
-    "pdf_page": 1617,
-    "dorsal": "5507",
-    "categoria_diploma": "5 K MASTER B",
-    "nombre_diploma": "DORIS SAAVEDRA  PINEDA",
-    "tiempo_diploma": "00:56:03",
-    "stats_diploma": "20. /20  /-1"
-  },
-  {
-    "puesto": 1,
-    "placa": "5528",
-    "nombre": "Meliton Mantilla pinto",
-    "categoria": "5 K MASTER B",
-    "ciudad": "N/A",
-    "tiempo": "0:20:24",
-    "dif": "N/A",
-    "vel_prom": "14.7 Km/h",
-    "ritmo": "4:04 Min/km",
-    "pdf_page": 1618,
-    "dorsal": "5528",
-    "categoria_diploma": "5 K MASTER B",
-    "nombre_diploma": "Meliton Mantilla pinto",
-    "tiempo_diploma": "00:20:24",
-    "stats_diploma": "1. /12  /-1"
-  },
-  {
-    "puesto": 2,
-    "placa": "5501",
-    "nombre": "Alexander Meneses Jácome",
-    "categoria": "5 K MASTER B",
-    "ciudad": "N/A",
-    "tiempo": "0:22:32",
-    "dif": "N/A",
-    "vel_prom": "13.3 Km/h",
-    "ritmo": "4:30 Min/km",
-    "pdf_page": 1619,
-    "dorsal": "5501",
-    "categoria_diploma": "5 K MASTER B",
-    "nombre_diploma": "Alexander Meneses Jácome",
-    "tiempo_diploma": "00:22:32",
-    "stats_diploma": "2. /12  /-1"
-  },
-  {
-    "puesto": 3,
-    "placa": "5537",
-    "nombre": "Wilson Solano Porras",
-    "categoria": "5 K MASTER B",
-    "ciudad": "N/A",
-    "tiempo": "0:24:42",
+    "tiempo": "0:24:49",
     "dif": "N/A",
     "vel_prom": "12.1 Km/h",
-    "ritmo": "4:56 Min/km",
-    "pdf_page": 1620,
-    "dorsal": "5537",
-    "categoria_diploma": "5 K MASTER B",
-    "nombre_diploma": "Wilson Solano Porras",
-    "tiempo_diploma": "00:24:42",
-    "stats_diploma": "3. /12  /-1"
-  },
-  {
-    "puesto": 4,
-    "placa": "5536",
-    "nombre": "Wilson Almeyda Remolina",
-    "categoria": "5 K MASTER B",
-    "ciudad": "N/A",
-    "tiempo": "0:24:43",
-    "dif": "N/A",
-    "vel_prom": "12.1 Km/h",
-    "ritmo": "4:56 Min/km",
-    "pdf_page": 1621,
-    "dorsal": "5536",
-    "categoria_diploma": "5 K MASTER B",
-    "nombre_diploma": "Wilson Almeyda Remolina",
-    "tiempo_diploma": "00:24:43",
-    "stats_diploma": "4. /12  /-1"
-  },
-  {
-    "puesto": 5,
-    "placa": "5509",
-    "nombre": "Edgar Waldino Mayorga Meléndez",
-    "categoria": "5 K MASTER B",
-    "ciudad": "N/A",
-    "tiempo": "0:25:27",
-    "dif": "N/A",
-    "vel_prom": "11.8 Km/h",
-    "ritmo": "5:05 Min/km",
-    "pdf_page": 1622,
-    "dorsal": "5509",
-    "categoria_diploma": "5 K MASTER B",
-    "nombre_diploma": "Edgar Waldino Mayorga Meléndez",
-    "tiempo_diploma": "00:25:27",
-    "stats_diploma": "5. /12  /-1"
-  },
-  {
-    "puesto": 6,
-    "placa": "5535",
-    "nombre": "Victor Manuel Portilla Villamizar",
-    "categoria": "5 K MASTER B",
-    "ciudad": "N/A",
-    "tiempo": "0:26:44",
-    "dif": "N/A",
-    "vel_prom": "11.2 Km/h",
-    "ritmo": "5:20 Min/km",
-    "pdf_page": 1623,
-    "dorsal": "5535",
-    "categoria_diploma": "5 K MASTER B",
-    "nombre_diploma": "Victor Manuel Portilla Villamizar",
-    "tiempo_diploma": "00:26:44",
-    "stats_diploma": "6. /12  /-1"
-  },
-  {
-    "puesto": 7,
-    "placa": "5524",
-    "nombre": "Luis Alberto Manzano Trillos",
-    "categoria": "5 K MASTER B",
-    "ciudad": "N/A",
-    "tiempo": "0:28:01",
-    "dif": "N/A",
-    "vel_prom": "10.7 Km/h",
-    "ritmo": "5:36 Min/km",
-    "pdf_page": 1624,
-    "dorsal": "5524",
-    "categoria_diploma": "5 K MASTER B",
-    "nombre_diploma": "Luis Alberto Manzano Trillos",
-    "tiempo_diploma": "00:28:01",
-    "stats_diploma": "7. /12  /-1"
-  },
-  {
-    "puesto": 8,
-    "placa": "5531",
-    "nombre": "Ricardo Gómez Toloza",
-    "categoria": "5 K MASTER B",
-    "ciudad": "N/A",
-    "tiempo": "0:28:17",
-    "dif": "N/A",
-    "vel_prom": "10.6 Km/h",
-    "ritmo": "5:39 Min/km",
-    "pdf_page": 1625,
-    "dorsal": "5531",
-    "categoria_diploma": "5 K MASTER B",
-    "nombre_diploma": "Ricardo Gómez Toloza",
-    "tiempo_diploma": "00:28:17",
-    "stats_diploma": "8. /12  /-1"
-  },
-  {
-    "puesto": 9,
-    "placa": "5508",
-    "nombre": "Edgar Calixto Rojas Roman",
-    "categoria": "5 K MASTER B",
-    "ciudad": "N/A",
-    "tiempo": "0:36:17",
-    "dif": "N/A",
-    "vel_prom": "8.3 Km/h",
-    "ritmo": "7:15 Min/km",
-    "pdf_page": 1626,
-    "dorsal": "5508",
-    "categoria_diploma": "5 K MASTER B",
-    "nombre_diploma": "Edgar Calixto Rojas Roman",
-    "tiempo_diploma": "00:36:17",
-    "stats_diploma": "9. /12  /-1"
-  },
-  {
-    "puesto": 10,
-    "placa": "5515",
-    "nombre": "German Botello",
-    "categoria": "5 K MASTER B",
-    "ciudad": "N/A",
-    "tiempo": "0:37:28",
-    "dif": "N/A",
-    "vel_prom": "8.0 Km/h",
-    "ritmo": "7:29 Min/km",
-    "pdf_page": 1627,
-    "dorsal": "5515",
-    "categoria_diploma": "5 K MASTER B",
-    "nombre_diploma": "German Botello",
-    "tiempo_diploma": "00:37:28",
-    "stats_diploma": "10. /12  /-1"
-  },
-  {
-    "puesto": 11,
-    "placa": "5517",
-    "nombre": "Hernan Yepes",
-    "categoria": "5 K MASTER B",
-    "ciudad": "N/A",
-    "tiempo": "0:38:45",
-    "dif": "N/A",
-    "vel_prom": "7.7 Km/h",
-    "ritmo": "7:45 Min/km",
-    "pdf_page": 1628,
-    "dorsal": "5517",
-    "categoria_diploma": "5 K MASTER B",
-    "nombre_diploma": "Hernan Yepes",
-    "tiempo_diploma": "00:38:45",
-    "stats_diploma": "11. /12  /-1"
-  },
-  {
-    "puesto": 12,
-    "placa": "5504",
-    "nombre": "Carlos Alberto Duarte Sanabria",
-    "categoria": "5 K MASTER B",
-    "ciudad": "N/A",
-    "tiempo": "0:41:17",
-    "dif": "N/A",
-    "vel_prom": "7.3 Km/h",
-    "ritmo": "8:15 Min/km",
-    "pdf_page": 1629,
-    "dorsal": "5504",
-    "categoria_diploma": "5 K MASTER B",
-    "nombre_diploma": "Carlos Alberto Duarte Sanabria",
-    "tiempo_diploma": "00:41:17",
-    "stats_diploma": "12. /12  /-1"
+    "ritmo": "4:57 Min/km",
+    "pdf_page": 1575,
+    "dorsal": "5452",
+    "categoria_diploma": "5 K MASTER A",
+    "nombre_diploma": "Natalia Areiza",
+    "tiempo_diploma": "00:24:49",
+    "stats_diploma": "/-1  /-1"
   }
 ];
